@@ -8,7 +8,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Mărănduc, Catalina; Perez, Cenel-Augusto; Bobicev, Victoria
+Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 Paragraphs to web: 1

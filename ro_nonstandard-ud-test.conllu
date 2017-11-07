@@ -1051,7 +1051,7 @@
 24	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT2.12
 
 # sent_id = test-45
-# text = 44	Iară deaca să întoarsără ei, iaca îngerul Domnului să arătă în somn lui Iosif, zicînd: Scoală şi ia coconul şi pre muma Lui şi fugi în Eghipet şi fii acolo pînă voiu zice ţie, că va să caute Irod pre cocon să-l piarză.
+# text = Iară deaca să întoarsără ei, iaca îngerul Domnului să arătă în somn lui Iosif, zicînd: Scoală şi ia coconul şi pre muma Lui şi fugi în Eghipet şi fii acolo pînă voiu zice ţie, că va să caute Irod pre cocon să-l piarză.
 # citation-part=MATT 2.13
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT2.13
 2	deaca	dacă	SCONJ	Cscsp	Polarity=Pos|WordForm=Compound	4	mark	_	ref=MATT2.13

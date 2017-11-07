@@ -21962,7 +21962,7 @@
 13	,	,	PUNCT	COMMA	_	17	punct	_	_
 14	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	curţile	curte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	_
-16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polite=Yes	15	nmod	_	_
+16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|Polite=Yes|PronType=Prs	15	nmod	_	_
 17	întrebînd	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
 

@@ -5291,9 +5291,8 @@
 4	piatră	piatră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT7.24.content|SpaceAfter=No
 5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT7.24.content
 
-# sent_id = test-237
+# sent_id = test-238
 # text = Casa spre năsip.
-# <sent_id = test-238
 # citation-part=MATT 7.26.content
 1	Casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT7.26.content
 2	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT7.26.content

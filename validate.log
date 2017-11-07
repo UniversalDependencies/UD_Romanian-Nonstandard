@@ -1,99 +1,81 @@
-[Line                   7]: Morphological features must be sorted: 'Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|'
-[Line                   7]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   21]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
-[Line                   21]: Unknown attribute-value pair Mood=Part
-[Line                   25]: Missing the sent_id attribute.
-[Line                   25]: Missing the text attribute.
-[Line                   42]: Missing the sent_id attribute.
-[Line                   42]: Missing the text attribute.
-[Line                   63]: Unknown UPOS tag: _
-[Line                   63]: Invalid UPOSTAG value _
-[Line                   65]: Missing the sent_id attribute.
-[Line                   65]: Missing the text attribute.
-[Line                   74]: Unknown attribute-value pair Compound=Yes
-[Line                   88]: Missing the sent_id attribute.
-[Line                   88]: Missing the text attribute.
-[Line                   106]: Missing the sent_id attribute.
-[Line                   106]: Missing the text attribute.
-[Line                   112]: Unknown attribute-value pair Compound=Yes
-[Line                   120]: Unknown attribute-value pair Compound=Yes
-[Line                   128]: Missing the sent_id attribute.
-[Line                   128]: Missing the text attribute.
-[Line                   143]: Unknown attribute-value pair Compound=Yes
-[Line                   147]: Unknown attribute-value pair Mood=Part
-[Line                   148]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|'
-[Line                   148]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   151]: Missing the sent_id attribute.
-[Line                   151]: Missing the text attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   169]: Missing the text attribute.
-[Line                   187]: Missing the sent_id attribute.
+[Line                   12]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'EVANGHELIE.'
+[Line                   25]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   25]: Unknown attribute-value pair Mood=Part
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'părinţilor.'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Hristos, fiiul lui D[...]'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'David, fiiul lui Avraam.'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Avraam.'
+[Line                   73]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Isaac, iară Isaac nă[...]'
+[Line                   73]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Iacov, iară Iacov nă[...]'
+[Line                   73]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'lui.'
+[Line                   84]: Unknown attribute-value pair Compound=Yes
+[Line                   98]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Tamar, iară Fares nă[...]'
+[Line                   98]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Aram.'
+[Line                   118]: The text attribute must not end with a whitespace
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Aminadav, iară Amina[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Nasson, Nasson născu[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Salmon. '
+[Line                   126]: Unknown attribute-value pair Compound=Yes
+[Line                   134]: Unknown attribute-value pair Compound=Yes
+[Line                   142]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Rahav, iară Vooz năs[...]'
+[Line                   142]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Ruta, Ovid născu pre[...]'
+[Line                   142]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Isei.'
+[Line                   159]: Unknown attribute-value pair Compound=Yes
+[Line                   163]: Unknown attribute-value pair Mood=Part
+[Line                   167]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'craiu, iară David cr[...]'
+[Line                   167]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Solomon, den muiarea[...]'
 ...suppressing further errors regarding Metadata
-[Line                   241]: Unknown attribute-value pair Compound=Yes
-[Line                   322]: Unknown attribute-value pair Compound=Yes
-[Line                   328]: Unknown attribute-value pair PronType=Refl
-[Line                   335]: The line has 11 columns, but 10 are expected.
-[Line                   335]: Empty value in column HEAD
-[Line                   335]: Invalid DEPREL value 5
-[Line                   335]: Failed for parse DEPS: discourse
-[Line                   335]: Unknown UD DEPREL: 5
-[Line                   335]: Malformed head:deprel pair 'discourse'
-[Line                   346]: Unknown UPOS tag: _
-[Line                   346]: Invalid UPOSTAG value _
-[Line                   347]: Unknown UPOS tag: _
+[Line                   169]: Spurious line: '@ citation-part=MATT 1.7'. All non-empty lines should start with a digit or the # character.
+[Line                   269]: Unknown attribute-value pair Compound=Yes
+[Line                   358]: Unknown attribute-value pair Compound=Yes
+[Line                   364]: Unknown attribute-value pair PronType=Refl
+[Line                   384]: Unknown UPOS tag: _
+[Line                   384]: Invalid UPOSTAG value _
+[Line                   385]: Unknown UPOS tag: _
+[Line                   385]: Invalid UPOSTAG value _
+[Line                   405]: Unknown attribute-value pair Compound=Yes
+[Line                   407]: Unknown attribute-value pair Compound=Yes
+[Line                   429]: Unknown attribute-value pair Mood=Ger
+[Line                   430]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   430]: Unknown attribute-value pair Mood=Part
 ...suppressing further errors regarding Morpho
-[Line                   349]: Undefined ID in HEAD: 
-[Line                   349]: Failed for parse DEPS: discourse
-[Line                   349]: Failed to parse DEPS: discourse
-[Tree number 19 on line 334]: Non-integer head for word ID 2
-[Tree number 19 on line 334]: Non-tree structure. Words 1,2 are not reachable from the root 0.
-[Line                   369]: Trailing whitespace not allowed in column FORM
-[Line                   369]: 'pînă ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   416]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   416]: White space not allowed in the XPOSTAG column: 'Pp3fso '
-[Line                   424]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   424]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
-[Line                   429]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   429]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
-[Line                   436]: The line has 11 columns, but 10 are expected.
-[Line                   436]: Empty value in column HEAD
-[Line                   436]: Invalid DEPREL value 11
-[Line                   436]: Failed for parse DEPS: cc
-[Line                   436]: Unknown UD DEPREL: 11
-[Line                   436]: Malformed head:deprel pair 'cc'
-[Line                   438]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   438]: White space not allowed in the XPOSTAG column: 'Pp3msr '
-[Line                   444]: Trailing whitespace not allowed in column XPOSTAG
-...suppressing further errors regarding Format
-[Line                   471]: Invalid DEPREL value 37
-[Line                   471]: Failed for parse DEPS: nsubj
-[Line                   471]: Unknown UD DEPREL: 37
-[Line                   471]: Malformed head:deprel pair 'nsubj'
-[Tree number 23 on line 436]: Non-tree structure. Words 1,36 are not reachable from the root 0.
-[Line                   518]: Invalid DEPREL value 9
-[Line                   518]: Failed for parse DEPS: obj
-[Line                   518]: Unknown UD DEPREL: 9
-[Line                   518]: Malformed head:deprel pair 'obj'
-[Tree number 25 on line 511]: Non-tree structure. Words 8 are not reachable from the root 0.
-...suppressing further errors regarding Syntax
-*** FAILED *** with 8162 errors
-Format errors: 2979
-Metadata errors: 1348
-Morpho errors: 2065
-Syntax errors: 1770
-The language-specific file /lnet/.nfs/spec/work/people/zeman/unidep/tools/data/tokens_w_space.ro_nonstandard does not exist.
+[Line                   2820]: Spurious line: '@ citation-part=MATT 5.3'. All non-empty lines should start with a digit or the # character.
+[Line                   5986]: Invalid DEPREL value ROOT
+[Line                   5986]: Unknown UD DEPREL: ROOT
+[Line                   6599]: Invalid DEPREL value ROOT
+[Line                   6599]: Unknown UD DEPREL: ROOT
+[Line                   12069]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   12916]: Spurious line: ' '. All non-empty lines should start with a digit or the # character.
+[Line                   12917]: Spurious comment line.
+[Line                   12918]: Spurious comment line.
+[Line                   12919]: Spurious comment line.
+[Tree number 606 on line 12897]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,1,2,3,4,5,6,7,8,9,10,11.
+[Line                   12931]: Loop from 9
+[Line                   12931]: Loop from 10
+[Line                   12931]: Loop from 11
+[Tree number 606 on line 12897]: Non-tree structure. Words 20,21,22,23,24,25,26,27,28,29,30 are not reachable from the root 0.
+[Line                   14255]: Empty value in column XPOSTAG
+[Line                   14502]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   16055]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   20220]: The line has 9 columns, but 10 are expected.
+[Line                   20220]: Invalid DEPREL value _
+[Line                   20220]: Unknown UD DEPREL: _
+[Line                   20241]: Undefined ID in HEAD: cop
+[Tree number 960 on line 20220]: Non-integer head for word ID 1
+[Tree number 960 on line 20220]: Non-tree structure. Words 1 are not reachable from the root 0.
+[Line                   20241]: Exception caught!
+*** FAILED *** with 5726 errors
+Format errors: 15
+Metadata errors: 3209
+Morpho errors: 2491
+Syntax errors: 11
+The language-specific file /net/work/people/zeman/unidep/tools/data/tokens_w_space.ro_nonstandard does not exist.
 Traceback (most recent call last):
-  File "../tools/validate.py", line 735, in &lt;module&gt;
+  File "/net/work/people/zeman/unidep/tools/validate.py", line 735, in &lt;module&gt;
     validate(inp,out,args,tagsets,known_sent_ids)
-  File "../tools/validate.py", line 613, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "../tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "../tools/validate.py", line 211, in validate_cols
-    validate_character_constraints(cols)
-  File "../tools/validate.py", line 382, in validate_character_constraints
-    if any(deprel for head, deprel in deps_list(cols)
-TypeError: 'NoneType' object is not iterable
+  File "/net/work/people/zeman/unidep/tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "/net/work/people/zeman/unidep/tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
 

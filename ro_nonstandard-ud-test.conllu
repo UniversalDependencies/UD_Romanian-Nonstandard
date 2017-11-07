@@ -1773,7 +1773,7 @@
 24	arde	arde	VERB	Vmn	VerbForm=Inf	2	conj	_	ref=MATT3.12
 25	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	ref=MATT3.12
 26	focul	foc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	obl	_	ref=MATT3.12
-27	nestins	stinge	VERB	Vmp--sm-z	Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin	26	amod	_	ref=MATT3.12|SpaceAfter=No
+27	nestins	stinge	VERB	Vmp--sm-z	Gender=Masc|Number=Sing|Polarity=Neg|VerbForm=Part	26	amod	_	ref=MATT3.12|SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT3.12
 
 # sent_id = test-74
@@ -14830,7 +14830,7 @@
 3	mînca	mânca	VERB	Vmn	VerbForm=Inf	8	csubj	_	ref=MATT15.20
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT15.20
 5	mînile	mână	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	ref=MATT15.20
-6	nespălate	spăla	VERB	Vmp--pf-z	Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin	5	amod	_	ref=MATT15.20
+6	nespălate	spăla	VERB	Vmp--pf-z	Gender=Fem|Number=Plur|Polarity=Neg|VerbForm=Part	5	amod	_	ref=MATT15.20
 7	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=MATT15.20
 8	spurcă	spurca	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT15.20
 9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT15.20
@@ -17622,7 +17622,7 @@
 25	noaozeci	nouăzeci	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	ref=MATT18.13
 26	şi	și	CCONJ	Ccssp	Polarity=Pos	25	compound	_	ref=MATT18.13
 27	noao	nouă	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	26	compound	_	ref=MATT18.13
-28	nerătăcite	rătăci	VERB	Vmp--pf-z	Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin	24	amod	_	ref=MATT18.13|SpaceAfter=No
+28	nerătăcite	rătăci	VERB	Vmp--pf-z	Gender=Fem|Number=Plur|Polarity=Neg|VerbForm=Part	24	amod	_	ref=MATT18.13|SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	11	punct	_	ref=MATT18.13
 
 # sent_id = test-848
@@ -21962,7 +21962,7 @@
 13	,	,	PUNCT	COMMA	_	17	punct	_	_
 14	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	curţile	curte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	_
-16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polit=Yes	15	nmod	_	_
+16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polite=Yes	15	nmod	_	_
 17	întrebînd	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
 

@@ -459,7 +459,7 @@
 4	bărbatul	bărbat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	appos	_	ref=MATT1.19
 5	Ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT1.19
 6	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT1.19
-7	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	cop	_	ref=MATT1.19
+7	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	cop	_	ref=MATT1.19
 8	derept	drept	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	16	advcl	_	ref=MATT1.19
 9	şi	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT1.19
 10	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT1.19
@@ -480,7 +480,7 @@
 # citation-part=MATT 1.20
 # text = Ce cugetînd el acestea, iată îngerul Domnului i să arătă lui în somn, grăind: ”Iosife, fiiul lui David, nu te teame a lua pre Maria muiarea ta, că ce e întru Ia a să naşte, den Duhul Sfînt iaste.
 1	Ce	ci	CCONJ	Ccssz	Polarity=Neg	11	cc	_	ref=MATT1.20
-2	cugetînd	cugeta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	advcl:tcl	_	ref=MATT1.20
+2	cugetînd	cugeta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl:tcl	_	ref=MATT1.20
 3	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT1.20
 4	acestea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	2	obj	_	ref=MATT1.20
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT1.20
@@ -494,7 +494,7 @@
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT1.20
 14	somn	somn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	advmod	_	ref=MATT1.20
 15	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT1.20
-16	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	advcl	_	ref=MATT1.20
+16	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT1.20
 17	:	:	PUNCT	COLON	_	27	punct	_	ref=MATT1.20
 18	”	”	PUNCT	DBLQ	_	27	punct	_	ref=MATT1.20
 19	Iosife	Iosif	PROPN	Npmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	27	vocative	_	ref=MATT1.20
@@ -570,7 +570,7 @@
 10	Domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT1.22
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT1.22
 12	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	ref=MATT1.22
-13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT1.22
+13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT1.22
 14	:	:	PUNCT	COLON	_	3	punct	_	ref=MATT1.22
 
 # sent_id = test-26
@@ -610,7 +610,7 @@
 # citation-part=MATT 1.24
 # text =Iară sculîndu- să Iosif den somn, făcu cumu îi porunci lui îngerul Domnului şi luo pre muiarea lui.
 1	Iară	iară	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	8	cc	_	ref=MATT1.24
-2	sculîndu-	scula	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT1.24
+2	sculîndu-	scula	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT1.24
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT1.24
 4	Iosif	Iosif	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT1.24
 5	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT1.24
@@ -734,7 +734,7 @@
 # sent_id = test-33
 # citation-part=MATT 2.2
 # text = Zicînd: Unde iaste cel craiu jidovesc carele au născut?
-1	Zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT2.2
+1	Zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT2.2
 2	:	:	PUNCT	COLON	_	4	punct	_	ref=MATT2.2
 3	Unde	unde	ADV	Rw	AdvPronType=Int,Rel	4	advmod	_	ref=MATT2.2
 4	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	ref=MATT2.2
@@ -769,7 +769,7 @@
 # citation-part=MATT 2.3
 # text = Iară auzind aceasta Irod craiu să turbură şi tot Erosalimul cu el.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT2.3
-2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT2.4
+2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT2.4
 3	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	_	ref=MATT2.5
 4	Irod	irod	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT2.6
 5	craiu	crai	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	flat	_	ref=MATT2.7
@@ -987,7 +987,7 @@
 # citation-part=MATT 2.11
 # text = Și întrînd în casă, aflară coconul şi pre Mariia, muma Lui și căzură de să închinară Lui şi deşchisără comoarăle sale, aduseră Lui darure: aur şi tămîie şi zmirnă.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT2.11
-2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT2.11
+2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT2.11
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT2.11
 4	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT2.11
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT2.11
@@ -1068,7 +1068,7 @@
 14	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	15	det	_	ref=MATT2.13
 15	Iosif	Iosif	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	iobj	_	ref=MATT2.13
 16	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT2.13
-17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	advcl	_	ref=MATT2.13
+17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT2.13
 18	:	:	PUNCT	COLON	_	19	punct	_	ref=MATT2.13
 19	Scoală	scula	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	17	parataxis	_	ref=MATT2.13
 20	şi	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT2.13
@@ -1152,7 +1152,7 @@
 21	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	ref=MATT2.15
 22	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	ref=MATT2.15
 23	,	,	PUNCT	COMMA	_	22	punct	_	ref=MATT2.15
-24	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	16	advcl	_	ref=MATT2.15
+24	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	16	advcl	_	ref=MATT2.15
 25	:	:	PUNCT	COLON	_	29	punct	_	ref=MATT2.15
 26	Den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	27	case	_	ref=MATT2.15
 27	Eghipet	Egipt	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	29	obl	_	ref=MATT2.15
@@ -1169,7 +1169,7 @@
 1	Atunci	atunci	ADV	Rg	_	14	advmod:tmod	_	ref=MATT2.16
 2	Irod	Irod	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT2.16
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT2.16
-4	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT2.16
+4	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT2.16
 5	că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	ref=MATT2.16
 6	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	aux:pass	_	ref=MATT2.16
 7	batgiocurit	batjocori	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	4	ccomp	_	ref=MATT2.16
@@ -1226,7 +1226,7 @@
 7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT2.17
 8	Eremia	Ieremia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	ref=MATT2.17
 9	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	appos	_	ref=MATT2.17
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT2.17
+10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT2.17
 11	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT2.17
 
 # sent_id = test-50
@@ -1284,7 +1284,7 @@
 14	Iosif	Iosif	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	iobj	_	ref=MATT2.19
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT2.19
 16	Eghipet	Egipt	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	ref=MATT2.19
-17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT2.19
+17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT2.19
 18	:	:	PUNCT	COLON	_	17	punct	_	ref=MATT2.19
 
 # sent_id = test-52
@@ -1342,7 +1342,7 @@
 # citation-part=MATT 2.22
 # text = Deci auzind că domneşte Arhelae în Iudea, în locul Irod, tătîne-său, să temu a mearge acolo şi luo ştire în somn şi să duse în partea Galileiului.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	17	cc	_	ref=MATT2.22
-2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	17	advcl	_	ref=MATT2.22
+2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	advcl	_	ref=MATT2.22
 3	că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	ref=MATT2.22
 4	domneşte	domni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	ref=MATT2.22
 5	Arhelae	Arhelae	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT2.22
@@ -1478,7 +1478,7 @@
 # citation-part=MATT 3.2
 # text = Și zicînd: Pocăiţi-vă, că să apropie Împărăţiia ceriurelor.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT3.2
-2	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT3.2
+2	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT3.2
 3	:	:	PUNCT	COLON	_	4	punct	_	ref=MATT3.2
 4	Pocăiţi-	pocăi	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	parataxis	_	ref=MATT3.2
 5	vă	voi	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	4	expl:pv	_	ref=MATT3.2
@@ -1503,7 +1503,7 @@
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT3.3
 9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT3.3
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT3.3
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT3.3
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT3.3
 12	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT3.3
 13	glasul	glas	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	ref=MATT3.3
 14	strigătoriulu	strigător	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	ref=MATT3.3
@@ -1578,7 +1578,7 @@
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT3.6
 8	Iordan	Iordan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	ref=MATT3.6
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT3.6
-10	ispoveduindu-	spovedi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT3.6
+10	ispoveduindu-	spovedi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT3.6
 11	și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Refl|Strength=Weak	10	expl:poss	_	ref=MATT3.6
 12	păcatele	păcat	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	obj	_	ref=MATT3.6
 13	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	12	nmod	_	ref=MATT3.6
@@ -1594,7 +1594,7 @@
 5	farisei	fariseu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	8	nsubj	_	ref=MATT3.7
 6	şi	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT3.7
 7	saducchei	saducheu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	conj	_	ref=MATT3.7
-8	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	ccomp	_	ref=MATT3.7
+8	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	ccomp	_	ref=MATT3.7
 9	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT3.7
 10	botegiunea	botegiune	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	advcl	_	ref=MATT3.7
 11	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	ref=MATT3.7
@@ -1804,7 +1804,7 @@
 4	conteniia	conteni	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT3.14
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT3.14
 6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	nmod:pmod	_	ref=MATT3.14
-7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT3.14
+7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT3.14
 8	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT3.14
 9	Eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj:pass	_	ref=MATT3.14
 10	trebuiesc	trebui	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	ref=MATT3.14
@@ -1881,12 +1881,12 @@
 21	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	ref=MATT3.16
 22	lui	-ul	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	23	det	_	ref=MATT3.16
 23	Dumnedzeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	ref=MATT3.16
-24	pogorînd	coborî	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	20	ccomp	_	ref=MATT3.16
+24	pogorînd	coborî	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	20	ccomp	_	ref=MATT3.16
 25	ca	ca	ADV	Rg	_	27	case	_	ref=MATT3.16
 26	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	27	det	_	ref=MATT3.16
 27	porumb	porumb	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	obl	_	ref=MATT3.16
 28	şi	și	CCONJ	Ccssp	Polarity=Pos	29	cc	_	ref=MATT3.16
-29	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	24	conj	_	ref=MATT3.16
+29	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	24	conj	_	ref=MATT3.16
 30	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	ref=MATT3.16
 31	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	29	obl	_	ref=MATT3.16
 32	.	.	PUNCT	PERIOD	_	16	punct	_	ref=MATT3.16
@@ -1900,7 +1900,7 @@
 4	fu	fi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT3.17
 5	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT3.17
 6	ceriu	cer	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	ref=MATT3.17
-7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	xcomp	_	ref=MATT3.17
+7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	xcomp	_	ref=MATT3.17
 8	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT3.17
 9	Acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	ref=MATT3.17
 10	ieste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	ref=MATT3.17
@@ -2019,7 +2019,7 @@
 # citation-part=MATT 4.3
 # text = Și apropiindu-să cătră El ispititoriul, zisă Lui: De eşti Fiiul lui Dumnedzeu, zi ceaste petri să fie pîini.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT4.3
-2	apropiindu-	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT4.3
+2	apropiindu-	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT4.3
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT4.3
 4	cătră	către	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT4.3
 5	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	obl	_	ref=MATT4.3
@@ -2328,7 +2328,7 @@
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT4.14
 9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT4.14
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT4.14
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT4.14
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT4.14
 12	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT4.14
 
 # sent_id = test-101
@@ -2416,7 +2416,7 @@
 # citation-part=MATT 4.18
 # text = Iară îmblînd Iisus lîngă marea Galileii, văzu doi fraţi, pre Simon, ce să zice Pătru, şi pre Andreiu, fratele lui, aruncînd mreajia în mare (că era păscari).
 1	Iară	iar	ADV	Rg	_	2	cc	_	ref=MATT4.18
-2	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT4.18
+2	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT4.18
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT4.18
 4	lîngă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT4.18
 5	marea	mare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	ref=MATT4.18
@@ -2441,7 +2441,7 @@
 24	fratele	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	22	appos	_	ref=MATT4.18
 25	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	ref=MATT4.18
 26	,	,	PUNCT	COMMA	_	24	punct	_	ref=MATT4.18
-27	aruncînd	arunca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	xcomp	_	ref=MATT4.18
+27	aruncînd	arunca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	xcomp	_	ref=MATT4.18
 28	mreajia	mreajă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	27	obj	_	ref=MATT4.18
 29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	ref=MATT4.18
 30	mare	mare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	obl	_	ref=MATT4.18
@@ -2490,7 +2490,7 @@
 # citation-part=MATT 4.21
 # text = Și mergînd de acolea, văzu alţi doi fraţi: pre Iacov a lui Zevedeiu şi pre Ioan, fratele lui, în corabie cu Zevedeiu, tatăl lor, cîrpind mrejile lor, şi chemă pre ei.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT4.21
-2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT4.21
+2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT4.21
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	ref=MATT4.21
 4	acolea	acolo	ADV	Rg	_	2	advmod	_	ref=MATT4.21
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT4.21
@@ -2519,7 +2519,7 @@
 28	tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	26	appos	_	ref=MATT4.21
 29	lor	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	_	ref=MATT4.21
 30	,	,	PUNCT	COMMA	_	28	punct	_	ref=MATT4.21
-31	cîrpind	cârpi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	xcomp	_	ref=MATT4.21
+31	cîrpind	cârpi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	xcomp	_	ref=MATT4.21
 32	mrejile	mreajă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	31	obj	_	ref=MATT4.21
 33	lor	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	ref=MATT4.21
 34	,	,	PUNCT	COMMA	_	31	punct	_	ref=MATT4.21
@@ -2557,7 +2557,7 @@
 5	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	6	det	_	ref=MATT4.23
 6	Galilea	Galileea	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT4.23
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT4.23
-8	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	acl	_	ref=MATT4.23
+8	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	acl	_	ref=MATT4.23
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT4.23
 10	sinagoga	sinagogă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	ref=MATT4.23
 11	(	(	PUNCT	LPAR	_	14	punct	_	ref=MATT4.23
@@ -2578,11 +2578,11 @@
 26	beseareca	biserică	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	25	obj	_	ref=MATT4.23
 27	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	10	nmod	_	ref=MATT4.23
 28	şi	și	CCONJ	Ccssp	Polarity=Pos	29	cc	_	ref=MATT4.23
-29	povestuind	povesti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	conj	_	ref=MATT4.23
+29	povestuind	povesti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	conj	_	ref=MATT4.23
 30	Evangheliia	evanghelie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	29	obj	_	ref=MATT4.23
 31	Împărăţiei	împărăție	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	30	nmod	_	ref=MATT4.23
 32	şi	și	CCONJ	Ccssp	Polarity=Pos	33	cc	_	ref=MATT4.23
-33	vindecînd	vindeca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	conj	_	ref=MATT4.23
+33	vindecînd	vindeca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	conj	_	ref=MATT4.23
 34	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	35	det	_	ref=MATT4.23
 35	boala	boală	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	33	obj	_	ref=MATT4.23
 36	şi	și	CCONJ	Ccssp	Polarity=Pos	37	cc	_	ref=MATT4.23
@@ -2813,7 +2813,7 @@
 6	învăţa	învăța	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	ref=MATT5.2
 7	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT5.2
 8	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nmod:pmod	_	ref=MATT5.2
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT5.2
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT5.2
 10	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT5.2
 
 # sent_id = test-128
@@ -2965,7 +2965,7 @@
 11	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	aux	_	ref=MATT5.11
 12	goni	goni	VERB	Vmn	Mood=Inf|VerbForm=Fin	6	conj	_	ref=MATT5.11
 13	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT5.11
-14	minţind	minți	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	16	advcl	_	ref=MATT5.11
+14	minţind	minți	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	16	advcl	_	ref=MATT5.11
 15	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	aux	_	ref=MATT5.11
 16	zice	zice	VERB	Vmn	Mood=Inf|VerbForm=Fin	6	conj	_	ref=MATT5.11
 17	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	18	det	_	ref=MATT5.11
@@ -3432,7 +3432,7 @@
 # citation-part=MATT 5.25
 # text = Fii tocmindu-te cu pîrîşul tău curînd, pînă eşti pre cale cu el, să nu cumva să te dea pîrîşul giudecătoriului şi giudeţul te va da slugii şi în temniţă te va arunca.
 1	Fii	fi	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT5.25
-2	tocmindu	tocmi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	1	xcomp	_	ref=MATT5.25
+2	tocmindu	tocmi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	1	xcomp	_	ref=MATT5.25
 3	-te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	2	expl:pv	_	ref=MATT5.25
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT5.25
 5	pîrîşul	pârâș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	ref=MATT5.25
@@ -3952,7 +3952,7 @@
 # sent_id = test-170
 # citation-part=MATT 5.43
 # text = Auzit ai că fu zis să iubeşti pre priiatinul tău şi să urăşti pre pizmaşul tău.
-1	Auzit	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT5.43
+1	Auzit	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT5.43
 2	ai	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	aux	_	ref=MATT5.43
 3	că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT5.43
 4	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	aux:pass	_	ref=MATT5.43
@@ -4293,7 +4293,7 @@
 # text = Iară tu făcînd milostenie, să nu ştie stînga ce face dereapta ta.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT6.3
 2	tu	tu	PRON	Pp2-sr	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=MATT6.3
-3	făcînd	face	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT6.3
+3	făcînd	face	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT6.3
 4	milostenie	milostenie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	ref=MATT6.3
 5	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT6.3
 6	să	să	PART	Qs	PartType=Sub	8	mark	_	ref=MATT6.3
@@ -4355,7 +4355,7 @@
 15	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT6.5
 16	unghiurile	unghi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	18	obj	_	ref=MATT6.5
 17	uliţelor	uliță	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	16	nmod	_	ref=MATT6.5
-18	stînd	sta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	13	conj	_	ref=MATT6.5
+18	stînd	sta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	13	conj	_	ref=MATT6.5
 19	să	să	PART	Qs	PartType=Sub	21	mark	_	ref=MATT6.5
 20	să	ssine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	21	expl:pv	_	ref=MATT6.5
 21	roage	ruga	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	ref=MATT6.5
@@ -4394,7 +4394,7 @@
 9	cămara	cămară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	ref=MATT6.6
 10	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Poss	9	det	_	ref=MATT6.6
 11	şi	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT6.6
-12	închizînd	închide	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	conj	_	ref=MATT6.6
+12	închizînd	închide	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	conj	_	ref=MATT6.6
 13	uşia	uşă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obj	_	ref=MATT6.6
 14	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Poss	13	det	_	ref=MATT6.6
 15	şi	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT6.6
@@ -4424,7 +4424,7 @@
 # citation-part=MATT 6.7
 # text = Dară rugîndu-te, nu grăireţi mult, ca păgînii, că le pare că întru multă cuvîntărea lor vor fi auziţi.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT6.7
-2	rugîndu	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT6.7
+2	rugîndu	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT6.7
 3	-te	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	2	expl:pv	_	ref=MATT6.7
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT6.7
 5	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT6.7
@@ -4662,7 +4662,7 @@
 25	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	26	expl:pv	_	ref=MATT6.16
 26	arate	arăta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	ref=MATT6.16
 27	oamenilor	om	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	26	iobj	_	ref=MATT6.16
-28	postindu	posti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	26	xcomp	_	ref=MATT6.16
+28	postindu	posti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	26	xcomp	_	ref=MATT6.16
 29	-se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	28	expl:pv	_	ref=MATT6.16
 30	.	.	PUNCT	PERIOD	_	12	punct	_	ref=MATT6.16
 
@@ -5141,7 +5141,7 @@
 3	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	4	expl:pv	_	ref=MATT6.31
 4	grijireţi	griji	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.31
 5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT6.31
-6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT6.31
+6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT6.31
 7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	obj	_	ref=MATT6.31
 8	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	aux	_	ref=MATT6.31
 9	mînca	mânca	VERB	Vmn	Mood=Inf|VerbForm=Fin	6	mark	_	ref=MATT6.31
@@ -5430,7 +5430,7 @@
 18	picioarele	picior	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	ref_MATT7.6
 19	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	18	nmod	_	ref_MATT7.6
 20	şi	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	ref_MATT7.6
-21	întorcîndu-	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	26	advcl	_	ref_MATT7.6
+21	întorcîndu-	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	26	advcl	_	ref_MATT7.6
 22	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	21	expl:pv	_	ref_MATT7.6
 23	,	,	PUNCT	COMMA	_	21	punct	_	ref_MATT7.6
 24	să	să	PART	Qs	PartType=Sub	26	mark	_	ref_MATT7.6
@@ -5535,7 +5535,7 @@
 # text = Deci, fiind voi răi, ştiţi da bune fiilor voştri, dară cu cît mai mult Tatăl vostru cel din ceriure va da bune celor ce cer de la El.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	7	cc	_	ref=MATT7.11
 2	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT7.11
-3	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	cop	_	ref=MATT7.11
+3	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	cop	_	ref=MATT7.11
 4	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	ref=MATT7.11
 5	răi	rău	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	advcl	_	ref=MATT7.11
 6	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT7.11
@@ -6075,7 +6075,7 @@
 # citation-part=MATT 8.19.content
 # text = Cărturariul vrînd să meargă după Hristos.
 1	Cărturariul	cărturar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT8.19.content
-2	vrînd	vrea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT8.19.content
+2	vrînd	vrea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT8.19.content
 3	să	să	PART	Qs	PartType=Sub	4	mark	_	ref=MATT8.19.content
 4	meargă	merge	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	ref=MATT8.19.content
 5	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT8.19.content
@@ -6112,7 +6112,7 @@
 # citation-part=MATT 8.1
 # text = Iară pogorindu să El den munte, mearsă după El mulţime multă.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT8.1
-2	pogorindu	pogori	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT8.1
+2	pogorindu	pogori	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT8.1
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT8.1
 4	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT8.1
 5	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT8.1
@@ -6132,12 +6132,12 @@
 2	iaca	iaca	INTJ	I	_	7	discourse	_	ref=MATT8.2
 3	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	ref=MATT8.2
 4	bubos	bubos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT8.2
-5	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT8.2
+5	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT8.2
 6	să	să	PART	Qs	PartType=Sub	7	expl:pv	_	ref=MATT8.2
 7	închină	închina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.2
 8	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	iobj	_	ref=MATT8.2
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT8.2
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT8.2
+10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT8.2
 11	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT8.2
 12	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	20	vocative	_	ref=MATT8.2
 13	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT8.2
@@ -6154,14 +6154,14 @@
 # citation-part=MATT 8.3
 # text = Și tinzînd Iisus mîna atinse pre el, zicînd: Voia mi-e, curăţeaşte-te.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT8.3
-2	tinzînd	întinde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT8.3
+2	tinzînd	întinde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT8.3
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT8.3
 4	mîna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	ref=MATT8.3
 5	atinse	atinge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.3
 6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT8.3
 7	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	5	nmod:pmod	_	ref=MATT8.3
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT8.3
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT8.3
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT8.3
 10	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT8.3
 11	Voia	voie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nsubj	_	ref=MATT8.3
 12	mi	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	13	iobj	_	ref=MATT8.3
@@ -6240,7 +6240,7 @@
 # citation-part=MATT 8.5
 # text = Iară întrînd Iisus în Capernaum, să apropie cătră El un sutaş, rugînd pre El şi grăind:
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT8.5
-2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT8.5
+2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT8.5
 3	Iisus	Iisus	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT8.5
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT8.5
 5	Capernaum	Capernaum	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	ref=MATT8.5
@@ -6252,11 +6252,11 @@
 11	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	ref=MATT8.5
 12	sutaş	sutaș	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT8.5
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT8.5
-14	rugînd	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT8.5
+14	rugînd	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT8.5
 15	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT8.5
 16	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	14	nmod:pmod	_	ref=MATT8.5
 17	şi	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT8.5
-18	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	conj	_	ref=MATT8.5
+18	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	conj	_	ref=MATT8.5
 19	:	:	PUNCT	COLON	_	18	punct	_	ref=MATT8.5
 
 # sent_id = test-285
@@ -6503,7 +6503,7 @@
 10	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT8.14
 11	soacra	soacră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nmod:pmod	_	ref=MATT8.14
 12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	ref=MATT8.14
-13	zăcînd	zăcea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	xcomp	_	ref=MATT8.14
+13	zăcînd	zăcea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	xcomp	_	ref=MATT8.14
 14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT8.14
 15	pat	pat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	ref=MATT8.14
 16	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT8.14
@@ -6571,7 +6571,7 @@
 8	pren	prin	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	case	_	ref=MATT8.17
 9	Isaia	isaia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	ref=MATT8.17
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT8.17
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	appos	_	ref=MATT8.17
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	appos	_	ref=MATT8.17
 12	:	:	PUNCT	COLON	_	14	punct	_	ref=MATT8.17
 13	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	ref=MATT8.17
 14	luo	lua	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	ref=MATT8.17
@@ -6586,7 +6586,7 @@
 # sent_id = test-297
 # citation-part=MATT 8.18
 # text = Văzînd Iisus mulţime multă pregiur Sine, porunci ucenicilor să treacă în ceaia parte.
-1	Văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT8.18
+1	Văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT8.18
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT8.18
 3	mulţime	mulțime	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	ref=MATT8.18
 4	multă	mult	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	3	det	_	ref=MATT8.18
@@ -6712,7 +6712,7 @@
 # citation-part=MATT 8.23
 # text = Și întrînd El în corabie, mearsără după El ucenicii lui.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT8.23
-2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT8.23
+2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT8.23
 3	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT8.23
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT8.23
 5	corabie	corabie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT8.23
@@ -6764,7 +6764,7 @@
 10	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT8.25
 11	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	9	nmod:pmod	_	ref=MATT8.25
 12	,	,	PUNCT	COMMA	_	13	punct	_	ref=MATT8.25
-13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT8.25
+13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT8.25
 14	:	:	PUNCT	COLON	_	17	punct	_	ref=MATT8.25
 15	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	17	vocative	_	ref=MATT8.25
 16	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT8.25
@@ -6818,7 +6818,7 @@
 2	oamenii	om	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	ref=MATT8.27
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	4	expl:pv	_	ref=MATT8.27
 4	mirară	mira	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.27
-5	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT8.27
+5	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT8.27
 6	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT8.27
 7	Cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT8.27
 8	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	ref=MATT8.27
@@ -6858,7 +6858,7 @@
 15	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	16	nummod	_	ref=MATT8.28
 16	îndrăciţi	îndrăcit	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	12	nsubj	_	ref=MATT8.28
 17	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT8.28
-18	eşind	ieşi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	16	acl	_	ref=MATT8.28
+18	eşind	ieşi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	16	acl	_	ref=MATT8.28
 19	dentru	dintru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	20	case	_	ref=MATT8.28
 20	mormente	mormânt	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	18	obl	_	ref=MATT8.28
 21	,	,	PUNCT	COMMA	_	23	punct	_	ref=MATT8.28
@@ -6881,7 +6881,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT8.29
 2	iată	iată	INTJ	I	_	3	discourse	_	ref=MATT8.29
 3	strigară	striga	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.29
-4	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	appos	_	ref=MATT8.29
+4	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	appos	_	ref=MATT8.29
 5	:	:	PUNCT	COLON	_	7	punct	_	ref=MATT8.29
 6	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	ref=MATT8.29
 7	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	ref=MATT8.29
@@ -6940,7 +6940,7 @@
 4	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT8.31
 5	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nmod:pmod	_	ref=MATT8.31
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT8.31
-7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	appos	_	ref=MATT8.31
+7	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	appos	_	ref=MATT8.31
 8	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT8.31
 9	De	de	SCONJ	Csssp	Polarity=Pos	12	mark	_	ref=MATT8.31
 10	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	12	obj	_	ref=MATT8.31
@@ -7037,12 +7037,12 @@
 8	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	9	det	_	ref=MATT8.34
 9	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	ref=MATT8.34
 10	şi	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT8.34
-11	văzîndu	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	16	advcl	_	ref=MATT8.34
+11	văzîndu	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	16	advcl	_	ref=MATT8.34
 12	l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	ref=MATT8.34
 13	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT8.34
 14	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	11	nmod:pmod	_	ref=MATT8.34
 15	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT8.34
-16	rugară	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	conj	_	ref=MATT8.34
+16	rugară	ruga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	conj	_	ref=MATT8.34
 17	l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	obj	_	ref=MATT8.34
 18	ca	ca	ADV	Rg	_	20	mark	_	ref=MATT8.34
 19	să	să	PART	Qs	PartType=Sub	18	fixed	_	ref=MATT8.34
@@ -7158,7 +7158,7 @@
 5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	ref=MATT9.2
 6	slăbănog	slăbănog	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	ref=MATT9.2
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT9.2
-8	zăcînd	zăcea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	acl	_	ref=MATT9.2
+8	zăcînd	zăcea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	acl	_	ref=MATT9.2
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT9.2
 10	pat	pat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	ref=MATT9.2
 11	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT9.2
@@ -7167,7 +7167,7 @@
 # citation-part=MATT 9.2
 # text = Și văzînd Iisus credinţa lor, zise slăbănogului: Creade, fiiul Miu, iartă-ți-se păcatele tale.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT9.2
-2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT9.2
+2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT9.2
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT9.2
 4	credinţa	credință	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	ref=MATT9.2
 5	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	4	nmod	_	ref=MATT9.2
@@ -7329,7 +7329,7 @@
 # citation-part=MATT 9.9
 # text = Și trecînd Iisus de acolea , văzu un om şezînd la o vamă , de -l chema Matteiu şi zise lui : Vino după Mine.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT9.9
-2	trecînd	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl:tcl	_	ref=MATT9.9
+2	trecînd	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl:tcl	_	ref=MATT9.9
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT9.9
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	mark	_	ref=MATT9.9
 5	acolea	acolo	ADV	Rg	_	2	advmod	_	ref=MATT9.9
@@ -7337,7 +7337,7 @@
 7	văzu	vedea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT9.9
 8	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	ref=MATT9.9
 9	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obj	_	ref=MATT9.9
-10	şezînd	ședea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	acl	_	ref=MATT9.9
+10	şezînd	ședea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	acl	_	ref=MATT9.9
 11	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	ref=MATT9.9
 12	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	13	det	_	ref=MATT9.9
 13	vamă	vamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	ref=MATT9.9
@@ -7403,7 +7403,7 @@
 # citation-part=MATT 9.11
 # text = Și văzînd farisei, zisără ucenicilor lui: Derept ce cu vameşii şi cu păcătoşii mănîncă Învăţătoriul vostru?
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT9.11
-2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT9.11
+2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT9.11
 3	farisei	fariseu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT9.11
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT9.11
 5	zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT9.11
@@ -7427,7 +7427,7 @@
 # text = Iară Iisus auzind, zise lor: Nu trebuie sănătoşilor vraci, ce bolnavilor.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT9.12
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT9.12
-3	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT9.12
+3	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT9.12
 4	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT9.12
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT9.12
 6	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	iobj	_	ref=MATT9.12
@@ -7489,7 +7489,7 @@
 6	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	ref=MATT9.14
 7	Ioan	Ioan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	ref=MATT9.14
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT9.14
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT9.14
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT9.14
 10	Derept	Drept	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT9.14
 11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	obl	_	ref=MATT9.14
 12	noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	ref=MATT9.14
@@ -7564,7 +7564,7 @@
 15	peatecul	petec	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT9.16
 16	nou	nou	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	ref=MATT9.16
 17	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT9.16
-18	trăgînd	trage	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT9.16
+18	trăgînd	trage	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT9.16
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	ref=MATT9.16
 20	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Refl|Strength=Strong	18	obl	_	ref=MATT9.16
 21	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	22	case	_	ref=MATT9.16
@@ -7622,7 +7622,7 @@
 # citation-part=MATT 9.18
 # text = Aceasta grăind El lor, iaca un boiariu veni de să închină lui, zicînd că: Fata mea acum muri.
 1	Aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	_	ref=MATT9.18
-2	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl:tcl	_	ref=MATT9.18
+2	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl:tcl	_	ref=MATT9.18
 3	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT9.18
 4	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT9.18
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT9.18
@@ -7635,7 +7635,7 @@
 12	închină	închina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	ref=MATT9.18
 13	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	iobj	_	ref=MATT9.18
 14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT9.18
-15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT9.18
+15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT9.18
 16	că	că	SCONJ	Csssp	Polarity=Pos	21	mark	_	ref=MATT9.18
 17	:	:	PUNCT	COLON	_	21	punct	_	ref=MATT9.18
 18	Fata	fată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	nsubj	_	ref=MATT9.18
@@ -7782,7 +7782,7 @@
 10	trîmbiţaşii	trâmbițaș	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	obj	_	ref=MATT9.23
 11	şi	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT9.23
 12	nărodul	norod	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	conj	_	ref=MATT9.23
-13	gîlcevind	gâlcevi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	xcomp	_	ref=MATT9.23
+13	gîlcevind	gâlcevi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	xcomp	_	ref=MATT9.23
 14	.	.	PUNCT	PERIOD	_	9	punct	_	ref=MATT9.23
 
 # sent_id = test-357
@@ -7853,7 +7853,7 @@
 # sent_id = test-360
 # citation-part=MATT 9.27
 # text = Trecînd de acolo Iisus, dup-însul mearseră doi orbi, strigînd şi grăind: Milostiveaşte te de noi, Fiiul lui David.
-1	Trecînd	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT9.27
+1	Trecînd	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT9.27
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	mark	_	ref=MATT9.27
 3	acolo	acolo	ADV	Rg	_	1	advmod	_	ref=MATT9.27
 4	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT9.27
@@ -7864,9 +7864,9 @@
 9	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	ref=MATT9.27
 10	orbi	orb	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	8	nsubj	_	ref=MATT9.27
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT9.27
-12	strigînd	striga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT9.27
+12	strigînd	striga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT9.27
 13	şi	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT9.27
-14	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	conj	_	ref=MATT9.27
+14	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	conj	_	ref=MATT9.27
 15	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT9.27
 16	Milostiveaşte	milostivi	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	14	parataxis	_	ref=MATT9.27
 17	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	16	expl:pv	_	ref=MATT9.27
@@ -7925,7 +7925,7 @@
 3	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	ref=MATT9.29
 4	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	3	nmod	_	ref=MATT9.29
 5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT9.29
-6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT9.29
+6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT9.29
 7	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT9.29
 8	După	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	9	case	_	ref=MATT9.29
 9	credinţa	credință	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	parataxis	_	ref=MATT9.29
@@ -7949,7 +7949,7 @@
 9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT9.30
 10	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	7	nmod:pmod	_	ref=MATT9.30
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT9.30
-12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT9.30
+12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT9.30
 13	:	:	PUNCT	COLON	_	14	punct	_	ref=MATT9.30
 14	Căutaţi	căuta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	12	parataxis	_	ref=MATT9.30
 15	cum	cum	ADV	Rw	AdvPronType=Int,Rel	19	advmod	_	ref=MATT9.30
@@ -8006,7 +8006,7 @@
 9	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	10	expl:pv	_	ref=MATT9.33
 10	mirară	mira	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT9.33
 11	mulţimea	mulțime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	ref=MATT9.33
-12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	advcl	_	ref=MATT9.33
+12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl	_	ref=MATT9.33
 13	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	ref=MATT9.33
 14	neciodată	niciodată	ADV	Rg	_	18	advmod:tmod	_	ref=MATT9.33
 15	nu	nu	ADV	Qz	Polarity=Neg	18	advmod	_	ref=MATT9.33
@@ -8046,16 +8046,16 @@
 7	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT9.35
 8	satele	sat	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	conj	_	ref=MATT9.35
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT9.35
-10	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT9.35
+10	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT9.35
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT9.35
 12	sinagoghile	sinagogă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	obl	_	ref=MATT9.35
 13	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	12	nmod	_	ref=MATT9.35
 14	şi	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	ref=MATT9.35
-15	povestind	povesti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	conj	_	ref=MATT9.35
+15	povestind	povesti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	conj	_	ref=MATT9.35
 16	Evangheliia	Evanghelie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	ref=MATT9.35
 17	Împărăţii	împărăție	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	ref=MATT9.35
 18	şi	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	ref=MATT9.35
-19	vindecînd	vindeca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	conj	_	ref=MATT9.35
+19	vindecînd	vindeca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	conj	_	ref=MATT9.35
 20	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	21	det	_	ref=MATT9.35
 21	fealiul	fel	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	ref=MATT9.35
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MATT9.35
@@ -8393,10 +8393,10 @@
 5	-i	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	ref=MATT10.5
 6	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT10.5
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT10.5
-8	poruncindu	porunci	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT10.5
+8	poruncindu	porunci	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT10.5
 9	-i	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	8	iobj	_	ref=MATT10.5
 10	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	8	expl	_	ref=MATT10.5
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	appos	_	ref=MATT10.5
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	appos	_	ref=MATT10.5
 12	:	:	PUNCT	COLON	_	18	punct	_	ref=MATT10.5
 13	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT10.5
 14	calea	cale	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	ref=MATT10.5
@@ -8433,10 +8433,10 @@
 # citation-part=MATT 10.7
 # text = Deci mergînd, vestuiţi zicînd că s-au apropiiat Împărăţiia ceriurelor.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	4	cc	_	ref=MATT10.7
-2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT10.7
+2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT10.7
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT10.7
 4	vestuiţi	vesti	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	ref=MATT10.7
-5	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	appos	_	ref=MATT10.7
+5	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	appos	_	ref=MATT10.7
 6	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	ref=MATT10.7
 7	s-	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	9	expl:pv	_	ref=MATT10.7
 8	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	aux	_	ref=MATT10.7
@@ -8548,13 +8548,13 @@
 # citation-part=MATT 10.12
 # text = Deci întrînd în casă, uraţi bine zicînd: Pace casii aceştiia.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	6	cc	_	ref=MATT10.12
-2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT10.12
+2	întrînd	întra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT10.12
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT10.12
 4	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	ref=MATT10.12
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT10.12
 6	uraţi	ura	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	ref=MATT10.12
 7	bine	bine	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	ref=MATT10.12
-8	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT10.12
+8	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT10.12
 9	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT10.12
 10	Pace	pace	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	parataxis	_	ref=MATT10.12
 11	casii	casă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	ref=MATT10.12
@@ -8611,7 +8611,7 @@
 12	cuvintele	cuvânt	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	11	obj	_	ref=MATT10.14
 13	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|PronType=Poss	12	det	_	ref=MATT10.14
 14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT10.14
-15	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	23	advcl:tcl	_	ref=MATT10.14
+15	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	23	advcl:tcl	_	ref=MATT10.14
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	17	case	_	ref=MATT10.14
 17	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	ref=MATT10.14
 18	au	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT10.14
@@ -8773,7 +8773,7 @@
 3	veţi	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	6	aux	_	ref=MATT10.20
 4	fi	fi	AUX	Van	Mood=Inf	6	aux	_	ref=MATT10.20
 5	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	ref=MATT10.20
-6	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT10.20
+6	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT10.20
 7	,	,	PUNCT	COMMA	_	13	punct	_	ref=MATT10.20
 8	ce	ci	CCONJ	Ccssz	Polarity=Neg	13	cc	_	ref=MATT10.20
 9	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	ref=MATT10.20
@@ -9459,7 +9459,7 @@
 3	deaca	dacă	SCONJ	Cscsp	Polarity=Pos|WordForm=Compound	4	mark	_	ref=MATT11.1
 4	săvîrşi	săvârși	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	ref=MATT11.1
 5	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT11.1
-6	porîncind	porunci	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	xcomp	_	ref=MATT11.1
+6	porîncind	porunci	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	xcomp	_	ref=MATT11.1
 7	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	6	iobj	_	ref=MATT11.1
 8	Săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Poss	7	det	_	ref=MATT11.1
 9	celor	cel	DET	Td-po	Case=Dat,Gen|Number=Plur|PronType=Dem	10	det	_	ref=MATT11.1
@@ -9484,7 +9484,7 @@
 # text = Iară Ioan auzind din prinsoare faptele lui Hristos, trimise doi den ucenicii lui.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT11.2
 2	Ioan	Ioan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	ref=MATT11.2
-3	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	advcl	_	ref=MATT11.2
+3	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl	_	ref=MATT11.2
 4	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	ref=MATT11.2
 5	prinsoare	prinsoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	ref=MATT11.2
 6	faptele	faptă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obj	_	ref=MATT11.2
@@ -9586,7 +9586,7 @@
 # citation-part=MATT 11.7
 # text = Iară ducîndu-se aceia, începu Iisus a grăi mulţimei de Ioan.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT11.7
-2	ducîndu	duce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT11.7
+2	ducîndu	duce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT11.7
 3	-se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT11.7
 4	aceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	2	nsubj	_	ref=MATT11.7
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT11.7
@@ -9898,10 +9898,10 @@
 3	Ioan	Ioan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT11.18
 4	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT11.18
 5	neci	nici	CCONJ	Cccsz	Polarity=Neg|WordForm=Compound	6	cc:preconj	_	ref=MATT11.18
-6	mîncînd	mânca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT11.18
+6	mîncînd	mânca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT11.18
 7	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT11.18
 8	neci	nici	CCONJ	Cccsz	Polarity=Neg|WordForm=Compound	9	cc	_	ref=MATT11.18
-9	bînd	bea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	conj	_	ref=MATT11.18
+9	bînd	bea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	conj	_	ref=MATT11.18
 10	şi	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT11.18
 11	zic	zice	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	ref=MATT11.18
 12	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	ref=MATT11.18
@@ -9916,9 +9916,9 @@
 2	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT11.19
 3	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=MATT11.19
 4	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT11.19
-5	mîncînd	mânca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	1	advcl	_	ref=MATT11.19
+5	mîncînd	mânca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	1	advcl	_	ref=MATT11.19
 6	şi	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT11.19
-7	bînd	bea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	conj	_	ref=MATT11.19
+7	bînd	bea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	conj	_	ref=MATT11.19
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT11.19
 9	zic	zice	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	ref=MATT11.19
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT11.19
@@ -10074,7 +10074,7 @@
 13	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT11.23
 14	fir-	fi	VERB	Vmn	Mood=Inf|VerbForm=Fin	16	aux	_	ref=MATT11.23
 15	ară	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	ref=MATT11.23
-16	trăind	trăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	ref=MATT11.23
+16	trăind	trăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT11.23
 17	pînă	până	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	ref=MATT11.23
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	fixed	_	ref=MATT11.23
 19	zuoa	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nmod:tmod	_	ref=MATT11.23
@@ -10392,7 +10392,7 @@
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT12.2
 2	fariseii	fariseu	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT12.2
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.2
-4	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT12.2
+4	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT12.2
 5	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.2
 6	zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT12.2
 7	Lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT12.2
@@ -10553,7 +10553,7 @@
 # citation-part=MATT 12.9
 # text = Și eşind de acolea, veni Iisus în sinagoga lor.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT12.9
-2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT12.9
+2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT12.9
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	ref=MATT12.9
 4	acolea	acolo	ADV	Rg	_	2	advmod	_	ref=MATT12.9
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT12.9
@@ -10573,7 +10573,7 @@
 4	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT12.10
 5	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT12.10
 6	acolea	acolo	ADV	Rg	_	5	advmod	_	ref=MATT12.10
-7	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT12.10
+7	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT12.10
 8	mîna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	obj	_	ref=MATT12.10
 9	uscată	uscat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=MATT12.10
 10	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT12.10
@@ -10581,7 +10581,7 @@
 12	întrebară	întreba	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	ref=MATT12.10
 13	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT12.10
 14	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	nmod:pmod	_	ref=MATT12.10
-15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT12.10
+15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT12.10
 16	:	:	PUNCT	COLON	_	18	punct	_	ref=MATT12.10
 17	Oare	oare	ADV	Rg	_	18	advmod	_	ref=MATT12.10
 18	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	parataxis	_	ref=MATT12.10
@@ -10764,7 +10764,7 @@
 9	Isaia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	ref=MATT12.17
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT12.17
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT12.17
-12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	appos	_	ref=MATT12.17
+12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	appos	_	ref=MATT12.17
 13	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT12.17
 
 # sent_id = test-511
@@ -10921,7 +10921,7 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT12.24
 2	fariseii	fariseu	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	ref=MATT12.24
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.24
-4	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT12.24
+4	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT12.24
 5	aceastea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	4	obj	_	ref=MATT12.24
 6	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.24
 7	zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT12.24
@@ -10946,7 +10946,7 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT12.25
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT12.25
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.25
-4	ştiind	ști	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT12.25
+4	ştiind	ști	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT12.25
 5	cugetele	cuget	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	obj	_	ref=MATT12.25
 6	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	5	nmod	_	ref=MATT12.25
 7	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.25
@@ -11230,7 +11230,7 @@
 6	bine	bine	ADV	Rg	_	5	advmod	_	ref=MATT12.34
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT12.34
 8	răi	rău	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	advcl	_	ref=MATT12.34
-9	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	cop	_	ref=MATT12.34
+9	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	cop	_	ref=MATT12.34
 10	?	?	PUNCT	QUEST	_	5	punct	_	ref=MATT12.34
 
 # sent_id = test-530
@@ -11331,7 +11331,7 @@
 6	şi	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT12.38
 7	farisei	fariseu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	conj	_	ref=MATT12.38
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT12.38
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT12.38
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT12.38
 10	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT12.38
 11	Învăţătoare	învățător	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	13	vocative	_	ref=MATT12.38
 12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT12.38
@@ -11510,7 +11510,7 @@
 11	locure	loc	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	9	obl	_	ref=MATT12.43
 12	seci	sec	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	ref=MATT12.43
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT12.43
-14	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT12.43
+14	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT12.43
 15	răpaos	repaus	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	ref=MATT12.43
 16	şi	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT12.43
 17	nu	nu	ADV	Qz	Polarity=Neg	18	advmod	_	ref=MATT12.43
@@ -11605,7 +11605,7 @@
 # text = Iară încă grăind El cătră mulţime, adecă muma lui şi fraţii lui sta afară, pohtind să grăiască lui.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT12.46
 2	încă	încă	ADV	Rg	_	3	advmod	_	ref=MATT12.46
-3	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT12.46
+3	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT12.46
 4	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=MATT12.46
 5	cătră	cătră	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT12.46
 6	mulţime	mulțime	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	ref=MATT12.46
@@ -11619,7 +11619,7 @@
 14	sta	sta	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT12.46
 15	afară	afară	ADV	Rg	_	14	advmod	_	ref=MATT12.46
 16	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT12.46
-17	pohtind	pofti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT12.46
+17	pohtind	pofti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT12.46
 18	să	să	PART	Qs	PartType=Sub	19	mark	_	ref=MATT12.46
 19	grăiască	grăi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	ref=MATT12.46
 20	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	19	iobj	_	ref=MATT12.46
@@ -11641,7 +11641,7 @@
 11	afară	afară	ADV	Rg	_	12	advmod	_	ref=MATT12.47
 12	stau	sta	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	ref=MATT12.47
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT12.47
-14	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT12.47
+14	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT12.47
 15	să	să	PART	Qs	PartType=Sub	16	mark	_	ref=MATT12.47
 16	grăiască	grăi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	ref=MATT12.47
 17	Ţie	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	16	iobj	_	ref=MATT12.47
@@ -11857,7 +11857,7 @@
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT13.3
 7	pildă	pildă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT13.3
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT13.3
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	appos	_	ref=MATT13.3
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	appos	_	ref=MATT13.3
 10	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT13.3
 11	Iaca	iaca	INTJ	I	_	12	discourse	_	ref=MATT13.3
 12	eşi	ieşi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	ref=MATT13.3
@@ -11870,7 +11870,7 @@
 # citation-part=MATT 13.4
 # text = Și sămănînd el, unele căzură lîngă cale şi veniră pasările şi le mîncară.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT13.4
-2	sămănînd	semăna	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT13.4
+2	sămănînd	semăna	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT13.4
 3	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT13.4
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT13.4
 5	unele	unul	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	nsubj	_	ref=MATT13.4
@@ -11916,7 +11916,7 @@
 # citation-part=MATT 13.6
 # text = Deci răsărind soarele, să veştejiră şi pentru ce nu avură rădăcină să uscară.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	6	cc	_	ref=MATT13.6
-2	răsărind	răsări	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl:tcl	_	ref=MATT13.6
+2	răsărind	răsări	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	ref=MATT13.6
 3	soarele	soare	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT13.6
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT13.6
 5	să	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Refl|Strength=Strong	6	expl:pv	_	ref=MATT13.6
@@ -11992,7 +11992,7 @@
 # citation-part=MATT 13.10
 # text = Atunci apropiindu-să cătră El ucenicii lui, zisără Lui că ce grăeşti lor în pilde?
 1	Atunci	atunci	ADV	Rg	_	9	advmod:tmod	_	ref=MATT13.10
-2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT13.10
+2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT13.10
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT13.10
 4	cătră	cătră	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT13.10
 5	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	obl	_	ref=MATT13.10
@@ -12082,12 +12082,12 @@
 6	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	iobj	_	ref=MATT13.13
 7	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT13.13
 8	ca	ca	ADV	Rg	_	12	mark	_	ref=MATT13.13
-9	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT13.13
+9	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT13.13
 10	nu	nu	ADV	Qz	Polarity=Neg	12	advmod	_	ref=MATT13.13
 11	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	aux	_	ref=MATT13.13
 12	vedea	vedea	VERB	Vmn	Mood=Inf|VerbForm=Fin	5	advcl	_	ref=MATT13.13
 13	şi	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT13.13
-14	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	17	nsubj	_	ref=MATT13.13
+14	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	nsubj	_	ref=MATT13.13
 15	nu	nu	ADV	Qz	Polarity=Neg	17	advmod	_	ref=MATT13.13
 16	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	aux	_	ref=MATT13.13
 17	auzi	auzi	VERB	Vmn	Mood=Inf|VerbForm=Fin	12	conj	_	ref=MATT13.13
@@ -12121,7 +12121,7 @@
 19	veţi	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	20	aux	_	ref=MATT13.14
 20	înţeleage	înţelege	VERB	Vmn	Mood=Inf|VerbForm=Fin	16	conj	_	ref=MATT13.14
 21	şi	și	CCONJ	Ccssp	Polarity=Pos	24	cc	_	ref=MATT13.14
-22	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	24	advcl	_	ref=MATT13.14
+22	căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	24	advcl	_	ref=MATT13.14
 23	veţi	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	24	aux	_	ref=MATT13.14
 24	căuta	căuta	VERB	Vmn	Mood=Inf|VerbForm=Fin	16	conj	_	ref=MATT13.14
 25	şi	și	CCONJ	Ccssp	Polarity=Pos	28	cc	_	ref=MATT13.14
@@ -12302,10 +12302,10 @@
 7	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT13.21
 8	ce	ci	CCONJ	Ccssz	Polarity=Neg	9	cc	_	ref=MATT13.21
 9	timpuriu	timpuriu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	ref=MATT13.21
-10	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	cop	_	ref=MATT13.21
+10	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	cop	_	ref=MATT13.21
 11	,	,	PUNCT	COMMA	_	24	punct	_	ref=MATT13.21
 12	iară	iar	CCONJ	Ccssp	Polarity=Pos	24	cc	_	ref=MATT13.21
-13	scornindu	scorni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	24	advcl	_	ref=MATT13.21
+13	scornindu	scorni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	24	advcl	_	ref=MATT13.21
 14	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	13	expl:pv	_	ref=MATT13.21
 15	să	sine	PART	Qs	PartType=Sub	16	mark	_	ref=MATT13.21
 16	fugă	fugă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	csubj	_	ref=MATT13.21
@@ -12394,7 +12394,7 @@
 4	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT13.24
 5	înainte	înainte	ADV	Rg	_	3	advmod	_	ref=MATT13.24
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT13.24
-7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT13.24
+7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT13.24
 8	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT13.24
 9	Asamănă	asemăna	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	ref=MATT13.24
 10	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	9	expl:pv	_	ref=MATT13.24
@@ -12530,7 +12530,7 @@
 7	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=MATT13.29
 8	cumva	cumva	ADV	Rg	_	4	advcl	_	ref=MATT13.29
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT13.29
-10	zmulgînd	smulge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT13.29
+10	zmulgînd	smulge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT13.29
 11	neghinile	neghină	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	obj	_	ref=MATT13.29
 12	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT13.29
 13	să	să	PART	Qs	PartType=Sub	14	mark	_	ref=MATT13.29
@@ -12592,7 +12592,7 @@
 4	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT13.31
 5	înainte	înainte	ADV	Rg	_	3	advmod:tmod	_	ref=MATT13.31
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT13.31
-7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	appos	_	ref=MATT13.31
+7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	appos	_	ref=MATT13.31
 8	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT13.31
 9	Asămănată	asemăna	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	7	parataxis	_	ref=MATT13.31
 10	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux:pass	_	ref=MATT13.31
@@ -12717,7 +12717,7 @@
 7	zis	zice	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	4	csubj	_	ref=MATT13.35
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	mark	_	ref=MATT13.35
 9	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	ref=MATT13.35
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	appos	_	ref=MATT13.35
+10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	appos	_	ref=MATT13.35
 11	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT13.35
 12	deşchide	deschide	VERB	Vmn	Mood=Inf|VerbForm=Fin	10	parataxis	_	ref=MATT13.35
 13	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	12	aux	_	ref=MATT13.35
@@ -12757,7 +12757,7 @@
 5	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl	_	ref=MATT13.36
 6	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	ref=MATT13.36
 7	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=MATT13.36
-8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT13.36
+8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT13.36
 9	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT13.36
 10	Spune	spune	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	8	parataxis	_	ref=MATT13.36
 11	noao	eu	PRON	Pp1-sd--------s	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Strong	10	iobj	_	ref=MATT13.36
@@ -13512,7 +13512,7 @@
 # citation-part=MATT 14.5
 # text = Și vrînd să ucigă pre el, să temea de dihanie, căce ca un proroc avea pre el.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT14.5
-2	vrînd	vrea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT14.5
+2	vrînd	vrea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT14.5
 3	să	să	PART	Qs	PartType=Sub	4	mark	_	ref=MATT14.5
 4	ucigă	ucide	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	ref=MATT14.5
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT14.5
@@ -13535,7 +13535,7 @@
 # sent_id = test-642
 # citation-part=MATT 14.6
 # text = Sosind zioa naşterii lui Irod, giucă fata Irodiadei înainte-le; şi plăcu lui Irod.
-1	Sosind	sosi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl:tcl	_	ref=MATT14.6
+1	Sosind	sosi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl:tcl	_	ref=MATT14.6
 2	zioa	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT14.6
 3	naşterii	naștere	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	ref=MATT14.6
 4	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	ref=MATT14.6
@@ -13666,7 +13666,7 @@
 # citation-part=MATT 14.12
 # text = Și apropiindu să ucenicii lui, luară trupul lui şi-l îngrupară, şi venind, spusără lui Iisus.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT14.12
-2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT14.12
+2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT14.12
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT14.12
 4	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT14.12
 5	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT14.12
@@ -13679,7 +13679,7 @@
 12	îngrupară	îngropa	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.12
 13	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT14.12
 14	şi	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT14.12
-15	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	17	advcl	_	ref=MATT14.12
+15	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	advcl	_	ref=MATT14.12
 16	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT14.12
 17	spusără	spune	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.12
 18	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	19	det	_	ref=MATT14.12
@@ -13725,7 +13725,7 @@
 # citation-part=MATT 14.14
 # text = Și eşind Iisus, văzu dihaniie multă şi I Să feace milă de ei şi vindecă bolnavii lor.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT14.14
-2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT14.14
+2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT14.14
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT14.14
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT14.14
 5	văzu	vedea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT14.14
@@ -13748,7 +13748,7 @@
 # citation-part=MATT 14.15
 # text = Iară fiind sara, să apropiiară cătră El ucenicii lui, grăind: Pustiiu iaste locul şi iată, vreamea treace.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT14.15
-2	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT14.15
+2	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT14.15
 3	sara	seară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT14.15
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT14.15
 5	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	6	expl:pv	_	ref=MATT14.15
@@ -13758,7 +13758,7 @@
 9	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT14.15
 10	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	ref=MATT14.15
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT14.15
-12	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT14.15
+12	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT14.15
 13	:	:	PUNCT	COLON	_	14	punct	_	ref=MATT14.15
 14	Pustiiu	pustiu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	parataxis	_	ref=MATT14.15
 15	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	ref=MATT14.15
@@ -13983,7 +13983,7 @@
 # citation-part=MATT 14.23
 # text = Deci fiind sară, era Însuşi acolo.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	5	cc	_	ref=MATT14.23
-2	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl:tcl	_	ref=MATT14.23
+2	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl:tcl	_	ref=MATT14.23
 3	sară	seară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT14.23
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT14.23
 5	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT14.23
@@ -14001,7 +14001,7 @@
 5	mijlocul	mijloc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	ref=MATT14.24
 6	mării	mare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	ref=MATT14.24
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT14.24
-8	învăluindu	învălui	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT14.24
+8	învăluindu	învălui	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT14.24
 9	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	8	expl:pv	_	ref=MATT14.24
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT14.24
 11	unde	undă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obl	_	ref=MATT14.24
@@ -14029,7 +14029,7 @@
 11	cătr-	cătră	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT14.25
 12	înșii	însul	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	ref=MATT14.25
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT14.25
-14	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT14.25
+14	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT14.25
 15	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT14.25
 16	mare	mare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	ref=MATT14.25
 17	.	.	PUNCT	PERIOD	_	9	punct	_	ref=MATT14.25
@@ -14038,19 +14038,19 @@
 # citation-part=MATT 14.26
 # text = Și văzînd pre El ucenicii, îmblînd pre mare, să spăreară, zicînd că iaste o nălucă, şi de frică, strigară.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT14.26
-2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT14.26
+2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT14.26
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT14.26
 4	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MATT14.26
 5	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT14.26
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT14.26
-7	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	xcomp	_	ref=MATT14.26
+7	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	xcomp	_	ref=MATT14.26
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT14.26
 9	mare	mare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	ref=MATT14.26
 10	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT14.26
 11	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	12	expl:pv	_	ref=MATT14.26
 12	spăreară	speria	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT14.26
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT14.26
-14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT14.26
+14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT14.26
 15	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	ref=MATT14.26
 16	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	ref=MATT14.26
 17	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	ref=MATT14.26
@@ -14072,7 +14072,7 @@
 4	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT14.27
 5	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT14.27
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT14.27
-7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	appos	_	ref=MATT14.27
+7	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	appos	_	ref=MATT14.27
 8	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT14.27
 9	Încreadeţi	încrede	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	7	parataxis	_	ref=MATT14.27
 10	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	9	expl:pv	_	ref=MATT14.27
@@ -14145,20 +14145,20 @@
 # citation-part=MATT 14.30
 # text = Dară văzînd vînt tare, să spămîntă şi începînd a să afunda, strigă zicînd: Doamne, ţine-mă.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT14.30
-2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT14.30
+2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT14.30
 3	vînt	vânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	ref=MATT14.30
 4	tare	tare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=MATT14.30
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT14.30
 6	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	7	expl:pv	_	ref=MATT14.30
 7	spămîntă	înspăimânta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT14.30
 8	şi	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT14.30
-9	începînd	începe	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT14.30
+9	începînd	începe	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT14.30
 10	a	a	PART	Qn	PartType=Inf	12	mark	_	ref=MATT14.30
 11	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	12	expl:pv	_	ref=MATT14.30
 12	afunda	afunda	VERB	Vmn	Mood=Inf|VerbForm=Fin	9	ccomp	_	ref=MATT14.30
 13	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT14.30
 14	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.30
-15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT14.30
+15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT14.30
 16	:	:	PUNCT	COLON	_	19	punct	_	ref=MATT14.30
 17	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	19	vocative	_	ref=MATT14.30
 18	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT14.30
@@ -14196,7 +14196,7 @@
 # citation-part=MATT 14.32
 # text = Și întrînd ei în corabie, încetă vîntul.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT14.32
-2	întrînd	intra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl:tcl	_	ref=MATT14.32
+2	întrînd	intra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl:tcl	_	ref=MATT14.32
 3	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MATT14.32
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT14.32
 5	corabie	corabie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT14.32
@@ -14221,7 +14221,7 @@
 11	închinară	închina	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	ref=MATT14.33
 12	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	11	iobj	_	ref=MATT14.33
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT14.33
-14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT14.33
+14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT14.33
 15	:	:	PUNCT	COLON	_	18	punct	_	ref=MATT14.33
 16	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	ref=MATT14.33
 17	adevăr	adevăr	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	obl	_	ref=MATT14.33
@@ -14387,7 +14387,7 @@
 8	şi	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT15.1
 9	farisei	fariseu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	7	conj	_	ref=MATT15.1
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT15.1
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT15.1
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT15.1
 12	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT15.1
 
 # sent_id = test-689
@@ -14423,7 +14423,7 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT15.3
 2	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	ref=MATT15.3
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT15.3
-4	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT15.3
+4	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT15.3
 5	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT15.3
 6	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.3
 7	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT15.3
@@ -14448,7 +14448,7 @@
 1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	ref=MATT15.4
 2	Dumnedzău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT15.4
 3	porunci	porunci	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.4
-4	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT15.4
+4	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT15.4
 5	:	:	PUNCT	COLON	_	6	punct	_	ref=MATT15.4
 6	Cinsteaşte	cinsti	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	4	parataxis	_	ref=MATT15.4
 7	tată	tată	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	ref=MATT15.4
@@ -14544,7 +14544,7 @@
 6	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	obl	_	ref=MATT15.7
 7	Isaia	Isaia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT15.7
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT15.7
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT15.7
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT15.7
 10	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT15.7
 
 # sent_id = test-696
@@ -14584,7 +14584,7 @@
 4	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	obj	_	ref=MATT15.9
 5	cinstesc	cinsti	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT15.9
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT15.9
-7	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT15.9
+7	învăţînd	învăța	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT15.9
 8	învăţăturile	învățătură	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	7	obj	_	ref=MATT15.9
 9	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj:pass	_	ref=MATT15.9
 10	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	aux:pass	_	ref=MATT15.9
@@ -14634,7 +14634,7 @@
 # citation-part=MATT 15.12
 # text = Atunce apropiindu să ucenicii lui, ziseră lui: Ştii că fariseii deaca auziră cuvîntul acesta să zmintiră.
 1	Atunce	atunci	ADV	Rg	_	7	advmod:tmod	_	ref=MATT15.12
-2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT15.12
+2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT15.12
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT15.12
 4	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT15.12
 5	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT15.12
@@ -14657,7 +14657,7 @@
 # citation-part=MATT 15.13
 # text = Dară răspunzînd zise: Toată răsădirea carea n-au sădit Tatăl Mieu din ceriu, zmulge-să-va.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT15.13
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT15.13
+2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT15.13
 3	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.13
 4	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT15.13
 5	Toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	6	det	_	ref=MATT15.13
@@ -14831,7 +14831,7 @@
 # citation-part=MATT 15.21
 # text = Și eşind Iisus de-acolea, Să duse în partea Tirului şi a Sidonului.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT15.21
-2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT15.21
+2	eşind	ieși	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT15.21
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT15.21
 4	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	mark	_	ref=MATT15.21
 5	acolea	acolo	ADV	Rg	_	2	advmod	_	ref=MATT15.21
@@ -14861,7 +14861,7 @@
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT15.22
 11	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	ref=MATT15.22
 12	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	11	iobj	_	ref=MATT15.22
-13	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	appos	_	ref=MATT15.22
+13	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	appos	_	ref=MATT15.22
 14	:	:	PUNCT	COLON	_	15	punct	_	ref=MATT15.22
 15	Fie	fi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	ref=MATT15.22
 16	-ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	ref=MATT15.22
@@ -14910,7 +14910,7 @@
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT15.23
 9	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	nmod:pmod	_	ref=MATT15.23
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT15.23
-11	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT15.23
+11	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT15.23
 12	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT15.23
 13	Slobozi	slobozi	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	11	parataxis	_	ref=MATT15.23
 14	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	13	obj	_	ref=MATT15.23
@@ -14926,7 +14926,7 @@
 # text = Iară El răspunzînd, zise: Nu sînt trimes ce numai cătră oile ceale perite a casei lui Izrail.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT15.24
 2	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	ref=MATT15.24
-3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT15.24
+3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT15.24
 4	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT15.24
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.24
 6	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT15.24
@@ -14955,7 +14955,7 @@
 5	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	6	expl:pv	_	ref=MATT15.25
 6	închină	închina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT15.25
 7	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT15.25
-8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT15.25
+8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT15.25
 9	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT15.25
 10	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	12	vocative	_	ref=MATT15.25
 11	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT15.25
@@ -15085,7 +15085,7 @@
 6	năroade	norod	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	_	ref=MATT15.30
 7	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	det	_	ref=MATT15.30
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT15.30
-9	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	acl	_	ref=MATT15.30
+9	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	acl	_	ref=MATT15.30
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT15.30
 11	dînşii	dânsul	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	ref=MATT15.30
 12	şchiopi	șchiop	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	9	obj	_	ref=MATT15.30
@@ -15124,18 +15124,18 @@
 3	mira	mira	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT15.31
 4	mulţimea	mulțime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	ref=MATT15.31
 5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT15.31
-6	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT15.31
+6	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT15.31
 7	muţii	mut	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	ref=MATT15.31
-8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	acl	_	ref=MATT15.31
+8	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	acl	_	ref=MATT15.31
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT15.31
 10	nevolnicii	nevolnic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	conj	_	ref=MATT15.31
 11	sănătoşi	sănătos	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	ref=MATT15.31
 12	,	,	PUNCT	COMMA	_	13	punct	_	ref=MATT15.31
 13	şchiopii	șchiop	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	conj	_	ref=MATT15.31
-14	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	13	acl	_	ref=MATT15.31
+14	îmblînd	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	13	acl	_	ref=MATT15.31
 15	şi	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT15.31
 16	orbii	orb	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	conj	_	ref=MATT15.31
-17	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	16	acl	_	ref=MATT15.31
+17	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	16	acl	_	ref=MATT15.31
 18	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT15.31
 
 # sent_id = test-723
@@ -15155,7 +15155,7 @@
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT15.32
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT15.32
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT15.32
-4	chemînd	chema	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT15.32
+4	chemînd	chema	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT15.32
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT15.32
 6	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	nmod:pmod	_	ref=MATT15.32
 7	Săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Poss	6	det	_	ref=MATT15.32
@@ -15275,14 +15275,14 @@
 # citation-part=MATT 15.36
 # text = Și luînd ceale şapte pîini şi peştii, dînd laudă, frîmse şi deade ucenicilor lui, iară ucenicii mulţimeei.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT15.36
-2	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	ref=MATT15.36
+2	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	ref=MATT15.36
 3	ceale	cel	DET	Tdfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	ref=MATT15.36
 4	şapte	șapte	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	ref=MATT15.36
 5	pîini	pâine	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	2	obj	_	ref=MATT15.36
 6	şi	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT15.36
 7	peştii	pește	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	conj	_	ref=MATT15.36
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT15.36
-9	dînd	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	conj	_	ref=MATT15.36
+9	dînd	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	conj	_	ref=MATT15.36
 10	laudă	laudă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	ref=MATT15.36
 11	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT15.36
 12	frîmse	frânge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.36
@@ -15439,12 +15439,12 @@
 # citation-part=MATT 16.1
 # text = Și apropiindu-să farisei şi saduchei ispitind, rugară pre El, seamne den ceriu să le arate lor.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT16.1
-2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT16.1
+2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT16.1
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT16.1
 4	farisei	fariseu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT16.1
 5	şi	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT16.1
 6	saduchei	saducheu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	conj	_	ref=MATT16.1
-7	ispitind	ispiti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT16.1
+7	ispitind	ispiti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT16.1
 8	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT16.1
 9	rugară	ruga	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT16.1
 10	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT16.1
@@ -15464,7 +15464,7 @@
 # text = El, răspunzînd, zise lor: Cîndu-i sara, grăiţi, semnu va fi, că să ruşiaşte ceriul.
 1	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	ref=MATT16.2
 2	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT16.2
-3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT16.2
+3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT16.2
 4	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT16.2
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT16.2
 6	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	iobj	_	ref=MATT16.2
@@ -15555,7 +15555,7 @@
 # citation-part=MATT 16.4
 # text = Și lăsînd pre ei, Să duse.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT16.4
-2	lăsînd	lăsa	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT16.4
+2	lăsînd	lăsa	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT16.4
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT16.4
 4	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MATT16.4
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT16.4
@@ -15609,7 +15609,7 @@
 3	cugetară	cugeta	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT16.7
 4	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT16.7
 5	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Refl|Strength=Strong	3	obl	_	ref=MATT16.7
-6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT16.7
+6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT16.7
 7	că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	ref=MATT16.7
 8	pîini	pâine	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	11	obj	_	ref=MATT16.7
 9	n-	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT16.7
@@ -15764,7 +15764,7 @@
 14	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	12	nmod:pmod	_	ref=MATT16.13
 15	Săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Poss	14	det	_	ref=MATT16.13
 16	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT16.13
-17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	appos	_	ref=MATT16.13
+17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	appos	_	ref=MATT16.13
 18	:	:	PUNCT	COLON	_	21	punct	_	ref=MATT16.13
 19	Cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	30	nsubj	_	ref=MATT16.13
 20	Mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	21	obj	_	ref=MATT16.13
@@ -15828,7 +15828,7 @@
 # citation-part=MATT 16.16
 # text = Iară răspunzînd Simon Pătru, zise: Tu eşti cel Hristos, Fiiul lui Dumnedzeu celui viu.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT16.16
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT16.16
+2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT16.16
 3	Simon	Simon	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT16.16
 4	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	flat	_	ref=MATT16.16
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT16.16
@@ -15850,7 +15850,7 @@
 # citation-part=MATT 16.17
 # text = Atunci răspunzînd Iisus, zise lui: Fericit eşti, Simone, fiiul Ionei, că trupul şi săngele nu arată ţie aceastea, ce Părintele Mieu, cela ce iaste în ceruri.
 1	Atunci	atunci	ADV	Rg	_	5	advmod:tmod	_	ref=MATT16.17
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT16.17
+2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT16.17
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT16.17
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT16.17
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT16.17
@@ -16024,7 +16024,7 @@
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT16.22
 12	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	nmod:pmod	_	ref=MATT16.22
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT16.22
-14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT16.22
+14	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT16.22
 15	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT16.22
 16	Fereaşte	feri	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	14	parataxis	_	ref=MATT16.22
 17	-te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	16	expl:pv	_	ref=MATT16.22
@@ -16230,7 +16230,7 @@
 22	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MATT16.28
 23	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	nmod:pmod	_	ref=MATT16.28
 24	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	ref=MATT16.28
-25	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	21	xcomp	_	ref=MATT16.28
+25	viind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	21	xcomp	_	ref=MATT16.28
 26	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	ref=MATT16.28
 27	Împărăţiia	împărăţie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	25	obl	_	ref=MATT16.28
 28	Sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Poss	27	det	_	ref=MATT16.28
@@ -16374,7 +16374,7 @@
 7	şi	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT17.3
 8	Ilie	Ilie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	conj	_	ref=MATT17.3
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT17.3
-10	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT17.3
+10	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT17.3
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT17.3
 12	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	obl	_	ref=MATT17.3
 13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT17.3
@@ -16382,7 +16382,7 @@
 # sent_id = test-789
 # citation-part=MATT 17.4
 # text = Răspunzînd, Pătru zise lui Iisus: Doamne, bine iaste noao acicea a fi.
-1	Răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT17.4
+1	Răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT17.4
 2	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT17.4
 3	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT17.4
 4	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.4
@@ -16429,7 +16429,7 @@
 # citation-part=MATT 17.5
 # text = Încă grăind El, iaca nuor luminat umbri pre ei şi adecă glas din nuor grăind: Acesta iaste Fiiul cela al Mieu cel iubit, întru carele Mă odihniiu, pre Acela ascultaţi.
 1	Încă	încă	ADV	Rg	_	2	advmod	_	ref=MATT17.5
-2	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT17.5
+2	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT17.5
 3	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT17.5
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT17.5
 5	iaca	iaca	INTJ	I	_	8	discourse	_	ref=MATT17.5
@@ -16443,7 +16443,7 @@
 13	glas	glas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	16	nsubj	_	ref=MATT17.5
 14	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	15	case	_	ref=MATT17.5
 15	nuor	nor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	ref=MATT17.5
-16	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	conj	_	ref=MATT17.5
+16	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	conj	_	ref=MATT17.5
 17	:	:	PUNCT	COLON	_	20	punct	_	ref=MATT17.5
 18	Acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	ref=MATT17.5
 19	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	ref=MATT17.5
@@ -16468,7 +16468,7 @@
 # citation-part=MATT 17.6
 # text = Și auzind ucenicii, căzură spre feaţele sale şi să temură foarte.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT17.6
-2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT17.6
+2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT17.6
 3	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT17.6
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT17.6
 5	căzură	cădea	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.6
@@ -16507,7 +16507,7 @@
 # citation-part=MATT 17.8
 # text = Iară rădicînd ochii lor, pre nime nu văzură, numai pre Iisus singur.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT17.8
-2	rădicînd	ridica	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl:tcl	_	ref=MATT17.8
+2	rădicînd	ridica	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl:tcl	_	ref=MATT17.8
 3	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	ref=MATT17.8
 4	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	3	nmod	_	ref=MATT17.8
 5	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT17.8
@@ -16526,7 +16526,7 @@
 # citation-part=MATT 17.9
 # text = Și pogorîndu-să ei den munte, porunci lor Iisus, zicînd: Nemărui să nu spuneţi ce-ați văzut, pînă nu va înviia Fiiul omenesc den morţi.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT17.9
-2	pogorîndu	coborî	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT17.9
+2	pogorîndu	coborî	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT17.9
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT17.9
 4	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MATT17.9
 5	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT17.9
@@ -16536,7 +16536,7 @@
 9	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	8	iobj	_	ref=MATT17.9
 10	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT17.9
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT17.9
-12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT17.9
+12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT17.9
 13	:	:	PUNCT	COLON	_	17	punct	_	ref=MATT17.9
 14	Nemărui	nimeni	PRON	Pz3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Neg	17	iobj	_	ref=MATT17.9
 15	să	să	PART	Qs	PartType=Sub	17	mark	_	ref=MATT17.9
@@ -16566,7 +16566,7 @@
 5	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT17.10
 6	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	ref=MATT17.10
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT17.10
-8	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	ref=MATT17.10
+8	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT17.10
 9	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT17.10
 10	Dară	dar	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT17.10
 11	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	ref=MATT17.10
@@ -16586,7 +16586,7 @@
 # text = Dară Iisus răspunzînd zise lor: Iată Ilie va veni mainte şi va tocmi toate.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT17.11
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT17.11
-3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT17.11
+3	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT17.11
 4	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.11
 5	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	iobj	_	ref=MATT17.11
 6	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT17.11
@@ -16655,7 +16655,7 @@
 # citation-part=MATT 17.14
 # text = Și mergînd ei cătră mulţime, să apropie cătră El un om, căzu în genunche înaintea Lui.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT17.14
-2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT17.14
+2	mergînd	merge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT17.14
 3	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MATT17.14
 4	cătră	către	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT17.14
 5	mulţime	mulțime	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT17.14
@@ -16679,7 +16679,7 @@
 # text = Și grăi zicînd: Doamne, fie-ți milă de fiiul mieu că e lunatec şi rău pate.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT17.15
 2	grăi	grăi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.15
-3	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	appos	_	ref=MATT17.15
+3	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	appos	_	ref=MATT17.15
 4	:	:	PUNCT	COLON	_	7	punct	_	ref=MATT17.15
 5	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	7	vocative	_	ref=MATT17.15
 6	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT17.15
@@ -16738,7 +16738,7 @@
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT17.17
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT17.17
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT17.17
-4	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	advcl	_	ref=MATT17.17
+4	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT17.17
 5	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT17.17
 6	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.17
 7	:	:	PUNCT	COLON	_	20	punct	_	ref=MATT17.17
@@ -16906,7 +16906,7 @@
 # citation-part=MATT 17.22
 # text = Iară întorcîndu-să ei în Galileiu, zise lor Iisus: Da să va Fiiul omenesc în mînile oamenilor.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT17.22
-2	întorcîndu	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT17.22
+2	întorcîndu	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT17.22
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	2	expl:pv	_	ref=MATT17.22
 4	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MATT17.22
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.22
@@ -16956,7 +16956,7 @@
 # citation-part=MATT 17.24
 # text = Dară venind ei în Capernaum, să apropiară cei ce lua dridrahmă cătră Pătru şi-i zisără: Învăţătoriul vostru n-are didrahmă.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT17.24
-2	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT17.24
+2	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT17.24
 3	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MATT17.24
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT17.24
 5	Capernaum	Capernaum	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	ref=MATT17.24
@@ -16997,7 +16997,7 @@
 12	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	nmod:pmod	_	ref=MATT17.25
 13	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	ref=MATT17.25
 14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT17.25
-15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	advcl	_	ref=MATT17.25
+15	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl	_	ref=MATT17.25
 16	:	:	PUNCT	COLON	_	20	punct	_	ref=MATT17.25
 17	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	nsubj	_	ref=MATT17.25
 18	ţi	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	20	iobj	_	ref=MATT17.25
@@ -17195,7 +17195,7 @@
 # text = Pilda craiului luînd samă de la slugile sale.
 1	Pilda	pildă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT18.25.content
 2	craiului	crai	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	ref=MATT18.25.content
-3	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	acl	_	ref=MATT18.25.content
+3	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	acl	_	ref=MATT18.25.content
 4	samă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	ref=MATT18.25.content
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT18.25.content
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	ref=MATT18.25.content
@@ -17215,7 +17215,7 @@
 7	cătră	către	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT18.1
 8	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT18.1
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT18.1
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT18.1
+10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT18.1
 11	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT18.1
 12	Oare	oare	ADV	Rg	_	16	advmod	_	ref=MATT18.1
 13	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT18.1
@@ -17430,7 +17430,7 @@
 16	sau	sau	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT18.8
 17	doao	doi	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	18	nummod	_	ref=MATT18.8
 18	picioare	picior	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	15	conj	_	ref=MATT18.8
-19	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	21	xcomp	_	ref=MATT18.8
+19	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	21	xcomp	_	ref=MATT18.8
 20	,	,	PUNCT	COMMA	_	19	punct	_	ref=MATT18.8
 21	aruncat	arunca	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	advcl	_	ref=MATT18.8
 22	în	în	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	23	case	_	ref=MATT18.8
@@ -17470,12 +17470,12 @@
 4	ţie	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT18.9
 5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	ref=MATT18.9
 6	ochiu	ochi	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obj	_	ref=MATT18.9
-7	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	csubj	_	ref=MATT18.9
+7	avînd	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	csubj	_	ref=MATT18.9
 8	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT18.9
 9	decât	decât	ADV	Rg	_	14	mark	_	ref=MATT18.9
 10	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	ref=MATT18.9
 11	ochi	ochi	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	12	obj	_	ref=MATT18.9
-12	având	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	14	advcl	_	ref=MATT18.9
+12	având	avea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	14	advcl	_	ref=MATT18.9
 13	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT18.9
 14	aruncat	arunca	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	advcl	_	ref=MATT18.9
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT18.9
@@ -17924,7 +17924,7 @@
 # text = Deci, începînd el a băga samă, adusără lui pre un deatornic, cu zeace mie de talanţi.
 1	Deci	deci	CCONJ	Cccsp	Polarity=Pos|WordForm=Compound	9	cc	_	ref=MATT18.24
 2	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT18.24
-3	începînd	începe	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl:tcl	_	ref=MATT18.24
+3	începînd	începe	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl:tcl	_	ref=MATT18.24
 4	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=MATT18.24
 5	a	a	PART	Qn	PartType=Inf	6	mark	_	ref=MATT18.24
 6	băga	băga	VERB	Vmn	Mood=Inf|VerbForm=Fin	3	ccomp	_	ref=MATT18.24
@@ -17983,14 +17983,14 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT18.26
 2	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT18.26
 3	aceaia	acela	DET	Dd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	_	ref=MATT18.26
-4	plecîndu	pleca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT18.26
+4	plecîndu	pleca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT18.26
 5	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	4	expl:pv	_	ref=MATT18.26
 6	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT18.26
 7	ruga	ruga	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT18.26
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT18.26
 9	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:pmod	_	ref=MATT18.26
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT18.26
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT18.26
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT18.26
 12	:	:	PUNCT	COLON	_	15	punct	_	ref=MATT18.26
 13	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	15	vocative	_	ref=MATT18.26
 14	,	,	PUNCT	COMMA	_	13	punct	_	ref=MATT18.26
@@ -18066,7 +18066,7 @@
 7	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT18.28
 8	sugruma	sugruma	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	ref=MATT18.28
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT18.28
-10	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT18.28
+10	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT18.28
 11	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT18.28
 12	Plăteaşte	plăti	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	10	parataxis	_	ref=MATT18.28
 13	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	12	iobj	_	ref=MATT18.28
@@ -18093,7 +18093,7 @@
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT18.29
 12	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	nmod:pmod	_	ref=MATT18.29
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT18.29
-14	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	advcl	_	ref=MATT18.29
+14	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl	_	ref=MATT18.29
 15	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT18.29
 16	Opreaşte	opri	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	14	parataxis	_	ref=MATT18.29
 17	-ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	16	iobj	_	ref=MATT18.29
@@ -18133,7 +18133,7 @@
 # citation-part=MATT 18.31
 # text = Iară văzînd soţii lui aceastea ce fură, foarte să întristară şi veniră de spusără domnului său toate carele fură.
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT18.31
-2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	advcl	_	ref=MATT18.31
+2	văzînd	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT18.31
 3	soţii	soț	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT18.31
 4	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=MATT18.31
 5	aceastea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	2	obj	_	ref=MATT18.31
@@ -18392,12 +18392,12 @@
 5	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl	_	ref=MATT19.3
 6	fariseii	fariseu	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	ref=MATT19.3
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT19.3
-8	ispitindu	ispiti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	ref=MATT19.3
+8	ispitindu	ispiti	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	ref=MATT19.3
 9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT19.3
 10	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT19.3
 11	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	8	nmod:pmod	_	ref=MATT19.3
 12	şi	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT19.3
-13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	conj	_	ref=MATT19.3
+13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	conj	_	ref=MATT19.3
 14	:	:	PUNCT	COLON	_	15	punct	_	ref=MATT19.3
 15	Cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	ref=MATT19.3
 16	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	15	expl:impers	_	ref=MATT19.3
@@ -18416,7 +18416,7 @@
 # citation-part=MATT 19.4
 # text = El răspunzînd, zisă lor: Au n-ați cetit că Făcătoriul au făcut dintîi bărbatu şi muiarea?
 1	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=MATT19.4
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT19.4
+2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT19.4
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT19.4
 4	zisă	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.4
 5	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	nmod	_	ref=MATT19.4
@@ -18751,7 +18751,7 @@
 # citation-part=MATT 19.15
 # text = Și puindu-și spre ei mînile şi Să duse de acolea.
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT19.15
-2	puindu	pune	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	ref=MATT19.15
+2	puindu	pune	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT19.15
 3	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Refl|Strength=Weak	2	iobj	_	ref=MATT19.15
 4	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT19.15
 5	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	obl	_	ref=MATT19.15
@@ -18770,7 +18770,7 @@
 2	iaca	iaca	INTJ	I	_	8	discourse	_	ref=MATT19.16
 3	varecine	oarecine	PRON	Pi3msr	Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	ref=MATT19.16
 4	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT19.16
-5	apropindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl	_	ref=MATT19.16
+5	apropindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MATT19.16
 6	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	5	expl:pv	_	ref=MATT19.16
 7	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT19.16
 8	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.16
@@ -18956,7 +18956,7 @@
 # citation-part=MATT 19.22
 # text = Dară auzind tinerul acel cuvînt, să duse întristat, că avea bunătate multă.
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT19.22
-2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	advcl:tcl	_	ref=MATT19.22
+2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl:tcl	_	ref=MATT19.22
 3	tinerul	tânăr	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT19.22
 4	acel	acela	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	ref=MATT19.22
 5	cuvînt	cuvânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	ref=MATT19.22
@@ -19049,7 +19049,7 @@
 # sent_id = test-914
 # citation-part=MATT 19.25
 # text = Auzind aceasta, ucenicii lui să mirară, zicînd: Dară cine să va putea spăsi?
-1	Auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT19.25
+1	Auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT19.25
 2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	obj	_	ref=MATT19.25
 3	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT19.25
 4	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	ref=MATT19.25
@@ -19057,7 +19057,7 @@
 6	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	7	expl:pv	_	ref=MATT19.25
 7	mirară	mira	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.25
 8	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT19.25
-9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	advcl	_	ref=MATT19.25
+9	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT19.25
 10	:	:	PUNCT	COLON	_	16	punct	_	ref=MATT19.25
 11	Dară	dar	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT19.25
 12	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT19.25
@@ -19070,7 +19070,7 @@
 # sent_id = test-915
 # citation-part=MATT 19.26
 # text = Căutînd Iisus, zise lor: de la oameni aceasta nu poate fi, iară de la Dumnezău, toate să pot.
-1	Căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	advcl	_	ref=MATT19.26
+1	Căutînd	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT19.26
 2	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT19.26
 3	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT19.26
 4	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.26
@@ -19098,7 +19098,7 @@
 # citation-part=MATT 19.26
 # text = Atuncea răspunzînd, Pătru zise Lui: Iaca noi am lăsat toate şi am venit după Tine; dară ce ne va fi noao?
 1	Atuncea	atuncei	ADV	Rg	_	2	advmod:tmod	_	ref=MATT19.26
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	advcl	_	ref=MATT19.26
+2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MATT19.26
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT19.26
 4	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT19.26
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.26
@@ -19515,7 +19515,7 @@
 3	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	frumoasă	frumos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 5	,	,	PUNCT	COMMA	_	6	punct	_	_
-6	Auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	12	advcl	_	_
+6	Auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	12	advcl	_	_
 7	larma	larmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	_
 8	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
@@ -20396,7 +20396,7 @@
 32	Vine	veni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
 33	seara	seara	ADV	Rg	_	32	advmod:tmod	_	_
 34	tot	tot	ADV	Rg	_	35	advmod	_	_
-35	gemând	geme	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	32	advcl	_	Rhyme=ID25,30|Type=Imperf
+35	gemând	geme	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	32	advcl	_	Rhyme=ID25,30|Type=Imperf
 36	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = test-968
@@ -21058,11 +21058,11 @@
 16	,	,	PUNCT	COMMA	_	19	punct	_	_
 17	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	câmp	câmp	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
-19	alergând	alerga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	xcomp	_	Rhyme=ID23|Type=Paired
+19	alergând	alerga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	xcomp	_	Rhyme=ID23|Type=Paired
 20	,	,	PUNCT	COMMA	_	23	punct	_	_
 21	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 22	toţi	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	23	obl	_	_
-23	întrebând	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	19	conj	_	Rhyme=ID19|Type=Paired
+23	întrebând	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	19	conj	_	Rhyme=ID19|Type=Paired
 24	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = test-995
@@ -21123,12 +21123,12 @@
 1	Cât	cât	ADV	Rw	AdvPronType=Int,Rel	3	advmod	_	_
 2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	_
 3	cheltuit	cheltui	VERB	Vmp	VerbForm=Part	15	advcl	_	_
-4	întrebându-	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	3	advcl	_	_
+4	întrebându-	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	advcl	_	_
 5	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	Rhyme=ID10|Type=Paired
 6	,	,	PUNCT	COMMA	_	9	punct	_	_
 7	Lucrurile	lucru	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	9	obj	_	_
 8	furate	fura	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	7	amod	_	_
-9	căutându-	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	4	conj	_	_
+9	căutându-	căuta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	conj	_	_
 10	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	9	obj	_	Rhyme=ID5|Type=Paired
 11	,	,	PUNCT	COMMA	_	3	punct	_	_
 12	Nimic	nimic	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	15	obj	_	_
@@ -21194,11 +21194,11 @@
 # text = Mergea Ghiţă şuierând Și cu murgu nechezând.
 1	Mergea	merge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	Ghiţă	Ghiță	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	şuierând	șuiera	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	acl	_	Rhyme=ID7|Type=Paired
+3	şuierând	șuiera	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	acl	_	Rhyme=ID7|Type=Paired
 4	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	_
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	4	fixed	_	_
 6	murgu	murg	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	conj	_	_
-7	nechezând	necheza	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	6	acl	_	Rhyme=ID3|Type=Paired
+7	nechezând	necheza	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	acl	_	Rhyme=ID3|Type=Paired
 8	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = test-1003
@@ -21951,7 +21951,7 @@
 14	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	curţile	curte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	_
 16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polit=Yes	15	nmod	_	_
-17	întrebînd	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	2	advcl	_	_
+17	întrebînd	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	_
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = test-1039
@@ -22051,7 +22051,7 @@
 9	duc	duce	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	drum	drum	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	_
-12	plângând	plânge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	advcl	_	Rhyme=ID6|Type=Paired
+12	plângând	plânge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	Rhyme=ID6|Type=Paired
 13	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = test-1044
@@ -22599,12 +22599,12 @@
 11	,	,	PUNCT	COMMA	_	14	punct	_	_
 12	Faţa	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	obj	_	_
 13	albă	alb	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
-14	zgâriind	zgâria	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	7	conj	_	Rhyme=ID10,19|Type=Mono
+14	zgâriind	zgâria	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	conj	_	Rhyme=ID10,19|Type=Mono
 15	,	,	PUNCT	COMMA	_	17	punct	_	_
 16	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	păr	păr	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	conj	_	_
 18	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
-19	decurând	decurge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	17	acl	_	Rhyme=ID10,14|Type=Mono
+19	decurând	decurge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	acl	_	Rhyme=ID10,14|Type=Mono
 20	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = test-1066
@@ -22821,12 +22821,12 @@
 8	Să	să	PART	Qs	PartType=Sub	9	mark	_	_
 9	văd	vedea	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 10	norii	nor	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	_
-11	fulgerând	fulgera	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	9	ccomp	_	Rhyme=ID16|Type=Paired
+11	fulgerând	fulgera	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	ccomp	_	Rhyme=ID16|Type=Paired
 12	,	,	PUNCT	COMMA	_	16	punct	_	_
 13	Ierbuliţa	ierbuliţă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	_
 14	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	şesuri	șes	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	16	obl	_	_
-16	dând	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	11	conj	_	Rhyme=ID11|Type=Paired
+16	dând	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	conj	_	Rhyme=ID11|Type=Paired
 17	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = test-1076
@@ -23512,7 +23512,7 @@
 # Rhyme=Yes
 # text = Tot trecând la mândra dealul, Mi s-a despotcovit calul.
 1	Tot	tot	ADV	Rg	_	2	advmod	_	_
-2	trecând	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	10	advcl:tcl	_	_
+2	trecând	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl:tcl	_	_
 3	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	mândra	mândră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
 5	dealul	deal	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	Rhyme=ID11|Type=Paired
@@ -25327,12 +25327,12 @@
 2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Rhyme=ID7|Type=Imperf
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
-5	Țâpând	țipa	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	Rhyme=ID7,10|Type=Intern
+5	Țâpând	țipa	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	Rhyme=ID7,10|Type=Intern
 6	,	,	PUNCT	COMMA	_	7	punct	_	_
-7	rânchezând	râncheza	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	conj	_	Rhyme=ID5,10|Type=Mono
+7	rânchezând	râncheza	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	conj	_	Rhyme=ID5,10|Type=Mono
 8	,	,	PUNCT	COMMA	_	10	punct	_	_
 9	Brazde	brazdă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	10	obj	_	_
-10	aruncând	arunca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	5	conj	_	Rhyme=ID5,7|Type=Mono
+10	aruncând	arunca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	conj	_	Rhyme=ID5,7|Type=Mono
 11	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id = test-1196
@@ -25418,10 +25418,10 @@
 5	Prin	prin	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	_
 6	curți	curte	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obl	_	_
 7	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Refl|Strength=Weak	6	nmod	_	_
-8	primblând	primbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	0	root	_	Rhyme=ID11|Type=Paired
+8	primblând	primbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	Rhyme=ID11|Type=Paired
 9	,	,	PUNCT	COMMA	_	11	punct	_	_
 10	Paloșu	paloș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
-11	ascuțând	ascuți	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger|VerbForm=Fin	8	conj	_	Rhyme=ID8|Type=Paired
+11	ascuțând	ascuți	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	conj	_	Rhyme=ID8|Type=Paired
 12	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
 # sent_id = test-1200

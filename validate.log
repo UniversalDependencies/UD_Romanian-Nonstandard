@@ -1,26 +1,26 @@
-[Line                   364]: Unknown attribute-value pair PronType=Refl
 [Line                   384]: Unknown UPOS tag: _
 [Line                   384]: Invalid UPOSTAG value _
 [Line                   385]: Unknown UPOS tag: _
 [Line                   385]: Invalid UPOSTAG value _
-[Line                   441]: Unknown attribute-value pair PronType=Refl
-[Line                   446]: Unknown attribute-value pair PronType=Refl
 [Line                   467]: Unknown UPOS tag: _
 [Line                   467]: Invalid UPOSTAG value _
-[Line                   472]: Unknown attribute-value pair PartType=Sub
-[Line                   491]: Unknown attribute-value pair PronType=Refl
-[Line                   510]: Unknown attribute-value pair Mood=Inf
-[Line                   514]: Unknown attribute-value pair PronType=Poss
-[Line                   522]: Unknown attribute-value pair PronType=Refl
-[Line                   523]: Unknown attribute-value pair Mood=Inf
-[Line                   535]: Unknown attribute-value pair Mood=Inf
-[Line                   541]: Unknown attribute-value pair Mood=Inf
-[Line                   549]: Unknown attribute-value pair Mood=Inf
-[Line                   552]: Unknown attribute-value pair PronType=Poss
-...suppressing further errors regarding Morpho
+[Line                   612]: Unknown attribute-value pair WordForm=Compound
+[Line                   623]: Unknown UPOS tag: _
+[Line                   623]: Invalid UPOSTAG value _
+[Line                   709]: Unknown attribute-value pair WordForm=Compound
+[Line                   764]: Unknown UPOS tag: _
+[Line                   764]: Invalid UPOSTAG value _
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
 [Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
+[Line                   920]: Unknown attribute-value pair WordForm=Compound
+[Line                   935]: Unknown UPOS tag: _
+[Line                   935]: Invalid UPOSTAG value _
+[Line                   975]: Unknown attribute-value pair WordForm=Compound
+[Line                   1041]: Unknown attribute-value pair WordForm=Compound
+[Line                   1057]: Unknown attribute-value pair WordForm=Compound
+[Line                   1273]: Unknown attribute-value pair WordForm=Compound
+...suppressing further errors regarding Morpho
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
 [Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
@@ -41,9 +41,9 @@
 [Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Tree number 1068 on line 22671]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24093]: Multiple root words: [4, 6]
-*** FAILED *** with 2592 errors
+*** FAILED *** with 852 errors
 Format errors: 1
 Metadata errors: 527
-Morpho errors: 2062
+Morpho errors: 322
 Syntax errors: 2
 The language-specific file /net/work/people/zeman/unidep/tools/data/tokens_w_space.ro_nonstandard does not exist.

@@ -1637,7 +1637,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT3.9
 2	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=MATT3.9|SpaceAfter=No
 3	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	ref=MATT3.9
-4	gîndireţi	gîndi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT3.9
+4	gîndireţi	gîndi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT3.9
 5	a	a	PART	Qn	PartType=Inf	6	mark	_	ref=MATT3.9
 6	grăi	grăi	VERB	Vmn	VerbForm=Inf	4	xcomp	_	ref=MATT3.9
 7	întru	întru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	8	case	_	ref=MATT3.9
@@ -3727,7 +3727,7 @@
 5	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT5.34
 6	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=MATT5.34
 7	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	8	expl:pv	_	ref=MATT5.34
-8	giurareţi	jura	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	3	parataxis	_	ref=MATT5.34
+8	giurareţi	jura	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	3	parataxis	_	ref=MATT5.34
 9	neci	nici	ADV	Rg	_	8	advmod	_	ref=MATT5.34
 10	decăt	decât	ADV	Rg	_	9	advmod	_	ref=MATT5.34|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT5.34
@@ -3860,7 +3860,7 @@
 4	voao	voi	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT5.39
 5	nu	nu	ADV	Qz	Polarity=Neg	7	advmod	_	ref=MATT5.39
 6	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	7	expl:pv	_	ref=MATT5.39
-7	protivireţi	potrivi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	3	parataxis	_	ref=MATT5.39
+7	protivireţi	potrivi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	3	parataxis	_	ref=MATT5.39
 8	răului	rău	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	iobj	_	ref=MATT5.39
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT5.39
 10	rău	rău	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	ref=MATT5.39|SpaceAfter=No
@@ -4433,7 +4433,7 @@
 3	-te	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	2	expl:pv	_	ref=MATT6.7|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT6.7
 5	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT6.7
-6	grăireţi	grăi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT6.7
+6	grăireţi	grăi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT6.7
 7	mult	mult	ADV	Rg	_	6	advmod	_	ref=MATT6.7|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT6.7
 9	ca	ca	ADV	Rg	_	10	case	_	ref=MATT6.7
@@ -4459,7 +4459,7 @@
 2	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT6.8
 3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	ref=MATT6.8
 4	vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT6.8
-5	închipuireţi	închipui	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT6.8
+5	închipuireţi	închipui	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT6.8
 6	lor	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	5	iobj	_	ref=MATT6.8|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT6.8
 8	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	ref=MATT6.8
@@ -4645,7 +4645,7 @@
 3	postiţi	posti	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	advcl:tcl	_	ref=MATT6.16|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT6.16
 5	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT6.16
-6	fireţi	fi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	12	cop	_	ref=MATT6.16|SpaceAfter=No
+6	fireţi	fi	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	12	cop	_	ref=MATT6.16|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT6.16
 8	ca	ca	ADV	Rg	_	10	case	_	ref=MATT6.16
 9	cei	cel	DET	Tdmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	ref=MATT6.16
@@ -4743,7 +4743,7 @@
 # text = Nu adunareţi voao comoară pre pămînt, unde moliile şi rugina o strică şi unde furii o sapă şi o fură.
 # citation-part=MATT 6.19
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	ref=MATT6.19
-2	adunareţi	aduna	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT6.19
+2	adunareţi	aduna	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT6.19
 3	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT6.19
 4	comoară	comoară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	ref=MATT6.19
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT6.19
@@ -4944,7 +4944,7 @@
 5	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT6.25
 6	Nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=MATT6.25
 7	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	8	expl:pv	_	ref=MATT6.25
-8	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	3	parataxis	_	ref=MATT6.25
+8	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	3	parataxis	_	ref=MATT6.25
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT6.25
 10	viiaţa	viaţă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	ref=MATT6.25
 11	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	ref=MATT6.25|SpaceAfter=No
@@ -5212,7 +5212,7 @@
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT6.34
 4	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT6.34
 5	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	expl:pv	_	ref=MATT6.34
-6	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT6.34
+6	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT6.34
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT6.34
 8	mîine	mâine	ADV	Rg	_	6	nmod:pmod	_	ref=MATT6.34|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT6.34
@@ -5303,7 +5303,7 @@
 # text = Nu giudecareţi ca să nu fiţi giudecaţi.
 # citation-part=MATT 7.1
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	ref=MATT7.1
-2	giudecareţi	giudeca	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT7.1
+2	giudecareţi	giudeca	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT7.1
 3	ca	ca	ADV	Rg	_	7	mark	_	ref=MATT7.1
 4	să	să	PART	Qs	PartType=Sub	3	fixed	_	ref=MATT7.1
 5	nu	nu	ADV	Qz	Polarity=Neg	7	advmod	_	ref=MATT7.1
@@ -5416,12 +5416,12 @@
 # text = Nu dareţi sfînta cînilor, nece vărsareţi mărgăritarele voastre înaintea porcilor să nu le calce cumva supt picioarele lor şi întorcîndu-să, să nu rumpă pre voi.
 # citation-part=MATT 7.6
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	ref_MATT7.6
-2	dareţi	da	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref_MATT7.6
+2	dareţi	da	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref_MATT7.6
 3	sfînta	sfântă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	ref_MATT7.6
 4	cînilor	câine	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	iobj	_	ref_MATT7.6|SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	7	punct	_	ref_MATT7.6
 6	nece	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	7	cc	_	ref_MATT7.6
-7	vărsareţi	vărsa	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	2	conj	_	ref_MATT7.6
+7	vărsareţi	vărsa	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	2	conj	_	ref_MATT7.6
 8	mărgăritarele	mărgăritar	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	7	obj	_	ref_MATT7.6
 9	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	8	det	_	ref_MATT7.6
 10	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	11	case	_	ref_MATT7.6
@@ -8416,7 +8416,7 @@
 21	oraşăle	oraş	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	ref=MATT10.5
 22	samarineanilor	samarinean	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	21	nmod	_	ref=MATT10.5
 23	nu	nu	ADV	Qz	Polarity=Neg	24	advmod	_	ref=MATT10.5
-24	întrareţi	intra	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	18	conj	_	ref=MATT10.5|SpaceAfter=No
+24	întrareţi	intra	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	18	conj	_	ref=MATT10.5|SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT10.5
 
 # sent_id = test-395
@@ -8486,7 +8486,7 @@
 # text = Nu strîngereţi aur, neci argint, neci bani în pungile voastre.
 # citation-part=MATT 10.9
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	ref=MATT10.9
-2	strîngereţi	strânge	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT10.9
+2	strîngereţi	strânge	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT10.9
 3	aur	aur	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	ref=MATT10.9|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT10.9
 5	neci	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	6	cc	_	ref=MATT10.9
@@ -8752,7 +8752,7 @@
 8	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT10.19
 9	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT10.19
 10	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	11	expl:pv	_	ref=MATT10.19
-11	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT10.19
+11	grijireţi	griji	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT10.19
 12	cum	cum	ADV	Rw	PronType=Int,Rel	16	advmod	_	ref=MATT10.19
 13	şi	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT10.19
 14	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	conj	_	ref=MATT10.19
@@ -8992,7 +8992,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT10.28
 2	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=MATT10.28
 3	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	4	expl:pv	_	ref=MATT10.28
-4	teamereţi	teme	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT10.28
+4	teamereţi	teme	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT10.28
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT10.28
 6	ceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nmod:pmod	_	ref=MATT10.28
 7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	ref=MATT10.28
@@ -9068,7 +9068,7 @@
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	mark	_	ref=MATT10.31
 3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	ref=MATT10.31
 4	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT10.31
-5	teamereţi	teme	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	0	root	_	ref=MATT10.31|SpaceAfter=No
+5	teamereţi	teme	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=MATT10.31|SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT10.31
 7	că	că	SCONJ	Csssp	Polarity=Pos	14	mark	_	ref=MATT10.31
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT10.31
@@ -18742,7 +18742,7 @@
 7	şi	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT19.14
 8	nu	nu	ADV	Qz	Polarity=Neg	10	advmod	_	ref=MATT19.14|SpaceAfter=No
 9	-i	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	10	obj	_	ref=MATT19.14
-10	oprireţi	opri	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|VerbForm=Long,Fin	5	conj	_	ref=MATT19.14
+10	oprireţi	opri	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	5	conj	_	ref=MATT19.14
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT19.14
 12	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	10	nmod:pmod	_	ref=MATT19.14
 13	a	a	PART	Qn	PartType=Inf	14	mark	_	ref=MATT19.14

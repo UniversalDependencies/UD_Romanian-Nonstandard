@@ -5983,7 +5983,7 @@
 9	vînture	vânt	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	nsubj	_	ref=MATT7.27
 10	şi	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT7.27
 11	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	12	expl:pv	_	ref=MATT7.27
-12	loviră	lovi	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	root	_	ref=MATT7.27
+12	loviră	lovi	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MATT7.27
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT7.27
 14	casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod:pmod	_	ref=MATT7.27
 15	aceaia	acela	DET	Dd3fsr---o	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	14	det	_	ref=MATT7.27
@@ -6596,7 +6596,7 @@
 8	porunci	porunci	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.18
 9	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	8	iobj	_	ref=MATT8.18
 10	să	să	PART	Qs	PartType=Sub	11	mark	_	ref=MATT8.18
-11	treacă	trece	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	8	root	_	ref=MATT8.18
+11	treacă	trece	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	ref=MATT8.18
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT8.18
 13	ceaia	acela	DET	Dd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	14	det	_	ref=MATT8.18
 14	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	ref=MATT8.18
@@ -12904,7 +12904,7 @@
 8	cuptoriul	cuptor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	ref=MATT13.42
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT13.42
 10	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	ref=MATT13.42
-11	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT13.42	12	acolo	acolo	ADV	Rg	_	14	advmod	_	ref=MATT13.42
+11	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT13.42
 12	acolo	acolo	ADV	Rg	_	14	advmod	_	ref=MATT13.42
 13	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	ref=MATT13.42
 14	fi	fi	VERB	Vmn	Mood=Inf|VerbForm=Fin	4	conj	_	ref=MATT13.42
@@ -25467,3 +25467,4 @@
 38	boieri	boier	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	35	conj	_	_
 39	mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	38	amod	_	Rhyme=ID35|Type=Paired
 40	.	.	PUNCT	PERIOD	_	4	punct	_	_
+

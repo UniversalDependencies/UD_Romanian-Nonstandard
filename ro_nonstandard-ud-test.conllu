@@ -12147,7 +12147,7 @@
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	ref=MATT13.15
 4	îngroşat	îngroșa	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT13.15
 5	inima	inimă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	ref=MATT13.15
-6	acestor	acesta	_	Dd3-po---e	_	7	det	_	ref=MATT13.15
+6	acestor	acesta	DET	Dd3-po---e	_	7	det	_	ref=MATT13.15
 7	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	nmod	_	ref=MATT13.15
 8	şi	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT13.15
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT13.15
@@ -20051,7 +20051,7 @@
 10	,	,	PUNCT	COMMA	_	9	punct	_	_
 11	ai	avea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	aux	_	_
 12	face	face	VERB	Vmn	VerbForm=Inf	0	root	_	SpaceAfter=No
-13	-o	un	_	Tifsr	_	14	det	_	_
+13	-o	un	DET	Tifsr	_	14	det	_	_
 14	ţară	țară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 15	!	!	PUNCT	EXCL	_	12	punct	_	_
 
@@ -21962,7 +21962,7 @@
 13	,	,	PUNCT	COMMA	_	17	punct	_	_
 14	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	curţile	curte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	_
-16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|Polite=Yes|PronType=Prs	15	nmod	_	_
+16	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|Polite=Form|PronType=Prs	15	nmod	_	_
 17	întrebînd	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -25090,14 +25090,14 @@
 8	mure	mură	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
 9	-s	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
-11	tăi	tău	_	Ds2mp-s	_	10	det	_	Rhyme=ID4,18|SpaceAfter=No|Type=Mono
+11	tăi	tău	DET	Ds2mp-s	_	10	det	_	Rhyme=ID4,18|SpaceAfter=No|Type=Mono
 12	,	,	PUNCT	COMMA	_	17	punct	_	_
 13	Sloi	sloi	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nsubj	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	ghiață	ghiață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	-s	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 17	dinții	dinte	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	10	conj	_	_
-18	tăi	tău	_	Ds2mp-s	_	17	det	_	Rhyme=ID4,11|SpaceAfter=No|Type=Mono
+18	tăi	tău	DET	Ds2mp-s	_	17	det	_	Rhyme=ID4,11|SpaceAfter=No|Type=Mono
 19	,	,	PUNCT	COMMA	_	24	punct	_	_
 20	Strug	strug	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	nsubj	_	_
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
@@ -25155,7 +25155,7 @@
 # text = Boala mea s-a vindicat, Că-i boală de măritat.
 # Rhyme=Yes
 1	Boala	boală	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-2	mea	meu	_	Ds1fsrs	_	1	det	_	_
+2	mea	meu	DET	Ds1fsrs	_	1	det	_	_
 3	s-	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	SpaceAfter=No
 4	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
 5	vindicat	vindeca	VERB	Vmp	VerbForm=Part	0	root	_	Rhyme=ID11|SpaceAfter=No|Type=Paired
@@ -25310,7 +25310,7 @@
 12	dat	da	VERB	Vmp	VerbForm=Part	0	root	_	Rhyme=ID3,7|SpaceAfter=No|Type=Mono
 13	:	:	PUNCT	COLON	_	14	punct	_	_
 14	Murgul	murg	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	xcomp	_	_
-15	pre	pre	_	Sp	_	16	case	_	_
+15	pre	pre	ADP	Sp	_	16	case	_	_
 16	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
 17	,	,	PUNCT	COMMA	_	18	punct	_	_
 18	Șoimul	șoim	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	conj	_	_

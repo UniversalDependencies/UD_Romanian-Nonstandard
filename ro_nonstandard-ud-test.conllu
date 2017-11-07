@@ -1057,7 +1057,7 @@
 2	deaca	dacă	SCONJ	Cscsp	Polarity=Pos|WordForm=Compound	4	mark	_	ref=MATT2.13
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Refl|Strength=Weak	4	expl:pv	_	ref=MATT2.13
 4	întoarsără	întoarce	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	ref=MATT2.13
-5	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	ref=MATT2.13
+5	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	ref=MATT2.13|SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT2.13
 7	iaca	iaca	INTJ	I	_	11	discourse	_	ref=MATT2.13
 8	îngerul	înger	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	ref=MATT2.13
@@ -1067,9 +1067,9 @@
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	ref=MATT2.13
 13	somn	somn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nmod:tmod	_	ref=MATT2.13
 14	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	15	det	_	ref=MATT2.13
-15	Iosif	Iosif	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	iobj	_	ref=MATT2.13
+15	Iosif	Iosif	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	iobj	_	ref=MATT2.13|SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT2.13
-17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT2.13
+17	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT2.13|SpaceAfter=No
 18	:	:	PUNCT	COLON	_	19	punct	_	ref=MATT2.13
 19	Scoală	scula	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	17	parataxis	_	ref=MATT2.13
 20	şi	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT2.13
@@ -1089,7 +1089,7 @@
 34	pînă	până	ADP	Spsa	AdpType=Prep|Case=Acc	36	mark	_	ref=MATT2.13
 35	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	36	aux	_	ref=MATT2.13
 36	zice	zice	VERB	Vmn	Mood=Inf|VerbForm=Fin	32	advcl:tcl	_	ref=MATT2.13
-37	ţie	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	36	iobj	_	ref=MATT2.13
+37	ţie	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	36	iobj	_	ref=MATT2.13|SpaceAfter=No
 38	,	,	PUNCT	COMMA	_	42	punct	_	ref=MATT2.13
 39	că	că	SCONJ	Csssp	Polarity=Pos	42	mark	_	ref=MATT2.13
 40	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	42	aux	_	ref=MATT2.13
@@ -1098,9 +1098,9 @@
 43	Irod	Irod	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	42	nsubj	_	ref=MATT2.13
 44	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	45	case	_	ref=MATT2.13
 45	cocon	cocon	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	42	nmod:pmod	_	ref=MATT2.13
-46	să	să	PART	Qs	PartType=Sub	48	mark	_	ref=MATT2.13
+46	să	să	PART	Qs	PartType=Sub	48	mark	_	ref=MATT2.13|SpaceAfter=No
 47	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	48	obj	_	ref=MATT2.13
-48	piarză	pierde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	ref=MATT2.13
+48	piarză	pierde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	ref=MATT2.13|SpaceAfter=No
 49	.	.	PUNCT	PERIOD	_	11	punct	_	ref=MATT2.13
 
 # sent_id = test-46

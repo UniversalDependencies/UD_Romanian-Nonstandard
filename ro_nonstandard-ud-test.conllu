@@ -862,7 +862,7 @@
 29	oamenii	om	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	28	obj	_	ref=MATT2.6
 30	miei	meu	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	ref=MATT2.6|SpaceAfter=No
 31	,	,	PUNCT	COMMA	_	32	punct	_	ref=MATT2.6
-32	israilteanii	israelitean	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	29	appos	_	ref=MATT2.6
+32	israilteanii	israelitean	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	29	appos	_	ref=MATT2.6|SpaceAfter=No
 33	.	.	PUNCT	PERIOD	_	14	punct	_	ref=MATT2.6
 
 # sent_id = test-39
@@ -1505,21 +1505,21 @@
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT3.3
 9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT3.3
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT3.3
-11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT3.3
+11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT3.3|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT3.3
 13	glasul	glas	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	ref=MATT3.3
 14	strigătoriulu	strigător	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	ref=MATT3.3
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT3.3
-16	pustie	pustiu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	ref=MATT3.3
+16	pustie	pustiu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	ref=MATT3.3|SpaceAfter=No
 17	:	:	PUNCT	COLON	_	18	punct	_	ref=MATT3.3
 18	gătiţi	găti	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	11	parataxis	_	ref=MATT3.3
 19	calea	cale	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	ref=MATT3.3
-20	Domului	dom	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	ref=MATT3.3
+20	Domului	dom	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	ref=MATT3.3|SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	23	punct	_	ref=MATT3.3
 22	dereapte	drept	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	23	xcomp	_	ref=MATT3.3
 23	faceţi	face	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	18	conj	_	ref=MATT3.3
 24	cărările	cărare	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	23	obj	_	ref=MATT3.3
-25	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	ref=MATT3.3
+25	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	ref=MATT3.3|SpaceAfter=No
 26	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT3.3
 
 # sent_id = test-65

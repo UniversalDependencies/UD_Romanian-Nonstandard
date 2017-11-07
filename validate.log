@@ -1,49 +1,27 @@
-[Line                   384]: Unknown UPOS tag: _
-[Line                   384]: Invalid UPOSTAG value _
-[Line                   385]: Unknown UPOS tag: _
-[Line                   385]: Invalid UPOSTAG value _
-[Line                   467]: Unknown UPOS tag: _
-[Line                   467]: Invalid UPOSTAG value _
-[Line                   612]: Unknown attribute-value pair WordForm=Compound
-[Line                   623]: Unknown UPOS tag: _
-[Line                   623]: Invalid UPOSTAG value _
-[Line                   709]: Unknown attribute-value pair WordForm=Compound
-[Line                   764]: Unknown UPOS tag: _
-[Line                   764]: Invalid UPOSTAG value _
-[Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
-[Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
-[Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
-[Line                   920]: Unknown attribute-value pair WordForm=Compound
-[Line                   935]: Unknown UPOS tag: _
-[Line                   935]: Invalid UPOSTAG value _
-[Line                   975]: Unknown attribute-value pair WordForm=Compound
-[Line                   1041]: Unknown attribute-value pair WordForm=Compound
-[Line                   1057]: Unknown attribute-value pair WordForm=Compound
-[Line                   1273]: Unknown attribute-value pair WordForm=Compound
-...suppressing further errors regarding Morpho
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
 [Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'i' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '-i de carea e zis pre ...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'carea' but text is '-i de carea e zis pre Isa...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'e' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'zis' but text is '-i de carea e zis pre I...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'pre' but text is '-i de carea e zis pre I...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'Isaiia' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'prorocul' but text is '-i de carea e zis pre Isaiia...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'zicînd' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is ':' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'glasul' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'strigătoriulu' but text is '-i de carea e zis pre Isaiia pror...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'în' but text is '-i de carea e zis pre ...'
+[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
+[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fericiți....'
+[Line                   2678]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fericiți.'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'Tăiarea' but text is 'Tăierea mâinei....'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'mîinei' but text is 'Tăierea mâinei....'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Tăierea mâinei....'
+[Line                   2755]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Tăierea mâinei.'
+[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is 'pizmaşilor' but text is 'pizmașilor....'
+[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pizmașilor....'
+[Line                   2778]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pizmașilor.'
+[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
+[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Săvârșirea....'
+[Line                   2784]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Săvârșirea.'
+[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is 'fraţilor' but text is 'fraților....'
+[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fraților....'
+[Line                   4160]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fraților.'
 ...suppressing further errors regarding Metadata
-[Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 1068 on line 22671]: Multiple root words: [2, 12]
-[Tree number 1137 on line 24093]: Multiple root words: [4, 6]
-*** FAILED *** with 852 errors
-Format errors: 1
-Metadata errors: 527
-Morpho errors: 322
-Syntax errors: 2
-The language-specific file /net/work/people/zeman/unidep/tools/data/tokens_w_space.ro_nonstandard does not exist.
+[Line                   7623]: Unknown attribute-value pair NumType=Col
+[Line                   12560]: Unknown attribute-value pair NumType=Col
+[Line                   14707]: Unknown attribute-value pair NumType=Col
+[Line                   18478]: Unknown attribute-value pair NumType=Col
+*** FAILED *** with 503 errors
+Metadata errors: 499
+Morpho errors: 4

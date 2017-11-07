@@ -1,5 +1,5 @@
 # ro_nonstandard-ud-test_First_release
-# newdoc id = New Testament 1648-1-916 
+# newdoc id = New Testament 1648-1-916
 # sent_id = test-1
 # citation-part=MATT.title
 # text = DE LA MATTEIU SFÎNTA EVANGHELIE.
@@ -98,7 +98,7 @@
 
 # sent_id = test-6
 # citation-part=MATT 1.4
-# text = Aram născu pre Aminadav, iară Aminadav născu pre Nasson, Nasson născu pre Salmon. 
+# text = Aram născu pre Aminadav, iară Aminadav născu pre Nasson, Nasson născu pre Salmon.
 1	Aram	Aram	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT1.4
 2	născu	naște	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT1.4
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT1.4
@@ -1165,7 +1165,7 @@
 
 # sent_id = test-48
 # citation-part=MATT 2.16
-# text = Atunci Irod, văzînd că fu batgiocurit de maghi (gîcitori) să mînie foarte şi trimise de pierdu pre toţi coconii carii era în Vitleaem şi den toate hotarele lui, de doi ai şi mai mici, den ce vreame carea întrebase de maghi. 
+# text = Atunci Irod, văzînd că fu batgiocurit de maghi (gîcitori) să mînie foarte şi trimise de pierdu pre toţi coconii carii era în Vitleaem şi den toate hotarele lui, de doi ai şi mai mici, den ce vreame carea întrebase de maghi.
 1	Atunci	atunci	ADV	Rg	_	14	advmod:tmod	_	ref=MATT2.16
 2	Irod	Irod	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT2.16
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT2.16
@@ -2913,7 +2913,7 @@
 
 # sent_id = test-134
 # citation-part=MATT 5.9
-# text = Ferice de împăcătorii, că aceia fii lui Dumnedzeu să vor chema. 
+# text = Ferice de împăcătorii, că aceia fii lui Dumnedzeu să vor chema.
 1	Ferice	ferice	ADV	Rg	_	0	root	_	ref=MATT5.9
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT5.9
 3	împăcătorii	împăcător	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	nmod:pmod	_	ref=MATT5.9
@@ -3102,7 +3102,7 @@
 
 # sent_id = test-143
 # citation-part=MATT 5.16
-# text = Aşia să lumineaze lumina voastră înaintea oamenilor, ca să vază faptele voastre ceale bune şi să proslăvească pre Tatăl vostru cela ce iaste în ceriure. 
+# text = Aşia să lumineaze lumina voastră înaintea oamenilor, ca să vază faptele voastre ceale bune şi să proslăvească pre Tatăl vostru cela ce iaste în ceriure.
 1	Aşia	așa	ADV	Rg	_	3	advmod	_	ref=MATT5.16
 2	să	să	PART	Qs	PartType=Sub	3	mark	_	ref=MATT5.16
 3	lumineaze	lumina	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT5.16
@@ -4176,7 +4176,7 @@
 
 # sent_id = test-184
 # citation-part=MATT 6.24.content
-# text = Dumnedzău și bogățiia. 
+# text = Dumnedzău și bogățiia.
 1	Dumnedzău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT6.24.content
 2	şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT6.24.content
 3	bogăţiia	bogăţie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	conj	_	ref=MATT6.24.content
@@ -5286,7 +5286,7 @@
 4	piatră	piatră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	ref=MATT7.24.content
 5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT7.24.content
 
-# <sent_id = test-238 
+# <sent_id = test-238
 # citation-part=MATT 7.26.content
 # text = Casa spre năsip.
 1	Casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT7.26.content
@@ -12905,6 +12905,7 @@
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT13.42
 10	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	ref=MATT13.42
 11	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT13.42	12	acolo	acolo	ADV	Rg	_	14	advmod	_	ref=MATT13.42
+12	acolo	acolo	ADV	Rg	_	14	advmod	_	ref=MATT13.42
 13	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	ref=MATT13.42
 14	fi	fi	VERB	Vmn	Mood=Inf|VerbForm=Fin	4	conj	_	ref=MATT13.42
 15	plîns	plâns	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT13.42
@@ -12912,7 +12913,7 @@
 17	scrîşnirea	scrâșnire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	conj	_	ref=MATT13.42
 18	dinţilor	dinte	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	ref=MATT13.42
 19	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT13.42
- 
+
 # sent_id = test-607
 # citation-part=MATT 13.43
 # text = Atunci derepţii vor străluci ca soarele întru Împărăţiia Părintelui Său.
@@ -22120,7 +22121,7 @@
 11	!	!	PUNCT	EXCL	_	7	punct	_	_
 
 # sent_id = test-1047
-# Rhyme=Yes 
+# Rhyme=Yes
 # text = Să trăeşti, fine, cu bine, Să n-ajungi ziua de mâine!
 1	Să	să	PART	Qs	PartType=Sub	2	mark	_	_
 2	trăeşti	trăeşti	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -24282,7 +24283,7 @@
 16	negustorie	negustorie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	Rhyme=ID13|Type=Paired
 17	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# newdoc id = Folk_R.Mold-1147-1200	54 sentences 
+# newdoc id = Folk_R.Mold-1147-1200	54 sentences
 # sent_id = test-1147
 # Rhyme=Yes
 # text = Foae verde de curechi, Gheorghieș, fecior de grec, Vineri mă-sa l-a făcut Și înspre sâmbătă a crescut, Duminică l-a însurat, Luni la oaste l-a luat, La grea slujbă a picat, Că așa era la împărat - Nouă ani și nouă luni Și vreo două saptămâni.

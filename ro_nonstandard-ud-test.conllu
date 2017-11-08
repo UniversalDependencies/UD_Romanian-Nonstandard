@@ -22350,7 +22350,7 @@
 30	“	“	PUNCT	DBLQ	_	19	punct	_	_
 
 # sent_id = test-1055
-# text = Turcii mult nu așteptau, Ci îndată răspundeanu: „Noi de masă-ți mulțumim, Că n-am venit să prânzim“.
+# text = Turcii mult nu așteptau, Ci îndată răspundeau: „Noi de masă-ți mulțumim, Că n-am venit să prânzim“.
 # Rhyme=Yes
 1	Turcii	turc	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
 2	mult	mult	ADV	Rg	_	4	advmod	_	_

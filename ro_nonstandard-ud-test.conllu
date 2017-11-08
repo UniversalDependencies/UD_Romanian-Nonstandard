@@ -2750,7 +2750,7 @@
 # text = Tăiarea mâinei.
 # citation-part=MATT 5.30.content
 1	Tăiarea	tăiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT5.30.conten
-2	mâinei	mână	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	ref=MATT5.30.conten
+2	mâinei	mână	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	ref=MATT5.30.conten|SpaceAfter=No
 3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT5.30.conten
 
 # sent_id = test-122
@@ -13675,7 +13675,7 @@
 # text = Și apropiindu-să ucenicii lui, luară trupul lui și-l îngrupară, și venind, spusără lui Iisus.
 # citation-part=MATT 14.12
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT14.12
-2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT14.12
+2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT14.12|SpaceAfter=No
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	ref=MATT14.12
 4	ucenicii	ucenic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	ref=MATT14.12
 5	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT14.12|SpaceAfter=No
@@ -13685,14 +13685,14 @@
 9	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	ref=MATT14.12
 10	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT14.12|SpaceAfter=No
 11	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	12	obj	_	ref=MATT14.12
-12	îngrupară	îngropa	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.12
+12	îngrupară	îngropa	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.12|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT14.12
 14	și	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT14.12
-15	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	advcl	_	ref=MATT14.12
+15	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	17	advcl	_	ref=MATT14.12|SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT14.12
 17	spusără	spune	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	ref=MATT14.12
 18	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	19	det	_	ref=MATT14.12
-19	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	iobj	_	ref=MATT14.12
+19	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	iobj	_	ref=MATT14.12|SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT14.12
 
 # sent_id = test-649
@@ -22333,20 +22333,20 @@
 13	Unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	_
 14	rămâne	rămâne	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 15	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	_
-16	plânge	plânge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Rhyme=ID11|Type=Imperf
+16	plânge	plânge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Rhyme=ID11|SpaceAfter=No|Type=Imperf
 17	:	:	PUNCT	COLON	_	16	punct	_	_
-18	„	”	PUNCT	DBLQ	_	19	punct	_	_
-19	Așteaptă	aștepta	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	16	parataxis	_	_
-20	-mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	19	obj	_	_
+18	„	”	PUNCT	DBLQ	_	19	punct	_	SpaceAfter=No
+19	Așteaptă	aștepta	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	16	parataxis	_	SpaceAfter=No
+20	-mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	19	obj	_	SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	22	punct	_	_
-22	frățioare	frățior	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	19	vocative	_	Rhyme=ID28|Type=Paired
+22	frățioare	frățior	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	19	vocative	_	Rhyme=ID28|SpaceAfter=No|Type=Paired
 23	,	,	PUNCT	COMMA	_	22	punct	_	_
-24	Să	să	PART	Qs	PartType=Sub	27	mark	_	_
+24	Să	să	PART	Qs	PartType=Sub	27	mark	_	SpaceAfter=No
 25	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	27	iobj	_	_
 26	mai	mai	ADV	Rg	_	27	advmod	_	_
 27	crească	crește	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
-28	aripioare	aripioară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	27	nsubj	_	Rhyme=ID22|Type=Paired
-29	!	!	PUNCT	EXCL	_	19	punct	_	_
+28	aripioare	aripioară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	27	nsubj	_	Rhyme=ID22|SpaceAfter=No|Type=Paired
+29	!	!	PUNCT	EXCL	_	19	punct	_	SpaceAfter=No
 30	“	“	PUNCT	DBLQ	_	19	punct	_	_
 
 # sent_id = test-1055
@@ -22359,22 +22359,22 @@
 5	,	,	PUNCT	COMMA	_	8	punct	_	_
 6	Ci	ci	CCONJ	Ccssp	Polarity=Pos	8	cc	_	_
 7	îndată	îndată	ADV	Rg	_	8	advmod:tmod	_	_
-8	răspundeau	răspunde	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Rhyme=ID4|Type=Paired
+8	răspundeau	răspunde	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 9	:	:	PUNCT	COLON	_	15	punct	_	_
-10	„	”	PUNCT	DBLQ	_	15	punct	_	_
+10	„	”	PUNCT	DBLQ	_	15	punct	_	SpaceAfter=No
 11	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-13	masă	masă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	_
+13	masă	masă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 14	-ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	_
-15	mulțumim	mulțumi	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	Rhyme=ID22|Type=Paired
+15	mulțumim	mulțumi	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	Rhyme=ID22|SpaceAfter=No|Type=Paired
 16	,	,	PUNCT	COMMA	_	20	punct	_	_
 17	Că	că	SCONJ	Csssp	Polarity=Pos	20	mark	_	_
-18	n-	nu	ADV	Qz	Polarity=Neg	20	advmod	_	_
+18	n-	nu	ADV	Qz	Polarity=Neg	20	advmod	_	SpaceAfter=No
 19	am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	20	aux	_	_
 20	venit	veni	VERB	Vmp	VerbForm=Part	15	advcl	_	_
 21	să	să	PART	Qs	PartType=Sub	22	mark	_	_
-22	prânzim	prânzi	VERB	Vmsp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	advcl	_	Rhyme=ID15|Type=Paired
-23	“	“	PUNCT	DBLQ	_	15	punct	_	_
+22	prânzim	prânzi	VERB	Vmsp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	advcl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
+23	“	“	PUNCT	DBLQ	_	15	punct	_	SpaceAfter=No
 24	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = test-1056
@@ -24280,19 +24280,19 @@
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	_
 2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	cal	cal	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	_
-4	încălecă	încăleca	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Rhyme=ID9|Type=Paired
+4	încălecă	încăleca	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Rhyme=ID9|SpaceAfter=No|Type=Paired
 5	,	,	PUNCT	COMMA	_	9	punct	_	_
 6	Drumul	drum	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
 7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	vale	vale	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
-9	apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Rhyme=ID4|Type=Paired
+9	apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
-11	Apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Rhyme=ID9|Type=Rep
+11	Apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Rhyme=ID9|SpaceAfter=No|Type=Rep
 12	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	călătorie	călătorie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	Rhyme=ID16|Type=Paired
 14	Să	să	PART	Qs	PartType=Sub	15	mark	_	_
 15	facă	face	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
-16	negustorie	negustorie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	Rhyme=ID13|Type=Paired
+16	negustorie	negustorie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	Rhyme=ID13|SpaceAfter=No|Type=Paired
 17	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # newdoc id = Folk_R.Mold-1147-1200	54 sentences

@@ -24275,7 +24275,7 @@
 19	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 # sent_id = test-1146
-# text = Şi pe cal încalecă, Drumul la vale apuca, Apucă-n călătorie Să facă negustorie.
+# text = Şi pe cal încălecă, Drumul la vale apuca, Apucă-n călătorie Să facă negustorie.
 # Rhyme=Yes
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	_
 2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_

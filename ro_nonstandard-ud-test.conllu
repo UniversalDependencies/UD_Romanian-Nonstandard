@@ -22316,7 +22316,7 @@
 26	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = test-1054
-# text = Sunt doi pui de rândunică: Unul zboară și se duce, Unul rămâne și pânge: „Așteaptă-mă, frățioare, Să-mi mai crească aripioare!“
+# text = Sunt doi pui de rândunică: Unul zboară și se duce, Unul rămâne și plânge: „Așteaptă-mă, frățioare, Să-mi mai crească aripioare!“
 # Rhyme=Yes
 1	Sunt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_

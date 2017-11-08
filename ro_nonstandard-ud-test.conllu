@@ -2750,7 +2750,7 @@
 # text = Tăiarea mâinei.
 # citation-part=MATT 5.30.content
 1	Tăiarea	tăiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT5.30.conten
-2	mîinei	mână	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	ref=MATT5.30.conten
+2	mâinei	mână	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	ref=MATT5.30.conten
 3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT5.30.conten
 
 # sent_id = test-122
@@ -13672,7 +13672,7 @@
 19	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT14.11
 
 # sent_id = test-648
-# text = Și apropiindu să ucenicii lui, luară trupul lui și-l îngrupară, și venind, spusără lui Iisus.
+# text = Și apropiindu-să ucenicii lui, luară trupul lui și-l îngrupară, și venind, spusără lui Iisus.
 # citation-part=MATT 14.12
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT14.12
 2	apropiindu	apropia	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT14.12

@@ -46,7 +46,7 @@ ISLRN 156-635-615-024-0
 # Metadata
 
 
-
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.1
 License: CC BY-SA 4.0
@@ -61,3 +61,4 @@ Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; M
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 ===============================================================================
+</pre>

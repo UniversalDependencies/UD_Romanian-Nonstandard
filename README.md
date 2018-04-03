@@ -32,6 +32,7 @@ ISLRN 156-635-615-024-0
   (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republic of Moldova),
 * Cătălin Mititelu (Ro) (Author of the Converter UAIC-UD),
 * Florinel Hociung (Ro) (Author of the Treebank Annotator interface).
+* Valentin Roșca (author of a program for transforming XML in CoNLLU, including all our features)
 
 ## References
 
@@ -57,7 +58,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel
+Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 ===============================================================================

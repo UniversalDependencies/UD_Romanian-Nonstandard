@@ -28,6 +28,7 @@ Sources
 
 The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
  Grigore C. Bostan  The Romanian folk poetry in the Carpathian-Nistrian  - lasi: Cantes, 1998 280 p
+ 
 References
 
 Bobicev, Victoria, Tudor Bumbu, Victoria Lazu, Victoria Maxim, Daniela Istrati, 2016. Folk poetry for computers: Moldovan Codri’s ballads parsing. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, pp. 39-50.
@@ -57,7 +58,9 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
+
 Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin
 Contributing: elsewhere
-Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
+
+Contact: catalinamaranduc@gmail.com, victoria.bobicev@gmail.com
 ===============================================================================

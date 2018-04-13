@@ -1,4 +1,4 @@
-﻿The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank.
+The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank.
 
 Introduction
 UAIC-RoDia Treebank is the Treebank of the Faculty of Computer Science, ”AL. I. Cuza” University, Iași, Romania. This is a bananced treebank. The Contemporary standard part of it (Perez, 2014) was included in the other Romanian UD Treebank. Since 2015, the UAIC Treebank has been developed by including several non-standard language genres, Old Romanian, Chat, Folklore (Mărănduc 2015, 2016, Perez 2016).
@@ -14,8 +14,6 @@ the documents test and dev contain each 900 sentences from Gospels, 51 srntences
 The Train contains the remaninng 4200 sentences.
 
 
-
-
 ISLRN 156-635-615-024-0
 
 Acknowledgments
@@ -27,9 +25,11 @@ Florinel Hociung (Ro) (Author of the Treebank Annotator interface).
 Valentin Roșca (author of a program for transforming XML in CoNLLU, including all our features)
 
 Sources
+
 The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
  Grigore C. Bostan  The Romanian folk poetry in the Carpathian-Nistrian  - lasi: Cantes, 1998 280 p
 References
+
 Bobicev, Victoria, Tudor Bumbu, Victoria Lazu, Victoria Maxim, Daniela Istrati, 2016. Folk poetry for computers: Moldovan Codri’s ballads parsing. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, pp. 39-50.
 Cojocaru, Svetlana, Alexander Colesnicov, and Ludmila Malahov, 2017. Digitization of Old Romanian Texts Printed in the Cyrillic Script. In Proceedings of International Conference on Digital Access to Textual Cultural Heritage. pages 143–148.
 Colesnicov, Alexander, Ludmila Malahov, Tudor Bumbu, Digitization of Romanian Printed Texts of the 17-th Century, 2016. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, p. 3-11.
@@ -42,7 +42,11 @@ Mărănduc, Cătălina, Victoria Bobichev Non Standard Treebank Romania – Repu
 Mărănduc, Cătălina, Cătălin Mititelu, Victoria Bobicev, Syntactic Semantic Correspondence in Dependency Grammar – in Proceeding of 16th International Workshop on Treebanks and Linguistic Theories Prague, Jan. 23-24, 2018, pp.167-180
 Perez, Cenel-Augusto, 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Al. I. Cuza University, Iași.
 Perez, Cenel-Augusto, Cătălina Mărănduc, and Radu Simionescu, 2016. Social media – processing Romanian chats and discourse analysis. Computación y Sistemas 20(3):404–414.
+
+
 Metadata
+
+
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.1
 License: CC BY-SA 4.0

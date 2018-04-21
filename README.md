@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank.
 

@@ -20,9 +20,7 @@ For the second release, we finished the transposition in UD format of the first 
 Also, the contribution of the Republic of Moldova is now 902 sentences folklore, including the 54 sentences from the first relase.
 We have now 1132 sentences Folklore.
 
-Genre: old bible, folklore.
-
-Contributors:
+# Contributors
 
 Cătălina Mărănduc - The New Testament 1648; Revision of all the data.
 (Afiiliation: Faculty of Computer Science, ”AL. I. Cuza” University, Iași,http://www.info.uaic.ro/bin/Main/ and the Academic Institute of Linguistics ”Iorgu Iordan - Al.Rosetti”, Bucharest www.lingv.ro/, Romania)
@@ -39,13 +37,13 @@ Florinel Hociung (Ro) (Author of the Treebank Multiformat Annotator interface) (
 
 Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU all the specific data of our treebank.
 
-Sources:
+# Sources
 
 The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
 
 Grigore C. Bostan The Romanian folk poetry in the Carpathian-Nistrian - lasi: Cantes, 1998 280 p
 
-References:
+# References
 
 Bobicev, Victoria, Tudor Bumbu, Victoria Lazu, Victoria Maxim, Daniela Istrati, 2016. Folk poetry for computers: Moldovan Codri’s ballads parsing. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, pp. 39-50.
 
@@ -72,6 +70,13 @@ Perez, Cenel-Augusto, 2014. Linguistic Resources for Natural Language Processing
 
 Perez, Cenel-Augusto, Cătălina Mărănduc, and Radu Simionescu, 2016. Social media – processing romanian chats and discourse analysis. Computación y Sistemas 20(3):404–414.
 
+# Changelog
+
+* 2018-07-01 v2.2
+  * More data both in the 1648 translation of the New Testament and in the Moldovan folklore.
+* 2017-11-15 v2.1
+  * Initial release in Universal Dependencies.
+
 # Metadata
 
 
@@ -80,7 +85,7 @@ Perez, Cenel-Augusto, Cătălina Mărănduc, and Radu Simionescu, 2016. Social m
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: bible folklore
+Genre: bible poetry
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: manual native

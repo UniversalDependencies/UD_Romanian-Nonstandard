@@ -21773,7 +21773,7 @@
 31	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = dev-5571
-# text = Nuntă-n casă de trei zile, Mirele nu-i nicăierea, Mireasa șade la masă, Mirele nu intră -n casă.
+# text = Nuntă-n casă de trei zile, Mirele nu-i nicăierea, Mireasa șade la masă, Mirele nu intră-n casă.
 # Rhyme= Yes
 1	Nuntă	nuntă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 2	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -22655,7 +22655,7 @@
 29	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = dev-5599
-# text = Câtă boală -i pe sub lună, nu -i ca dorul de nebună.
+# text = Câtă boală-i pe sub lună, nu-i ca dorul de nebună.
 # Rhyme= Yes
 1	Câtă	cât	DET	Dw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	2	det	_	_
 2	boală	boală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No

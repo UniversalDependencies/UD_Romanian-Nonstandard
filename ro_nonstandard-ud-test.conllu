@@ -2756,7 +2756,7 @@
 6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT.pred.title
 
 # sent_id = test-59
-# text = Întîi ni să dă a ști trei lucruri: Întîi, ce iaste Evanghelia; a doao, cine au fost Mattei, scrietoriul aceștii evanghelii; a treia, despre ce au scris.
+# text = Întîi ni să dă a ști trei lucruri: Întîi, ce iaste Evanghelia; a doao, cine au fost Mattei, scrietoriul aceștii Evanghelii; a treia, despre ce au scris.
 # citation-part=MATT.pred.1
 1	Întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	4	nmod:tmod	_	ref=MATT.pred.1
 2	ni	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	4	iobj	_	ref=MATT.pred.1
@@ -25203,3 +25203,4 @@
 42	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	43	iobj	_	_
 43	jupoi	jupui	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	Rhyme=ID36|SpaceAfter=No|Type=Paired
 44	.	.	PUNCT	PERIOD	_	10	punct	_	_
+

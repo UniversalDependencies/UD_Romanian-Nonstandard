@@ -20647,7 +20647,7 @@
 7	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = dev-5532
-# text = Tânărul nostru împărat Dimineața s-a sculat, Pe ochi negri s-a spălat, Părul și l-a pieptănat, Straie noi a îmbrăcat, Şi apoi Ne- a chemat pe noi Şi pe la răsărit de soare Am plecat la vânătoare.
+# text = Tânărul nostru împărat Dimineața s-a sculat, Pe ochi negri s-a spălat, Părul și l-a pieptănat, Straie noi a îmbrăcat, Şi apoi Ne-a chemat pe noi Şi pe la răsărit de soare Am plecat la vânătoare.
 # Rhyme= Yes
 1	Tânărul	tânăr	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 2	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	_

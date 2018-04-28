@@ -60,7 +60,7 @@
 3	-au	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	aux	_	ref=pred.2
 4	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=pred.2
 5	a	al	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=pred.2
-6	mării	măria	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Polite=Form|PronType=Prs	8	nmod	_	ref=pred.2
+6	mării	măria	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs	8	nmod	_	ref=pred.2
 7	sale	său	DET	Ds3fsos	Case=Dat,Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	6	compound	_	ref=pred.2
 8	tipografie	tipografie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	ref=pred.2|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=pred.2
@@ -2756,7 +2756,7 @@
 6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT.pred.title
 
 # sent_id = test-59
-# text = Întîi ni să dă a ști trei lucruri: Întîi, ce iaste evanghelia; a doao, cine au fost Mattei, scrietoriul aceștii evanghelii; a treia, despre ce au scris.
+# text = Întîi ni să dă a ști trei lucruri: Întîi, ce iaste Evanghelia; a doao, cine au fost Mattei, scrietoriul aceștii evanghelii; a treia, despre ce au scris.
 # citation-part=MATT.pred.1
 1	Întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	4	nmod:tmod	_	ref=MATT.pred.1
 2	ni	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	4	iobj	_	ref=MATT.pred.1
@@ -22277,7 +22277,7 @@
 1	Nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	_
 2	ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	4	iobj	_	SpaceAfter=No
 3	-a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-4	fost	fost	VERB	Vmp	VerbForm=Part	0	root	_	SpaceAfter=No
+4	fost	fi	VERB	Vmp	VerbForm=Part	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	6	punct	_	_
 6	maică	maică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	6	punct	_	_
@@ -22310,6 +22310,7 @@
 34	tot	tot	ADV	Rg	_	35	advmod	_	_
 35	gemând	geme	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	32	advcl	_	Rhyme=ID25,30|SpaceAfter=No|Type=Mono
 36	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
 # newdoc id = Bostan Folk R.Moldova and Bucovina-5405-5505
 # sent_id = test-5405
 # text = S-a luat mama prin țară Cu desagii subsuoară Să ne strângă grămăjoară, Să ne ducă-n târg la școală, Nemțește să învățăm Şi la oaste să intrăm.

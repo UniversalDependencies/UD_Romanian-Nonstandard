@@ -3644,7 +3644,7 @@
 7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT.pred.22
 
 # sent_id = test-81
-# text = De să creade lui Evsevie și lui Teofilact, Matei, în iudei, între jidovi, au scris întîi evanghelia, în al treilea an al Calugălii, împăratul rimleanilor, carele era după înalțarea lui Hristos al 8-lea an, după nașterea lui Hristos leat 41.
+# text = De să creade lui Evsevie și lui Teofilact, Matei, în iudei, între jidovi, au scris întîi Evanghelia, în al treilea an al Calugălii, împăratul rimleanilor, carele era după înalțarea lui Hristos al 8-lea an, după nașterea lui Hristos leat 41.
 # citation-part=MATT.pred.23
 1	De	de	SCONJ	Csssp	Polarity=Pos	3	mark	_	ref=MATT.pred.23
 2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	ref=MATT.pred.23

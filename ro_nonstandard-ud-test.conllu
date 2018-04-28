@@ -1312,7 +1312,7 @@
 # sent_id = test-31
 # text = Măriia ta încă, în urma acestor crai sfinți, cu de- adinsu ai îmblat și te- ai purtat, în crăirea Mării tale, că n- ai silit numai pre- aceaia cum să ții țara Măriei tale, apărîndu -o de pizmași și giudecînd și bogații și sărumanii în dereptate, ce încă mai vîrtos pre aciastia a griji ca să să mărească slava lui Dumnezău și să să vestească cuvîntul lui Dumnezău în țara Măriei tale, întru toate limbile.
 # citation-part=pred.30
-1	Măriia	Măriia	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	ref=pred.30
+1	Măriia	măriia	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	ref=pred.30
 2	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	1	compound	_	ref=pred.30
 3	încă	încă	ADV	Rg	_	1	advmod	_	ref=pred.30|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	8	punct	_	ref=pred.30

@@ -294,7 +294,7 @@
 # text = Că aceasta iaste deregătoriia lor, nu numai să păzească și să apere oile sale de fieri și de lupi răpitori, cum păziia David, feciorul lui Iesei, de lei și de urși, omorând pre ei și scoțând oile din gură -le, cumu -i scris cartea dentâi a lui Samoil, 17, stih 35.
 # citation-part=pred.8
 1	Că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	ref=pred.8
-2	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	ref=pred.8
+2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	ref=pred.8
 3	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	ref=pred.8
 4	deregătoriia	dregătorie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=pred.8
 5	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	4	nmod	_	ref=pred.8|SpaceAfter=No
@@ -449,7 +449,7 @@
 6	,	,	PUNCT	COMMA	_	4	punct	_	ref=pred.11
 7	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=pred.11
 8	numai	numai	ADV	Rg	_	11	advmod	_	ref=pred.11
-9	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obj	_	ref=pred.11
+9	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obj	_	ref=pred.11
 10	le	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	11	iobj	_	ref=pred.11
 11	dă	da	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.11
 12	înainte	înainte	ADV	Rg	_	11	advmod	_	ref=pred.11
@@ -489,7 +489,7 @@
 46	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	49	mark	_	ref=pred.11
 47	mai	mai	ADV	Rg	_	48	advmod	_	ref=pred.11
 48	vârtos	vârtos	ADV	Rg	_	49	advmod	_	ref=pred.11
-49	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	mark	_	ref=pred.11
+49	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	mark	_	ref=pred.11
 50	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	cop	_	ref=pred.11
 51	deregătoriia	dregătorie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	49	nsubj	_	ref=pred.11
 52	lor	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	51	nmod	_	ref=pred.11|SpaceAfter=No
@@ -498,7 +498,7 @@
 55	poarte	purta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	49	acl	_	ref=pred.11
 56	grije	grijă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	55	obj	_	ref=pred.11
 57	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	58	case	_	ref=pred.11
-58	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	55	nmod:pmod	_	ref=pred.11
+58	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	55	nmod:pmod	_	ref=pred.11
 59	cum	cum	ADV	Rw	PronType=Int,Rel	61	advmod	_	ref=pred.11
 60	să	să	PART	Qs	PartType=Sub	61	mark	_	ref=pred.11
 61	aibă	avea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	58	acl	_	ref=pred.11
@@ -1073,7 +1073,7 @@
 2	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=pred.25
 3	rîvnă	râvnă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	ref=pred.25
 4	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=pred.25
-5	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nmod	_	ref=pred.25
+5	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nmod	_	ref=pred.25
 6	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	ref=pred.25
 7	fost	fi	VERB	Vmp	VerbForm=Part	0	root	_	ref=pred.25
 8	și	și	ADV	Rg	_	10	advmod	_	ref=pred.25
@@ -2058,7 +2058,7 @@
 # citation-part=pred.read.5
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=pred.read.5
 2	numai	numai	ADV	Rg	_	5	advmod	_	ref=pred.read.5
-3	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	expl	_	ref=pred.read.5
+3	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	expl	_	ref=pred.read.5
 4	să	să	PART	Qs	PartType=Sub	5	mark	_	ref=pred.read.5
 5	știți	ști	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.read.5
 6	că	că	SCONJ	Csssp	Polarity=Pos	10	mark	_	ref=pred.read.5
@@ -2181,7 +2181,7 @@
 # citation-part=pred.read.7
 1	Însă	însă	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=pred.read.7
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=pred.read.7
-3	cea	cel	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nmod:pmod	_	ref=pred.read.7
+3	cea	acela	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nmod:pmod	_	ref=pred.read.7
 4	greciască	grecesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	ref=pred.read.7
 5	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=pred.read.7
 6	ne-	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	8	expl:pv	_	ref=pred.read.7
@@ -2217,7 +2217,7 @@
 # sent_id = test-49
 # text = Aceasta încă vom să știți că noi în cest Testamînt întîiu am pus șuma la toate capetele și în șumă sîntu stihuri, carele arată mai pre scurtu lucrurile ce sînt scrise într- acel cap, pentru să să afle mai îndegrabă ce va vrea să caute; și în toate capetele, toate soroacele le- am pus cu număr, carele să chiamă sloveneaște stih, pentru că mai în toate limbile vedem că au acest izvod, de scriu cu stihuri, pentru că foarte -i lesne a găsi îndegrabă ce veri vrea să cauți, în numărul soroacelor.
 # citation-part=pred.read.8
-1	Aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obj	_	ref=pred.read.8
+1	Aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obj	_	ref=pred.read.8
 2	încă	încă	ADV	Rg	_	3	advmod	_	ref=pred.read.8
 3	vom	vrea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.read.8
 4	să	să	PART	Qs	PartType=Sub	5	mark	_	ref=pred.read.8
@@ -2324,7 +2324,7 @@
 # text = De aceasta încă vom să știți că vedem că unele cuvinte unii le- au izvodit într- un chip, alții într- alt, iară noi le- am lăsat cum au fost în izvodul grecescu, văzînd că alte limbi încă le țin așia, cumu -i cu sinagoga și poblican și gangrena și pietri scumpe, carele nu să știu rumînește ce sînt, nume de oameni și de leamne și de veșmente și altele multele carele nu să știu rumîneaște ce sînt, noi încă le- am lăsat greciaște, pentru că alte limbi încă le- au lăsat așia.
 # citation-part=pred.read.9
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=pred.read.9
-2	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obl	_	ref=pred.read.9
+2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obl	_	ref=pred.read.9
 3	încă	încă	ADV	Rg	_	4	advmod	_	ref=pred.read.9
 4	vom	vrea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.read.9
 5	să	să	PART	Qs	PartType=Sub	6	mark	_	ref=pred.read.9
@@ -2344,7 +2344,7 @@
 19	,	,	PUNCT	COMMA	_	20	punct	_	ref=pred.read.9
 20	alții	altul	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	12	conj	_	ref=pred.read.9
 21	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	ref=pred.read.9
-22	alt	alt	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nmod	_	ref=pred.read.9|SpaceAfter=No
+22	alt	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nmod	_	ref=pred.read.9|SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	28	punct	_	ref=pred.read.9
 24	iară	iar	CCONJ	Ccssp	Polarity=Pos	28	cc	_	ref=pred.read.9
 25	noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	28	nsubj:pass	_	ref=pred.read.9
@@ -2428,7 +2428,7 @@
 # sent_id = test-51
 # text = Aceasta încă vă rugăm să luați aminte că rumînii nu grăescu în toate țărîle într- un chip, încă neci într- o țară într- un chip.
 # citation-part=pred.read.10
-1	Aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obj	_	ref=pred.read.10
+1	Aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obj	_	ref=pred.read.10
 2	încă	încă	ADV	Rg	_	4	advmod	_	ref=pred.read.10
 3	vă	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	expl:pv	_	ref=pred.read.10
 4	rugăm	ruga	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.read.10
@@ -2529,7 +2529,7 @@
 22	așia	așa	ADV	Rg	_	24	advmod	_	ref=pred.read.12
 23	și	și	ADV	Rg	_	22	advmod	_	ref=pred.read.12
 24	cuvintele	cuvânt	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	25	appos	_	ref=pred.read.12
-25	acealea	acel	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	27	nsubj	_	ref=pred.read.12
+25	acealea	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	27	nsubj	_	ref=pred.read.12
 26	sînt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	ref=pred.read.12
 27	bune	bun	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	conj	_	ref=pred.read.12
 28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	mark	_	ref=pred.read.12
@@ -2672,7 +2672,7 @@
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=pred.read.15
 4	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	2	obl	_	ref=pred.read.15
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=pred.read.15
-6	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	obl	_	ref=pred.read.15
+6	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	obl	_	ref=pred.read.15
 7	ne-	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	9	expl:pv	_	ref=pred.read.15
 8	am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	aux	_	ref=pred.read.15
 9	silit	sili	VERB	Vmp	VerbForm=Part	0	root	_	ref=pred.read.15
@@ -2697,7 +2697,7 @@
 # sent_id = test-57
 # text = Aceasta poftim de la Tatăl Dumnezău și de la Domnul nostru Iisus Hristos, cum să vă înțelepțească Duhul Sfînt ca să înțeleageți voia sfinției Sale și să faceți care sînt scrise într- această carte, spre slavă lui Dumnezău și spre spăseniia voastră; Amin.
 # citation-part=pred.read.16
-1	Aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	_	ref=pred.read.16
+1	Aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	_	ref=pred.read.16
 2	poftim	pofti	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=pred.read.16
 3	de	de	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	ref=pred.read.16
 4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	ref=pred.read.16
@@ -2750,7 +2750,7 @@
 # citation-part=MATT.pred.title
 1	PREDOSLOVIIA	PREDOSLOVIIA	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT.pred.title
 2	EVANGHELII	Evanghelie	PROPN	Npfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	ref=MATT.pred.title
-3	LUI	-ul	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=MATT.pred.title
+3	LUI	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	ref=MATT.pred.title
 4	SVÎNT	sfânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=MATT.pred.title
 5	MATTEI	Matei	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	flat	_	ref=MATT.pred.title|SpaceAfter=No
 6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT.pred.title
@@ -3162,7 +3162,7 @@
 32	vechi	vechi	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	ref=MATT.pred.10
 33	și	și	CCONJ	Ccssp	Polarity=Pos	35	cc	_	ref=MATT.pred.10
 34	a	al	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	35	det	_	ref=MATT.pred.10
-35	ceștii	acest	PRON	Pd3fso	Case=Dat,Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem	31	conj	_	ref=MATT.pred.10
+35	ceștii	acesta	PRON	Pd3fso	Case=Dat,Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem	31	conj	_	ref=MATT.pred.10
 36	noao	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	ref=MATT.pred.10|SpaceAfter=No
 37	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT.pred.10
 
@@ -3636,7 +3636,7 @@
 # text = De aceasta adevărat nu să ști.
 # citation-part=MATT.pred.22
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT.pred.22
-2	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obl	_	ref=MATT.pred.22
+2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obl	_	ref=MATT.pred.22
 3	adevărat	adevărat	ADV	Rg	_	6	advmod	_	ref=MATT.pred.22
 4	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT.pred.22
 5	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	6	expl:pv	_	ref=MATT.pred.22
@@ -3826,7 +3826,7 @@
 4	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT.pred.29
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT.pred.29
 6	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nmod:tmod	_	ref=MATT.pred.29
-7	lui	-ul	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=MATT.pred.29|SpaceAfter=No
+7	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=MATT.pred.29|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT.pred.29
 9	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	aux	_	ref=MATT.pred.29
 10	aflat	aflat	VERB	Vmp	VerbForm=Part	2	ccomp	_	ref=MATT.pred.29
@@ -3989,7 +3989,7 @@
 32	nice	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	34	cc	_	ref=MATT.pred.35
 33	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	ref=MATT.pred.35
 34	destul	destul	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	22	conj	_	ref=MATT.pred.35
-35	aceasta	acest	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	34	nsubj	_	ref=MATT.pred.35
+35	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	34	nsubj	_	ref=MATT.pred.35
 36	c-	că	SCONJ	Csssp	Polarity=Pos	39	mark	_	ref=MATT.pred.35
 37	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	38	aux	_	ref=MATT.pred.35
 38	fost	fi	VERB	Vmp	VerbForm=Part	39	cop	_	ref=MATT.pred.35
@@ -4312,7 +4312,7 @@
 40	tuturora	tot	PRON	Pi3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Ind	41	nmod	_	ref=MATT.pred.41
 41	folosul	folos	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	43	nsubj	_	ref=MATT.pred.41
 42	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	cop	_	ref=MATT.pred.41
-43	acesta	acest	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	35	acl	_	ref=MATT.pred.41
+43	acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	35	acl	_	ref=MATT.pred.41
 44	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	46	obj	_	ref=MATT.pred.41
 45	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	46	aux	_	ref=MATT.pred.41
 46	scris	scrie	VERB	Vmp	VerbForm=Part	43	acl	_	ref=MATT.pred.41
@@ -6063,7 +6063,7 @@
 10	pocăință	pocăință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	ref=MATT3.11|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	19	punct	_	ref=MATT3.11
 12	dară	dar	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	19	cc	_	ref=MATT3.11
-13	Cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	ref=MATT3.11
+13	Cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	ref=MATT3.11
 14	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	ref=MATT3.11
 15	vine	veni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	ref=MATT3.11
 16	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	17	case	_	ref=MATT3.11
@@ -7289,7 +7289,7 @@
 # citation-part=MATT 5.10
 1	Ferice	ferice	ADV	Rg	_	0	root	_	ref=MATT5.10
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT5.10
-3	cei	cel	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	nmod:pmod	_	ref=MATT5.10
+3	cei	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	nmod:pmod	_	ref=MATT5.10
 4	goniți	goni	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	3	amod	_	ref=MATT5.10
 5	(	(	PUNCT	LPAR	_	7	punct	_	ref=MATT5.10|SpaceAfter=No
 6	au	sau	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT5.10
@@ -7843,7 +7843,7 @@
 14	pînă	până	ADV	Rg	_	16	advmod	_	ref=MATT5.26
 15	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	14	mark	_	ref=MATT5.26
 16	filearul	filar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obj	_	ref=MATT5.26
-17	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nmod	_	ref=MATT5.26
+17	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nmod	_	ref=MATT5.26
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	mark	_	ref=MATT5.26
 19	apoi	apoi	ADV	Rg	_	17	advmod	_	ref=MATT5.26|SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT5.26
@@ -7872,7 +7872,7 @@
 2	Eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=MATT5.28
 3	grăiesc	grăi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT5.28
 4	că	că	SCONJ	Csssp	Polarity=Pos	15	mark	_	ref=MATT5.28
-5	fietecine	fiștecine	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	15	nsubj	_	ref=MATT5.28
+5	fietecine	fieștecine	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	15	nsubj	_	ref=MATT5.28
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	ref=MATT5.28
 7	caută	căuta	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	ref=MATT5.28
 8	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT5.28
@@ -8050,7 +8050,7 @@
 4	cum	cum	ADV	Rw	PronType=Int,Rel	6	mark	_	ref=MATT5.33
 5	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	aux:pass	_	ref=MATT5.33
 6	zis	zice	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	ccomp	_	ref=MATT5.33
-7	celor	acel	PRON	Pd3mpo	Case=Dat,Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem	6	iobj	_	ref=MATT5.33
+7	celor	acela	PRON	Pd3mpo	Case=Dat,Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem	6	iobj	_	ref=MATT5.33
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	mark	_	ref=MATT5.33
 9	demult	demult	ADV	Rg	_	7	advmod	_	ref=MATT5.33|SpaceAfter=No
 10	:	:	PUNCT	COLON	_	14	punct	_	ref=MATT5.33
@@ -8255,7 +8255,7 @@
 15	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT5.40
 16	lasă	lăsa	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT5.40
 17	și	și	ADV	Rg	_	18	advmod	_	ref=MATT5.40
-18	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	obj	_	ref=MATT5.40
+18	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	obj	_	ref=MATT5.40
 19	desupra	desupra	ADV	Rg	_	18	advmod	_	ref=MATT5.40|SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	16	punct	_	ref=MATT5.40
 
@@ -8341,14 +8341,14 @@
 10	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT5.44
 11	bine	bine	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	ref=MATT5.44
 12	ziceți	zice	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	ref=MATT5.44
-13	celora	cel	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	12	iobj	_	ref=MATT5.44
+13	celora	acela	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	12	iobj	_	ref=MATT5.44
 14	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT5.44
 15	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	16	obj	_	ref=MATT5.44
 16	blastămă	blestema	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	ref=MATT5.44|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	19	punct	_	ref=MATT5.44
 18	bine	bine	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	obj	_	ref=MATT5.44
 19	faceți	face	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	ref=MATT5.44
-20	celora	cel	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	19	iobj	_	ref=MATT5.44
+20	celora	acela	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	19	iobj	_	ref=MATT5.44
 21	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	ref=MATT5.44
 22	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	23	obj	_	ref=MATT5.44
 23	urăsc	urî	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	ref=MATT5.44
@@ -8358,7 +8358,7 @@
 27	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	28	expl:pv	_	ref=MATT5.44
 28	rugați	ruga	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	ref=MATT5.44
 29	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	30	case	_	ref=MATT5.44
-30	cei	cel	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	28	obl	_	ref=MATT5.44
+30	cei	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	28	obl	_	ref=MATT5.44
 31	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	33	nsubj	_	ref=MATT5.44
 32	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	33	obj	_	ref=MATT5.44
 33	năpăstuiesc	năpăstui	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	ref=MATT5.44
@@ -8593,7 +8593,7 @@
 9	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	fixed	_	ref=MATT6.1
 10	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	ref=MATT6.1
 11	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	10	det	_	ref=MATT6.1
-12	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	appos	_	ref=MATT6.1
+12	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	appos	_	ref=MATT6.1
 13	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	14	case	_	ref=MATT6.1
 14	ceriuri	cer	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	ref=MATT6.1|SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT6.1
@@ -8763,7 +8763,7 @@
 22	și	și	CCONJ	Ccssp	Polarity=Pos	30	cc	_	ref=MATT6.6
 23	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	30	nsubj	_	ref=MATT6.6
 24	tău	tău	DET	Ds2ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	23	det	_	ref=MATT6.6
-25	cela	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	appos	_	ref=MATT6.6
+25	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	appos	_	ref=MATT6.6
 26	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	27	nsubj	_	ref=MATT6.6
 27	veade	vedea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	ref=MATT6.6
 28	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	27	advmod	_	ref=MATT6.6|SpaceAfter=No
@@ -8817,7 +8817,7 @@
 9	știe	ști	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	ref=MATT6.8
 10	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT6.8
 11	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	10	det	_	ref=MATT6.8
-12	cealea	cel	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	9	obj	_	ref=MATT6.8
+12	cealea	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	9	obj	_	ref=MATT6.8
 13	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	ref=MATT6.8
 14	vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	ref=MATT6.8
 15	trebuesc	trebui	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	ref=MATT6.8
@@ -8961,7 +8961,7 @@
 12	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	9	iobj	_	ref=MATT6.14
 13	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT6.14
 14	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	13	det	_	ref=MATT6.14
-15	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nmod	_	ref=MATT6.14
+15	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nmod	_	ref=MATT6.14
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	17	case	_	ref=MATT6.14
 17	ceriu	cer	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	15	nmod	_	ref=MATT6.14|SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	9	punct	_	ref=MATT6.14
@@ -9362,7 +9362,7 @@
 21	și	și	CCONJ	Ccssp	Polarity=Pos	28	cc	_	ref=MATT6.26
 22	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	28	nsubj	_	ref=MATT6.26
 23	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	22	det	_	ref=MATT6.26
-24	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nmod	_	ref=MATT6.26
+24	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nmod	_	ref=MATT6.26
 25	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	26	case	_	ref=MATT6.26
 26	ceriu	cer	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	nmod	_	ref=MATT6.26
 27	le	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	28	obj	_	ref=MATT6.26
@@ -9835,7 +9835,7 @@
 11	află	afla	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	ref=MATT7.8|SpaceAfter=No
 12	;	;	PUNCT	SCOLON	_	19	punct	_	ref=MATT7.8
 13	și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	ref=MATT7.8
-14	celui	acel	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	iobj	_	ref=MATT7.8
+14	celui	acela	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	iobj	_	ref=MATT7.8
 15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT7.8
 16	bate	bate	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	ref=MATT7.8
 17	i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	19	expl	_	ref=MATT7.8
@@ -9908,13 +9908,13 @@
 17	mult	mult	ADV	Rg	_	24	advmod	_	ref=MATT7.11
 18	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	ref=MATT7.11
 19	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	18	det	_	ref=MATT7.11
-20	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nmod	_	ref=MATT7.11
+20	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nmod	_	ref=MATT7.11
 21	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	22	case	_	ref=MATT7.11
 22	ceriure	cer	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	nmod	_	ref=MATT7.11
 23	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	ref=MATT7.11
 24	da	da	VERB	Vmn	VerbForm=Inf	7	conj	_	ref=MATT7.11
 25	bune	bun	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	24	obj	_	ref=MATT7.11
-26	celor	cel	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	24	iobj	_	ref=MATT7.11
+26	celor	acela	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	24	iobj	_	ref=MATT7.11
 27	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	28	nsubj	_	ref=MATT7.11
 28	cer	cer	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	acl	_	ref=MATT7.11
 29	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	ref=MATT7.11
@@ -10157,7 +10157,7 @@
 17	ceriurelor	cer	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	16	nmod	_	ref=MATT7.21|SpaceAfter=No
 18	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT7.21
 19	ce	ci	CCONJ	Ccssz	Polarity=Neg	20	cc	_	ref=MATT7.21
-20	cela	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	conj	_	ref=MATT7.21
+20	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	conj	_	ref=MATT7.21
 21	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	ref=MATT7.21
 22	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	aux	_	ref=MATT7.21
 23	face	face	VERB	Vmn	VerbForm=Inf	20	acl	_	ref=MATT7.21
@@ -10379,7 +10379,7 @@
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT7.29
 4	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MATT7.29
 5	ca	ca	ADV	Rg	_	6	case	_	ref=MATT7.29
-6	cela	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obl	_	ref=MATT7.29
+6	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obl	_	ref=MATT7.29
 7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	ref=MATT7.29
 8	are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	ref=MATT7.29
 9	puteare	putere	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	ref=MATT7.29
@@ -10738,7 +10738,7 @@
 8	miră	mira	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.10
 9	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT8.10
 10	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	ref=MATT8.10
-11	celor	acel	PRON	Pd3fpo	Case=Dat,Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem	10	iobj	_	ref=MATT8.10
+11	celor	acela	PRON	Pd3fpo	Case=Dat,Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem	10	iobj	_	ref=MATT8.10
 12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	ref=MATT8.10
 13	mergea	merge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	acl	_	ref=MATT8.10
 14	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	15	case	_	ref=MATT8.10
@@ -21940,7 +21940,7 @@
 # text = Dar câte mă iubesc iară, Să le strângi, ai face-o țară!
 # Rhyme = Yes
 1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
-2	câte	câte	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	nsubj	_	_
+2	câte	cât	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	nsubj	_	_
 3	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	obj	_	_
 4	iubesc	iubi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	obj	_	_
 5	iară	iară	ADV	Rg	_	4	advmod	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
@@ -22685,7 +22685,7 @@
 12	tatălui	tată	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 13	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	12	det	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	15	punct	_	_
-15	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	appos	_	_
+15	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	appos	_	_
 16	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	luceafărul	luceafăr	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -22698,7 +22698,7 @@
 25	frâul	frâu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
 26	și	și	CCONJ	Ccssp	Polarity=Pos	27	cc	_	_
 27	paloșul	paloș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
-28	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nmod	_	_
+28	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nmod	_	_
 29	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	_
 30	aur	aur	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	28	nmod	_	_
 31	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	32	expl:pv	_	_
@@ -23674,7 +23674,7 @@
 7	:	:	PUNCT	COLON	_	8	punct	_	_
 8	Domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	parataxis	_	_
 9	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	8	det	_	_
-10	cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nmod	_	_
+10	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nmod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	Rhyme=ID16|Type=Paired
 13	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
@@ -24121,7 +24121,7 @@
 9	îmi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	10	iobj	_	_
 10	cer	cere	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 11	turma	turmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	obj	_	_
-12	cea	cel	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	nmod	_	_
+12	cea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	nmod	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	oi	oaie	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	Rhyme=ID18,25,28|SpaceAfter=No|Type=Mono
 15	,	,	PUNCT	COMMA	_	17	punct	_	_
@@ -24140,7 +24140,7 @@
 28	amândoi	amândoi	NUM	Mlmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	27	nummod	_	Rhyme=ID14,18,25|SpaceAfter=No|Type=Mono
 29	,	,	PUNCT	COMMA	_	30	punct	_	_
 30	Herghelia	herghelie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	conj	_	_
-31	cea	cel	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	30	nmod	_	_
+31	cea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	30	nmod	_	_
 32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	_
 33	cai	cal	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	31	nmod	_	Rhyme=ID38|Type=Paired
 34	Şi	și	CCONJ	Ccssp	Polarity=Pos	38	cc	_	_
@@ -24536,7 +24536,7 @@
 # sent_id = test-5481
 # text = Cel de sulița strujește îi cerură ineluș, Ineluș din degetuș.
 # Rhyme= Yes
-1	Cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+1	Cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
 2	de	de	SCONJ	Csssp	Polarity=Pos	4	mark	_	_
 3	sulița	suliță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
 4	strujește	struji	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
@@ -24552,7 +24552,7 @@
 # sent_id = test-5482
 # text = Cel de șoiman netezește îi cerură merișorul, Merișor din sănișor, Ştiu bine că-i coptișor.
 # Rhyme= Yes
-1	Cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+1	Cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
 2	de	de	SCONJ	Csssp	Polarity=Pos	4	mark	_	_
 3	șoiman	șoiman	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
 4	netezește	netezi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
@@ -24574,7 +24574,7 @@
 # sent_id = test-5483
 # text = Cel de cărți dalbe citește îi cerură cununia.
 # Rhyme= No
-1	Cel	cel	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+1	Cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
 2	de	de	SCONJ	Csssp	Polarity=Pos	5	mark	_	_
 3	cărți	carte	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
 4	dalbe	dalb	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
@@ -24718,7 +24718,7 @@
 25	voinici	voinic	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	24	amod	_	Rhyme=ID22|SpaceAfter=No|Type=Paired
 26	,	,	PUNCT	COMMA	_	28	punct	_	_
 27	Și-	și	CCONJ	Ccssp	Polarity=Pos	28	cc	_	SpaceAfter=No
-28	altele	alt	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	21	conj	_	_
+28	altele	altul	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	21	conj	_	_
 29	mai	mai	ADV	Rg	_	30	advmod	_	_
 30	mărunțele	mărunțel	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	28	amod	_	Rhyme=ID34,37|Type=Mono
 31	Ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	32	mark	_	_

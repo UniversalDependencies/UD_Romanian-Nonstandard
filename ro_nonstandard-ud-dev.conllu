@@ -18548,8 +18548,8 @@
 8	Ia	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	6	nmod:pmod	_	ref=MARC4.30|SpaceAfter=No
 9	?	?	PUNCT	QUEST	_	6	punct	_	ref=MARC4.30
 
-# newdoc id = PopReg Folk Romania-5225-5275
-# sent_id = dev-5225
+# newdoc id = PopReg Folk Romania-6289-6339
+# sent_id = dev-6289
 # text = Cu Miu se-nțelegea, Ca să facă mâne sară, De la grecu Bănăcioară, măcar un miel de frigare, De nu alt lucru mai mare.
 # Rhyme=Yes
 1	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -18582,7 +18582,7 @@
 28	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
 29	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5226
+# sent_id = dev-6290
 # text = Decât gazdă păcătoasă, Mai bine slugă frumoasă, C-a sluji un an sau doi, Și-și va face car și boi; Și-a sluji o lună, două, Și-și va face casă nouă!
 # Rhyme=Yes
 1	Decât	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	_
@@ -18626,7 +18626,7 @@
 39	nouă	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	Rhyme=ID32|SpaceAfter=No|Type=Paired
 40	!	!	PUNCT	EXCL	_	6	punct	_	_
 
-# sent_id = dev-5227
+# sent_id = dev-6291
 # text = De-i călca din urmă în urmă, din străin tot nu-ți faci mumă.
 # Rhyme=Yes
 1	De	de	SCONJ	Csssp	Polarity=Pos	3	mark	_	SpaceAfter=No
@@ -18646,7 +18646,7 @@
 15	mumă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	Rhyme=ID7|SpaceAfter=No|Type=Paired
 16	.	.	PUNCT	PERIOD	_	14	punct	_	_
 
-# sent_id = dev-5228
+# sent_id = dev-6292
 # text = De -i călca din piatră-n piatră, Din străin tot nu-ți faci tată.
 # Rhyme=Yes
 1	De	de	SCONJ	Csssp	Polarity=Pos	3	mark	_	_
@@ -18666,7 +18666,7 @@
 15	tată	tată	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	Rhyme=ID7|SpaceAfter=No|Type=Imperf
 16	.	.	PUNCT	PERIOD	_	14	punct	_	_
 
-# sent_id = dev-5229
+# sent_id = dev-6293
 # text = De-i călca din flori în flori, Din străin nu-ți faci surori!
 # Rhyme=Yes
 1	De	de	SCONJ	Csssp	Polarity=Pos	3	mark	_	SpaceAfter=No
@@ -18685,7 +18685,7 @@
 14	surori	soră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	obj	_	Rhyme=ID7|SpaceAfter=No|Type=Paired
 15	!	!	PUNCT	EXCL	_	13	punct	_	_
 
-# sent_id = dev-5230
+# sent_id = dev-6294
 # text = Mă muncii o vară toată Ca să fac străinul tată, Și-mi făcui boală curată, Că străinu-i ca pelinul, Nu-ți știe dorul și chinul.
 # Rhyme=Yes
 1	Mă	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	2	expl:pv	_	_
@@ -18719,7 +18719,7 @@
 29	chinul	chin	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	27	conj	_	Rhyme=ID19,22|SpaceAfter=No|Type=Mono
 30	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5231
+# sent_id = dev-6295
 # text = Pe-al său tată n-a ascultat, Ci trei cai și-a înșelat, Unul negru ca un harap, Altul cu steaua la cap, Al treilea este cel sur, Și face o țară singur.
 # Rhyme=Yes
 1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	SpaceAfter=No
@@ -18762,7 +18762,7 @@
 38	singur	singur	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	35	xcomp	_	Rhyme=ID32|SpaceAfter=No|Type=Paired
 39	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5232
+# sent_id = dev-6296
 # text = Dorul meu, bade, și-al tău, De s-ar face-un pod mereu, Ca să treacă doi cu doi, Și tu, bade, pe la noi.
 # Rhyme=Yes
 1	Dorul	dor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -18799,7 +18799,7 @@
 32	noi	eu	PRON	Pp1-pa--------s	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Strong	26	orphan	_	Rhyme=ID23|SpaceAfter=No|Type=Paired
 33	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
-# sent_id = dev-5233
+# sent_id = dev-6297
 # text = Cine joacă și nu strigă, Face-i-s-ar gura strâmbă, C-așa-i jocul românesc, Cu strigăt ardelenesc.
 # Rhyme=Yes
 1	Cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	nsubj	_	_
@@ -18826,7 +18826,7 @@
 22	ardelenesc	ardelenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	Rhyme=ID18|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5234
+# sent_id = dev-6298
 # text = Când Anița bani cerea, Se făcea că n-auzea.
 # Rhyme=Yes
 1	Când	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	_
@@ -18841,7 +18841,7 @@
 10	auzea	auzi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	xcomp	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5235
+# sent_id = dev-6299
 # text = Îmi intră în casă zbirul, Vândui vaca, plătii birul.
 # Rhyme=Yes
 1	Îmi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	2	iobj	_	_
@@ -18857,7 +18857,7 @@
 11	birul	bir	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 12	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5236
+# sent_id = dev-6300
 # text = Am vândut cum am putut, Catârași pe gălbinași Dar de bir nu m-am plătit.
 # Rhyme=Yes
 1	Am	avea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	aux	_	_
@@ -18878,7 +18878,7 @@
 16	plătit	plăti	VERB	Vmp	VerbForm=Part	2	conj	_	SpaceAfter=No
 17	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5237
+# sent_id = dev-6301
 # text = Paște, murgule, paște, Paște să mi te-ngrași, Că am să te vând În târg la Buzău Pe chile de grâu.
 # Rhyme=Yes
 1	Paște	paște	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -18908,7 +18908,7 @@
 25	grâu	grâu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	23	nmod	_	Rhyme=ID21|SpaceAfter=No|Type=Imperf
 26	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5238
+# sent_id = dev-6302
 # text = La Gruia se slobozea, Frumușel că îl lega, În târg, Doamne, îl scotea, Să-l vândă ca rob voia!
 # Rhyme=Yes
 1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -18937,7 +18937,7 @@
 24	voia	voi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Rhyme=ID4,9,17|SpaceAfter=No|Type=Mono
 25	!	!	PUNCT	EXCL	_	4	punct	_	_
 
-# sent_id = dev-5239
+# sent_id = dev-6303
 # text = Eu iubii numai o dată Și m-a aflat lumea toată; Am iubit-o numai seara Și-a aflat târgul și țara.
 # Rhyme=Yes
 1	Eu	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	2	nsubj	_	_
@@ -18965,7 +18965,7 @@
 23	țara	țară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	conj	_	Rhyme=ID17|SpaceAfter=No|Type=Paired
 24	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5240
+# sent_id = dev-6304
 # text = M-a iubit neica pe-ascuns; Dar dușmanii ne-au văzut, S-au grăbit și rău ne-au spus.
 # Rhyme=Yes
 1	M	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	obj	_	SpaceAfter=No
@@ -18991,7 +18991,7 @@
 21	spus	spune	VERB	Vmp	VerbForm=Part	3	conj	_	Rhyme=ID6|SpaceAfter=No|Type=Imperf
 22	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5241
+# sent_id = dev-6305
 # text = Şi părinții, cum aflară, Tare rău se mâniară.
 # Rhyme=Yes
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
@@ -19006,7 +19006,7 @@
 10	mâniară	mânia	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5242
+# sent_id = dev-6306
 # text = Dă, Doamne, cui ai mai dat; Căci de-i da cui n-ai mai dat, S-o mira ce l-a aflat.
 # Rhyme=Yes
 1	Dă	da	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -19037,7 +19037,7 @@
 26	aflat	afla	VERB	Vmp	VerbForm=Part	22	xcomp	_	Rhyme=ID8,18|SpaceAfter=No|Type=Mono
 27	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5243
+# sent_id = dev-6307
 # text = Împrejuru-i adunați Ședeau turcii înarmați, Și pe rând se întreba, Că ce moarte i-ar afla?
 # Rhyme=Yes
 1	Împrejuru	Împrejuru	ADP	Spcg	AdpType=Prep|Case=Gen|Compound=Yes	2	case	_	SpaceAfter=No
@@ -19061,7 +19061,7 @@
 19	afla	afla	VERB	Vmn	VerbForm=Inf	12	ccomp	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
 20	?	?	PUNCT	QUEST	_	19	punct	_	_
 
-# sent_id = dev-5244
+# sent_id = dev-6308
 # text = Iorga încă o roată de mai da, Începea Corbea de striga.
 # Rhyme=Yes
 1	Iorga	Iorga	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -19078,7 +19078,7 @@
 12	striga	striga	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	Rhyme=ID7|SpaceAfter=No|Type=Paired
 13	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5245
+# sent_id = dev-6309
 # text = Am o grebliță cu cinci dințișori, Pe zi îmi trebe de o mie de ori.
 # Rhyme=Yes
 1	Am	avea	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -19099,7 +19099,7 @@
 16	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	11	obl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 17	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5246
+# sent_id = dev-6310
 # text = Că de când te știu pe tine, Nu-mi mai trebuiește nime.
 # Rhyme=Yes
 1	Că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	_
@@ -19117,7 +19117,7 @@
 13	nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	nsubj	_	Rhyme=ID7|SpaceAfter=No|Type=Imperf
 14	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
-# sent_id = dev-5247
+# sent_id = dev-6311
 # text = Să ne luăm d-o noapte bună, Că și mâine trebuiți La muncă să mai veniți.
 # Rhyme=Yes
 1	Să	să	PART	Qs	PartType=Sub	3	mark	_	_
@@ -19139,7 +19139,7 @@
 17	veniți	veni	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	csubj	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
 18	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5248
+# sent_id = dev-6312
 # text = Muma cea bună nu întreabă pe copii de le este foame, ci le dă mâncare.
 # Rhyme=No
 1	Muma	mumă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -19160,7 +19160,7 @@
 16	mâncare	mâncare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
 17	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5249
+# sent_id = dev-6313
 # text = Calul nu se întreabă dacă vrea orz.
 # Rhyme=No
 1	Calul	cal	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
@@ -19172,7 +19172,7 @@
 7	orz	orz	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5250
+# sent_id = dev-6314
 # text = Mult mă-ntreabă inima Când mă voi vedea cu ea.
 # Rhyme=Yes
 1	Mult	mult	ADV	Rg	_	3	advmod	_	_
@@ -19187,7 +19187,7 @@
 10	ea	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	8	obl	_	Rhyme=ID4|SpaceAfter=No|Type=Imperf
 11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5251
+# sent_id = dev-6315
 # text = Cine mi-a văzut, Cine a cunoscut Măicuță bătrână, Cu brâul de lână, Pe câmp alergând, De toți întrebând.
 # Rhyme=Yes
 1	Cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	_
@@ -19215,7 +19215,7 @@
 23	întrebând	întreba	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	19	conj	_	Rhyme=ID19|SpaceAfter=No|Type=Paired
 24	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5252
+# sent_id = dev-6316
 # text = La orice treabă, Pe Stan pățitul întreabă.
 # Rhyme=Yes
 1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -19228,7 +19228,7 @@
 8	întreabă	întreba	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	Rhyme=ID3|SpaceAfter=No|Type=Paired
 9	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
-# sent_id = dev-5253
+# sent_id = dev-6317
 # text = Uită-te la obraz Și nu mă întreba de necaz, Uită-te la față Și nu mă-ntreba de viață.
 # Rhyme=Yes
 1	Uită	uita	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -19254,7 +19254,7 @@
 21	viață	viață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	obl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 22	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5254
+# sent_id = dev-6318
 # text = Eu îl întreb de sănătos dacî-l întâlnesc.
 # Rhyme=No
 1	Eu	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	nsubj	_	_
@@ -19267,7 +19267,7 @@
 8	întâlnesc	întâlni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5255
+# sent_id = dev-6319
 # text = Cât au cheltuit întrebându-le, Lucrurile furate căutându-le, Nimic nu au aflat.
 # Rhyme=Yes
 1	Cât	cât	ADV	Rw	PronType=Int,Rel	3	advmod	_	_
@@ -19287,7 +19287,7 @@
 15	aflat	afla	VERB	Vmp	VerbForm=Part	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	15	punct	_	_
 
-# sent_id = dev-5256
+# sent_id = dev-6320
 # text = De la cela ce îți ia nu-ți întreba și nu cere înapoi.
 # Rhyme=No
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -19305,7 +19305,7 @@
 13	înapoi	înapoi	ADV	Rg	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5257
+# sent_id = dev-6321
 # text = Pușculița-mi ruginește, Ținta-n ghioagă se tocește, Murgul sare, nechezește.
 # Rhyme=Yes
 1	Pușculița	pușculiță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -19324,7 +19324,7 @@
 14	nechezește	necheza	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	Rhyme=ID3,9|SpaceAfter=No|Type=Mono
 15	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5258
+# sent_id = dev-6322
 # text = Murgule, murguțul meu, ce nechezi așa de greu?
 # Rhyme=Yes
 1	Murgule	murg	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	7	vocative	_	SpaceAfter=No
@@ -19339,7 +19339,7 @@
 10	greu	greu	ADV	Rg	_	7	advmod	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 11	?	?	PUNCT	QUEST	_	7	punct	_	_
 
-# sent_id = dev-5259
+# sent_id = dev-6323
 # text = Mergea Ghiță șuierând Și cu murgu nechezând.
 # Rhyme=Yes
 1	Mergea	merge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -19351,7 +19351,7 @@
 7	nechezând	necheza	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	acl	_	Rhyme=ID3|SpaceAfter=No|Type=Paired
 8	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5260
+# sent_id = dev-6324
 # text = Junghiule, pătrunchiule, Nu necheza ca caii, Nu zbiera ca vacile.
 # Rhyme=Yes
 1	Junghiule	junghi	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	6	vocative	_	Rhyme=ID3|SpaceAfter=No|Type=Intern
@@ -19369,7 +19369,7 @@
 13	vacile	vacă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5261
+# sent_id = dev-6325
 # text = Ce e lungă cât o drugă, Și de groasă ca o ceapă, Și nechează ca o iapă?
 # Rhyme=Yes
 1	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
@@ -19393,7 +19393,7 @@
 19	iapă	iapă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	Rhyme=ID13|SpaceAfter=No|Type=Paired
 20	?	?	PUNCT	QUEST	_	3	punct	_	_
 
-# sent_id = dev-5262
+# sent_id = dev-6326
 # text = Coțofană brează Pe munte nechează.
 # Rhyme=Yes
 1	Coțofană	coțofană	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -19403,7 +19403,7 @@
 5	nechează	necheza	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Rhyme=ID2|SpaceAfter=No|Type=Paired
 6	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5263
+# sent_id = dev-6327
 # text = Împărații și cu craii Fac cetățile cu anii, Și-ncă se mai nevoiesc De cu ziduri le -ntăresc.
 # Rhyme=Yes
 1	Împărații	împărat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -19427,7 +19427,7 @@
 19	-ntăresc	întări	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 20	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5264
+# sent_id = dev-6328
 # text = Muică, măiculița mea, Toate le-aș obișnui Și toate le-aș suferi, Numai una nu o pot, Să mă vorbească satul tot.
 # Rhyme=Yes
 1	Muică	muică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
@@ -19458,7 +19458,7 @@
 26	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	25	det	_	Rhyme=ID20|SpaceAfter=No|Type=Paired
 27	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5265
+# sent_id = dev-6329
 # text = Așa m-aș duce de pe aici, Că-mi par nopțile prea mici.
 # Rhyme=Yes
 1	Așa	așa	ADV	Rg	_	4	advmod	_	_
@@ -19477,7 +19477,7 @@
 14	mici	mic	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	11	xcomp	_	Rhyme=ID7|SpaceAfter=No|Type=Paired
 15	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5266
+# sent_id = dev-6330
 # text = Mândrii rău că i-o părea Că mă duc de lăngă ea.
 # Rhyme=Yes
 1	Mândrii	mândră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	iobj	_	_
@@ -19494,7 +19494,7 @@
 12	ea	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	9	obl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 13	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5267
+# sent_id = dev-6331
 # text = Fericită păsărea, Cântă pe o rămurea Și zboară pe unde vrea, Nu-i pasă de jalea mea!
 # Rhyme=Yes
 1	Fericită	ferici	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	2	amod	_	_
@@ -19518,7 +19518,7 @@
 19	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	Rhyme=ID2,7,12|SpaceAfter=No|Type=Mono
 20	!	!	PUNCT	EXCL	_	4	punct	_	_
 
-# sent_id = dev-5268
+# sent_id = dev-6332
 # text = Când am fost nevastă nouă, Auzeam când cade rouă, Și-acum n-aud nici când plouă.
 # Rhyme=Yes
 1	Când	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	_
@@ -19541,7 +19541,7 @@
 18	plouă	ploua	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	ccomp	_	Rhyme=ID5,10|SpaceAfter=No|Type=Mono
 19	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5269
+# sent_id = dev-6333
 # text = Ploaia plouă, iarba crește, Dorul mândrei mă topește.
 # Rhyme=Yes
 1	Ploaia	ploaie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -19556,7 +19556,7 @@
 10	topește	topi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5270
+# sent_id = dev-6334
 # text = N-am văzut verde frunzuță Ca la mândra-n grădinuță, Cât o ninge, cât o plouă, Ea e tot mândră și nouă.
 # Rhyme=Yes
 1	N-	nu	ADV	Qz	Polarity=Neg	3	advmod	_	SpaceAfter=No
@@ -19586,7 +19586,7 @@
 25	nouă	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	23	conj	_	Rhyme=ID18|SpaceAfter=No|Type=Paired
 26	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5271
+# sent_id = dev-6335
 # text = Nici m-a nins, nici m-a plouat, Nici floarea nu s-a uscat.
 # Rhyme=Yes
 1	Nici	nici	CCONJ	Ccssz	Polarity=Neg	4	cc:preconj	_	_
@@ -19607,7 +19607,7 @@
 16	uscat	usca	VERB	Vmp	VerbForm=Part	4	conj	_	Rhyme=ID9|SpaceAfter=No|Type=Paired
 17	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5272
+# sent_id = dev-6336
 # text = Geme că i- e greu, că-l plouă mereu, Că-l plouă de-l varsă, Codrului nu-i pasă.
 # Rhyme=Yes
 1	Geme	geme	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -19634,7 +19634,7 @@
 22	pasă	pasa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Rhyme=ID17|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5273
+# sent_id = dev-6337
 # text = Murgule, coamă rotată, Du-mă la mândra odată, Că ți-oi face grajd de piatră, Nici ploaia să nu te ploaie, Nici neaua să nu te ningă.
 # Rhyme=Yes
 1	Murgule	murg	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No
@@ -19671,7 +19671,7 @@
 32	ningă	ninge	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	SpaceAfter=No
 33	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5274
+# sent_id = dev-6338
 # text = Şi-n grădină mă duceam, Floricele sămănam.
 # Rhyme=Yes
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	SpaceAfter=No
@@ -19684,7 +19684,7 @@
 8	sămănam	semăna	VERB	Vmii1s	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 9	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5275
+# sent_id = dev-6339
 # text = Semănat-am mac în prag, Să vie cine mi-i drag.
 # Rhyme=Yes
 1	Semănat	semăna	VERB	Vmp	VerbForm=Part	0	root	_	SpaceAfter=No
@@ -19701,8 +19701,8 @@
 12	drag	drag	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	csubj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 13	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# newdoc id = Bostan Folk R.Moldova and Bucovina-5506-5606
-# sent_id = dev-5506
+# newdoc id = Bostan Folk R.Moldova and Bucovina-6569-6669
+# sent_id = dev-6569
 # text = În pădurea de la strungă, Măi Bujoare, măi, Stau haiduci cu cușma lungă.
 # Rhyme= Yes
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -19723,7 +19723,7 @@
 16	lungă	lung	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 17	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
-# sent_id = dev-5507
+# sent_id = dev-6570
 # text = Noi am venit pe stelele cerului, Pe semnele pământului, Pe aburii vântului, Așa am intrat la Dumneavoastră în casă, C-am văzut o stea verde unde se lasă, Ori steaua ne-o arătați, ori răspunsul ni-l dați.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
@@ -19772,7 +19772,7 @@
 44	dați	da	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	38	conj	_	Rhyme=ID38|SpaceAfter=No|Type=Paired
 45	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5508
+# sent_id = dev-6571
 # text = Ne-a trimis tânărul împărat pe lumina stelelor, S-o lăsat o stea luminoasă deasupra curților dumneavostră.
 # Rhyme= Yes
 1	Ne-	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	3	obj	_	SpaceAfter=No
@@ -19795,7 +19795,7 @@
 18	dumneavostră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|Polite=Form|PronType=Prs	17	nmod	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 19	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5509
+# sent_id = dev-6572
 # text = Noi după steaua ceea ne-am ohotit, S-a auzit că aveți o zână Catarână.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
@@ -19816,7 +19816,7 @@
 16	Catarână	Caterină	PROPN	Npfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	nmod	_	Rhyme=ID15|SpaceAfter=No|Type=Intern
 17	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5510
+# sent_id = dev-6573
 # text = Ori steaua a căzut aici, Ori fata s-a ascuns în această casă?
 # Rhyme= No
 1	Ori	ori	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	_
@@ -19835,7 +19835,7 @@
 14	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 15	?	?	PUNCT	QUEST	_	4	punct	_	_
 
-# sent_id = dev-5511
+# sent_id = dev-6574
 # text = Ori floarea ne-o arătați, Ori răspunsul ni-l dați.
 # Rhyme= Yes
 1	Ori	ori	CCONJ	Ccssp	Polarity=Pos	5	cc:preconj	_	_
@@ -19851,7 +19851,7 @@
 11	dați	da	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 12	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5512
+# sent_id = dev-6575
 # text = Pe din jos de Ostrița, Paște boii bădița, Boii pasc și iarba crește, Mirele întinerește, Boii pasc la iarbă verde, Mirele-n zadar nu șede.
 # Rhyme= Yes
 1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	mark	_	_
@@ -19886,7 +19886,7 @@
 30	șede	ședea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	Rhyme=ID24|SpaceAfter=No|Type=Paired
 31	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5513
+# sent_id = dev-6576
 # text = El cu mâna flori adună, Ilenuții de cantină, Cantină de busuioc Să i-o punem în noroc, cantină de iasomie, S-o pornească-n cununie, Cantină de mirtă creață, Să i-o slobozim pe față, Cantină de brebenoc, în două cu busuioc, Să i-o punem de noroc.
 # Rhyme= Yes
 1	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -19948,7 +19948,7 @@
 57	noroc	noroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	55	obl	_	Rhyme=ID45,50|SpaceAfter=No|Type=Mono
 58	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5514
+# sent_id = dev-6577
 # text = Mărioară, îți cântăm, Mândră cunună-ți gătăm, Şi pe cap că ți-o punem, Pe gene și pe sprâncene, Pe codița ochiului Să fie dragă mirelui, Mirelui și socrilor, Soacrei și cumnatelor, Cum ai fost părinților Cărora cu plecăciune Le ceri astăzi iertăciune Şi cu această cunună îți iei la ei ziua bună.
 # Rhyme= Yes
 1	Mărioară	Mărioara	NOUN	Ncfsvn	Case=Voc|Definite=Ind|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
@@ -20014,7 +20014,7 @@
 61	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	60	amod	_	Rhyme=ID55|SpaceAfter=No|Type=Paired
 62	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5515
+# sent_id = dev-6578
 # text = Frunză verde de mătasă, Poftim, măicuță, la masă, Luați acul din perete C-un fir de mătasă verde, Luați acul din fereastră Și-ncepeți cununa-a coasă Cunună de brebenoc Ca să fie de noroc.
 # Rhyme= Yes
 1	Frunză	frunză	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	vocative	_	_
@@ -20059,7 +20059,7 @@
 40	noroc	noroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	32	obl	_	Rhyme=ID35|SpaceAfter=No|Type=Paired
 41	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5516
+# sent_id = dev-6579
 # text = Veniți, măicuță, spre noi, Că la noi aici e bine, La noi cântă ciorile, Şi încep a împleti cunună de aur, Din brebenoc verde, Fetei s-o poarte pe cap Sâmbătă o singură oră, Duminică ziua-ntreagă.
 # Rhyme= No
 1	Veniți	veni	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -20109,7 +20109,7 @@
 45	-ntreagă	întreg	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	SpaceAfter=No
 46	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5517
+# sent_id = dev-6580
 # text = Ia, mamă, acul Şi-un fir de mătase roșie, Două frunze de brebenoc Fetei pentru cunună.
 # Rhyme= No
 1	Ia	lua	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -20133,7 +20133,7 @@
 19	cunună	cunună	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5518
+# sent_id = dev-6581
 # text = Copilă din doi părinți, La ce focul te măriți?
 # Rhyme= Yes
 1	Copilă	copilă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	vocative	_	_
@@ -20148,7 +20148,7 @@
 10	măriți	mărita	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 11	?	?	PUNCT	QUEST	_	10	punct	_	_
 
-# sent_id = dev-5519
+# sent_id = dev-6582
 # text = Ştii că socrul nu ți-i nene Să gândești că-i este jele, Şi soacra ta nu ți-i mamă, Să-ți ție cuvăntu-n samă, Şi bărbatul nu ți-i frate Să gândești că nu te-a bate.
 # Rhyme= Yes
 1	Ştii	ști	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20195,7 +20195,7 @@
 42	bate	bate	VERB	Vmn	VerbForm=Inf	37	ccomp	_	Rhyme=ID35|SpaceAfter=No|Type=Paired
 43	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5520
+# sent_id = dev-6583
 # text = Ai miluță de la nene, Făguraș dulce de miere Şi miluță de la mamă, Struțișor dulce de poamă, Şi milă de la surori, Struțișor verde de flori.
 # Rhyme= Yes
 1	Ai	avea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20231,7 +20231,7 @@
 31	flori	floare	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	28	nmod	_	Rhyme=ID26|SpaceAfter=No|Type=Paired
 32	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5521
+# sent_id = dev-6584
 # text = Dar mila de la cumnați, Frunză de molizi uscați, Şi milă de bărbat Ca frunza de păr uscat, Când te bagi să te umbrești, Şi mai tare te-negrești.
 # Rhyme= Yes
 1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	2	cc	_	_
@@ -20269,7 +20269,7 @@
 33	-negrești	înnegri	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	Rhyme=ID27|SpaceAfter=No|Type=Paired
 34	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5522
+# sent_id = dev-6585
 # text = Copilă din doi părinți, La ce dracii te măriți, Că bărbatul nu ți-i frate, Nu gândi că nu te-a bate, Ştii că soacra nu ți-i mamă, Nu gândi că nu-l îndeamnă.
 # Rhyme= Yes
 1	Copilă	copilă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	vocative	_	_
@@ -20314,7 +20314,7 @@
 40	îndeamnă	îndemna	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	ccomp	_	Rhyme=ID33|SpaceAfter=No|Type=Paired
 41	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5523
+# sent_id = dev-6586
 # text = Plângi, mireasă, și suspină, Că intri pe uși străine, Că bărbatul nu ți-i frate, Nu gândi că nu te-a bate.
 # Rhyme= Yes
 1	Plângi	plânge	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -20346,7 +20346,7 @@
 27	bate	bate	VERB	Vmn	VerbForm=Inf	22	ccomp	_	Rhyme=ID19|SpaceAfter=No|Type=Paired
 28	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5524
+# sent_id = dev-6587
 # text = Frunză verde mărăcină, Ie-ți, mireasă, ziua bună De la frați, de la surori, De la grădina cu flori, De la strat cu busuioc, De la feciorii din joc, De la strat de floricele Şi neamuri și vericele, De la frunza cea de brad, De la puiul cel lăsat, De la soare, de la lună, De la frunza cea de nuc, Rămâi, maică, eu mă duc.
 # Rhyme= Yes
 1	Frunză	frunză	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	vocative	_	_
@@ -20433,7 +20433,7 @@
 82	duc	duce	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	76	conj	_	Rhyme=ID74|SpaceAfter=No|Type=Paired
 83	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5525
+# sent_id = dev-6588
 # text = Rămâneți cu bine, Voi praguri ale casei mele, Pe care au călcat, Picioarele mele albe, Rămâneți cu bine, Voi dealuri și văi, Căci eu plec de la casa părintească.
 # Rhyme= Nu
 1	Rămâneți	rămâne	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
@@ -20473,7 +20473,7 @@
 35	părintească	părintesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	SpaceAfter=No
 36	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5526
+# sent_id = dev-6589
 # text = Bună vremea, cinstiți gospodari, Bine v-am găsit sănătoși Şi voioși Ca niște trandafiri faimoși.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -20495,7 +20495,7 @@
 17	faimoși	fnimoși	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	Rhyme=ID11,13|SpaceAfter=No|Type=Mono
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5527
+# sent_id = dev-6590
 # text = Bună vremea și dumitale, mireasă, Ce șezi în capul de masă, Drumul pe care te-ai pornit Să-ți fie în veci fericit.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -20526,7 +20526,7 @@
 26	fericit	ferici	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	conj	_	Rhyme=ID20|SpaceAfter=No|Type=Paired
 27	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5528
+# sent_id = dev-6591
 # text = Să nu vă fie cu bănat, Că pe la dumneavoastră am intrat, Că noi de trei zile îmblăm Şi pe dumneavoastră vă căutăm.
 # Rhyme= Yes
 1	Să	să	PART	Qs	PartType=Sub	4	mark	_	_
@@ -20556,7 +20556,7 @@
 25	căutăm	căuta	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	conj	_	Rhyme=ID20|SpaceAfter=No|Type=Paired
 26	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5529
+# sent_id = dev-6592
 # text = Mireasă oacheșă și frumoasă, Frumoasă și plăcută Ca prin inel trecută, Cu sprâncene subțirele, Ochi albaștri viorele, Buze rumenele Să se dezmierde mirele cu ele.
 # Rhyme= Yes
 1	Mireasă	mireasă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
@@ -20590,7 +20590,7 @@
 29	ele	el	PRON	Pp3fpa--------s	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Strong	26	obl	_	Rhyme=ID16,20,23|SpaceAfter=No|Type=Mono
 30	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5530
+# sent_id = dev-6593
 # text = Noi suntem de departe, De peste orașe și sate, Munți și mări am trecut, Multe drumuri am bătut, Drumuri mari și drumuri mici Până ce am ajuns aici, La a dumneavoastră casă Mare și luminoasă.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
@@ -20635,7 +20635,7 @@
 40	luminoasă	luminos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	38	conj	_	Rhyme=ID37|SpaceAfter=No|Type=Paired
 41	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5531
+# sent_id = dev-6594
 # text = Şi acuma ascultați Şi vă minunați.
 # Rhyme= Yes
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	_
@@ -20646,7 +20646,7 @@
 6	minunați	minuna	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	conj	_	Rhyme=ID3|SpaceAfter=No|Type=Paired
 7	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5532
+# sent_id = dev-6595
 # text = Tânărul nostru împărat Dimineața s-a sculat, Pe ochi negri s-a spălat, Părul și l-a pieptănat, Straie noi a îmbrăcat, Şi apoi Ne-a chemat pe noi Şi pe la răsărit de soare Am plecat la vânătoare.
 # Rhyme= Yes
 1	Tânărul	tânăr	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
@@ -20694,7 +20694,7 @@
 43	vânătoare	vânătoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	41	obl	_	Rhyme=ID39|SpaceAfter=No|Type=Paired
 44	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5533
+# sent_id = dev-6596
 # text = Tot am îmbiat Şi am tot vânat Cerul cu stelele, Şesul cu vâlcelele, Brădetul cu cetina Tufișul cu cătina Codrii cu fiarele Dumbrăvile cu izvoarele Munții cu pietrele Satele cu fetele.
 # Rhyme= Yes
 1	Tot	tot	ADV	Rg	_	3	advmod	_	_
@@ -20732,7 +20732,7 @@
 33	fetele	fată	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	31	nmod	_	Rhyme=ID30|SpaceAfter=No|Type=Paired
 34	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5534
+# sent_id = dev-6597
 # text = Şi-am dat de o urmă de zână, Să-i fie mirelui nostru cunună, Şi-am dat peste o floare aleasă, Să-i fie mirelui nostru mireasă, Și-am dat de o urmă de căprioară Să-i fie mirelui nostru soțioară, Și-am dat de-o pasăre măiastră, Să-i fie mirelui nostru nevastă.
 # Rhyme= Yes
 1	Şi-	și	CCONJ	Ccssp	Polarity=Pos	3	cc:preconj	_	SpaceAfter=No
@@ -20797,7 +20797,7 @@
 60	nevastă	nevastă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	49	advcl	_	Rhyme=ID53|SpaceAfter=No|Type=Paired
 61	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5535
+# sent_id = dev-6598
 # text = Bună dimineața, cinstiți socri mari, C-al nostru tânăr împărat Pe aici a mai îmblat, Bine sama că și-o dat O floricea și-a-nsemnat.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -20831,7 +20831,7 @@
 29	-nsemnat	însemna	VERB	Vmp	VerbForm=Part	17	conj	_	Rhyme=ID12,17,24|SpaceAfter=No|Type=Mono
 30	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5536
+# sent_id = dev-6599
 # text = Tânărul nostru-mpărat Grea oaste și-a ridicat.
 # Rhyme= Yes
 1	Tânărul	tânăr	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
@@ -20844,7 +20844,7 @@
 8	ridicat	ridica	VERB	Vmp	VerbForm=Part	0	root	_	Rhyme=ID3|SpaceAfter=No|Type=Paired
 9	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
-# sent_id = dev-5537
+# sent_id = dev-6600
 # text = Oastea cum și-a ridicat și poruncă că i-a dat Ca să plece la vânat, și nimica n-au aflat.
 # Rhyme= Yes
 1	Oastea	oaste	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -20871,7 +20871,7 @@
 22	aflat	afla	VERB	Vmp	VerbForm=Part	11	conj	_	Rhyme=ID5,11,16|SpaceAfter=No|Type=Mono
 23	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
-# sent_id = dev-5538
+# sent_id = dev-6601
 # text = Şi-au vânat Țara de sus Până colo spre apus.
 # Rhyme= Yes
 1	Şi-	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	SpaceAfter=No
@@ -20886,7 +20886,7 @@
 10	apus	apus	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5539
+# sent_id = dev-6602
 # text = Ajungând într-o poiană A dat de-o urmă de fiară.
 # Rhyme= Yes
 1	Ajungând	ajunge	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl:tcl	_	_
@@ -20902,7 +20902,7 @@
 11	fiară	fiară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	Rhyme=ID4|SpaceAfter=No|Type=Imperf
 12	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5540
+# sent_id = dev-6603
 # text = Să fie urmă de fiară Sau poate de zânișoară?
 # Rhyme= Yes
 1	Să	să	PART	Qs	PartType=Sub	2	mark	_	_
@@ -20916,7 +20916,7 @@
 9	zânișoară	zânișoară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 10	?	?	PUNCT	QUEST	_	2	punct	_	_
 
-# sent_id = dev-5541
+# sent_id = dev-6604
 # text = Din oști că ne-au ales Și-nainte ne-au trimes, Pe lumina stelelor, Pe mireasma florilor, Pe crângul cerului, Pe arborele vântului, Pe fața pământului Căprioara să-i prindem.
 # Rhyme= Yes
 1	Din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	_
@@ -20956,7 +20956,7 @@
 35	prindem	prinde	VERB	Vmsp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 36	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5542
+# sent_id = dev-6605
 # text = La această casă Mândră și frumoasă Steaua ni se lasă, Urma fiarei intră-n casă, Nouă răspuns să ne iasă.
 # Rhyme= Yes
 1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -20983,7 +20983,7 @@
 22	iasă	ieși	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	Rhyme=ID3,6,10,16|SpaceAfter=No|Type=Mono
 23	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5543
+# sent_id = dev-6606
 # text = Noi avem firman de la împărăție cu peceție C-a nostru răspuns este așa: Cine dorește a-l afla, Un colac de grâu dospit în șase împletit.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
@@ -21017,7 +21017,7 @@
 29	împletit	împleti	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	23	amod	_	Rhyme=ID26|SpaceAfter=No|Type=Paired
 30	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5544
+# sent_id = dev-6607
 # text = Bună dimineața, socru mare, Jupânul nostru mire, Sosindu-i vremea de-nsurat, în zori de zi s-au sculat, Apoi flintă-au încărcat, Din bucium au buciumat, Mulți voinici au adunat Și spre răsărit de soare Au plecat la vânătoare.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -21069,7 +21069,7 @@
 47	vânătoare	vânătoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	45	obl	_	Rhyme=ID43|SpaceAfter=No|Type=Paired
 48	.	.	PUNCT	PERIOD	_	23	punct	_	_
 
-# sent_id = dev-5545
+# sent_id = dev-6608
 # text = Şi-au vânat Țara de jos Fără de nici un folos.
 # Rhyme= Yes
 1	Şi-	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	SpaceAfter=No
@@ -21085,7 +21085,7 @@
 11	folos	folos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 12	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5546
+# sent_id = dev-6609
 # text = Au văzut lângă o floare O urmă de căprioară.
 # Rhyme= Yes
 1	Au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	aux	_	_
@@ -21099,7 +21099,7 @@
 9	căprioară	căprioară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	Rhyme=ID5|SpaceAfter=No|Type=Imperf
 10	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5547
+# sent_id = dev-6610
 # text = Pe cai au încălecat Şi pe drum au plecat, Pe vârtejul vântului, Pe fața pământului.
 # Rhyme= Yes
 1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -21121,7 +21121,7 @@
 17	pământului	pământ	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	Rhyme=ID13|SpaceAfter=No|Type=Paired
 18	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5548
+# sent_id = dev-6611
 # text = La această casă când am ajuns, Am văzut floricica pe fereastră Unde s-a ascuns.
 # Rhyme= Yes
 1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -21142,7 +21142,7 @@
 16	ascuns	ascunde	VERB	Vmp	VerbForm=Part	9	advcl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 17	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5549
+# sent_id = dev-6612
 # text = Acum ori floricica ne dați, Ori de noi nu scăpați.
 # Rhyme= Yes
 1	Acum	acum	ADV	Rg	_	5	advmod:tmod	_	_
@@ -21158,7 +21158,7 @@
 11	scăpați	scăpa	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 12	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5550
+# sent_id = dev-6613
 # text = Noi avem și întărire De la jupânul nostru mire cu pecete împărătească, Că avem un colac de schimbat.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
@@ -21182,7 +21182,7 @@
 19	schimbat	schimba	VERB	Vmp	VerbForm=Part	15	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5551
+# sent_id = dev-6614
 # text = Bună seara, gospodari, Noi suntem doi frați, Feciori de împărați, Am venit de la jupanul mire.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -21207,7 +21207,7 @@
 20	mire	mire	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5552
+# sent_id = dev-6615
 # text = El a adunat o armată mare, A pornit peste trei mări, S-a oprit la Țarigrad, A cumpărat totul ce-a văzut: Prosoape, cămăși, diamante Şi o oglindă Să se vadă-n ea.
 # Rhyme= No
 1	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -21251,7 +21251,7 @@
 39	ea	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	37	obl	_	SpaceAfter=No
 40	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5553
+# sent_id = dev-6616
 # text = Noi suntem doi fii firești, De la jupânul mire trimiși, Că jupânul mire dimineața s-a sculat, Din bucium a bucimat, Multă oaste a adunat Ș-a plecat Peste trei mări și trei țări în negre depărtări, Prin Țarigrad s-a plimbat, Haine scumpe a cumpărat, Şi-a ales ce-a fost mai frumos Ca să fie de folos.
 # Rhyme= Yes
 1	Noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
@@ -21322,7 +21322,7 @@
 66	folos	folos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	56	advcl	_	Rhyme=ID61|SpaceAfter=No|Type=Paired
 67	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5554
+# sent_id = dev-6617
 # text = Bradul se clatină, Fata se desparte de familie, Rămâi cu bine, familie dragă, Rămâneți cu bine, mamă și tată.
 # Rhyme= No
 1	Bradul	brad	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -21351,7 +21351,7 @@
 24	tată	tată	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5555
+# sent_id = dev-6618
 # text = Priviți la acești copii Ce și-au aplecat capetele Şi așteaptă să-i blagosloviți.
 # Rhyme= No
 1	Priviți	privi	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
@@ -21370,7 +21370,7 @@
 14	blagosloviți	blagoslovi	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp	_	SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5556
+# sent_id = dev-6619
 # text = Nu-ți cer, părinte dragă, care m-ai crescut, nici aur și nici argint.
 # Rhyme= No
 1	Nu-	nu	ADV	Qz	Polarity=Neg	3	advmod	_	SpaceAfter=No
@@ -21392,7 +21392,7 @@
 17	argint	argint	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5557
+# sent_id = dev-6620
 # text = Îți cer, părinte, care m-ai crescut, Marea ta blagoslovire, Blagoslovește, părinte, care m-ai crescut, Să pot pleca pe drumul ales.
 # Rhyme= No
 1	Îți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	2	iobj	_	_
@@ -21426,7 +21426,7 @@
 29	ales	alege	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5558
+# sent_id = dev-6621
 # text = Ascultați aceste cuvinte, Căci unde s-a pomenit, așa mari fii să crească, Şi înaintea părinților să nu greșească: Fiii dumneavoastră așteaptă Iertarea noastră.
 # Rhyme= Yes
 1	Ascultați	asculta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
@@ -21459,7 +21459,7 @@
 28	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	27	det	_	SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5559
+# sent_id = dev-6622
 # text = Bucură-te, soacră mare, Ai o noră ca o floare, Cea mai harnică din sat La dormit și la mâncat.
 # Rhyme= Yes
 1	Bucură-	bucura	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -21487,7 +21487,7 @@
 23	mâncat	mânca	VERB	Vmp	VerbForm=Part	20	conj	_	Rhyme=ID18|SpaceAfter=No|Type=Paired
 24	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5560
+# sent_id = dev-6623
 # text = Soacră mare, ieși în prag, Ți-am adus ce ți-a fost drag.
 # Rhyme= Yes
 1	Soacră	soacră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	vocative	_	_
@@ -21507,7 +21507,7 @@
 15	drag	drag	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	ccomp	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 16	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5561
+# sent_id = dev-6624
 # text = Ieși, măicuță, la căruță Şi ia nora de mânuță.
 # Rhyme= Yes
 1	Ieși	ieși	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -21523,7 +21523,7 @@
 11	mânuță	mânuță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	Rhyme=ID3,6|SpaceAfter=No|Type=Mono
 12	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5562
+# sent_id = dev-6625
 # text = Ieși afară, soacră mare, Că-ți aduc pieptănătoare.
 # Rhyme= Yes
 1	Ieși	ieși	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
@@ -21538,7 +21538,7 @@
 10	pieptănătoare	pieptănătoare	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	9	obj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5563
+# sent_id = dev-6626
 # text = Ți-am adus o noră tare, Să-ți ajute la căldare, Să-ți ajute la ciubăr, Şi la scărmănat de păr.
 # Rhyme= Yes
 1	Ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	3	iobj	_	SpaceAfter=No
@@ -21567,7 +21567,7 @@
 24	păr	păr	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	22	nmod:pmod	_	Rhyme=ID18|SpaceAfter=No|Type=Paired
 25	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5564
+# sent_id = dev-6627
 # text = Când grăiește, miorlăiește, Când bea apă se stropește, Asta-i mică și blajină, Şi-ar fi bună gospodină.
 # Rhyme= Yes
 1	Când	când	ADV	Rw	PronType=Int,Rel	2	advmod:tmod	_	_
@@ -21594,7 +21594,7 @@
 22	gospodină	gospodină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	conj	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5565
+# sent_id = dev-6628
 # text = Fața-i albă ca păharul, Gura dulce ca zâharul, Ochii negri ca neghina, Gura dulce ca smochina.
 # Rhyme= Yes
 1	Fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -21619,7 +21619,7 @@
 20	smochina	smochină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 21	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5566
+# sent_id = dev-6629
 # text = Frunză verde clocotici, Ian ghiciți ce am aici: Ori găină, ori cucoș Pentru acești părinți frumoși.
 # Rhyme= Yes
 1	Frunză	frunză	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	vocative	_	_
@@ -21643,7 +21643,7 @@
 19	frumoși	frumos	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	18	amod	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 20	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5567
+# sent_id = dev-6630
 # text = Săraca găină sură, Cum îmbla pe după șură, Cum îmbla pe după casă, Dar acum doarme pe masă.
 # Rhyme= Yes
 1	Săraca	sărac	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -21669,7 +21669,7 @@
 21	masă	masă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	obl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 22	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5568
+# sent_id = dev-6631
 # text = Faceți-mi locul mai larg, Să mă cobor de pe prag, Să mă duc la nănașa Ca să dau găinușa.
 # Rhyme= Yes
 1	Faceți	face	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -21696,7 +21696,7 @@
 22	găinușa	găinușă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	obj	_	Rhyme=ID18|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5569
+# sent_id = dev-6632
 # text = Găinușa porumbacă N-aș schimba-o nici pe-o vacă, Vaca trebuiește mulsă, Găina la masă dusă, Moșia trebe lucrată, Găina la masă dată, Moșia trebe cosită, Găina trebe-mpărțită.
 # Rhyme= Yes
 1	Găinușa	găinușă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
@@ -21737,7 +21737,7 @@
 36	-mpărțită	împărți	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	5	conj	_	Rhyme=ID32|SpaceAfter=No|Type=Paired
 37	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5570
+# sent_id = dev-6633
 # text = Nuna noastră-i sprâncenată, Iar cocoșul cu pene sure, Ieri scurma pe-afară, Iar în noaptea asta-i în oală, Şi în farfuria dinaintea nunei mari.
 # Rhyme= No
 1	Nuna	nună	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -21772,7 +21772,7 @@
 30	mari	mare	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	SpaceAfter=No
 31	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5571
+# sent_id = dev-6634
 # text = Nuntă-n casă de trei zile, Mirele nu-i nicăierea, Mireasa șade la masă, Mirele nu intră-n casă.
 # Rhyme= Yes
 1	Nuntă	nuntă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -21799,7 +21799,7 @@
 22	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5572
+# sent_id = dev-6635
 # text = Cum de nu ți-i cu bănat Că departe le-ai măritat, La căsuța mirelui, În fundul pământului, Unde vântul nu bate, Nici soarele nu arde Nici pasărea nu cântă.
 # Rhyme= Yes
 1	Cum	cum	ADV	Rw	PronType=Int,Rel	7	advmod	_	_
@@ -21838,7 +21838,7 @@
 34	cântă	cânta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	conj	_	SpaceAfter=No
 35	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5573
+# sent_id = dev-6636
 # text = Surioară, dragă surioară, Ce frumos te-ai îmbrăcat, Parcă te-au înveșmântat de nuntă.
 # Rhyme= Yes
 1	Surioară	surioară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	vocative	_	Rhyme=ID4|SpaceAfter=No|Type=Rep
@@ -21860,7 +21860,7 @@
 17	nuntă	nuntă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5574
+# sent_id = dev-6637
 # text = Scoală și te uită Cum te-am împodobit, Surioara mea, surioară, Cât de întuneric și urât ți-a fi într-o căsuță atât de mică, Acolo nu-s nici uși, nici ferești, Nici vânt, nici soare.
 # Rhyme= No
 1	Scoală	scula	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
@@ -21908,7 +21908,7 @@
 43	soare	soare	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	34	conj	_	SpaceAfter=No
 44	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5575
+# sent_id = dev-6638
 # text = Te duci, porumbița noastră, la pieptul negrului pământ, La casa fără ferești, Unde nu se uită soarele, Unde nu pătrund niciodată razele lui.
 # Rhyme= No
 1	Te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	2	expl:pv	_	_
@@ -21941,7 +21941,7 @@
 28	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5576
+# sent_id = dev-6639
 # text = Bună casă ai avut, Şi ea nici că ți-a plăcut, Acum alta ți-ai făcut, Fără uși, fără ferești, în ea ca să viețuiești, Fără pari, fără nuiele, Plină toată tot de jele, Nu are uși de ieșit, Nici fereastră de privit, Nu-s nici flori de înflorit, Nici boboci de-mbobocit, Numai loc de veștezit.
 # Rhyme= Yes
 1	Bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -22016,7 +22016,7 @@
 70	veștezit	veștezi	VERB	Vmp	VerbForm=Part	68	acl	_	Rhyme=ID48,53,60,65|SpaceAfter=No|Type=Mono
 71	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5577
+# sent_id = dev-6640
 # text = Dragele mamei sprâncene, Cum s-or face buruiene, Dragii mamei ochișori, Cum or crește bozișori, Dragele mamei mânuțe, Că n-or mai face trebuțe.
 # Rhyme= Yes
 1	Dragele	dragă	ADJ	Afpfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
@@ -22050,7 +22050,7 @@
 29	trebuțe	trebuță	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	28	obj	_	Rhyme=ID22|SpaceAfter=No|Type=Paired
 30	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
-# sent_id = dev-5578
+# sent_id = dev-6641
 # text = Draga noastră ca o floare, Ți-ai pus trupul la răcoare.
 # Rhyme= Yes
 1	Draga	drag	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	vocative	_	_
@@ -22067,7 +22067,7 @@
 12	răcoare	răcoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 13	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
-# sent_id = dev-5579
+# sent_id = dev-6642
 # text = Când ți-a fi cămașa neagră, S-o trimiți ca să ți-o spăl, Nici cu spumă de săpun, Nici cu apă de izvor, Cu lăcrimioare de-ale mele, Care le-oi umplea de jele, Şi oi pune-o la uscat, Pe-o creangă de liliac, Şi le-oi strânge-n păturele Să ai tu noroc de ele.
 # Rhyme= Yes
 1	Când	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	_
@@ -22138,7 +22138,7 @@
 66	ele	el	PRON	Pp3fpa--------s	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Strong	64	nmod	_	Rhyme=ID60|SpaceAfter=No|Type=Paired
 67	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5580
+# sent_id = dev-6643
 # text = Florile or înflori, Codrii toți or înverzi, Numai tu n-o să-nflorești, Ci mergi ca să putrezești.
 # Rhyme= Yes
 1	Florile	floare	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
@@ -22164,7 +22164,7 @@
 21	putrezești	putrezi	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 22	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5581
+# sent_id = dev-6644
 # text = Că mămuca când ar ști C-acest loc l-ai părăsi, Și-napoi iar ai veni, Cărărușa ți-ar plivi De iarbă și de mohor Să știi că-i e tare dor.
 # Rhyme= Yes
 1	Că	că	SCONJ	Csssp	Polarity=Pos	22	mark	_	_
@@ -22203,7 +22203,7 @@
 34	dor	dor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	32	nsubj	_	Rhyme=ID27|SpaceAfter=No|Type=Paired
 35	.	.	PUNCT	PERIOD	_	22	punct	_	_
 
-# sent_id = dev-5582
+# sent_id = dev-6645
 # text = Țintirime, țintirime, Frumoasă gospodină-ți vine, Dar nu vine să-nflorească, Că vine să putrezească.
 # Rhyme= Yes
 1	Țintirime	țintirim	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	8	vocative	_	Rhyme=ID3|SpaceAfter=No|Type=Rep
@@ -22227,7 +22227,7 @@
 19	putrezească	putrezi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 20	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
-# sent_id = dev-5583
+# sent_id = dev-6646
 # text = Moarte, moarte, rea mai ești, Tu acolo năzuiești, Unde nu mai trebuiești, Că ne-ai pus mâna pe grindă Şi ne-ai făcut larg în tindă, Că ne-ai pus mâna pe scară Şi ne-ai făcut larg pe-afară, Și-ai pus picioarele prag Şi-ai luat ce ne-a fost drag Şi-ai pus coatele-n fereastră Şi-ai luat mila din casă.
 # Rhyme= Yes
 1	Moarte	moarte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	vocative	_	Rhyme=ID3|SpaceAfter=No|Type=Rep
@@ -22304,7 +22304,7 @@
 72	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	69	obl	_	Rhyme=ID66|SpaceAfter=No|Type=Imperf
 73	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5584
+# sent_id = dev-6647
 # text = Nu mi te lua după ape, că apele-s ducătoare, Și-napoi nentorcătoare.
 # Rhyme= Yes
 1	Nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	_
@@ -22324,7 +22324,7 @@
 15	nentorcătoare	întorcător	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	11	conj	_	Rhyme=ID11|SpaceAfter=No|Type=Paired
 16	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
-# sent_id = dev-5585
+# sent_id = dev-6648
 # text = Mai ia-mi-te după soare, Că soarele-i ducător Și-napoi întorcător.
 # Rhyme= Yes
 1	Mai	mai	ADV	Rg	_	2	advmod	_	_
@@ -22343,7 +22343,7 @@
 14	întorcător	întorcător	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	conj	_	Rhyme=ID11|SpaceAfter=No|Type=Paired
 15	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
-# sent_id = dev-5586
+# sent_id = dev-6649
 # text = Sub o țărnă de pământ este un bujor înflorit Toată lumea l-a urât Dumneata l-ai îndrăgit.
 # Rhyme= Yes
 1	Sub	sub	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -22366,7 +22366,7 @@
 18	îndrăgit	îndrăgi	VERB	Vmp	VerbForm=Part	6	conj	_	Rhyme=ID9|SpaceAfter=No|Type=Cross
 19	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5587
+# sent_id = dev-6650
 # text = Mare negură s-a lăsat, Şi la noi în casă a intrat Pe tăicuța l-a luat.
 # Rhyme= Yes
 1	Mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
@@ -22389,7 +22389,7 @@
 18	luat	lua	VERB	Vmp	VerbForm=Part	5	conj	_	Rhyme=ID5,13|SpaceAfter=No|Type=Mono
 19	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5588
+# sent_id = dev-6651
 # text = Toată vara mi-ai lucrat Pentru trei scânduri de brad Şi tu mult mi-ai muncit Pentru trei coți de pământ.
 # Rhyme= Yes
 1	Toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	2	det	_	_
@@ -22415,7 +22415,7 @@
 21	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	Rhyme=ID16|SpaceAfter=No|Type=Imperf
 22	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5589
+# sent_id = dev-6652
 # text = Câte dealuri ai suit, Pe toate le-ai coborât, Da pe ist care îl sui înapoi n-ai să-l cobori.
 # Rhyme= Yes
 1	Câte	cât	DET	Dw3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel	2	det	_	_
@@ -22443,7 +22443,7 @@
 23	cobori	coborî	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	SpaceAfter=No
 24	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
-# sent_id = dev-5590
+# sent_id = dev-6653
 # text = Sunt stele tare multe Mari și mici și mai mărunte, Dar ca luna nu-i niciuna, Mare, una între stele mândră, luminoasă, Ca mândra mea de frumoasă.
 # Rhyme= Yes
 1	Sunt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -22480,7 +22480,7 @@
 32	frumoasă	frumos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	24	conj	_	Rhyme=ID26|SpaceAfter=No|Type=Paired
 33	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5591
+# sent_id = dev-6654
 # text = La portița dragei mele, Răsărit-au două stele: Una-i ea și una-s eu, Dorul meu și dorul tău.
 # Rhyme= Yes
 1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -22508,7 +22508,7 @@
 23	tău	tău	DET	Ds2ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	22	det	_	Rhyme=ID17|SpaceAfter=No|Type=Imperf
 24	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5592
+# sent_id = dev-6655
 # text = Nu e niciuna dintre stele ca ochii mândruții mele, Parcă-ar fi ruptă din soare.
 # Rhyme= Yes
 1	Nu	nu	ADV	Qz	Polarity=Neg	7	advmod	_	_
@@ -22529,7 +22529,7 @@
 16	soare	soare	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
 17	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5593
+# sent_id = dev-6656
 # text = Cu ochi albaștri ca seninul, Așa e mândra mea la față ca soarele dimineața.
 # Rhyme= Yes
 1	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -22549,7 +22549,7 @@
 15	dimineața	dimineața	ADV	Rg	_	14	advmod	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
 16	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5594
+# sent_id = dev-6657
 # text = După ochi ca murele, Ocolii pădurile.
 # Rhyme= Yes
 1	După	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	_
@@ -22561,7 +22561,7 @@
 7	pădurile	pădure	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	obj	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
 8	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
-# sent_id = dev-5595
+# sent_id = dev-6658
 # text = Sprâncenele tale Pene-s de privighetoare.
 # Rhyme= Yes
 1	Sprâncenele	sprânceană	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
@@ -22572,7 +22572,7 @@
 6	privighetoare	privighetoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	Rhyme=ID2|SpaceAfter=No|Type=Imperf
 7	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
-# sent_id = dev-5596
+# sent_id = dev-6659
 # text = Așa-i mândra mea la față, ca rouă de dimineață (ori de iarbă creață).
 # Rhyme= Yes
 1	Așa	așa	ADV	Rg	_	0	root	_	SpaceAfter=No
@@ -22594,7 +22594,7 @@
 17	)	)	PUNCT	RPAR	_	15	punct	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5597
+# sent_id = dev-6660
 # text = Așa-i mândra mea la ochi, ca roua pe busuioc, Așa-i mândra uneori Ca și roua de pe flori.
 # Rhyme= Yes
 1	Așa	așa	ADV	Rg	_	0	root	_	SpaceAfter=No
@@ -22621,7 +22621,7 @@
 22	flori	floare	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	19	nmod	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
 23	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5598
+# sent_id = dev-6661
 # text = Așa-s ei la ochișori, ca roua de pe bujori, Şi la ochi și la sprâncene ca roua pe viorele, ca doi hulubași la pene.
 # Rhyme= Yes
 1	Așa	așa	ADV	Rg	_	0	root	_	SpaceAfter=No
@@ -22654,7 +22654,7 @@
 28	pene	peană	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	26	nmod	_	Rhyme=ID18,22|SpaceAfter=No|Type=Paired
 29	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5599
+# sent_id = dev-6662
 # text = Câtă boală-i pe sub lună, nu-i ca dorul de nebună.
 # Rhyme= Yes
 1	Câtă	cât	DET	Dw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	2	det	_	_
@@ -22672,7 +22672,7 @@
 13	nebună	nebună	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 14	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
-# sent_id = dev-5600
+# sent_id = dev-6663
 # text = Că dorul unde se pune, Face inima cărbune.
 # Rhyme= Yes
 1	Că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	_
@@ -22686,7 +22686,7 @@
 9	cărbune	cărbune	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	xcomp	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 10	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5601
+# sent_id = dev-6664
 # text = Că dorul unde se lasă, Face lacrimelor casă.
 # Rhyme= Yes
 1	Că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	_
@@ -22700,7 +22700,7 @@
 9	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 10	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5602
+# sent_id = dev-6665
 # text = Dorul ista-i mare câne, rău te mușcă și te țâne.
 # Rhyme= Yes
 1	Dorul	dor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -22717,7 +22717,7 @@
 12	țâne	ține	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 13	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
-# sent_id = dev-5603
+# sent_id = dev-6666
 # text = Numai luna și o stea, Ştie de patima mea.
 # Rhyme= Yes
 1	Numai	numai	ADV	Rg	_	2	advmod	_	_
@@ -22732,7 +22732,7 @@
 10	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	9	det	_	rRhyme=ID5|SpaceAfter=No|Type=Paired
 11	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
-# sent_id = dev-5604
+# sent_id = dev-6667
 # text = De-ar fi dorul ca pădurea, Eu l-aș tăia cu securea.
 # Rhyme= Yes
 1	De-	de	SCONJ	Csssp	Polarity=Pos	6	mark	_	SpaceAfter=No
@@ -22750,7 +22750,7 @@
 13	securea	secure	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	Rhyme=ID6|SpaceAfter=No|Type=Paired
 14	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
-# sent_id = dev-5605
+# sent_id = dev-6668
 # text = Bate vântul, iarba culcă Dorul mândrei mă usucă.
 # Rhyme= Yes
 1	Bate	bate	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -22764,7 +22764,7 @@
 9	usucă	usca	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 10	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
-# sent_id = dev-5606
+# sent_id = dev-6669
 # text = Amară-i frunza de nuc, Mai amar dorul ce-l duc.
 # Rhyme= Yes
 1	Amară	amar	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

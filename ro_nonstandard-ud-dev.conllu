@@ -7188,7 +7188,7 @@
 18	omorî	omorî	VERB	Vmn	VerbForm=Inf	6	conj	_	ref=MATT23.34|SpaceAfter=No
 19	-veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	18	aux	_	ref=MATT23.34
 20	și	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT23.34
-21	răstigni	răstigni	VERB	Vmn	VerbForm=Inf	18	conj	_	ref=MATT23.34|SpaceAfter=No|SpaceAfter=No
+21	răstigni	răstigni	VERB	Vmn	VerbForm=Inf	18	conj	_	ref=MATT23.34|SpaceAfter=No
 22	-veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	21	aux	_	ref=MATT23.34
 23	și	și	CCONJ	Ccssp	Polarity=Pos	27	cc	_	ref=MATT23.34
 24	dintr-	dintru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	25	case	_	ref=MATT23.34|SpaceAfter=No
@@ -19739,7 +19739,7 @@
 11	,	,	PUNCT	COMMA	_	13	punct	_	_
 12	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	aburii	abur	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	conj	_	_
-14	vântului	vânt	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=Rhyme=ID6,10|SpaceAfter=No|Type=Mono
+14	vântului	vânt	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	Rhyme=ID6,10|SpaceAfter=No|Type=Mono
 15	,	,	PUNCT	COMMA	_	18	punct	_	_
 16	Așa	așa	ADV	Rg	_	18	advmod	_	_
 17	am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	18	aux	_	_

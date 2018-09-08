@@ -31,7 +31,7 @@ Cenel Augusto Perez - Romanian Folclore, 230 sentences.
 Victoria Bobicev  - Moldovan Folklore
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova),
 
-Cătălin Mitielu (Ro) (Author of the TREEOPS (XML converter from the UAIC format in UD format) (Colhon 2017, Mărănduc 2018).
+Cătălin Mititelu (Ro) (Author of the TREEOPS (XML converter from the UAIC format in UD format) (Colhon 2017, Mărănduc 2018).
 
 Florinel Hociung (Ro) (Author of the Treebank Multiformat Annotator interface) (Mărănduc 2017a).
 

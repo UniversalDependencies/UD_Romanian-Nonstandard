@@ -45,18 +45,17 @@ Grigore C. Bostan The Romanian folk poetry in the Carpathian-Nistrian - lasi: Ca
 
 # References
 
-Bobicev, Victoria, Tudor Bumbu, Victoria Lazu, Victoria Maxim, Daniela Istrati, 2016. Folk poetry for computers: Moldovan Codri’s ballads parsing. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, pp. 39-50.
+Victoria Bobicev, Tudor Bumbu, Victoria Lazu, Victoria Maxim, Daniela Istrati, 2016. Folk poetry for computers: Moldovan Codri’s ballads parsing. Proceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, pp. 39-50.
 
-Cojocaru, Svetlana, Alexander Colesnicov, and Ludmila Malahov, 2017. Digitization of Old Romanian
-Texts Printed in the Cyrillic Script. In Proceedings of International Conference on Digital Access to Textual Cultural Heritage. pages 143–148.
+Svetlana Cojocaru, Alexander Colesnicov, and Ludmila Malahov, 2017. Digitization of Old Romanian Texts Printed in the Cyrillic Script. In Proceedings of International Conference on Digital Access to Textual Cultural Heritage. pages 143–148.
 
-Colhon, Mihaela, Cătălina Mărănduc and Cătălin Mititelu, 2017. A Multiform Balanced Dependency Treebank for Romanian, in Proceedings of Knowledge Resources for the Socio-Economic Sciences and Humanities, (KnowRSH), Varna, Bulgaria September 8, 2017 workshop at the Recent Advances in Natural Language Processing (RANLP) p. 9-19.
+Mihaela Colhon, Cătălina Mărănduc and Cătălin Mititelu, 2017. A Multiform Balanced Dependency Treebank for Romanian, in Proceedings of Knowledge Resources for the Socio-Economic Sciences and Humanities, (KnowRSH), Varna, Bulgaria September 8, 2017 workshop at the Recent Advances in Natural Language Processing (RANLP) p. 9-19.
 
-Colesnicov, Alexander, Ludmila Malahov, Tudor Bumbu, 2016. Digitization of Romanian Printed Texts of the 17-th Century. roceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, p. 3-11.
+Alexander Colesnicov, Ludmila Malahov, Tudor Bumbu, 2016. Digitization of Romanian Printed Texts of the 17-th Century. roceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, p. 3-11.
 
-Mărănduc, Cătălina Perez, Cenel-Augusto, 2015. A Romanian Dependency Treebank. In International Journal of Computational Linguistics and Applications, vol. 6, no. 2, issue July-December 2015, p. 25–40
+Cătălina Mărănduc, Cenel-Augusto Perez, 2015. A Romanian Dependency Treebank. In International Journal of Computational Linguistics and Applications, vol. 6, no. 2, issue July-December 2015, p. 25–40
 
-Mărănduc, Cătălina, Malahov, Ludmila, Perez, Cenel-Augusto, Colesnicov, Alexander, 2016. ”RoDia project of a regional and historical corpus for Romanian” in Proceedings of MFOI, Chisinau, p. 268-284.
+Cătălina Mărănduc, Ludmila Malahov, Cenel-Augusto Perez, Alexander Colesnicov, 2016. ”RoDia project of a regional and historical corpus for Romanian” in Proceedings of MFOI, Chisinau, p. 268-284.
 
 Cătălina Mărănduc, Florinel Hociung, Victoria Bobicev, 2017a. Treebank Annotator for multiple formats and conventions. In Proceedings of The 4th Conference of Mathematical and Computer Science Society of the Republic of Moldova, Chisinau, Republic of Moldova, June 28 – July 2, 2017, p. 529-534
 
@@ -66,9 +65,9 @@ Cătălina Mărănduc, Victoria Bobicev. 2017c. Non Standard Treebank Romania �
 
 Cătălina Mărănduc, Cătălin Mititelu, Victoria Bobicev. 2018 Syntactic Semantic Correspondence in Dependency Grammar – in Proceeding of 16th International Workshop on Treebanks and Linguistic Theories Prague, Jan. 23-24
 
-Perez, Cenel-Augusto, 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Al. I. Cuza University, Iași.
+Cenel-Augusto Perez, 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Al. I. Cuza University, Iași.
 
-Perez, Cenel-Augusto, Cătălina Mărănduc, and Radu Simionescu, 2016. Social media – processing romanian chats and discourse analysis. Computación y Sistemas 20(3):404–414.
+Cenel-Augusto Perez, Cătălina Mărănduc, and Radu Simionescu, 2016. Social media – processing romanian chats and discourse analysis. Computación y Sistemas 20(3):404–414.
 
 # Changelog
 

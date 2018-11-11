@@ -3,11 +3,11 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 01ad05edad8d9a931fd761dd58f2ca5c5936e428
+commit 17351a01dff3ec4b555cafeea9a7111bc3c00b26
+Merge: 6566a43 3e6f226
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Jun 20 20:28:22 2018 +0200
-Size: counted 137916 of 137916 words (nodes).
-Size: min(0, log((N/1000)**2)) = 9.85328960834924.
+Size: counted 195055 of 195055 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.5465631401536.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,12 +15,12 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 111611 out of 137916 total words have one or more features.
+Features: 157820 out of 195055 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 3102 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 137916 words.
+Udapi: found 5266 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 195055 words.
 Genres: found 2 out of 17 known.
 validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.713204884250122) = 0.182873047243621
+(weight=0.256410256410256) * (score{size}=0.763385695802159) = 0.195739922000553
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.775080483772731) = 0.238486302699302
+(weight=0.307692307692308) * (score{udapi}=0.730024864781728) = 0.224623035317455
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.715909103316206) * (availability=1) * (validity=1) = 0.715909103316206
+(TOTAL score=0.714912710691291) * (availability=1) * (validity=1) = 0.714912710691291
 STARS = 3.5
-UD_Romanian-Nonstandard	0.715909103316206	3.5
+UD_Romanian-Nonstandard	0.714912710691291	3.5

@@ -4970,7 +4970,7 @@
 18	da	da	VERB	Vmn	VerbForm=Inf	8	conj	_	ref=MATT21.43
 19	păgînilor	păgân	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	18	iobj	_	ref=MATT21.43|SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	23	punct	_	ref=MATT21.43
-21	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	23	msubj	_	ref=MATT21.43
+21	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	23	nsubj	_	ref=MATT21.43
 22	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	23	aux	_	ref=MATT21.43
 23	face	face	VERB	Vmn	VerbForm=Inf	19	acl	_	ref=MATT21.43
 24	rodul	rod	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	obj	_	ref=MATT21.43
@@ -4995,7 +4995,7 @@
 13	,	,	PUNCT	COMMA	_	19	punct	_	ref=MATT21.44
 14	iară	iar	CCONJ	Ccssp	Polarity=Pos	19	cc	_	ref=MATT21.44
 15	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MATT21.44
-16	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	18	mark	_	ref=MATT21.44
+16	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	18	obl	_	ref=MATT21.44
 17	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	ref=MATT21.44
 18	cădea	cădea	VERB	Vmn	VerbForm=Inf	19	ccomp:pmod	_	ref=MATT21.44
 19	frînge	frânge	VERB	Vmn	VerbForm=Inf	10	conj	_	ref=MATT21.44|SpaceAfter=No
@@ -5039,9 +5039,9 @@
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT21.46
 11	dihanie	dihanie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod:pmod	_	ref=MATT21.46
 12	căce	căci	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	16	mark	_	ref=MATT21.46
-13	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	16	xcomp	_	ref=MATT21.46
+13	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT21.46
 14	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	15	det	_	ref=MATT21.46
-15	proroc	proroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	advmod	_	ref=MATT21.46
+15	proroc	proroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	16	xcomp	_	ref=MATT21.46
 16	ținea	ține	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	ref=MATT21.46
 17	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MATT21.46
 18	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	16	obj	_	ref=MATT21.46|SpaceAfter=No
@@ -5332,7 +5332,7 @@
 8	strinsără	strânge	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT22.10
 9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT22.10
 10	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	nmod:pmod	_	ref=MATT22.10
-11	cîți	cât	PRON	Pw3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	12	mark	_	ref=MATT22.10
+11	cîți	cât	PRON	Pw3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	12	obj	_	ref=MATT22.10
 12	aflară	afla	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	ref=MATT22.10|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT22.10
 14	răi	rău	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	ref=MATT22.10
@@ -6007,9 +6007,9 @@
 2	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	3	det	_	ref=MATT22.39
 3	doa	doilea	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	0	root	_	ref=MATT22.39|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT22.39
-5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	mark	_	ref=MATT22.39
+5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	ref=MATT22.39
 6	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	7	expl:pv	_	ref=MATT22.39
-7	asamănă	asemăna	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	mark	_	ref=MATT22.39
+7	asamănă	asemăna	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	ref=MATT22.39
 8	aceștiia	acesta	PRON	Pd3fpo	Case=Dat,Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem	7	iobj	_	ref=MATT22.39|SpaceAfter=No
 9	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT22.39
 10	iubeaște	iubi	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	3	appos	_	ref=MATT22.39
@@ -6547,7 +6547,7 @@
 # text = Că cine să va înălța pre sine, micșura-să-va și cine să va smeri pre sine, înalța-să-va.
 # citation-part=MATT 23.12
 1	Că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	ref=MATT23.12
-2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	mark	_	ref=MATT23.12
+2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT23.12
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT23.12
 4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT23.12
 5	înălța	înălța	VERB	Vmn	VerbForm=Inf	9	csubj	_	ref=MATT23.12

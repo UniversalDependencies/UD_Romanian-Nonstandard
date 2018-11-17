@@ -17901,7 +17901,7 @@
 14	numaidecât	numaidecât	ADV	Rg	_	15	advmod:tmod	_	ref=MARC4.5
 15	răsări	răsări	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MARC4.5
 16	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MARC4.5
-17	pentru	pentru	Spca	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	case	_	ref=MARC4.5
+17	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	18	case	_	ref=MARC4.5
 18	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	obl	_	ref=MARC4.5
 19	nu	nu	ADV	Qz	Polarity=Neg	20	advmod	_	ref=MARC4.5
 20	avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	3	conj	_	ref=MARC4.5
@@ -18271,21 +18271,21 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MARC4.20
 2	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	5	nsubj	_	ref=MARC4.20
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	ref=MARC4.20
-4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	mark	_	ref=MARC4.20
-5	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	appos	_	ref=MARC4.20
+4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MARC4.20
+5	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.20
 6	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	ref=MARC4.20
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MARC4.20
 8	pămînt	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MARC4.20
 9	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	ref=MARC4.20|SpaceAfter=No
-10	,	,	PUNCT	COMMA	_	5	punct	_	ref=MARC4.20
+10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MARC4.20
 11	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	12	nsubj	_	ref=MARC4.20
-12	aud	auzi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.20
+12	aud	auzi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	ref=MARC4.20
 13	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	ref=MARC4.20
 14	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MARC4.20|SpaceAfter=No
 15	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	obj	_	ref=MARC4.20
-16	primescu	primi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	ref=MARC4.20
+16	primescu	primi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	ref=MARC4.20
 17	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MARC4.20
-18	aduc	aduce	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	ref=MARC4.20
+18	aduc	aduce	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	ref=MARC4.20
 19	rod	rod	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	ref=MARC4.20|SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	21	punct	_	ref=MARC4.20
 21	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	18	nsubj	_	ref=MARC4.20|SpaceAfter=No
@@ -18488,7 +18488,7 @@
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MARC4.28
 4	eluși	eluși	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	ref=MARC4.28
 5	rodeaște	rodeaște	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.28
-6	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	7	advmod	_	ref=MARC4.28
+6	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	7	nummod	_	ref=MARC4.28
 7	iarbă	iarbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obj	_	ref=MARC4.28|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	11	punct	_	ref=MARC4.28
 9	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	case	_	ref=MARC4.28
@@ -18972,8 +18972,8 @@
 2	-a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 3	iubit	iubi	VERB	Vmp	VerbForm=Part	0	root	_	_
 4	neica	neică	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
-5	pe-	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	mark	_	SpaceAfter=No
-6	ascuns	ascunde	VERB	Vmp	VerbForm=Part	3	advmod	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
+5	pe-	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	SpaceAfter=No
+6	ascuns	ascuns	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
 7	;	;	PUNCT	SCOLON	_	12	punct	_	_
 8	Dar	dar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
 9	dușmanii	dușman	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	12	nsubj	_	_
@@ -19506,8 +19506,8 @@
 7	rămurea	rămurea	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	Rhyme=ID2,12,19|Type=Mono
 8	Și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	_
 9	zboară	zbura	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-11	unde	unde	ADV	Rw	PronType=Int,Rel	12	mark	_	_
+10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	mark	_	_
+11	unde	unde	ADV	Rw	PronType=Int,Rel	12	advmod	_	_
 12	vrea	vrea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	Rhyme=ID2,7,19|SpaceAfter=No|Type=Mono
 13	,	,	PUNCT	COMMA	_	16	punct	_	_
 14	Nu	nu	ADV	Qz	Polarity=Neg	16	advmod	_	SpaceAfter=No
@@ -20518,7 +20518,7 @@
 18	te-	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	20	expl:pv	_	SpaceAfter=No
 19	ai	avea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	pornit	porni	VERB	Vmp	VerbForm=Part	15	acl	_	Rhyme=ID26|Type=Paired
-21	Să-	să	PART	Qs	PartType=Sub	23	mark	_	SpaceAfter=No
+21	Să-	să	PART	Qs	PartType=Sub	26	mark	_	SpaceAfter=No
 22	ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	26	iobj	_	_
 23	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	26	cop	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
@@ -20529,7 +20529,7 @@
 # sent_id = dev-6591
 # text = Să nu vă fie cu bănat, Că pe la dumneavoastră am intrat, Că noi de trei zile îmblăm Şi pe dumneavoastră vă căutăm.
 # Rhyme= Yes
-1	Să	să	PART	Qs	PartType=Sub	4	mark	_	_
+1	Să	să	PART	Qs	PartType=Sub	6	mark	_	_
 2	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	_
 3	vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	obj	_	_
 4	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	6	cop	_	_
@@ -20759,7 +20759,7 @@
 22	floare	floare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	nmod:pmod	_	_
 23	aleasă	alege	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	22	amod	_	Rhyme=ID30|SpaceAfter=No|Type=Paired
 24	,	,	PUNCT	COMMA	_	30	punct	_	_
-25	Să	să	PART	Qs	PartType=Sub	27	mark	_	SpaceAfter=No
+25	Să	să	PART	Qs	PartType=Sub	30	mark	_	SpaceAfter=No
 26	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	30	expl	_	_
 27	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	30	cop	_	_
 28	mirelui	mire	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	30	iobj	_	_

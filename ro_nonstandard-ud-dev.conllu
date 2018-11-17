@@ -3404,12 +3404,12 @@
 # text = Și cine are vrea întru voi a fi cel dentîi să fie voao slugă.
 # citation-part=MATT 20.27
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT20.27
-2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	mark	_	ref=MATT20.27
+2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT20.27
 3	are	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT20.27
 4	vrea	vrea	VERB	Vmn	VerbForm=Inf	14	csubj	_	ref=MATT20.27
 5	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT20.27
 6	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	10	obl	_	ref=MATT20.27
-7	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	mark	_	ref=MATT20.27
+7	a	a	PART	Qn	PartType=Inf	10	mark	_	ref=MATT20.27
 8	fi	fi	AUX	Van	VerbForm=Inf	10	cop	_	ref=MATT20.27
 9	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=MATT20.27
 10	dentîi	dentîi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	ccomp	_	ref=MATT20.27
@@ -3711,7 +3711,7 @@
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT21.2
 4	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=MATT21.2
 5	sătcel	sătcel	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	ref=MATT21.2
-6	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	7	mark	_	ref=MATT21.2
+6	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	7	nsubj	_	ref=MATT21.2
 7	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	ref=MATT21.2
 8	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	9	case	_	ref=MATT21.2
 9	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	7	obl	_	ref=MATT21.2
@@ -3918,7 +3918,7 @@
 5	înainte	înainte	ADV	Rg	_	4	advmod	_	ref=MATT21.9|SpaceAfter=No
 6	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	5	iobj	_	ref=MATT21.9
 7	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT21.9
-8	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	9	mark	_	ref=MATT21.9
+8	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT21.9
 9	mergea	merge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	ref=MATT21.9
 10	dinapoi	dinapoi	ADV	Rg	_	9	advmod	_	ref=MATT21.9
 11	striga	striga	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT21.9
@@ -4429,7 +4429,7 @@
 # sent_id = dev-1108
 # text = Iară de vom zice de la oameni, teamemu-ne de dihanie că toți ținea pre Ioan ca pre un proroc.
 # citation-part=MATT 21.26
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT21.26
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT21.26
 2	de	de	SCONJ	Csssp	Polarity=Pos	4	mark	_	ref=MATT21.26
 3	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	aux	_	ref=MATT21.26
 4	zice	zice	VERB	Vmn	VerbForm=Inf	9	advcl	_	ref=MATT21.26
@@ -4685,7 +4685,7 @@
 7	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT21.33
 8	căsătoriu	căsător	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	amod	_	ref=MATT21.33|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT21.33
-10	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	mark	_	ref=MATT21.33
+10	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT21.33
 11	sădi	sădi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	ref=MATT21.33
 12	vie	vie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	ref=MATT21.33
 13	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT21.33
@@ -4776,7 +4776,7 @@
 8	mai	mai	ADV	Rg	_	9	advmod	_	ref=MATT21.36
 9	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	7	det	_	ref=MATT21.36
 10	decît	decât	ADV	Rg	_	9	advmod	_	ref=MATT21.36
-11	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	10	advmod	_	ref=MATT21.36
+11	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	ref=MATT21.36
 12	și	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT21.36
 13	feaceră	face	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT21.36
 14	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	13	iobj	_	ref=MATT21.36
@@ -4920,7 +4920,7 @@
 # sent_id = dev-1132
 # text = Piatra carea nu băgară în samă ziditorii, aceasta făcută e capul unghiului, de la Domnul iaste aceasta și iaste minune întru ochii noștri.
 # citation-part=MATT 21.42
-1	Piatra	piatră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	appos	_	ref=MATT21.42
+1	Piatra	piatră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj:pass	_	ref=MATT21.42
 2	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT21.42
 3	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=MATT21.42
 4	băgară	băga	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	acl	_	ref=MATT21.42
@@ -4928,7 +4928,7 @@
 6	samă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	compound	_	ref=MATT21.42
 7	ziditorii	ziditor	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	ref=MATT21.42|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT21.42
-9	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	nsubj:pass	_	ref=MATT21.42
+9	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	appos	_	ref=MATT21.42
 10	făcută	face	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT21.42
 11	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:pass	_	ref=MATT21.42
 12	capul	cap	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	xcomp	_	ref=MATT21.42
@@ -4970,7 +4970,7 @@
 18	da	da	VERB	Vmn	VerbForm=Inf	8	conj	_	ref=MATT21.43
 19	păgînilor	păgân	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	18	iobj	_	ref=MATT21.43|SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	23	punct	_	ref=MATT21.43
-21	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	23	mark	_	ref=MATT21.43
+21	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	23	msubj	_	ref=MATT21.43
 22	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	23	aux	_	ref=MATT21.43
 23	face	face	VERB	Vmn	VerbForm=Inf	19	acl	_	ref=MATT21.43
 24	rodul	rod	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	obj	_	ref=MATT21.43

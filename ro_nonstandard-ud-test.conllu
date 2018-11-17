@@ -19253,8 +19253,8 @@
 3	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=MATT15.23
 4	răspunse	răspunde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.23
 5	ei	el	PRON	Pp3fsd--------s	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	iobj	_	ref=MATT15.23
-6	nece	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	8	det	_	ref=MATT15.23
-7	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	compound	_	ref=MATT15.23
+6	nece	nici	ADV	Rz	Polarity=Neg	8	advmod	_	ref=MATT15.23
+7	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	ref=MATT15.23
 8	cuvînt	cuvânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	ref=MATT15.23|SpaceAfter=No
 9	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT15.23
 
@@ -20137,7 +20137,7 @@
 26	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	ref=MATT16.13|SpaceAfter=No
 27	,	,	PUNCT	COMMA	_	25	punct	_	ref=MATT16.13
 28	oamenii	om	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	21	nsubj	_	ref=MATT16.13
-29	a	a	PART	Qn	PartType=Inf	30	det	_	ref=MATT16.13
+29	a	a	PART	Qn	PartType=Inf	30	mark	_	ref=MATT16.13
 30	fi	fi	VERB	Vmn	VerbForm=Inf	21	xcomp	_	ref=MATT16.13|SpaceAfter=No
 31	?	?	PUNCT	QUEST	_	21	punct	_	ref=MATT16.13
 
@@ -21306,7 +21306,7 @@
 # text = Las’ să fie rău, nu bine, Că n-am ascultat de nime, Ci-am făcut de capul mieu, Și m-a bătut Dumnezeu!
 # Rhyme=Yes
 1	Las’	Las’	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
-2	să	să	PART	Qs	PartType=Sub	3	mark	_	_
+2	să	să	PART	Qs	PartType=Sub	4	mark	_	_
 3	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	4	cop	_	_
 4	rău	rău	ADV	Rg	_	1	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	7	punct	_	_
@@ -21323,9 +21323,9 @@
 16	Ci	ci	CCONJ	Ccssp	Polarity=Pos	18	cc	_	SpaceAfter=No
 17	-am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	18	aux	_	_
 18	făcut	face	VERB	Vmp	VerbForm=Part	12	conj	_	_
-19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	compound	_	_
-20	capul	cap	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	advmod	_	_
-21	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	compound	_	Rhyme=ID27|SpaceAfter=No|Type=Paired
+19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+20	capul	cap	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	_
+21	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	Rhyme=ID27|SpaceAfter=No|Type=Paired
 22	,	,	PUNCT	COMMA	_	26	punct	_	_
 23	Și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	_
 24	m	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	26	obj	_	SpaceAfter=No
@@ -21383,8 +21383,8 @@
 16	,	,	PUNCT	COMMA	_	21	punct	_	_
 17	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	21	mark	_	_
 18	că	că	SCONJ	Csssp	Polarity=Pos	17	fixed	_	_
-19	nu	nu	ADV	Qz	Polarity=Neg	20	advmod	_	_
-20	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
+19	nu	nu	ADV	Qz	Polarity=Neg	21	advmod	_	_
+20	putea	putea	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	21	aux	_	_
 21	face	face	VERB	Vmn	VerbForm=Inf	12	advcl	_	_
 22	mustrul	mustru	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	obj	_	SpaceAfter=No
 23	.	.	PUNCT	PERIOD	_	1	punct	_	_
@@ -21500,15 +21500,15 @@
 3	chip	chip	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	compound	_	_
 4	să	să	PART	Qs	PartType=Sub	7	mark	_	_
 5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	_
-6	poată	putea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	poată	putea	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	7	aux	_	_
 7	trânti	trânti	VERB	Vmn	VerbForm=Inf	2	csubj	_	_
 8	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	16	punct	_	_
 12	dar	dar	CCONJ	Ccssp	Polarity=Pos	16	cc	_	_
-13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	compound	_	_
-14	urma	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	advmod:tmod	_	_
+13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+14	urma	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod:tmod	_	_
 15	urmelor	urmă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	14	compound	_	_
 16	făcu	face	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 17	Fiul-	Fiul-	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No

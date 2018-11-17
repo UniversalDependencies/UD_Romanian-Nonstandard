@@ -15150,7 +15150,7 @@
 19	pune	pune	VERB	Vmn	VerbForm=Inf	1	conj	_	ref=MATT12.18|SpaceAfter=No
 20	-va	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	aux	_	ref=MATT12.18
 21	duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	ref=MATT12.18
-22	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	case	_	ref=MATT12.18
+22	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	ref=MATT12.18
 23	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	ref=MATT12.18
 24	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	19	obl	_	ref=MATT12.18
 25	și	și	CCONJ	Ccssp	Polarity=Pos	27	cc	_	ref=MATT12.18
@@ -15240,7 +15240,7 @@
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT12.22
 4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MATT12.22|SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT12.22
-6	așia	așa	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	advmod	_	ref=MATT12.22
+6	așia	așa	ADV	Rg	_	2	advmod	_	ref=MATT12.22
 7	cum	cum	ADV	Rw	PronType=Int,Rel	12	advmod	_	ref=MATT12.22
 8	orbul	orb	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	ref=MATT12.22
 9	și	și	ADV	Rg	_	10	cc	_	ref=MATT12.22
@@ -15483,7 +15483,7 @@
 # text = Derept aceaia grăesc voao: Tot păcatul și hula erta-să-va, iară hula ce e spre Duhul Svînt nu să va erta oamenilor.
 # citation-part=MATT 12.31
 1	Derept	Drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT12.31
-2	aceaia	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	3	mark	_	ref=MATT12.31
+2	aceaia	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	3	obl	_	ref=MATT12.31
 3	grăesc	grăi	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT12.31
 4	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT12.31|SpaceAfter=No
 5	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT12.31
@@ -15523,7 +15523,7 @@
 9	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.32
 10	erta-	ierta	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT12.32|SpaceAfter=No
 11	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pass	_	ref=MATT12.32|SpaceAfter=No
-12	-va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	det	_	ref=MATT12.32
+12	-va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	ref=MATT12.32
 13	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	iobj	_	ref=MATT12.32|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	26	punct	_	ref=MATT12.32
 15	iară	iar	CCONJ	Ccssp	Polarity=Pos	26	cc	_	ref=MATT12.32
@@ -15751,7 +15751,7 @@
 12	trei	trei	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	13	nummod	_	ref=MATT12.40
 13	nopți	noapte	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	10	conj	_	ref=MATT12.40|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT12.40
-15	așia	așa	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	advmod	_	ref=MATT12.40
+15	așia	așa	ADV	Rg	_	17	advmod	_	ref=MATT12.40
 16	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	ref=MATT12.40
 17	fi	fi	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT12.40
 18	și	și	ADV	Rg	_	19	advmod	_	ref=MATT12.40
@@ -15781,7 +15781,7 @@
 8	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT12.41
 9	ruda	rudă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	ref=MATT12.41
 10	aceasta	acesta	DET	Dd3fsr---o	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	9	det	_	ref=MATT12.41
-11	și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	13	cc	_	ref=MATT12.41
+11	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT12.41
 12	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	aux	_	ref=MATT12.41
 13	giudeca	judeca	VERB	Vmn	VerbForm=Inf	3	conj	_	ref=MATT12.41
 14	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT12.41
@@ -16056,7 +16056,7 @@
 # text = Că cela ce va face voia Tatălui Mieu carele iaste în ceriure, acela mi-e frate și sor și mumă mi-iaste.
 # citation-part=MATT 12.50
 1	Că	că	SCONJ	Csssp	Polarity=Pos	17	mark	_	ref=MATT12.50
-2	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	appos	_	ref=MATT12.50
+2	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	ref=MATT12.50
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT12.50
 4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT12.50
 5	face	face	VERB	Vmn	VerbForm=Inf	2	acl	_	ref=MATT12.50
@@ -16068,7 +16068,7 @@
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT12.50
 12	ceriure	cer	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	ref=MATT12.50|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT12.50
-14	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	ref=MATT12.50
+14	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MATT12.50
 15	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	17	iobj	_	ref=MATT12.50|SpaceAfter=No
 16	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	cop	_	ref=MATT12.50
 17	frate	frate	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT12.50
@@ -16435,7 +16435,7 @@
 # text = Derept aceasta în pildă grăesc lor, ca văzînd nu vor vedea și auzind nu vor auzi, nece vor înțeleage.
 # citation-part=MATT 13.13
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT13.13
-2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	mark	_	ref=MATT13.13
+2	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	ref=MATT13.13
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT13.13
 4	pildă	pildă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	ref=MATT13.13
 5	grăesc	grăi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT13.13

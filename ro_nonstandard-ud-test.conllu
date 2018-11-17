@@ -4721,7 +4721,7 @@
 # text = Derept acea, toate neamurile de la Avraam pînă la David, patrusprăzeace neamure.
 # citation-part=MATT 1.17
 1	Derept	drept	ADP	Spsd	AdpType=Prep|Case=Dat	2	case	_	ref=MATT1.17
-2	acea	acela	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	mark	_	ref=MATT1.17|SpaceAfter=No
+2	acea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	nmod	_	ref=MATT1.17|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT1.17
 4	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	5	det	_	ref=MATT1.17
 5	neamurile	neam	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	ref=MATT1.17
@@ -4843,7 +4843,7 @@
 11	arătă	arăta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT1.20
 12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	ref=MATT1.20
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT1.20
-14	somn	somn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	advmod	_	ref=MATT1.20|SpaceAfter=No
+14	somn	somn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	ref=MATT1.20|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT1.20
 16	grăind	grăi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	11	advcl	_	ref=MATT1.20|SpaceAfter=No
 17	:	:	PUNCT	COLON	_	27	punct	_	ref=MATT1.20
@@ -4918,7 +4918,7 @@
 6	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pass	_	ref=MATT1.22
 7	împle	umple	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	ref=MATT1.22
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	obj	_	ref=MATT1.22
-9	zice	zice	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	mark	_	ref=MATT1.22
+9	zice	zice	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	csubj	_	ref=MATT1.22
 10	Domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT1.22
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT1.22
 12	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	ref=MATT1.22
@@ -4999,7 +4999,7 @@
 12	Ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	ref=MATT1.25
 13	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=MATT1.25
 14	născut	născut	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	11	amod	_	ref=MATT1.25
-15	dentîi	dintâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	14	advmod:tmod	_	ref=MATT1.25|SpaceAfter=No
+15	dentîi	dintâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	14	nummod	_	ref=MATT1.25|SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT1.25
 17	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT1.25
 18	chema	chema	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	conj	_	ref=MATT1.25
@@ -5591,7 +5591,7 @@
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pass	_	ref=MATT2.18
 5	auzi	auzi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT2.18|SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT2.18
-7	plîngere	plângere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	expl	_	ref=MATT2.18
+7	plîngere	plângere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	appos	_	ref=MATT2.18
 8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT2.18
 9	suspin	suspin	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	conj	_	ref=MATT2.18
 10	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT2.18
@@ -5664,7 +5664,7 @@
 19	murit	muri	VERB	Vmp	VerbForm=Part	11	advcl	_	ref=MATT2.38
 20	ceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	19	nsubj	_	ref=MATT2.39
 21	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	22	nsubj	_	ref=MATT2.40
-22	căuta	căuta	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	mark	_	ref=MATT2.41
+22	căuta	căuta	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl	_	ref=MATT2.41
 23	viiața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	obj	_	ref=MATT2.42
 24	coconului	cocon	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	23	nmod	_	ref=MATT2.43|SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT2.44

@@ -15781,7 +15781,7 @@
 8	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT12.41
 9	ruda	rudă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	ref=MATT12.41
 10	aceasta	acesta	DET	Dd3fsr---o	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	9	det	_	ref=MATT12.41
-11	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT12.41
+11	și	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT12.41
 12	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	aux	_	ref=MATT12.41
 13	giudeca	judeca	VERB	Vmn	VerbForm=Inf	3	conj	_	ref=MATT12.41
 14	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT12.41

@@ -486,7 +486,7 @@
 43	-i	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	44	obj	_	ref=pred.11
 44	cearte	certa	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	ref=pred.11|SpaceAfter=No
 45	,	,	PUNCT	COMMA	_	49	punct	_	ref=pred.11
-46	ce	ci	CCONJ	Ccssp	Polarity=Pos	_	ref=pred.11
+46	ce	ci	CCONJ	Ccssp	Polarity=Pos	49	cc	_	ref=pred.11
 47	mai	mai	ADV	Rg	_	48	advmod	_	ref=pred.11
 48	vârtos	vârtos	ADV	Rg	_	49	advmod	_	ref=pred.11
 49	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	conj	_	ref=pred.11

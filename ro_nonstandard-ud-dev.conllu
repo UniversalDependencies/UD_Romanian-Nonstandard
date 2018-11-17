@@ -503,7 +503,7 @@
 # citation-part=MATT 18.17.content
 1	Să	să	PART	Qs	PartType=Sub	6	mark	_	ref=MATT18.17.content
 2	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	6	cop	_	ref=MATT18.17.content
-3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT18.17.content
+3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT18.17.content
 4	ca	ca	ADV	Rg	_	6	case	_	ref=MATT18.17.content
 5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	ref=MATT18.17.content
 6	păgîn	păgân	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.17.content|SpaceAfter=No
@@ -606,14 +606,14 @@
 2	varecine	oarecine	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	ref=MATT18.4
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	ref=MATT18.4
 4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT18.4
-5	smeri	smeri	VERB	Vmn	VerbForm=Inf	12	appos	_	ref=MATT18.4
+5	smeri	smeri	VERB	Vmn	VerbForm=Inf	15	csubj	_	ref=MATT18.4
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT18.4
 7	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	5	obl	_	ref=MATT18.4
 8	ca	ca	ADV	Rg	_	10	case	_	ref=MATT18.4
 9	acest	acesta	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	10	det	_	ref=MATT18.4
 10	poroboc	poroboc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT18.4|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT18.4
-12	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	ref=MATT18.4
+12	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MATT18.4
 13	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	cop	_	ref=MATT18.4
 14	mai	mai	ADV	Rg	_	15	advmod	_	ref=MATT18.4
 15	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.4
@@ -856,7 +856,7 @@
 8	mîntuiască	mântui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	ref=MATT18.11
 9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT18.11
 10	еrа	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	11	aux	_	ref=MATT18.11
-11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	mark	_	ref=MATT18.11|SpaceAfter=No
+11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	ccomp	_	ref=MATT18.11|SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT18.11
 
 # sent_id = dev-945
@@ -1223,7 +1223,7 @@
 # text = Derept aceaia, asamănă-să Împărăția ceriului omului craiu, carele vru să bage (să le ia) samă cu slugile lui.
 # citation-part=MATT 18.23
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT18.23
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	mark	_	ref=MATT18.23|SpaceAfter=No
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obl	_	ref=MATT18.23|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT18.23
 4	asamănă	asemăna	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT18.23|SpaceAfter=No
 5	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	ref=MATT18.23
@@ -1800,7 +1800,7 @@
 # text = Derept aceaia de acii nu mai sînt doi, ce un trup.
 # citation-part=MATT 19.6
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT19.6
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	mark	_	ref=MATT19.6
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	obl	_	ref=MATT19.6
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	ref=MATT19.6
 4	acii	aici	ADV	Rg	_	8	advmod:tmod	_	ref=MATT19.6
 5	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	ref=MATT19.6
@@ -2576,7 +2576,7 @@
 12	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	13	mark	_	ref=MATT19.30
 13	apoi	apoi	ADV	Rg	_	6	conj	_	ref=MATT19.30|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT19.30
-15	întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	13	advmod	_	ref=MATT19.30|SpaceAfter=No
+15	întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	13	nummod	_	ref=MATT19.30|SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT19.30
 
 # sent_id = dev-1020

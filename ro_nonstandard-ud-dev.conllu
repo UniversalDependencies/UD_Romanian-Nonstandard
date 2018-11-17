@@ -13416,8 +13416,8 @@
 2	sutașul	sutaș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	ref=MATT27.54
 3	și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT27.54
 4	ceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	2	conj	_	ref=MATT27.54
-5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	mark	_	ref=MATT27.54
-6	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	mark	_	ref=MATT27.54
+5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	ref=MATT27.54
+6	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	ref=MATT27.54
 7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT27.54
 8	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	6	obl	_	ref=MATT27.54|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT27.54
@@ -13450,7 +13450,7 @@
 # sent_id = dev-1556
 # text = Era acolo mueri multe de departe prevind, carele mearsără după Iisus den Galilea, slujindu-I Lui.
 # citation-part=MATT 27.55
-1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	root	_	ref=MATT27.55
+1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT27.55
 2	acolo	acolo	ADV	Rg	_	1	advmod	_	ref=MATT27.55
 3	mueri	muiere	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	1	nsubj	_	ref=MATT27.55
 4	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	3	det	_	ref=MATT27.55
@@ -13491,7 +13491,7 @@
 16	muma	mamă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	ref=MATT27.56
 17	feciorilor	fecior	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	ref=MATT27.56
 18	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	19	det	_	ref=MATT27.56
-19	Zevedeiu	Zevedeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	case	_	ref=MATT27.56|SpaceAfter=No
+19	Zevedeiu	Zevedeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	ref=MATT27.56|SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT27.56
 
 # sent_id = dev-1558
@@ -13579,7 +13579,7 @@
 8	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	ref=MATT27.60
 9	nou	nou	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=MATT27.60|SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT27.60
-11	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	12	mark	_	ref=MATT27.60
+11	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	12	obj	_	ref=MATT27.60
 12	tăiase	tăia	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	7	acl	_	ref=MATT27.60
 13	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	14	case	_	ref=MATT27.60
 14	piatră	piatră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	ref=MATT27.60
@@ -13847,7 +13847,7 @@
 # text = Și era vedearea lui ca fulgerul și veșmîntul lui alb ca neaoa.
 # citation-part=MATT 28.3
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT28.3
-2	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	ref=MATT28.3
+2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	6	cop	_	ref=MATT28.3
 3	vedearea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	ref=MATT28.3
 4	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=MATT28.3
 5	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT28.3

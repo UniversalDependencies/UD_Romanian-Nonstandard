@@ -19377,7 +19377,7 @@
 3	lungă	lung	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	Rhyme=ID6|Type=Intern
 4	cât	cât	ADV	Rw	PronType=Int,Rel	3	advmod	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
-6	drugă	drugă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	advmod	_	Rhyme=ID3|SpaceAfter=No|Type=Intern
+6	drugă	drugă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	Rhyme=ID3|SpaceAfter=No|Type=Intern
 7	,	,	PUNCT	COMMA	_	10	punct	_	_
 8	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
@@ -20774,7 +20774,7 @@
 37	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	34	nmod:pmod	_	_
 38	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	39	case	_	_
 39	căprioară	căprioară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	37	nmod	_	Rhyme=ID45|Type=Paired
-40	Să	să	PART	Qs	PartType=Sub	42	mark	_	SpaceAfter=No
+40	Să	să	PART	Qs	PartType=Sub	45	mark	_	SpaceAfter=No
 41	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	45	expl	_	_
 42	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	45	cop	_	_
 43	mirelui	mire	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	45	iobj	_	_
@@ -21220,7 +21220,7 @@
 8	A	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
 9	pornit	porni	VERB	Vmp	VerbForm=Part	3	conj	_	_
 10	peste	peste	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	12	case	_	_
-11	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	12	case	_	_
+11	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
 12	mări	mare	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	16	punct	_	_
 14	S-	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	16	expl:pv	_	SpaceAfter=No
@@ -21311,8 +21311,8 @@
 55	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	56	aux	_	_
 56	ales	alege	VERB	Vmp	VerbForm=Part	19	conj	_	_
 57	ce-	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	61	nsubj	_	SpaceAfter=No
-58	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	59	aux	_	_
-59	fost	fi	VERB	Vmp	VerbForm=Part	61	cop	_	_
+58	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	61	aux	_	_
+59	fost	fi	AUX	Vap	VerbForm=Part	61	cop	_	_
 60	mai	mai	ADV	Rg	_	61	advmod	_	_
 61	frumos	frumos	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	56	ccomp	_	Rhyme=ID66|Type=Paired
 62	Ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	66	mark	_	_
@@ -21879,7 +21879,7 @@
 14	,	,	PUNCT	COMMA	_	22	punct	_	_
 15	Cât	cât	ADV	Rw	PronType=Int,Rel	22	advmod	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
-17	întuneric	întuneric	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	15	mark	_	_
+17	întuneric	întuneric	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	_
 18	și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	_
 19	urât	urât	ADV	Rg	_	17	conj	_	_
 20	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	22	iobj	_	SpaceAfter=No
@@ -22072,7 +22072,7 @@
 # Rhyme= Yes
 1	Când	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	_
 2	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	6	expl:poss	_	SpaceAfter=No
-3	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	det	_	_
+3	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 4	fi	fi	AUX	Van	VerbForm=Inf	6	cop	_	_
 5	cămașa	cămașă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
 6	neagră	negru	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	advcl:tcl	_	SpaceAfter=No

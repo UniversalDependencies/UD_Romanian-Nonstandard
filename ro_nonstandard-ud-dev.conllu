@@ -6551,19 +6551,19 @@
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT23.12
 4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT23.12
 5	înălța	înălța	VERB	Vmn	VerbForm=Inf	9	csubj	_	ref=MATT23.12
-6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	nmod:pmod	_	ref=MATT23.12
-7	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	6	case	_	ref=MATT23.12|SpaceAfter=No
+6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT23.12
+7	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	5	nmod:pmod	_	ref=MATT23.12|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT23.12
 9	micșura-	micșura	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT23.12|SpaceAfter=No
 10	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	9	expl:pv	_	ref=MATT23.12|SpaceAfter=No
 11	-va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	ref=MATT23.12
 12	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT23.12
-13	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	mark	_	ref=MATT23.12
+13	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT23.12
 14	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	16	expl:pv	_	ref=MATT23.12
 15	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	ref=MATT23.12
 16	smeri	smeri	VERB	Vmn	VerbForm=Inf	20	csubj	_	ref=MATT23.12
-17	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	nmod:pmod	_	ref=MATT23.12
-18	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	17	case	_	ref=MATT23.12|SpaceAfter=No
+17	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MATT23.12
+18	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	16	nmod:pmod	_	ref=MATT23.12|SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT23.12
 20	înalța-	înalța-	VERB	Vmn	VerbForm=Inf	9	conj	_	ref=MATT23.12|SpaceAfter=No
 21	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	20	expl:pv	_	ref=MATT23.12|SpaceAfter=No
@@ -6657,7 +6657,7 @@
 9	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT23.15
 10	că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	ref=MATT23.15
 11	încungiurați	înconjura	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	ref=MATT23.15
-12	marea	mare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	mark	_	ref=MATT23.15
+12	marea	mare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	ref=MATT23.15
 13	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT23.15
 14	uscatul	uscat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	conj	_	ref=MATT23.15
 15	să	să	PART	Qs	PartType=Sub	16	mark	_	ref=MATT23.15
@@ -6705,7 +6705,7 @@
 9	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	10	nsubj	_	ref=MATT23.16
 10	ziceți	zice	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl	_	ref=MATT23.16
 11	că	că	SCONJ	Csssp	Polarity=Pos	19	mark	_	ref=MATT23.16
-12	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	mark	_	ref=MATT23.16
+12	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	ref=MATT23.16
 13	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	15	expl:pv	_	ref=MATT23.16
 14	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	ref=MATT23.16
 15	giura	jura	VERB	Vmn	VerbForm=Inf	19	csubj	_	ref=MATT23.16
@@ -6796,7 +6796,7 @@
 11	darul	dar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	appos	_	ref=MATT23.19
 12	au	sau	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT23.19
 13	oltariul	altar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	ref=MATT23.19
-14	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	15	mark	_	ref=MATT23.19
+14	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	15	nsubj	_	ref=MATT23.19
 15	sfințeaște	sfinți	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	ref=MATT23.19
 16	darul	dar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	ref=MATT23.19|SpaceAfter=No
 17	?	?	PUNCT	QUEST	_	9	punct	_	ref=MATT23.19
@@ -6833,7 +6833,7 @@
 2	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	ref=MATT23.21
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT23.21
 4	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT23.21
-5	giură	jura	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	mark	_	ref=MATT23.21
+5	giură	jura	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	ref=MATT23.21
 6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT23.21
 7	besearecă	biserică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:pmod	_	ref=MATT23.21|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT23.21
@@ -7044,7 +7044,7 @@
 # sent_id = dev-1247
 # text = Așia și voi, din afară vă arătați oamenilor derepți, den lăuntru, plini sînteți de fățărie și de strîmbătate.
 # citation-part=MATT 23.28
-1	Așia	așa	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	advmod	_	ref=MATT23.28
+1	Așia	așa	ADV	Rg	_	8	advmod	_	ref=MATT23.28
 2	și	și	CCONJ	Ccssp	Polarity=Pos	3	advmod	_	ref=MATT23.28
 3	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	ref=MATT23.28|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT23.28

@@ -17897,15 +17897,15 @@
 10	pămînt	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	obj	_	ref=MARC4.5
 11	mult	mult	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	10	det	_	ref=MARC4.5|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	15	punct	_	ref=MARC4.5
-13	și	și	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	15	cc	_	ref=MARC4.5
+13	și	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	ref=MARC4.5
 14	numaidecât	numaidecât	ADV	Rg	_	15	advmod:tmod	_	ref=MARC4.5
 15	răsări	răsări	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MARC4.5
-16	și	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	cc	_	ref=MARC4.5
-17	pentru	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	obl	_	ref=MARC4.5
-18	ce	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	case	_	ref=MARC4.5
-19	nu	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	advmod	_	ref=MARC4.5
-20	avea	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	ref=MARC4.5
-21	pământ	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	obj	_	ref=MARC4.5
+16	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MARC4.5
+17	pentru	pentru	Spca	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	case	_	ref=MARC4.5
+18	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	obl	_	ref=MARC4.5
+19	nu	nu	ADV	Qz	Polarity=Neg	20	advmod	_	ref=MARC4.5
+20	avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	3	conj	_	ref=MARC4.5
+21	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	obj	_	ref=MARC4.5
 22	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MARC4.5
 23	adîncu	adânc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	obl	_	ref=MARC4.5|SpaceAfter=No
 24	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MARC4.5
@@ -18064,7 +18064,7 @@
 1	Ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	5	mark	_	ref=MARC4.12
 2	prevind	privi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MARC4.12|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MARC4.12
-4	să	să	PART	Qs	PartType=Sub	1	compound	_	ref=MARC4.12
+4	să	să	PART	Qs	PartType=Sub	5	mark	_	ref=MARC4.12
 5	privească	privi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.12
 6	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MARC4.12
 7	să	să	PART	Qs	PartType=Sub	9	mark	_	ref=MARC4.12
@@ -18174,22 +18174,22 @@
 2	aceștea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	6	nsubj	_	ref=MARC4.16
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	ref=MARC4.16
 4	așijderea	așijderea	ADV	Rg	_	6	advmod	_	ref=MARC4.16
-5	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	6	mark	_	ref=MARC4.16
-6	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	appos	_	ref=MARC4.16
+5	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	6	nsubj	_	ref=MARC4.16
+6	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.16
 7	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	ref=MARC4.16
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MARC4.16
 9	pietriș	pietriș	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nmod:pmod	_	ref=MARC4.16|SpaceAfter=No
-10	,	,	PUNCT	COMMA	_	6	punct	_	ref=MARC4.16
+10	,	,	PUNCT	COMMA	_	20	punct	_	ref=MARC4.16
 11	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	20	nsubj	_	ref=MARC4.16
 12	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	13	mark	_	ref=MARC4.16
 13	aud	auzi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	ref=MARC4.16
 14	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obj	_	ref=MARC4.16|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	13	punct	_	ref=MARC4.16
 16	atunceși	atunci	ADV	Rg	_	20	advmod:tmod	_	ref=MARC4.16
-17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	compound	_	ref=MARC4.16
-18	bucurie	bucurie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	20	advmod	_	ref=MARC4.16
+17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MARC4.16
+18	bucurie	bucurie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	ref=MARC4.16
 19	îl	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	20	obj	_	ref=MARC4.16
-20	priimescu	primi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MARC4.16|SpaceAfter=No
+20	priimescu	primi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	ref=MARC4.16|SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	20	punct	_	ref=MARC4.16
 
 # sent_id = dev-1786
@@ -18222,10 +18222,10 @@
 # sent_id = dev-1787
 # text = Și aceștea sînt carii iau în spini sămînța, aceștea carii aud cuvîntul.
 # citation-part=MARC 4.18
-1	Și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	10	cc	_	ref=MARC4.18
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MARC4.18
 2	aceștea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	5	nsubj	_	ref=MARC4.18
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	ref=MARC4.18
-4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	mark	_	ref=MARC4.18
+4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MARC4.18
 5	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.18
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MARC4.18
 7	spini	spin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	ref=MARC4.18

@@ -9500,13 +9500,13 @@
 6	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT6.31
 7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	obj	_	ref=MATT6.31
 8	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	aux	_	ref=MATT6.31
-9	mînca	mânca	VERB	Vmn	VerbForm=Inf	6	mark	_	ref=MATT6.31
+9	mînca	mânca	VERB	Vmn	VerbForm=Inf	6	ccomp	_	ref=MATT6.31
 10	sau	sau	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT6.31
-11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	mark	_	ref=MATT6.31
+11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	obj	_	ref=MATT6.31
 12	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	13	aux	_	ref=MATT6.31
 13	bea	bea	VERB	Vmn	VerbForm=Inf	9	conj	_	ref=MATT6.31
 14	sau	sau	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT6.31
-15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	mark	_	ref=MATT6.31
+15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	obl	_	ref=MATT6.31
 16	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	18	expl:pv	_	ref=MATT6.31
 17	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	18	aux	_	ref=MATT6.31
 18	îmbrăca	îmbrăca	VERB	Vmn	VerbForm=Inf	9	conj	_	ref=MATT6.31|SpaceAfter=No
@@ -9559,7 +9559,7 @@
 # text = Derept aceaia, nu vă grijireți de mîine, că zua de mîne sîngură să grijaște de sine.
 # citation-part=MATT 6.34
 1	Derept	Drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT6.34
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	mark	_	ref=MATT6.34|SpaceAfter=No
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obl	_	ref=MATT6.34|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT6.34
 4	nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	ref=MATT6.34
 5	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	expl:pv	_	ref=MATT6.34
@@ -9582,8 +9582,8 @@
 # text = Agiunge-i zilei grijea ei.
 # citation-part=MATT 6.34
 1	Agiunge	Agiunge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.34|SpaceAfter=No
-2	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	1	iobj	_	ref=MATT6.34
-3	zilei	zi	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	expl	_	ref=MATT6.34
+2	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	1	expl	_	ref=MATT6.34
+3	zilei	zi	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	iobj	_	ref=MATT6.34
 4	grijea	grijă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT6.34
 5	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT6.34|SpaceAfter=No
 6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT6.34
@@ -10621,7 +10621,7 @@
 1	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	5	vocative	_	ref=MATT8.6|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT8.6
 3	feciorul	fecior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT8.6
-4	mieu	meu	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	case	_	ref=MATT8.6
+4	mieu	meu	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	ref=MATT8.6
 5	zace	zăcea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT8.6
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT8.6
 7	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	ref=MATT8.6
@@ -11536,7 +11536,7 @@
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT9.2
 12	fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	vocative	_	ref=MATT9.2
 13	Miu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	ref=MATT9.2|SpaceAfter=No
-14	,	,	PUNCT	COMMA	_	15	cc	_	ref=MATT9.2
+14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT9.2
 15	iartă	ierta	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	ref=MATT9.2|SpaceAfter=No
 16	-ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	ref=MATT9.2|SpaceAfter=No
 17	-se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	15	expl:pass	_	ref=MATT9.2

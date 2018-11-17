@@ -15562,7 +15562,7 @@
 1	Ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	det	_	ref=MARC1.27
 2	învățătură	învățătură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	ref=MARC1.27
 3	noao	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	ref=MARC1.27
-4	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	ref=MARC1.27
+4	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	ref=MARC1.27
 5	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	ref=MARC1.27|SpaceAfter=No
 6	?	?	PUNCT	QUEST	_	5	punct	_	ref=MARC1.27
 
@@ -15924,13 +15924,13 @@
 # text = Șicontenind pre el tare, numaidecît mînă pre el.
 # citation-part=MARC 1.43
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MARC1.43|SpaceAfter=No
-2	contenind	conteni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	punct	_	ref=MARC1.43
+2	contenind	conteni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	8	advcl	_	ref=MARC1.43
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MARC1.43
 4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MARC1.43
 5	tare	tare	ADV	Rg	_	2	advmod	_	ref=MARC1.43|SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	2	punct	_	ref=MARC1.43
 7	numaidecît	numaidecât	ADV	Rg	_	8	advmod	_	ref=MARC1.43
-8	mînă	mână	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MARC1.43
+8	mînă	mâna	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MARC1.43
 9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MARC1.43
 10	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	8	nmod:pmod	_	ref=MARC1.43|SpaceAfter=No
 11	.	.	PUNCT	PERIOD	_	8	punct	_	ref=MARC1.43
@@ -16454,7 +16454,7 @@
 6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MARC2.16
 7	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:pmod	_	ref=MARC2.16
 8	mîncînd	mânca	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	xcomp	_	ref=MARC2.16|SpaceAfter=No
-9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	punct	_	ref=MARC2.16
+9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MARC2.16
 10	publicanii	publican	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obl	_	ref=MARC2.16
 11	(	(	PUNCT	LPAR	_	12	punct	_	ref=MARC2.16|SpaceAfter=No
 12	Mitarnici	mitarnic	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	10	appos	_	ref=MARC2.16|SpaceAfter=No
@@ -16689,7 +16689,7 @@
 # text = Și fu trecînd El sîmbăta pren semănături și începură ucenicii lui, mergînd, a zmulge spice.
 # citation-part=MARC 2.23
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MARC2.23
-2	fu	fi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	ref=MARC2.23
+2	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux	_	ref=MARC2.23
 3	trecînd	trece	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MARC2.23
 4	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=MARC2.23
 5	sîmbăta	sâmbăta	ADV	Rg	_	3	advmod:tmod	_	ref=MARC2.23
@@ -16771,7 +16771,7 @@
 8	supt	sub	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MARC2.26
 9	(	(	PUNCT	LPAR	_	11	punct	_	ref=MARC2.26|SpaceAfter=No
 10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MARC2.26
-11	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	14	appos	_	ref=MARC2.26
+11	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	2	nmod:tmod	_	ref=MARC2.26
 12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	ref=MARC2.26|SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	11	punct	_	ref=MARC2.26
 14	Aviatar	Aviatar	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod:tmod	_	ref=MARC2.26|SpaceAfter=No
@@ -17094,7 +17094,7 @@
 16	mergea	merge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	ref=MARC3.7
 17	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	18	case	_	ref=MARC3.7
 18	Еl	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	16	obl	_	ref=MARC3.7|SpaceAfter=No
-19	,	,	PUNCT	COMMA	_	22	punct	_	ref=MARC3.7
+19	,	,	PUNCT	COMMA	_	23	punct	_	ref=MARC3.7
 20	și	și	CCONJ	Ccssp	Polarity=Pos	23	cc	_	ref=MARC3.7
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MARC3.7
 22	la	la	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	21	fixed	_	ref=MARC3.7
@@ -17111,7 +17111,7 @@
 5	dela	dela	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MARC3.8
 6	Їdumea	Idumeea	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	conj	_	ref=MARC3.8
 7	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MARC3.8
-8	den	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	case	_	ref=MARC3.8
+8	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	case	_	ref=MARC3.8
 9	ceaia	acela	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	10	det	_	ref=MARC3.8
 10	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	ref=MARC3.8
 11	dе	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MARC3.8
@@ -17719,12 +17719,12 @@
 1	Că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	ref=MARC3.35
 2	oarecine	oarecine	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	ref=MARC3.35
 3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MARC3.35
-4	face	face	VERB	Vmn	VerbForm=Inf	9	appos	_	ref=MARC3.35
+4	face	face	VERB	Vmn	VerbForm=Inf	11	csubj	_	ref=MARC3.35
 5	voia	voie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	ref=MARC3.35
 6	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	ref=MARC3.35
 7	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	ref=MARC3.35|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MARC3.35
-9	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	ref=MARC3.35
+9	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MARC3.35
 10	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	ref=MARC3.35
 11	fratele	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	ref=MARC3.35
 12	Mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	11	det	_	ref=MARC3.35

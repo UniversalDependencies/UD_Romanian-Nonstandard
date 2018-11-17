@@ -14356,7 +14356,7 @@
 9	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	ref=MARC.pred.2
 10	lucruri	lucru	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	ref=MARC.pred.2|SpaceAfter=No
 11	:	:	PUNCT	COLON	_	12	punct	_	ref=MARC.pred.2
-12	Întîiu	întîi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	17	advmod:tmod	_	ref=MARC.pred.2|SpaceAfter=No
+12	Întîiu	întîi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	17	nummod	_	ref=MARC.pred.2|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	12	punct	_	ref=MARC.pred.2
 14	despre	despre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	15	case	_	ref=MARC.pred.2
 15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	obl	_	ref=MARC.pred.2
@@ -14484,7 +14484,7 @@
 31	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	34	obj	_	ref=MARC.pred.7
 32	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	34	aux	_	ref=MARC.pred.7
 33	fost	fi	AUX	Vap	VerbForm=Part	34	aux	_	ref=MARC.pred.7
-34	prorocit	proroci	VERB	Vmp	VerbForm=Part	30	mark	_	ref=MARC.pred.7
+34	prorocit	proroci	VERB	Vmp	VerbForm=Part	30	acl	_	ref=MARC.pred.7
 35	prorocii	proroc	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	34	nsubj	_	ref=MARC.pred.7
 36	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	37	case	_	ref=MARC.pred.7
 37	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	34	obl	_	ref=MARC.pred.7|SpaceAfter=No
@@ -14533,7 +14533,7 @@
 4	oară	oară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod:tmod	_	ref=MARC.pred.9|SpaceAfter=No
 5	:	:	PUNCT	COLON	_	4	punct	_	ref=MARC.pred.9
 6	Marco	Marcu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	ref=MARC.pred.9
-7	n-	nu	ADV	Qz	Polarity=Neg	9	advmod	_	ref=MARC.pred.9|SpaceAfter=No
+7	n-	nu	ADV	Qz	Polarity=Neg	13	advmod	_	ref=MARC.pred.9|SpaceAfter=No
 8	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	aux	_	ref=MARC.pred.9
 9	fost	fi	AUX	Vap	VerbForm=Part	13	cop	_	ref=MARC.pred.9
 10	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	13	case	_	ref=MARC.pred.9
@@ -14638,7 +14638,7 @@
 # text = A treia: Evangheliia lui Marc are trei părți: partea dentîiu despre deregătoriia prorociei lui Hristos carea o a arătat propoveduind Evangheliia și tîlcuind leagia lui Dumnezău, certînd păcatele și învățătura strîmbă a jidovilor, prorocind despre venirea pieririi jidovilor și de venirea lui la giudecată.
 # citation-part=MARC.pred.12
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	ref=MARC.pred.12
-2	treia	treilea	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	7	advmod:tmod	_	ref=MARC.pred.12|SpaceAfter=No
+2	treia	treilea	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	7	nummod	_	ref=MARC.pred.12|SpaceAfter=No
 3	:	:	PUNCT	COLON	_	7	punct	_	ref=MARC.pred.12
 4	Evangheliia	Evanghelie	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	ref=MARC.pred.12
 5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=MARC.pred.12
@@ -14944,7 +14944,7 @@
 10	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	ref=MARC1.2
 11	trimite	trimite	VERB	Vmn	VerbForm=Inf	3	parataxis	_	ref=MARC1.2
 12	îngerul	înger	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	ref=MARC1.2
-13	Mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	12	case	_	ref=MARC1.2
+13	Mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	12	det	_	ref=MARC1.2
 14	înaintia	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	15	case	_	ref=MARC1.2
 15	feaței	față	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	ref=MARC1.2
 16	Tale	tău	DET	Ds2fsos	Case=Dat,Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	15	det	_	ref=MARC1.2|SpaceAfter=No
@@ -15189,7 +15189,7 @@
 # text = Și era acolo în pustie, patruzeci de zile și patruzecide nopți, ispitit de Satana și era cu fierile, și îngerii slujiia Lui.
 # citation-part=MARC 1.13
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	ref=MARC1.13
-2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	15	auz:pass	_	ref=MARC1.13
+2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	15	aux:pass	_	ref=MARC1.13
 3	acolo	acolo	ADV	Rg	_	15	advmod	_	ref=MARC1.13
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MARC1.13
 5	pustie	pustiu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	ref=MARC1.13|SpaceAfter=No
@@ -15199,7 +15199,7 @@
 9	zile	zi	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	15	nmod:tmod	_	ref=MARC1.13
 10	și	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MARC1.13
 11	patruzeci	patruzeci	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	13	nummod	_	ref=MARC1.13|SpaceAfter=No
-12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	punct	_	ref=MARC1.13
+12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MARC1.13
 13	nopți	noapte	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	9	conj	_	ref=MARC1.13|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	9	punct	_	ref=MARC1.13
 15	ispitit	ispiti	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MARC1.13
@@ -15489,8 +15489,8 @@
 # citation-part=MARC 1.24
 1	Ştiu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC1.24|SpaceAfter=No
 2	-te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	1	obj	_	ref=MARC1.24
-3	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	mark	_	ref=MARC1.24
-4	ești	fi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	xcomp	_	ref=MARC1.24|SpaceAfter=No
+3	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	xcomp	_	ref=MARC1.24
+4	ești	fi	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	cop	_	ref=MARC1.24|SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MARC1.24
 6	sfîntul	sfânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	vocative	_	ref=MARC1.24
 7	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	8	det	_	ref=MARC1.24

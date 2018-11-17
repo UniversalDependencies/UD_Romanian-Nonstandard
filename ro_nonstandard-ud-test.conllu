@@ -16631,11 +16631,11 @@
 # text = Iară sămînța cea din pietriș aceasta iaste carele aude cuvîntul și numai cît cu dragoste priimeaște pre el.
 # citation-part=MATT 13.20
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT13.20
-2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	appos	_	ref=MATT13.20
+2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	ref=MATT13.20
 3	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=MATT13.20
 4	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	ref=MATT13.20
 5	pietriș	pietriș	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT13.20
-6	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	ref=MATT13.20
+6	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MATT13.20
 7	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	ref=MATT13.20
 8	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT13.20
 9	aude	auzi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT13.20
@@ -16683,19 +16683,19 @@
 # text = Iară sămînța ce-i sămănată în spini acesta iaste carele aude cuvîntul, ce grija veacului acestuia și înșălăciunea bogății sugrumă cuvîntul și fără de rod iaste.
 # citation-part=MATT 13.22
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT13.22
-2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	appos	_	ref=MATT13.22
+2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	ref=MATT13.22
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj:pass	_	ref=MATT13.22|SpaceAfter=No
 4	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux:pass	_	ref=MATT13.22
 5	sămănată	semăna	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	2	acl	_	ref=MATT13.22
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT13.22
 7	spini	spin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	ref=MATT13.22
-8	acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	ref=MATT13.22
+8	acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MATT13.22
 9	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	ref=MATT13.22
 10	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT13.22
 11	aude	auzi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT13.22
 12	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	ref=MATT13.22|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	21	punct	_	ref=MATT13.22
-14	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	21	cc	_	ref=MATT13.22
+14	ce	ci	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT13.22
 15	grija	grijă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	nsubj	_	ref=MATT13.22
 16	veacului	veac	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	ref=MATT13.22
 17	acestuia	acesta	DET	Dd3mso---o	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	16	det	_	ref=MATT13.22
@@ -16715,7 +16715,7 @@
 # text = Dară sămînța ce căzu în pămînt bun acesta iaste carele aude cuvîntul și înțeleage, carele aduce rod și face unul o sută, altul șasezeci, altul treizeci.
 # citation-part=MATT 13.23
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT13.23
-2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	appos	_	ref=MATT13.23
+2	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	ref=MATT13.23
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT13.23
 4	căzu	cădea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	ref=MATT13.23
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT13.23
@@ -16725,11 +16725,11 @@
 9	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	ref=MATT13.23
 10	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT13.23
 11	aude	auzi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT13.23
-12	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	ref=MATT13.23
+12	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	appos	_	ref=MATT13.23
 13	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT13.23
 14	înțeleage	înțelege	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	ref=MATT13.23|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT13.23
-16	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	17	mark	_	ref=MATT13.23
+16	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	17	nsubj	_	ref=MATT13.23
 17	aduce	aduce	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	ref=MATT13.23
 18	rod	rod	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	obj	_	ref=MATT13.23
 19	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT13.23
@@ -16762,7 +16762,7 @@
 12	ceriului	cer	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	ref=MATT13.24
 13	omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	9	iobj	_	ref=MATT13.24
 14	celui	cel	DET	Tdmso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	ref=MATT13.24
-15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	mark	_	ref=MATT13.24
+15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT13.24
 16	samănă	semăna	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	ref=MATT13.24
 17	sămînță	sămânță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	ref=MATT13.24
 18	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	ref=MATT13.24
@@ -16922,7 +16922,7 @@
 15	secerătorilor	secerător	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	14	iobj	_	ref=MATT13.30|SpaceAfter=No
 16	:	:	PUNCT	COLON	_	17	punct	_	ref=MATT13.30
 17	Culeageți	culege	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	14	parataxis	_	ref=MATT13.30
-18	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	17	advmod	_	ref=MATT13.30
+18	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	17	nummod	_	ref=MATT13.30
 19	neghinele	neghină	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obj	_	ref=MATT13.30
 20	și	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT13.30
 21	legați	lega	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	17	conj	_	ref=MATT13.30
@@ -17159,11 +17159,11 @@
 # sent_id = test-702
 # text = Sămînța cea bună, aceștea sînt fiii Împărății, iară neghinile sînt fiii hicleanului.
 # citation-part=MATT 13.38
-1	Sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	appos	_	ref=MATT13.38
+1	Sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT13.38
 2	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=MATT13.38
 3	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	ref=MATT13.38|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT13.38
-5	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	nsubj	_	ref=MATT13.38
+5	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	appos	_	ref=MATT13.38
 6	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	cop	_	ref=MATT13.38
 7	fiii	fiu	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	ref=MATT13.38
 8	Împărății	împărăție	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	ref=MATT13.38|SpaceAfter=No

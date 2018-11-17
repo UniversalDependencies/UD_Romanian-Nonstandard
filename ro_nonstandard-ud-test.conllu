@@ -24405,8 +24405,8 @@
 17	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	SpaceAfter=No
 18	-nspăimântat	înspăimânta	VERB	Vmp	VerbForm=Part	0	root	_	Rhyme=ID5,8,24|SpaceAfter=No|Type=Mono
 19	,	,	PUNCT	COLON	_	24	punct	_	_
-20	În	în	ADV	Rg	_	24	advmod	_	_
-21	gura	gura	ADV	Rg	_	20	mark	_	_
+20	În	în	ADV	Rg	_	21	case	_	_
+21	gura	gura	ADV	Rg	_	24	obl	_	_
 22	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
 23	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	_
 24	strigat	striga	VERB	Vmp	VerbForm=Part	18	conj	_	Rhyme=ID5,8,18|SpaceAfter=No|Type=Mono
@@ -24743,7 +24743,7 @@
 8	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
 9	babe	babă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	3	conj	_	_
 10	bătrâne	bătrân	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	Rhyme=ID15|Type=Paired
-11	Care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	mark	_	_
+11	Care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	nsubj	_	_
 12	știu	ști	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
 13	rândul	rând	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	_
 14	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
@@ -24800,7 +24800,7 @@
 23	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	22	obj	_	SpaceAfter=No
 24	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 25	lunca	luncă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	_
-26	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	case	_	Rhyme=ID19|SpaceAfter=No|Type=Paired
+26	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	Rhyme=ID19|SpaceAfter=No|Type=Paired
 27	.	.	PUNCT	PERIOD	_	16	punct	_	_
 
 # sent_id = test-6554
@@ -24960,7 +24960,7 @@
 15	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = test-6560
-# text = Iar morișca când A văzut venind Carele scârțâind, A pus coada pe spinare Şi porni in lunca mare.
+# text = Iar morișca când A văzut venind Carele scârțâind, A pus coada pe spinare Şi porni în lunca mare.
 # Rhyme= Yes
 1	Iar	iar	ADV	Rg	_	11	cc	_	_
 2	morișca	morișcă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -24978,8 +24978,8 @@
 14	spinare	spinare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	Rhyme=ID19|Type=Paired
 15	Şi	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	_
 16	porni	porni	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
-17	in	in	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	_
-18	lunca	lunca	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	case	_	_
+17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+18	lunca	lunca	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	obl	_	_
 19	mare	mare	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	18	amod	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 20	.	.	PUNCT	PERIOD	_	11	punct	_	_
 

@@ -8673,16 +8673,16 @@
 6	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT6.4|SpaceAfter=No
 7	ascuns	ascuns	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT6.4
 8	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT6.4
-9	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	appos	_	ref=MATT6.4
+9	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	ref=MATT6.4
 10	tău	tău	DET	Ds2ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	ref=MATT6.4|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT6.4
-12	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=MATT6.4
+12	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	9	appos	_	ref=MATT6.4
 13	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	ref=MATT6.4
-14	veade	vedea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	ref=MATT6.4
+14	veade	vedea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	ref=MATT6.4
 15	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	ref=MATT6.4|SpaceAfter=No
 16	ascuns	ascuns	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	15	fixed	_	ref=MATT6.4|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT6.4
-18	Acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	ref=MATT6.4
+18	Acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	appos	_	ref=MATT6.4
 19	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	aux	_	ref=MATT6.4
 20	da	da	VERB	Vmn	VerbForm=Inf	7	conj	_	ref=MATT6.4
 21	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	20	iobj	_	ref=MATT6.4|SpaceAfter=No
@@ -8833,7 +8833,7 @@
 # text = Derept aceaia așa vă rugați voi: Tatăl nostru ce ești în ceriure, sfințească-se numele Tău.
 # citation-part=MATT 6.9
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT6.9
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	mark	_	ref=MATT6.9
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	ref=MATT6.9
 3	așa	așa	ADV	Rg	_	5	advmod	_	ref=MATT6.9
 4	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT6.9
 5	rugați	ruga	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.9
@@ -8859,7 +8859,7 @@
 2	vie	veni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.10
 3	înpărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT6.10
 4	Ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	ref=MATT6.10|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	6	cc	_	ref=MATT6.10
+5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT6.10
 6	fie	fi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	ref=MATT6.10
 7	voia	voie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	ref=MATT6.10
 8	Ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	ref=MATT6.10|SpaceAfter=No
@@ -9142,7 +9142,7 @@
 21	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	22	obj	_	ref=MATT6.20
 22	sapă	săpa	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	ref=MATT6.20|SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	26	punct	_	ref=MATT6.20
-24	neci	nici	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	advmod	_	ref=MATT6.20
+24	neci	nici	CCONJ	Ccssz	Polarity=Neg	26	cc	_	ref=MATT6.20
 25	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	26	obj	_	ref=MATT6.20
 26	fură	fura	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	conj	_	ref=MATT6.20|SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT6.20
@@ -9217,7 +9217,7 @@
 2	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	9	mark	_	ref=MATT6.23
 3	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	ref=MATT6.23
 4	lumina	lumină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	ref=MATT6.23
-5	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	6	mark	_	ref=MATT6.23
+5	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	6	nsubj	_	ref=MATT6.23
 6	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	ref=MATT6.23
 7	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT6.23
 8	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	obl	_	ref=MATT6.23
@@ -9289,7 +9289,7 @@
 # text = Derept aceaia zic voao: Nu vă grijireți de viiața voastră, ce veți mînca și ce veți bea, neci trupurile voastre cu ce le veți îmbrăca.
 # citation-part=MATT 6.25
 1	Derept	Drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT6.25
-2	aceaia	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	3	mark	_	ref=MATT6.25
+2	aceaia	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	3	obl	_	ref=MATT6.25
 3	zic	zice	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.25
 4	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT6.25|SpaceAfter=No
 5	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT6.25
@@ -9445,7 +9445,7 @@
 9	slava	slavă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	obl	_	ref=MATT6.29
 10	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	ref=MATT6.29
 11	n-	nu	ADV	Qz	Polarity=Neg	14	advmod	_	ref=MATT6.29|SpaceAfter=No
-12	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	aux	_	ref=MATT6.29
+12	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	14	aux	_	ref=MATT6.29
 13	fost	fi	AUX	Vap	VerbForm=Part	14	aux:pass	_	ref=MATT6.29
 14	îmbrăcat	îmbrăca	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	ccomp	_	ref=MATT6.29
 15	ca	ca	ADV	Rg	_	16	case	_	ref=MATT6.29

@@ -706,7 +706,7 @@
 22	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	cop	_	ref=pred.16
 23	rostului	rost	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	21	iobj	_	ref=pred.16
 24	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	23	det	_	ref=pred.16
-25	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	26	advmod	_	ref=pred.16
+25	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	26	case	_	ref=pred.16
 26	miiarea	miere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	obl	_	ref=pred.16|SpaceAfter=No
 27	"	"	PUNCT	DBLQ	_	21	punct	_	ref=pred.16|SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	36	punct	_	ref=pred.16
@@ -2532,8 +2532,8 @@
 25	acealea	acela	DET	Dd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	24	det	_	ref=pred.read.12
 26	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	27	cop	_	ref=pred.read.12
 27	bune	bun	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	conj	_	ref=pred.read.12
-28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	mark	_	ref=pred.read.12
-29	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	30	obj	_	ref=pred.read.12
+28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	obj	_	ref=pred.read.12
+29	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	30	expl	_	ref=pred.read.12
 30	înțeleg	înțelege	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	ref=pred.read.12
 31	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	30	nsubj	_	ref=pred.read.12|SpaceAfter=No
 32	;	;	PUNCT	SCOLON	_	38	punct	_	ref=pred.read.12
@@ -3537,7 +3537,7 @@
 12	fost	fi	VERB	Vmp	VerbForm=Part	3	appos	_	ref=MATT.pred.19
 13	Mateiu	Matei	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	nsubj	_	ref=MATT.pred.19|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT.pred.19
-15	a	avea	ADP	Spsa	AdpType=Prep|Case=Acc	16	det	_	ref=MATT.pred.19
+15	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	16	det	_	ref=MATT.pred.19
 16	2-a	2	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	20	nummod	_	ref=MATT.pred.19|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT.pred.19
 18	când	când	ADV	Rw	PronType=Int,Rel	20	advmod:tmod	_	ref=MATT.pred.19
@@ -3623,7 +3623,7 @@
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT.pred.21
 2	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	det	_	ref=MATT.pred.21
 3	vreame	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:tmod	_	ref=MATT.pred.21
-4	au	oare	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	5	aux	_	ref=MATT.pred.21
+4	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	ref=MATT.pred.21
 5	scris	scrie	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT.pred.21|SpaceAfter=No
 6	;	;	PUNCT	SCOLON	_	9	punct	_	ref=MATT.pred.21
 7	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=MATT.pred.21
@@ -3881,8 +3881,8 @@
 # citation-part=MATT.pred.32
 1	Că	că	SCONJ	Csssp	Polarity=Pos	21	mark	_	ref=MATT.pred.32
 2	de-	de	SCONJ	Csssp	Polarity=Pos	7	mark	_	ref=MATT.pred.32
-3	are	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT.pred.32
-4	fi	fi	AUX	Van	VerbForm=Inf	5	aux:pass	_	ref=MATT.pred.32
+3	are	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	ref=MATT.pred.32
+4	fi	fi	AUX	Van	VerbForm=Inf	7	aux	_	ref=MATT.pred.32
 5	fost	fi	AUX	Vap	VerbForm=Part	7	aux:pass	_	ref=MATT.pred.32
 6	jidoveaște	jidovește	ADV	Rg	_	7	advmod	_	ref=MATT.pred.32
 7	scrisă	scrie	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	14	advcl	_	ref=MATT.pred.32|SpaceAfter=No
@@ -3955,7 +3955,7 @@
 # sent_id = test-93
 # text = A 2-a: că alalți apostoli și evanghelisti toți au scris ale lor în limbă grecească; derept aceia nu să creade că Matei are fi scris într- altă limbă, nice -i destul aceasta c- au fost jidov și să fie scris jidoveaște, că ceialalți apostoli încă au fost jidovi, ce au scris și au propoveduit în limbă grecească.
 # citation-part=MATT.pred.35
-1	A	avea	ADP	Spsa	AdpType=Prep|Case=Acc	2	det	_	ref=MATT.pred.35
+1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	ref=MATT.pred.35
 2	2-a	2	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	22	discourse	_	ref=MATT.pred.35|SpaceAfter=No
 3	:	:	PUNCT	COLON	_	2	punct	_	ref=MATT.pred.35
 4	că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	ref=MATT.pred.35
@@ -4004,7 +4004,7 @@
 47	ceialalți	celălalt	DET	Dd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	48	det	_	ref=MATT.pred.35
 48	apostoli	apostol	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	52	nsubj	_	ref=MATT.pred.35
 49	încă	încă	ADV	Rg	_	48	advmod	_	ref=MATT.pred.35
-50	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	51	aux	_	ref=MATT.pred.35
+50	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	52	aux	_	ref=MATT.pred.35
 51	fost	fi	AUX	Vap	VerbForm=Part	52	cop	_	ref=MATT.pred.35
 52	jidovi	jidov	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	34	advcl	_	ref=MATT.pred.35|SpaceAfter=No
 53	,	,	PUNCT	COMMA	_	56	punct	_	ref=MATT.pred.35
@@ -4022,7 +4022,7 @@
 # sent_id = test-94
 # text = A 3-a: de- are fi fost scrisă jidoveaște, n- ară fi Evangheliia lui Matei fîntînă, ca alte cărți, a Legii noao, ce ară fi izvor curînd den limbă jidovească, carea nu o avem necăiri.
 # citation-part=MATT.pred.36
-1	A	avea	ADP	Spsa	AdpType=Prep|Case=Acc	2	det	_	ref=MATT.pred.36
+1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	ref=MATT.pred.36
 2	3-a	3	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	17	discourse	_	ref=MATT.pred.36|SpaceAfter=No
 3	:	:	PUNCT	COLON	_	2	punct	_	ref=MATT.pred.36
 4	de-	de	SCONJ	Csssp	Polarity=Pos	8	mark	_	ref=MATT.pred.36
@@ -4057,9 +4057,9 @@
 33	limbă	limbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	31	obl	_	ref=MATT.pred.36
 34	jidovească	jidovesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	ref=MATT.pred.36|SpaceAfter=No
 35	,	,	PUNCT	COMMA	_	39	punct	_	ref=MATT.pred.36
-36	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	39	mark	_	ref=MATT.pred.36
+36	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	39	obj	_	ref=MATT.pred.36
 37	nu	nu	ADV	Qz	Polarity=Neg	39	advmod	_	ref=MATT.pred.36
-38	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	39	obj	_	ref=MATT.pred.36
+38	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	39	expl	_	ref=MATT.pred.36
 39	avem	avea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	33	acl	_	ref=MATT.pred.36
 40	necăiri	nicăieri	VERB	Vmn	VerbForm=Inf	39	advcl	_	ref=MATT.pred.36|SpaceAfter=No
 41	.	.	PUNCT	PERIOD	_	17	punct	_	ref=MATT.pred.36

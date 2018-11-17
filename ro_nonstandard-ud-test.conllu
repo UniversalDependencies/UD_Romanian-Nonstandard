@@ -706,8 +706,8 @@
 22	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	cop	_	ref=pred.16
 23	rostului	rost	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	21	iobj	_	ref=pred.16
 24	mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	23	det	_	ref=pred.16
-25	decît	decât	ADV	Rg	_	21	advmod	_	ref=pred.16
-26	miiarea	miere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	25	mark	_	ref=pred.16|SpaceAfter=No
+25	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	26	advmod	_	ref=pred.16
+26	miiarea	miere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	obl	_	ref=pred.16|SpaceAfter=No
 27	"	"	PUNCT	DBLQ	_	21	punct	_	ref=pred.16|SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	36	punct	_	ref=pred.16
 29	Și	și	CCONJ	Ccssp	Polarity=Pos	36	cc	_	ref=pred.16
@@ -1172,7 +1172,7 @@
 4	începeniia	începenie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nmod:tmod	_	ref=pred.28
 5	crăirei	crăie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	ref=pred.28
 6	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	ref=pred.28|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	4	case	_	ref=pred.28
+7	,	,	PUNCT	COMMA	_	4	punct	_	ref=pred.28
 8	numaidecît	numaidecât	ADV	Rg	_	9	advmod	_	ref=pred.28
 9	deșchise	deschide	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=pred.28
 10	ușia	ușă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	ref=pred.28
@@ -1281,9 +1281,9 @@
 65	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	63	nmod:pmod	_	ref=pred.29
 66	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	67	case	_	ref=pred.29
 67	ceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	65	appos	_	ref=pred.29
-68	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	70	mark	_	ref=pred.29
+68	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	70	nsubj	_	ref=pred.29
 69	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	70	expl:pv	_	ref=pred.29
-70	afla	afla	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	67	mark	_	ref=pred.29
+70	afla	afla	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	67	acl	_	ref=pred.29
 71	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	72	case	_	ref=pred.29
 72	Iudeia	Iudeea	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	70	obl	_	ref=pred.29
 73	și	și	CCONJ	Ccssp	Polarity=Pos	75	cc	_	ref=pred.29
@@ -1339,7 +1339,7 @@
 25	,	,	PUNCT	COMMA	_	29	punct	_	ref=pred.30
 26	că	că	SCONJ	Csssp	Polarity=Pos	29	mark	_	ref=pred.30
 27	n-	nu	ADV	Qz	Polarity=Neg	29	advmod	_	ref=pred.30
-28	ai	avea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	29	det	_	ref=pred.30
+28	ai	avea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	29	aux	_	ref=pred.30
 29	silit	sili	VERB	Vmp	VerbForm=Part	19	advcl	_	ref=pred.30
 30	numai	numai	ADV	Rg	_	29	advmod	_	ref=pred.30
 31	pre-	pe	ADP	Spsa	AdpType=Prep|Case=Acc	32	case	_	ref=pred.30
@@ -1429,7 +1429,7 @@
 28	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	obj	_	ref=pred.31
 29	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	30	det	_	ref=pred.31
 30	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	28	nmod	_	ref=pred.31|SpaceAfter=No
-31	,	,	PUNCT	COMMA	_	33	case	_	ref=pred.31
+31	,	,	PUNCT	COMMA	_	33	punct	_	ref=pred.31
 32	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	33	case	_	ref=pred.31
 33	scriptură	scriptură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	24	obl	_	ref=pred.31
 34	jidovască	jidovesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	ref=pred.31
@@ -1955,7 +1955,7 @@
 17	scrise	scrie	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	14	amod	_	ref=pred.read.2
 18	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	ref=pred.read.2
 19	rîndu	rând	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	ref=pred.read.2|SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	6	mark	_	ref=pred.read.2
+20	.	.	PUNCT	PERIOD	_	6	punct	_	ref=pred.read.2
 
 # sent_id = test-44
 # text = Acest Testament l- au început a -l izvodi ermonah Selivestru, din porunca și chelșugul Măriei sale și el s -au ustenit cît s -au putut și curînd i s -au tîmplat lui moarte, iară noi socotind și luînd aminte, găsit -am multă lipsă și greșiale în scriptura lui, pentru neînțelesul limbei și cărții grecești.
@@ -2516,8 +2516,8 @@
 9	banii	ban	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	csubj	_	ref=pred.read.12|SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	15	punct	_	ref=pred.read.12
 11	că	că	SCONJ	Csssp	Polarity=Pos	15	mark	_	ref=pred.read.12
-12	banii	ban	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	13	appos	_	ref=pred.read.12
-13	aceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	15	nsubj	_	ref=pred.read.12
+12	banii	ban	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	15	nsubj	_	ref=pred.read.12
+13	aceia	acela	DET	Dd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	12	det	_	ref=pred.read.12
 14	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	cop	_	ref=pred.read.12
 15	buni	bun	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	advcl	_	ref=pred.read.12
 16	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	17	nsubj	_	ref=pred.read.12
@@ -2528,8 +2528,8 @@
 21	,	,	PUNCT	COMMA	_	27	punct	_	ref=pred.read.12
 22	așia	așa	ADV	Rg	_	24	advmod	_	ref=pred.read.12
 23	și	și	ADV	Rg	_	22	advmod	_	ref=pred.read.12
-24	cuvintele	cuvânt	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	25	appos	_	ref=pred.read.12
-25	acealea	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	27	nsubj	_	ref=pred.read.12
+24	cuvintele	cuvânt	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	nsubj	_	ref=pred.read.12
+25	acealea	acela	DET	Dd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	24	det	_	ref=pred.read.12
 26	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	27	cop	_	ref=pred.read.12
 27	bune	bun	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	conj	_	ref=pred.read.12
 28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	mark	_	ref=pred.read.12

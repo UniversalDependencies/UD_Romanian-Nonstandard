@@ -7539,7 +7539,7 @@
 11	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT5.18
 12	pămîntul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	conj	_	ref=MATT5.18|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT5.18
-14	iotă	iotă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	31	appos	_	ref=MATT5.18
+14	iotă	iotă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	31	nsubj	_	ref=MATT5.18
 15	(	(	PUNCT	LPAR	_	17	punct	_	ref=MATT5.18|SpaceAfter=No
 16	sau	sau	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT5.18
 17	certă	certă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	conj	_	ref=MATT5.18|SpaceAfter=No
@@ -7736,7 +7736,7 @@
 # text = Derept aceaia, cînd duci darul tău la oltariu și acolo-ți vei aduce aminte că fratele tău are ceva alean spre tine, Lasă acolo jărtva ta înaintea oltariului și pasă întîi de te împacă cu fratele tău și atuncea vino de-ți du darul tău.
 # citation-part=MATT 5.23
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT5.23
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	25	mark	_	ref=MATT5.23|SpaceAfter=No
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	25	obl	_	ref=MATT5.23|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT5.23
 4	cînd	când	ADV	Rw	PronType=Int,Rel	5	advmod:tmod	_	ref=MATT5.23
 5	duci	duce	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	advcl:tcl	_	ref=MATT5.23
@@ -8170,7 +8170,7 @@
 # citation-part=MATT 5.37
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT5.37
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT5.37
-3	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	ref=MATT5.37
+3	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	ref=MATT5.37
 4	mai	mai	ADV	Rg	_	5	advmod	_	ref=MATT5.37
 5	mult	mult	ADV	Rg	_	11	csubj	_	ref=MATT5.37
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT5.37
@@ -8239,7 +8239,7 @@
 # text = Și cine va vrea să să pîrască cu tine și veșmîntul tău să ia, lasă și cel desupra.
 # citation-part=MATT 5.40
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT5.40
-2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	mark	_	ref=MATT5.40
+2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT5.40
 3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT5.40
 4	vrea	vrea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	xcomp	_	ref=MATT5.40
 5	să	să	PART	Qs	PartType=Sub	7	mark	_	ref=MATT5.40
@@ -8476,7 +8476,7 @@
 # text = Derept aceaia fiți voi desăvîrșiți, cum Tatăl vostru den ceriu desăvîrșit iaste.
 # citation-part=MATT 5.48
 1	Derept	Drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT5.48
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	mark	_	ref=MATT5.48
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	ref=MATT5.48
 3	fiți	fi	AUX	Vam-2p	Mood=Imp|Number=Plur|Person=2	5	cop	_	ref=MATT5.48
 4	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	ref=MATT5.48
 5	desăvîrșiți	desăvârși	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT5.48|SpaceAfter=No
@@ -8602,7 +8602,7 @@
 # text = Derept aceaia, cînd faci milostenie, nu bucina înaintea ta, ca cei fățarnici, fac în sinagoga și pe ulițe, ca să laude oamenii.
 # citation-part=MATT 6.2
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT6.2
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	mark	_	ref=MATT6.2|SpaceAfter=No
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	obl	_	ref=MATT6.2|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT6.2
 4	cînd	când	ADV	Rw	PronType=Int,Rel	5	advmod:tmod	_	ref=MATT6.2
 5	faci	face	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl:tcl	_	ref=MATT6.2

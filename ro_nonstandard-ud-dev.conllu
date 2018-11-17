@@ -10515,7 +10515,7 @@
 4	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT26.23
 5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT26.23|SpaceAfter=No
 6	:	:	PUNCT	COLON	_	19	punct	_	ref=MATT26.23
-7	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	appos	_	ref=MATT26.23
+7	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	ref=MATT26.23
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT26.23
 9	întinge	întinge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	ref=MATT26.23
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT26.23
@@ -10524,7 +10524,7 @@
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT26.23
 14	blid	blid	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	ref=MATT26.23|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT26.23
-16	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	ref=MATT26.23
+16	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	appos	_	ref=MATT26.23
 17	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	19	obj	_	ref=MATT26.23
 18	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	ref=MATT26.23
 19	vinde	vinde	VERB	Vmn	VerbForm=Inf	5	parataxis	_	ref=MATT26.23|SpaceAfter=No
@@ -10673,7 +10673,7 @@
 10	Testament	testament	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	appos	_	ref=MATT26.28
 11	Nou	nou	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	ref=MATT26.28|SpaceAfter=No
 12	)	)	PUNCT	RPAR	_	10	punct	_	ref=MATT26.28
-13	noao	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	advmod	_	ref=MATT26.28|SpaceAfter=No
+13	noao	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=MATT26.28|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT26.28
 15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	nsubj	_	ref=MATT26.28
 16	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	18	expl:pv	_	ref=MATT26.28
@@ -11052,7 +11052,7 @@
 16	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT26.41
 17	iară	iar	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT26.41
 18	trupulu	trup	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	ref=MATT26.41|SpaceAfter=No
-19	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	ref=MATT26.41
+19	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	cop	_	ref=MATT26.41
 20	slab	slab	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	ref=MATT26.41|SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT26.41
 
@@ -11802,9 +11802,9 @@
 8	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	ref=MATT26.68|SpaceAfter=No
 9	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	ref=MATT26.68
 10	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	parataxis	_	ref=MATT26.68
-11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	mark	_	ref=MATT26.68
+11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	ref=MATT26.68
 12	Te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	13	obj	_	ref=MATT26.68
-13	lovi	lovi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	mark	_	ref=MATT26.68|SpaceAfter=No
+13	lovi	lovi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	ref=MATT26.68|SpaceAfter=No
 14	?	?	PUNCT	QUEST	_	10	punct	_	ref=MATT26.68
 
 # sent_id = dev-1474
@@ -12574,7 +12574,7 @@
 11	ceară	cere	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	ref=MATT27.20
 12	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	ref=MATT27.20
 13	Varavva	Barabas	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nmod:pmod	_	ref=MATT27.20|SpaceAfter=No
-14	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT27.20
+14	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT27.20
 15	iară	iar	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT27.20
 16	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	ref=MATT27.20
 17	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	20	nmod:pmod	_	ref=MATT27.20
@@ -13356,10 +13356,10 @@
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	mark	_	ref=MATT27.51
 10	sus	sus	ADV	Rg	_	5	advmod	_	ref=MATT27.51
 11	pînă	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	12	mark	_	ref=MATT27.51
-12	gios	jos	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	ref=MATT27.51|SpaceAfter=No
+12	gios	jos	ADV	Rg	_	5	advmod	_	ref=MATT27.51|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT27.51
 14	și	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref=MATT27.51
-15	pămîntul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	17	punct	_	ref=MATT27.51
+15	pămîntul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	ref=MATT27.51
 16	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	17	expl:pv	_	ref=MATT27.51
 17	scutură	scutura	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	ref=MATT27.51
 18	și	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT27.51

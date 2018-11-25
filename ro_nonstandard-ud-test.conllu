@@ -14018,14 +14018,14 @@
 13	.	.	PUNCT	PERIOD	_	12	punct	_	ref=MATT11.8
 
 # sent_id = test-553
-# text = Dară ce ați eșit să vedeți? au proroc?
+# text = Dară ce ați eșit să vedeți au proroc?
 # citation-part=MATT 11.9
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT11.9
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	xcomp	_	ref=MATT11.9
 3	ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	ref=MATT11.9
 4	eșit	ieși	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT11.9
 5	să	să	PART	Qs	PartType=Sub	6	mark	_	ref=MATT11.9
-6	vedeți	vedea	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	ref=MATT11.9|SpaceAfter=No
+6	vedeți	vedea	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	ref=MATT11.9
 7	au	au	INTJ	I	_	6	discourse	_	ref=MATT11.9
 8	proroc	proroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	ref=MATT11.9|SpaceAfter=No
 9	?	?	PUNCT	QUEST	_	4	punct	_	ref=MATT11.9
@@ -19834,7 +19834,7 @@
 10	sara	seară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	ref=MATT16.2|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT16.2
 12	grăiți	grăi	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	ref=MATT16.2|SpaceAfter=No
-13	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT16.2
+13	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT16.2
 14	semnu	semn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	ref=MATT16.2
 15	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	ref=MATT16.2
 16	fi	fi	VERB	Vmn	VerbForm=Inf	12	parataxis	_	ref=MATT16.2|SpaceAfter=No

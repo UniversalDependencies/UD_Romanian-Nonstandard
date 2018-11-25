@@ -1999,7 +1999,7 @@
 23	carii	care	PRON	Pw3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	25	nsubj	_	ref=MATT19.12
 24	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	25	expl:pv	_	ref=MATT19.12
 25	giugănesc	jugăni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	ref=MATT19.12
-26	înșiși	însuși	PRON	Ph3mp	Gender=Masc|Number=Plur|Person=3|PronType=Emp	25	nsubj	_	ref=MATT19.12
+26	înșiși	însuși	PRON	Ph3mp	Gender=Masc|Number=Plur|Person=3|PronType=Emp	25	expl	_	ref=MATT19.12
 27	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	ref=MATT19.12
 28	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	25	nmod:pmod	_	ref=MATT19.12|SpaceAfter=No
 29	,	,	PUNCT	COMMA	_	31	punct	_	ref=MATT19.12
@@ -4921,7 +4921,7 @@
 # text = Piatra carea nu băgară în samă ziditorii, aceasta făcută e capul unghiului, de la Domnul iaste aceasta și iaste minune întru ochii noștri.
 # citation-part=MATT 21.42
 1	Piatra	piatră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj:pass	_	ref=MATT21.42
-2	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT21.42
+2	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	4	obj	_	ref=MATT21.42
 3	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=MATT21.42
 4	băgară	băga	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	acl	_	ref=MATT21.42
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT21.42
@@ -7715,7 +7715,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MATT24.12
 2	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	mark	_	ref=MATT24.12
 3	că	că	SCONJ	Csssp	Polarity=Pos	2	fixed	_	ref=MATT24.12
-4	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	6	nsubj	_	ref=MATT24.12
+4	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	6	expl:pv	_	ref=MATT24.12
 5	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	ref=MATT24.12
 6	înmulți	înmulți	VERB	Vmn	VerbForm=Inf	14	advcl	_	ref=MATT24.12
 7	strîmbătatea	strâmbătate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	ref=MATT24.12|SpaceAfter=No
@@ -9907,7 +9907,7 @@
 8	veaci	veac	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	6	nmod	_	ref=MATT25.46|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT25.46
 10	iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT25.46
-11	derepții	drept	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	ref=MATT25.46
+11	derepții	drept	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	conj	_	ref=MATT25.46
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	ref=MATT25.46
 13	viiața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT25.46
 14	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=MATT25.46
@@ -12495,16 +12495,15 @@
 15	vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	16	expl	_	ref=MATT27.17
 16	sloboz	slobozi	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	ref=MATT27.17
 17	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	16	iobj	_	ref=MATT27.17|SpaceAfter=No
-18	?	?	PUNCT	QUEST	_	13	punct	_	ref=MATT27.17
-19	Varava	Barabas	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	obj	_	ref=MATT27.17
-20	au	sau	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=MATT27.17
-21	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	conj	_	ref=MATT27.17|SpaceAfter=No
-22	,	,	PUNCT	COMMA	_	25	punct	_	ref=MATT27.17
-23	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	25	nsubj	_	ref=MATT27.17
-24	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	25	expl:pv	_	ref=MATT27.17
-25	zice	zice	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	ref=MATT27.17
-26	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	25	xcomp	_	ref=MATT27.17|SpaceAfter=No
-27	?	?	PUNCT	QUEST	_	19	punct	_	ref=MATT27.17
+18	Varava	Barabas	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	obj	_	ref=MATT27.17
+19	au	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT27.17
+20	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	conj	_	ref=MATT27.17|SpaceAfter=No
+21	,	,	PUNCT	COMMA	_	24	punct	_	ref=MATT27.17
+22	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	24	nsubj	_	ref=MATT27.17
+23	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	24	expl:pv	_	ref=MATT27.17
+24	zice	zice	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	ref=MATT27.17
+25	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	xcomp	_	ref=MATT27.17|SpaceAfter=No
+26	?	?	PUNCT	QUEST	_	13	punct	_	ref=MATT27.17
 
 # sent_id = dev-1513
 # text = Că știia că numai pentru pizma L-au dat pre El.
@@ -13468,7 +13467,7 @@
 16	slujindu	sluji	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	10	advcl	_	ref=MATT27.55|SpaceAfter=No
 17	-I	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	expl	_	ref=MATT27.55
 18	Lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	16	iobj	_	ref=MATT27.55|SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT27.55
+19	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT27.55
 
 # sent_id = dev-1557
 # text = Între carele era Maria Magdalina și Maria lui Iacov și a lui Iosie mumă și muma feciorilor lui Zevedeiu.
@@ -16246,7 +16245,7 @@
 # sent_id = dev-1692
 # text = Carea-i mai lesne: a zice slăbănogului, ertate ți-s păcatele tale, au a zice, scoală și-ți ia patul tău și îmblă?
 # citation-part=MARC 2.9
-1	Carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MARC2.9|SpaceAfter=No
+1	Carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	4	expl	_	ref=MARC2.9|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	ref=MARC2.9
 3	mai	mai	ADV	Rg	_	4	advmod	_	ref=MARC2.9
 4	lesne	lesne	ADV	Rg	_	0	root	_	ref=MARC2.9|SpaceAfter=No
@@ -16771,7 +16770,7 @@
 8	supt	sub	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MARC2.26
 9	(	(	PUNCT	LPAR	_	11	punct	_	ref=MARC2.26|SpaceAfter=No
 10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MARC2.26
-11	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	2	nmod:tmod	_	ref=MARC2.26
+11	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	14	nmod	_	ref=MARC2.26
 12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	ref=MARC2.26|SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	11	punct	_	ref=MARC2.26
 14	Aviatar	Aviatar	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod:tmod	_	ref=MARC2.26|SpaceAfter=No

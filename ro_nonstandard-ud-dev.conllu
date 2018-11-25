@@ -12476,7 +12476,7 @@
 11	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT27.16
 
 # sent_id = dev-1512
-# text = Derept aceaia, adunîndu-să ei, zise lor Pilat: carele voiți să vă sloboz voao? Varava au Iisus, ce să zice Hristos?
+# text = Derept aceaia, adunîndu-să ei, zise lor Pilat: carele voiți să vă sloboz voao Varava au Iisus, ce să zice Hristos?
 # citation-part=MATT 27.17
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT27.17
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	obl	_	ref=MATT27.17|SpaceAfter=No
@@ -18135,7 +18135,7 @@
 1	Deci	deci	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	6	cc	_	ref=MARC4.15
 2	aceștea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	6	nsubj	_	ref=MARC4.15
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	ref=MARC4.15
-4	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	6	nsubj	_	ref=MARC4.15
+4	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	6	expl	_	ref=MARC4.15
 5	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux	_	ref=MARC4.15
 6	căzut	cădea	VERB	Vmp	VerbForm=Part	0	root	_	ref=MARC4.15
 7	lîngă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MARC4.15
@@ -18173,7 +18173,7 @@
 2	aceștea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	6	nsubj	_	ref=MARC4.16
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	ref=MARC4.16
 4	așijderea	așijderea	ADV	Rg	_	6	advmod	_	ref=MARC4.16
-5	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	6	nsubj	_	ref=MARC4.16
+5	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	6	expl	_	ref=MARC4.16
 6	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.16
 7	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	ref=MARC4.16
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MARC4.16
@@ -18224,7 +18224,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MARC4.18
 2	aceștea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	5	nsubj	_	ref=MARC4.18
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	ref=MARC4.18
-4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MARC4.18
+4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	expl	_	ref=MARC4.18
 5	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.18
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MARC4.18
 7	spini	spin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	ref=MARC4.18
@@ -18270,13 +18270,13 @@
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MARC4.20
 2	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	5	nsubj	_	ref=MARC4.20
 3	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	ref=MARC4.20
-4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MARC4.20
+4	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	5	expl	_	ref=MARC4.20
 5	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC4.20
 6	sămînța	sămânță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	ref=MARC4.20
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MARC4.20
 8	pămînt	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MARC4.20
 9	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	ref=MARC4.20|SpaceAfter=No
-10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MARC4.20
+10	,	,	PUNCT	COMMA	_	12	punct	_	ref=MARC4.20
 11	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	12	nsubj	_	ref=MARC4.20
 12	aud	auzi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	ref=MARC4.20
 13	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	ref=MARC4.20

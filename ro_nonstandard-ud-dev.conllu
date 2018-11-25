@@ -12494,7 +12494,7 @@
 14	să	să	PART	Qs	PartType=Sub	16	mark	_	ref=MATT27.17
 15	vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	16	expl	_	ref=MATT27.17
 16	sloboz	slobozi	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	ref=MATT27.17
-17	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	16	iobj	_	ref=MATT27.17|SpaceAfter=No
+17	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	16	iobj	_	ref=MATT27.17
 18	Varava	Barabas	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	obj	_	ref=MATT27.17
 19	au	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT27.17
 20	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	conj	_	ref=MATT27.17|SpaceAfter=No
@@ -18302,7 +18302,7 @@
 33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	32	case	_	ref=MARC4.20
 34	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	35	obl	_	ref=MARC4.20
 35	atîta	atâta	ADV	Rg	_	29	advmod	_	ref=MARC4.20|SpaceAfter=No
-36	.	.	PUNCT	PERIOD	_	12	punct	_	ref=MARC4.20
+36	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MARC4.20
 
 # sent_id = dev-1790
 # text = Și zicea lor: Au doară făcliia pentr-acea o aprindu ca să o pue supt speae sau supt pat, au nu în sfeașnic să o pue?

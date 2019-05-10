@@ -16530,7 +16530,7 @@
 36	să	să	PART	Qs	PartType=Sub	38	mark	_	ref=MATT13.15
 37	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	38	expl:pv	_	ref=MATT13.15
 38	întoarcă	întoarce	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	ref=MATT13.15
-39	să	să	PART	Qs	PartType=Sub	41	mark	_	ref=MATT13.15|SpaceAfter=No|SpaceAfter=No
+39	să	să	PART	Qs	PartType=Sub	41	mark	_	ref=MATT13.15|SpaceAfter=No
 40	-i	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	41	obj	_	ref=MATT13.15
 41	vindece	vindeca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	38	obl	_	ref=MATT13.15
 42	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	43	case	_	ref=MATT13.15

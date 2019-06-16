@@ -16321,7 +16321,7 @@
 11	una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	ref=MATT13.8|SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	14	punct	_	ref=MATT13.8
 13	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	ref=MATT13.8
-14	sută	sută	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	11	orphan	_	ref=MATT13.8
+14	sută	sută	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	11	nummod	_	ref=MATT13.8
 15	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT13.8
 16	alta	altul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	11	conj	_	ref=MATT13.8|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT13.8
@@ -16530,7 +16530,7 @@
 36	să	să	PART	Qs	PartType=Sub	38	mark	_	ref=MATT13.15
 37	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	38	expl:pv	_	ref=MATT13.15
 38	întoarcă	întoarce	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	ref=MATT13.15
-39	să	să	PART	Qs	PartType=Sub	41	mark	_	ref=MATT13.15|SpaceAfter=No
+39	să	să	PART	Qs	PartType=Sub	41	mark	_	ref=MATT13.15|SpaceAfter=No|SpaceAfter=No
 40	-i	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	41	obj	_	ref=MATT13.15
 41	vindece	vindeca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	38	obl	_	ref=MATT13.15
 42	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	43	case	_	ref=MATT13.15
@@ -20774,7 +20774,7 @@
 10	)	)	PUNCT	RPAR	_	9	punct	_	ref=MATT17.4|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT17.4
 12	Ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	iobj	_	ref=MATT17.4
-13	una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	12	orphan	_	ref=MATT17.4
+13	una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	7	appos	_	ref=MATT17.4
 14	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT17.4
 15	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	16	det	_	ref=MATT17.4
 16	Moisi	Moisi	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	conj	_	ref=MATT17.4

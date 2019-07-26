@@ -1,6 +1,6 @@
 # Summary
 
-The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank.
+The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank. UAIC-RoDia = ISLRN 156-635-615-024-0
 
 # Introduction
 
@@ -17,18 +17,22 @@ The first release includes in the second part, 284 senteces are folklore in vers
 
 For the second release, we finished the transposition in UD format of the first part of the New Testament (1648): all the prefaces and the four Gospels = 5,172 sentences, including the 916 fron the first release.
 
-Also, the contribution of the Republic of Moldova is now 902 sentences folklore, including the 54 sentences from the first relase.
-We have now 1132 sentences Folklore.
+For the third release, all the Alba Iulia New Testament (1648).
+
+For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
+
+Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
+
 
 # Contributors
 
-Cătălina Mărănduc - The New Testament 1648; Revision of all the data.
+Cătălina Mărănduc - The New Testament 1648; Flower of Gifts; Romanian Folk Ballads. Revision of all the data.
 (Afiiliation: Faculty of Computer Science, ”AL. I. Cuza” University, Iași,http://www.info.uaic.ro/bin/Main/ and the Academic Institute of Linguistics ”Iorgu Iordan - Al.Rosetti”, Bucharest www.lingv.ro/, Romania)
 
 Cenel Augusto Perez - Romanian Folclore, 230 sentences.
 (Affiliation ”AL. I. Cuza” University, www.uaic.ro/ Iași, Romania),
 
-Victoria Bobicev  - Moldovan Folklore
+Victoria Bobicev  - Moldovan Folklore; Moldavian Ballads. 
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova),
 
 Cătălin Mititelu (Ro) (Author of the TREEOPS (XML converter from the UAIC format in UD format) (Colhon 2017, Mărănduc 2018).
@@ -39,9 +43,15 @@ Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU
 
 # Sources
 
-The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
+(1592) Flower of gifts. [Anonymous translation]. In The Oldest Popular Books in Romanian Literature, I. (Coordinators: Ion Ghetie and Alexandru Mareş). Bucharest, Minerva Publishing House, 1996,  p. 119–182.
+
+(1648) The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
 
 Grigore C. Bostan The Romanian folk poetry in the Carpathian-Nistrian - lasi: Cantes, 1998 280 p
+
+Folklore from the Codri parts, Academy of Sciences of the Republic of Moldova, 1962
+
+Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House for Literature, 1964;
 
 # References
 
@@ -53,6 +63,8 @@ Texts Printed in the Cyrillic Script. In Proceedings of International Conference
 Colhon, Mihaela, Cătălina Mărănduc and Cătălin Mititelu, 2017. A Multiform Balanced Dependency Treebank for Romanian, in Proceedings of Knowledge Resources for the Socio-Economic Sciences and Humanities, (KnowRSH), Varna, Bulgaria September 8, 2017 workshop at the Recent Advances in Natural Language Processing (RANLP) p. 9-19.
 
 Colesnicov, Alexander, Ludmila Malahov, Tudor Bumbu, 2016. Digitization of Romanian Printed Texts of the 17-th Century. roceedings of the 12th International Conference “Linguistic Resources and Tools for Processing the Romanian Language, p. 3-11.
+
+Mihaela Colhon, Cătălina Mărănduc and Cătălin Mititelu, A Multiform Balanced Dependency Treebank for Romanian, in Proceedings of Knowledge Resources for the Socio-Economic Sciences and Humanities, (KnowRSH), Varna, Bulgaria September 8, 2017 workshop at the Recent Advances in Natural Language Processing (RANLP) p. 9-19.
 
 Mărănduc, Cătălina Perez, Cenel-Augusto, 2015. A Romanian Dependency Treebank. In International Journal of Computational Linguistics and Applications, vol. 6, no. 2, issue July-December 2015, p. 25–40
 

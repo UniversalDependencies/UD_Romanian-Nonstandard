@@ -23,6 +23,8 @@ For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
 
 Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
 
+Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
+
 
 # Contributors
 
@@ -52,6 +54,8 @@ Grigore C. Bostan The Romanian folk poetry in the Carpathian-Nistrian - lasi: Ca
 Folklore from the Codri parts, Academy of Sciences of the Republic of Moldova, 1962
 
 Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House for Literature, 1964;
+
+Caragea Voievod's Law, printed at the typography from Cismeaua Rosie, Bucharest, 1818;
 
 # References
 

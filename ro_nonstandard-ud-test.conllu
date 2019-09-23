@@ -10753,7 +10753,7 @@
 23	Izraili	Izraili	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	25	obl	_	ref=MATT8.10
 24	nu	nu	ADV	Qz	Polarity=Neg	25	advmod	_	ref=MATT8.10
 25	aflaiu	afla	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	parataxis	_	ref=MATT8.10
-26	atîta	atât	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	27	det	_	ref=MATT8.10
+26	atîta	atâta	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	27	det	_	ref=MATT8.10
 27	credință	credință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	obj	_	ref=MATT8.10|SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	8	punct	_	ref=MATT8.10
 
@@ -19581,7 +19581,7 @@
 10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT15.33
 11	pustie	pustiu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	ref=MATT15.33|SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT15.33
-13	atîtea	atât	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	14	det	_	ref=MATT15.33
+13	atîtea	atâta	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	14	det	_	ref=MATT15.33
 14	pîini	pâine	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	6	obj	_	ref=MATT15.33|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	19	punct	_	ref=MATT15.33
 16	ca	ca	ADV	Rg	_	19	mark	_	ref=MATT15.33
@@ -23888,7 +23888,7 @@
 # text = Are atâtea căsuri Că stau ca și stoguri.
 # Rhyme= Yes
 1	Are	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-2	atâtea	atât	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	3	det	_	_
+2	atâtea	atâta	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	3	det	_	_
 3	căsuri	casă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	Rhyme=ID8|Type=Paired
 4	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	_
 5	stau	sta	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
@@ -23924,7 +23924,7 @@
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	stupină	stupină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	Rhyme=ID6|Type=Paired
 4	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	SpaceAfter=No
-5	-atâta	atât	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	6	det	_	_
+5	-atâta	atâta	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	6	det	_	_
 6	albină	albină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	Rhyme=ID3|Type=Paired
 7	Nori	nor	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	9	obj	_	_
 8	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	aux	_	_
@@ -24782,7 +24782,7 @@
 6	,	,	PUNCT	COMMA	_	8	punct	_	_
 7	când	când	ADV	Rw	PronType=Int,Rel	8	advmod:tmod	_	_
 8	văzu	vedea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	advcl:tcl	_	_
-9	atâtea	atât	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	det	_	_
+9	atâtea	atâta	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	det	_	_
 10	cară	car	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	Rhyme=ID5,13|Type=Mono
 11	încărcate	încărca	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	10	amod	_	_
 12	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_

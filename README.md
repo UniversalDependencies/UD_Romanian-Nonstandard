@@ -28,7 +28,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 
 # Contributors
 
-Cătălina Mărănduc - The New Testament 1648; Flower of Gifts; Romanian Folk Ballads. Revision of all the data.
+Cătălina Mărănduc - The New Testament 1648; Flower of Gifts; Caragea's Law, Romanian Folk Ballads. Revision of all the data.
 (Afiiliation: Faculty of Computer Science, ”AL. I. Cuza” University, Iași,http://www.info.uaic.ro/bin/Main/ and the Academic Institute of Linguistics ”Iorgu Iordan - Al.Rosetti”, Bucharest www.lingv.ro/, Romania)
 
 Cenel Augusto Perez - Romanian Folclore, 230 sentences.

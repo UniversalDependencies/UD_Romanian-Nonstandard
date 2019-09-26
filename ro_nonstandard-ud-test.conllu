@@ -2177,7 +2177,7 @@
 20	.	.	PUNCT	PERIOD	_	19	punct	_	ref=pred.read.6
 
 # sent_id = test-48
-# text = Însă de cea greciască nu ne- am depărtat, știind că Duhul Sfînt au îndemnat evangheliștii și apostolii a scrie în limbă grecească Testamentul cel nou, și cartea grecească iaste izvorul celorlalte.
+# text = Însă de cea greciască nu ne- am depărtat, știind că Duhul Sfînt au îndemnat Evangheliștii și apostolii a scrie în limbă grecească Testamentul cel nou, și cartea grecească iaste izvorul celorlalte.
 # citation-part=pred.read.7
 1	Însă	însă	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=pred.read.7
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=pred.read.7
@@ -2194,7 +2194,7 @@
 13	Sfînt	sfânt	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	ref=pred.read.7
 14	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux	_	ref=pred.read.7
 15	îndemnat	îndemna	VERB	Vmp	VerbForm=Part	10	ccomp	_	ref=pred.read.7
-16	evangheliștii	evanghelist	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	15	obj	_	ref=pred.read.7
+16	Evangheliștii	Evanghelist	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	15	obj	_	ref=pred.read.7
 17	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=pred.read.7
 18	apostolii	apostol	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	ref=pred.read.7
 19	a	a	PART	Qn	PartType=Inf	20	mark	_	ref=pred.read.7
@@ -2795,12 +2795,12 @@
 35	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT.pred.1
 
 # sent_id = test-60
-# text = Întîi acest cuvînt evanghelion iaste cuvînt grecesc și în firea lui face veaste bună sau dar pentru veaste bună; în limba jidovească încă samnă veaste bună, au darul veștii bune.
+# text = Întîi acest cuvînt Evanghelion iaste cuvînt grecesc și în firea lui face veaste bună sau dar pentru veaste bună; în limba jidovească încă samnă veaste bună, au darul veștii bune.
 # citation-part=MATT.pred.2
 1	Întîi	întâi	NUM	Moms-ln	Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	6	nmod:tmod	_	ref=MATT.pred.2
 2	acest	acesta	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	ref=MATT.pred.2
 3	cuvînt	cuvânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT.pred.2
-4	evanghelion	evanghelion	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	ref=MATT.pred.2
+4	Evanghelion	Evanghelion	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	ref=MATT.pred.2
 5	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	ref=MATT.pred.2
 6	cuvînt	cuvânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT.pred.2
 7	grecesc	grecesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	ref=MATT.pred.2
@@ -3037,7 +3037,7 @@
 62	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT.pred.6
 
 # sent_id = test-65
-# text = Uneori să chiamă Evangheliia una sîngură și așa să înțeleage cartea celor patru evanghelești, la galateani 1, stih 6.
+# text = Uneori să chiamă Evangheliia una sîngură și așa să înțeleage cartea celor patru Evanghelești, la galateani 1, stih 6.
 # citation-part=MATT.pred.7
 1	Uneori	uneori	ADV	Rg	_	3	advmod:tmod	_	ref=MATT.pred.7
 2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	ref=MATT.pred.7
@@ -3052,7 +3052,7 @@
 11	cartea	carte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	ref=MATT.pred.7
 12	celor	cel	DET	Td-po	Case=Dat,Gen|Number=Plur|PronType=Dem	14	det	_	ref=MATT.pred.7
 13	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	ref=MATT.pred.7
-14	evanghelești	evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nmod	_	ref=MATT.pred.7|SpaceAfter=No
+14	Evanghelești	Evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nmod	_	ref=MATT.pred.7|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT.pred.7
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	ref=MATT.pred.7
 17	galateani	galatean	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	10	obl	_	ref=MATT.pred.7
@@ -3298,7 +3298,7 @@
 16	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT.pred.14
 
 # sent_id = test-73
-# text = Auneori să zice povestea Evangheliei de nașterea lui Hristos, de minunile Lui, chinuri, moartea, scularea, înălțarea și așia sînt patru evanghelii, carele au scris cei patru evanghelisti, din carii doi: Matei și Ion sînt din numărul a 12 apostoli, previtori cu ochii, faptelor și învățăturilor lui Hristos, carele le- au și scris cu adevărat dintru îndemnarea Duhului Sfînt.
+# text = Auneori să zice povestea Evangheliei de nașterea lui Hristos, de minunile Lui, chinuri, moartea, scularea, înălțarea și așia sînt patru Evanghelii, carele au scris cei patru Evanghelisti, din carii doi: Matei și Ion sînt din numărul a 12 apostoli, previtori cu ochii, faptelor și învățăturilor lui Hristos, carele le- au și scris cu adevărat dintru îndemnarea Duhului Sfînt.
 # citation-part=MATT.pred.15
 1	Auneori	uneori	ADV	Rg	_	3	advmod:tmod	_	ref=MATT.pred.15
 2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	ref=MATT.pred.15
@@ -3325,14 +3325,14 @@
 23	așia	așa	ADV	Rg	_	3	conj	_	ref=MATT.pred.15
 24	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	23	cop	_	ref=MATT.pred.15
 25	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	26	nummod	_	ref=MATT.pred.15
-26	evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	23	nsubj	_	ref=MATT.pred.15|SpaceAfter=No
+26	Evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	23	nsubj	_	ref=MATT.pred.15|SpaceAfter=No
 27	,	,	PUNCT	COMMA	_	30	punct	_	ref=MATT.pred.15
 28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	obj	_	ref=MATT.pred.15
 29	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	30	aux	_	ref=MATT.pred.15
 30	scris	scrie	VERB	Vmp	VerbForm=Part	26	acl	_	ref=MATT.pred.15
 31	cei	cel	DET	Tdmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|PronType=Dem	32	det	_	ref=MATT.pred.15
 32	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	33	nummod	_	ref=MATT.pred.15
-33	evanghelisti	evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	30	nsubj	_	ref=MATT.pred.15|SpaceAfter=No
+33	Evanghelisti	Evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	30	nsubj	_	ref=MATT.pred.15|SpaceAfter=No
 34	,	,	PUNCT	COMMA	_	44	punct	_	ref=MATT.pred.15
 35	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	36	case	_	ref=MATT.pred.15
 36	carii	care	PRON	Pw3-pr	Case=Acc,Nom|Number=Plur|Person=3|PronType=Int,Rel	44	obl	_	ref=MATT.pred.15
@@ -3372,7 +3372,7 @@
 70	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT.pred.15
 
 # sent_id = test-74
-# text = Iară ceialalți doi: Marcu și Luca n- au fost apostoli, ce numai ucenici credincioși apostolilor, din cei 70 de ucenici, și fiind și ei înluminați den Duhul Sfînt, scrisără și ei evanghelii, săva că au fost și alții mulți carii au scris evanghelii, cumu -i la Luca 1, stih 1, cum să arată și din scripturile lui Evsevie și Eronim, în a treia carte a Istorii, în cap. 25, în predoslovie lui Mateiu.
+# text = Iară ceialalți doi: Marcu și Luca n- au fost apostoli, ce numai ucenici credincioși apostolilor, din cei 70 de ucenici, și fiind și ei înluminați den Duhul Sfînt, scrisără și ei Evanghelii, săva că au fost și alții mulți carii au scris Evanghelii, cumu -i la Luca 1, stih 1, cum să arată și din scripturile lui Evsevie și Eronim, în a treia carte a Istorii, în cap. 25, în predoslovie lui Mateiu.
 # citation-part=MATT.pred.16
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT.pred.16
 2	ceialalți	celălalt	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	11	nsubj	_	ref=MATT.pred.16
@@ -3410,7 +3410,7 @@
 34	scrisără	scrie	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	ref=MATT.pred.16
 35	și	și	ADV	Rg	_	36	advmod	_	ref=MATT.pred.16
 36	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	34	nsubj	_	ref=MATT.pred.16
-37	evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	34	obj	_	ref=MATT.pred.16|SpaceAfter=No
+37	Evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	34	obj	_	ref=MATT.pred.16|SpaceAfter=No
 38	,	,	PUNCT	COMMA	_	39	punct	_	ref=MATT.pred.16
 39	săva	săva	ADV	Rg	_	34	advmod	_	ref=MATT.pred.16
 40	că	că	SCONJ	Csssp	Polarity=Pos	42	mark	_	ref=MATT.pred.16
@@ -3422,7 +3422,7 @@
 46	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	48	nsubj	_	ref=MATT.pred.16
 47	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	48	aux	_	ref=MATT.pred.16
 48	scris	scrie	VERB	Vmp	VerbForm=Part	44	acl	_	ref=MATT.pred.16
-49	evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	48	obj	_	ref=MATT.pred.16|SpaceAfter=No
+49	Evanghelii	Evanghelie	PROPN	Npfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	48	obj	_	ref=MATT.pred.16|SpaceAfter=No
 50	,	,	PUNCT	COMMA	_	52	punct	_	ref=MATT.pred.16
 51	cumu	cum	ADV	Rw	PronType=Int,Rel	52	advmod	_	ref=MATT.pred.16
 52	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	ref=MATT.pred.16
@@ -3462,7 +3462,7 @@
 86	.	.	PUNCT	PERIOD	_	11	punct	_	ref=MATT.pred.16
 
 # sent_id = test-75
-# text = Ce pentr- aceaia mai mult de a cestor patru nu s -au aflat, cărora să le crează beseareca credincioșilor și să -i numere între cărțile sfinte, că cuvintele acelora și scriptura nu să asamănă cu scrisoarea apostolilor și evanghelistilor, cum scrie Evsevie.
+# text = Ce pentr- aceaia mai mult de a cestor patru nu s -au aflat, cărora să le crează beseareca credincioșilor și să -i numere între cărțile sfinte, că cuvintele acelora și scriptura nu să asamănă cu scrisoarea apostolilor și Evanghelistilor, cum scrie Evsevie.
 # citation-part=MATT.pred.17
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT.pred.17
 2	pentr-	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	3	case	_	ref=MATT.pred.17
@@ -3504,7 +3504,7 @@
 38	scrisoarea	scrisoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	36	obl	_	ref=MATT.pred.17
 39	apostolilor	apostol	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	38	nmod	_	ref=MATT.pred.17
 40	și	și	CCONJ	Ccssp	Polarity=Pos	41	cc	_	ref=MATT.pred.17
-41	evanghelistilor	evanghelist	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	39	conj	_	ref=MATT.pred.17|SpaceAfter=No
+41	Evanghelistilor	Evanghelist	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	39	conj	_	ref=MATT.pred.17|SpaceAfter=No
 42	,	,	PUNCT	COMMA	_	44	punct	_	ref=MATT.pred.17
 43	cum	cum	ADV	Rw	PronType=Int,Rel	44	advmod	_	ref=MATT.pred.17
 44	scrie	scrie	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	advcl	_	ref=MATT.pred.17
@@ -3554,7 +3554,7 @@
 29	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT.pred.19
 
 # sent_id = test-78
-# text = Întîi lui Mateiu i- au fost porecla Levi, fiiul lui Alfeiu, și era vameș, pre care îi chema jidovii publicani (pentru că era oameni răi și răpitori) și cu chemarea lui Hristos, den publican să făcu apostol, scrietoriul evanghelii; de chemătura lui iaste scris Mattei, cap. 9, stih 9.
+# text = Întîi lui Mateiu i- au fost porecla Levi, fiiul lui Alfeiu, și era vameș, pre care îi chema jidovii publicani (pentru că era oameni răi și răpitori) și cu chemarea lui Hristos, den publican să făcu apostol, scrietoriul Evanghelii; de chemătura lui iaste scris Mattei, cap. 9, stih 9.
 # citation-part=MATT.pred.20
 1	Întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	8	nmod:tmod	_	ref=MATT.pred.20
 2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	ref=MATT.pred.20
@@ -3601,7 +3601,7 @@
 43	apostol	apostol	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	42	xcomp	_	ref=MATT.pred.20|SpaceAfter=No
 44	,	,	PUNCT	COMMA	_	45	punct	_	ref=MATT.pred.20
 45	scrietoriul	scriitor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	43	appos	_	ref=MATT.pred.20
-46	evanghelii	Evanghelie	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	45	nmod	_	ref=MATT.pred.20|SpaceAfter=No
+46	Evanghelii	Evanghelie	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	45	nmod	_	ref=MATT.pred.20|SpaceAfter=No
 47	;	;	PUNCT	SCOLON	_	52	punct	_	ref=MATT.pred.20
 48	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	49	case	_	ref=MATT.pred.20
 49	chemătura	chemătură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	52	nmod:pmod	_	ref=MATT.pred.20
@@ -3697,7 +3697,7 @@
 49	.	.	PUNCT	PERIOD	_	19	punct	_	ref=MATT.pred.23
 
 # sent_id = test-82
-# text = Părinții și cărtularii cei mari cred că așia sînt scrise evangheliile cumu- s la noi: Matei, Marcu, Luca, Ion.
+# text = Părinții și cărtularii cei mari cred că așia sînt scrise Evangheliile cumu- s la noi: Matei, Marcu, Luca, Ion.
 # citation-part=ref=MATT.pred.24
 1	Părinții	părinte	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT.pred.24
 2	și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT.pred.24
@@ -3709,7 +3709,7 @@
 8	așia	așa	ADV	Rg	_	10	advmod	_	ref=MATT.pred.24
 9	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	aux:pass	_	ref=MATT.pred.24
 10	scrise	scrie	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	6	ccomp	_	ref=MATT.pred.24
-11	evangheliile	Evanghelie	PROPN	Npfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj:pass	_	ref=MATT.pred.24
+11	Evangheliile	Evanghelie	PROPN	Npfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj:pass	_	ref=MATT.pred.24
 12	cumu-	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	ref=MATT.pred.24
 13	s	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	ref=MATT.pred.24
 14	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT.pred.24
@@ -3953,7 +3953,7 @@
 24	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT.pred.34
 
 # sent_id = test-93
-# text = A 2-a: că alalți apostoli și evanghelisti toți au scris ale lor în limbă grecească; derept aceia nu să creade că Matei are fi scris într- altă limbă, nice -i destul aceasta c- au fost jidov și să fie scris jidoveaște, că ceialalți apostoli încă au fost jidovi, ce au scris și au propoveduit în limbă grecească.
+# text = A 2-a: că alalți apostoli și Evanghelisti toți au scris ale lor în limbă grecească; derept aceia nu să creade că Matei are fi scris într- altă limbă, nice -i destul aceasta c- au fost jidov și să fie scris jidoveaște, că ceialalți apostoli încă au fost jidovi, ce au scris și au propoveduit în limbă grecească.
 # citation-part=MATT.pred.35
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	ref=MATT.pred.35
 2	2-a	2	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	22	discourse	_	ref=MATT.pred.35|SpaceAfter=No
@@ -3962,7 +3962,7 @@
 5	alalți	celălalt	DET	Dd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	6	det	_	ref=MATT.pred.35
 6	apostoli	apostol	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nsubj	_	ref=MATT.pred.35
 7	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT.pred.35
-8	evanghelisti	evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	6	conj	_	ref=MATT.pred.35
+8	Evanghelisti	Evanghelist	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	6	conj	_	ref=MATT.pred.35
 9	toți	tot	DET	Di3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	det	_	ref=MATT.pred.35
 10	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	aux	_	ref=MATT.pred.35
 11	scris	scrie	VERB	Vmp	VerbForm=Part	22	advcl	_	ref=MATT.pred.35
@@ -15354,7 +15354,7 @@
 9	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	ref=MATT12.26
 10	pizmesc	pizmui	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT12.26
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MATT12.26
-12	sineși	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	10	obl	_	ref=MATT12.26
+12	sineși	sineși	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	10	obl	_	ref=MATT12.26
 13	dară	dar	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT12.26
 14	cum	cum	ADV	Rw	PronType=Int,Rel	16	advmod	_	ref=MATT12.26
 15	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	ref=MATT12.26

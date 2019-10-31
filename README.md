@@ -34,14 +34,18 @@ Cătălina Mărănduc - The New Testament 1648; Flower of Gifts; Caragea's Law, 
 Cenel Augusto Perez - Romanian Folclore, 230 sentences.
 (Affiliation ”AL. I. Cuza” University, www.uaic.ro/ Iași, Romania),
 
-Victoria Bobicev  - Moldovan Folklore; Moldavian Ballads. 
-(Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova),
+Victoria Bobicev  - Moldovan Folklore; Moldavian Ballads. Training of the UD parsers on this corpus
+(Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
 
 Cătălin Mititelu (Ro) (Author of the TREEOPS (XML converter from the UAIC format in UD format) (Colhon 2017, Mărănduc 2018).
 
 Florinel Hociung (Ro) (Author of the Treebank Multiformat Annotator interface) (Mărănduc 2017a).
 
 Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU all the specific data of our treebank.
+
+Roman Untilov 
+(Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
+Training of the UD parsers and other tools on this corpus and on the Romanian language.
 
 # Sources
 
@@ -85,6 +89,10 @@ Cătălina Mărănduc, Cătălin Mititelu, Victoria Bobicev. 2018 Syntactic Sema
 Perez, Cenel-Augusto, 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Al. I. Cuza University, Iași.
 
 Perez, Cenel-Augusto, Cătălina Mărănduc, and Radu Simionescu, 2016. Social media – processing romanian chats and discourse analysis. Computación y Sistemas 20(3):404–414.
+
+Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, ”Syntactic Parser for Old and Regional Romanian”,∗ presented at the 3-rd DATeCH Conference, Brussels May 2019
+
+Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regularities in UD_Romanian-Nonstandard Parsing, In Proceedings of ConsILR, Cluj, 18-20 Nov. 2019, Iași, Al. I. Cuza University Publishing House, 2019.
 
 # Changelog
 

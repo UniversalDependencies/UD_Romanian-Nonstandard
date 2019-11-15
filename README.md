@@ -43,7 +43,7 @@ Florinel Hociung (Ro) (Author of the Treebank Multiformat Annotator interface) (
 
 Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU all the specific data of our treebank.
 
-Roman Untilov 
+Roman Untilov
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
 Training of the UD parsers and other tools on this corpus and on the Romanian language.
 
@@ -115,7 +115,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin
+Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin; Untilov, Roman
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 ===============================================================================

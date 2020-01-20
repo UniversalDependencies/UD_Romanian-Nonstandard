@@ -24,6 +24,7 @@ For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
 Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
+Today, 20.01.2020 we uploaded the first part of the Ion Neculce's Cronicle, 1743.
 
 
 # Contributors
@@ -46,6 +47,7 @@ Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU
 Roman Untilov
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
 Training of the UD parsers and other tools on this corpus and on the Romanian language.
+The Folklore corpus was made a separate train corpus. But a small part of them exists in the test and dev corpora.
 
 # Sources
 
@@ -60,6 +62,8 @@ Folklore from the Codri parts, Academy of Sciences of the Republic of Moldova, 1
 Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House for Literature, 1964;
 
 Caragea Voievod's Law, printed at the typography from Cismeaua Rosie, Bucharest, 1818;
+
+Ion Neculce, Works, ”The Chronicle of the Country of Moldova”, ”A lot of words” (1743), edition by Gabriel Ștrempel, 1982
 
 # References
 

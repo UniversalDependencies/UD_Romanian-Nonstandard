@@ -47,17 +47,23 @@ Roman Untilov
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
 Training of the UD parsers and other tools on this corpus and on the Romanian language.
 
+Petru Rebeja: Faculty of the Computer Science, Al. I. Cuza University, Iasi. Romania works of the conllu converter and of the POS-tagger.
+
 # Sources
 
 (1592) Flower of gifts. [Anonymous translation]. In The Oldest Popular Books in Romanian Literature, I. (Coordinators: Ion Ghetie and Alexandru Mareş). Bucharest, Minerva Publishing House, 1996,  p. 119–182.
 
 (1648) The New Testament. Printed for the first time in Romanian at 1648 by Simion Stephen, Metropolitan of Transylvania.
 
+1673 Dosoftei, Psalms of David, translation with rhymes.
+
 Grigore C. Bostan The Romanian folk poetry in the Carpathian-Nistrian - lasi: Cantes, 1998 280 p
 
 Folklore from the Codri parts, Academy of Sciences of the Republic of Moldova, 1962
 
 Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House for Literature, 1964;
+
+Ion Neculce, Chronicle, 1743
 
 Caragea Voievod's Law, printed at the typography from Cismeaua Rosie, Bucharest, 1818;
 
@@ -115,7 +121,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin
+Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin, Roman Untilov, Petru Rebeja
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 ===============================================================================

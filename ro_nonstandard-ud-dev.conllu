@@ -446,7 +446,7 @@
 # text = Mai mare întru Împărățiia lui Dumnezeu.
 # citation-part=MATT 18.1.content
 1	Mai	mai	ADV	Rg	_	2	advmod	_	ref=MATT18.1.content
-2	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.1.content
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT18.1.content
 3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT18.1.content
 4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	ref=MATT18.1.content
 5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=MATT18.1.content
@@ -548,7 +548,7 @@
 13	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=MATT18.1|SpaceAfter=No
 14	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	ref=MATT18.1
 15	mai	mai	ADV	Rg	_	16	advmod	_	ref=MATT18.1
-16	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	parataxis	_	ref=MATT18.1
+16	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	10	parataxis	_	ref=MATT18.1
 17	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MATT18.1
 18	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	obl	_	ref=MATT18.1
 19	ceriurelor	cer	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	ref=MATT18.1|SpaceAfter=No
@@ -616,7 +616,7 @@
 12	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MATT18.4
 13	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	cop	_	ref=MATT18.4
 14	mai	mai	ADV	Rg	_	15	advmod	_	ref=MATT18.4
-15	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.4
+15	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT18.4
 16	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	ref=MATT18.4
 17	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	ref=MATT18.4
 18	ceriurelor	cer	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	17	nmod	_	ref=MATT18.4|SpaceAfter=No
@@ -3393,7 +3393,7 @@
 15	să	să	PART	Qs	PartType=Sub	18	mark	_	ref=MATT20.26
 16	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	18	cop	_	ref=MATT20.26
 17	mai	mai	ADV	Rg	_	18	advmod	_	ref=MATT20.26
-18	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	ccomp	_	ref=MATT20.26
+18	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	12	ccomp	_	ref=MATT20.26
 19	să	să	PART	Qs	PartType=Sub	22	mark	_	ref=MATT20.26
 20	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	22	cop	_	ref=MATT20.26
 21	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	22	iobj	_	ref=MATT20.26
@@ -5101,7 +5101,7 @@
 # text = Poruncă mare.
 # citation-part=MATT 22.36.content
 1	Poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MATT22.36.content
-2	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	ref=MATT22.36.content|SpaceAfter=No
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	1	amod	_	ref=MATT22.36.content|SpaceAfter=No
 3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT22.36.content
 
 # sent_id = dev-1144
@@ -5953,7 +5953,7 @@
 4	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	ref=MATT22.36
 5	poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MATT22.36
 6	mai	mai	ADV	Rg	_	7	advmod	_	ref=MATT22.36
-7	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=MATT22.36
+7	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	ref=MATT22.36
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT22.36
 9	leage	leage	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	ref=MATT22.36|SpaceAfter=No
 10	?	?	PUNCT	QUEST	_	5	punct	_	ref=MATT22.36
@@ -5996,7 +5996,7 @@
 3	întîi	întâi	NUM	Mo---l	NumForm=Word|NumType=Ord	0	root	_	ref=MATT22.38
 4	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT22.38
 5	mai	mai	ADV	Rg	_	6	advmod	_	ref=MATT22.38
-6	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	ref=MATT22.38
+6	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	7	amod	_	ref=MATT22.38
 7	poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	ref=MATT22.38|SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT22.38
 
@@ -6533,7 +6533,7 @@
 2	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT23.11
 3	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	ref=MATT23.11
 4	mai	mai	ADV	Rg	_	5	advmod	_	ref=MATT23.11
-5	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	csubj	_	ref=MATT23.11
+5	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	12	csubj	_	ref=MATT23.11
 6	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT23.11
 7	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	5	obl	_	ref=MATT23.11|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT23.11
@@ -6738,7 +6738,7 @@
 5	Care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	ref=MATT23.17
 6	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	ref=MATT23.17
 7	mai	mai	ADV	Rg	_	8	advmod	_	ref=MATT23.17
-8	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT23.17|SpaceAfter=No
+8	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT23.17|SpaceAfter=No
 9	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT23.17
 10	aurul	aur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	appos	_	ref=MATT23.17
 11	au	sau	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT23.17
@@ -6791,7 +6791,7 @@
 6	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT23.19
 7	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	ref=MATT23.19
 8	mai	mai	ADV	Rg	_	9	advmod	_	ref=MATT23.19
-9	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT23.19|SpaceAfter=No
+9	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT23.19|SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT23.19
 11	darul	dar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	appos	_	ref=MATT23.19
 12	au	sau	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT23.19
@@ -7902,7 +7902,7 @@
 3	fi	fi	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT24.21
 4	atuncea	atunci	ADV	Rg	_	3	advmod:tmod	_	ref=MATT24.21
 5	nevoe	nevoie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	ref=MATT24.21
-6	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=MATT24.21|SpaceAfter=No
+6	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	ref=MATT24.21|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT24.21
 8	carea	care	PRON	Pw3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT24.21
 9	n-	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT24.21|SpaceAfter=No
@@ -7983,7 +7983,7 @@
 11	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	aux	_	ref=MATT24.24
 12	da	da	VERB	Vmn	VerbForm=Inf	4	conj	_	ref=MATT24.24
 13	seamne	semn	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	12	obj	_	ref=MATT24.24
-14	mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	ref=MATT24.24
+14	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	13	amod	_	ref=MATT24.24
 15	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT24.24
 16	minuni	minune	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	13	conj	_	ref=MATT24.24|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT24.24
@@ -8189,7 +8189,7 @@
 9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT24.31
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT24.31
 11	glas	glas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	conj	_	ref=MATT24.31
-12	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	ref=MATT24.31
+12	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	11	amod	_	ref=MATT24.31
 13	și	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	ref=MATT24.31
 14	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux	_	ref=MATT24.31
 15	aduna	aduna	VERB	Vmn	VerbForm=Inf	3	conj	_	ref=MATT24.31
@@ -11511,7 +11511,7 @@
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT26.57
 12	popa	popă	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	appos	_	ref=MATT26.57
 13	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=MATT26.57
-14	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	ref=MATT26.57|SpaceAfter=No
+14	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	ref=MATT26.57|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	21	punct	_	ref=MATT26.57
 16	unde	unde	ADV	Rw	PronType=Int,Rel	21	advmod	_	ref=MATT26.57
 17	cărtularii	cărturar	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	21	nsubj	_	ref=MATT26.57
@@ -11537,7 +11537,7 @@
 11	curtea	curte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	ref=MATT26.58
 12	popei	popă	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	ref=MATT26.58
 13	celui	cel	DET	Tdmso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=MATT26.58
-14	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	ref=MATT26.58
+14	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	ref=MATT26.58
 15	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT26.58
 16	întrînd	intra	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	18	advcl	_	ref=MATT26.58
 17	înlăuntru	înăuntru	ADV	Rg	_	16	advmod	_	ref=MATT26.58
@@ -11624,7 +11624,7 @@
 3	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	2	expl:pv	_	ref=MATT26.62
 4	popa	popă	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT26.62
 5	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=MATT26.62
-6	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=MATT26.62|SpaceAfter=No
+6	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	ref=MATT26.62|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT26.62
 8	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT26.62
 9	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	8	iobj	_	ref=MATT26.62|SpaceAfter=No
@@ -11651,7 +11651,7 @@
 5	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT26.63
 6	popa	popă	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT26.63
 7	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=MATT26.63
-8	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	ref=MATT26.63
+8	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	6	amod	_	ref=MATT26.63
 9	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT26.63
 10	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	9	iobj	_	ref=MATT26.63|SpaceAfter=No
 11	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT26.63
@@ -13224,7 +13224,7 @@
 6	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT27.46
 7	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT27.46
 8	cu	cu	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	case	_	ref=MATT27.46
-9	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	ref=MATT27.46
+9	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	10	amod	_	ref=MATT27.46
 10	glas	glas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	ref=MATT27.46|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT27.46
 12	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT27.46|SpaceAfter=No
@@ -13334,7 +13334,7 @@
 3	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT27.50
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT27.50
 5	glas	glas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	ref=MATT27.50
-6	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=MATT27.50|SpaceAfter=No
+6	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	ref=MATT27.50|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT27.50
 8	slobozi	slobozi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT27.50|SpaceAfter=No
 9	-Şi	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	8	iobj	_	ref=MATT27.50
@@ -13586,7 +13586,7 @@
 16	prăvăliră	prăvăli	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT27.60
 17	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	ref=MATT27.60
 18	piatră	piatră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	ref=MATT27.60
-19	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	ref=MATT27.60
+19	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	18	amod	_	ref=MATT27.60
 20	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	ref=MATT27.60
 21	ușia	ușă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	obl	_	ref=MATT27.60
 22	mormîntului	mormânt	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	ref=MATT27.60
@@ -13818,7 +13818,7 @@
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT28.2
 2	iată	iată	INTJ	I	_	5	discourse	_	ref=MATT28.2
 3	cutremur	cutremur	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT28.2
-4	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=MATT28.2
+4	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	3	amod	_	ref=MATT28.2
 5	fu	fi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT28.2
 6	pămîntului	pământ	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	5	iobj	_	ref=MATT28.2|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT28.2
@@ -13983,7 +13983,7 @@
 9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT28.8
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT28.8
 11	bucurie	bucurie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	ref=MATT28.8
-12	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	ref=MATT28.8|SpaceAfter=No
+12	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	11	amod	_	ref=MATT28.8|SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT28.8
 14	curînd	cure	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	advcl	_	ref=MATT28.8
 15	să	să	PART	Qs	PartType=Sub	16	mark	_	ref=MATT28.8
@@ -15528,7 +15528,7 @@
 10	strigînd	striga	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	15	advcl	_	ref=MARC1.26
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	ref=MARC1.26
 12	glas	glas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	ref=MARC1.26
-13	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	ref=MARC1.26|SpaceAfter=No
+13	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	ref=MARC1.26|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	10	punct	_	ref=MARC1.26
 15	eși	ieși	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MARC1.26
 16	dentr-	dintru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	17	case	_	ref=MARC1.26|SpaceAfter=No
@@ -16638,7 +16638,7 @@
 21	vechiu	vechi	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	ref=MARC2.21
 22	și	și	CCONJ	Ccssp	Polarity=Pos	24	cc	_	ref=MARC2.21
 23	mai	mai	ADV	Rg	_	24	advmod	_	ref=MARC2.21
-24	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	conj	_	ref=MARC2.21
+24	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	14	conj	_	ref=MARC2.21
 25	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	ref=MARC2.21
 26	fi	fi	AUX	Van	VerbForm=Inf	24	cop	_	ref=MARC2.21
 27	spărtura	spărtură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	24	nsubj	_	ref=MARC2.21|SpaceAfter=No
@@ -16777,7 +16777,7 @@
 15	,	,	PUNCT	COMMA	_	16	punct	_	ref=MARC2.26
 16	popa	popă	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	appos	_	ref=MARC2.26
 17	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	ref=MARC2.26
-18	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	ref=MARC2.26
+18	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	16	amod	_	ref=MARC2.26
 19	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MARC2.26
 20	mănîncă	mânca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MARC2.26
 21	pîinile	pâine	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	20	obj	_	ref=MARC2.26
@@ -18578,7 +18578,7 @@
 25	alt	altul	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	26	det	_	_
 26	lucru	lucru	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	obj	_	_
 27	mai	mai	ADV	Rg	_	28	advmod	_	_
-28	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
+28	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	26	amod	_	Rhyme=ID21|SpaceAfter=No|Type=Paired
 29	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = dev-6290
@@ -19561,7 +19561,7 @@
 1	N-	nu	ADV	Qz	Polarity=Neg	3	advmod	_	SpaceAfter=No
 2	am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	3	aux	_	_
 3	văzut	vedea	VERB	Vmp	VerbForm=Part	0	root	_	_
-4	verde	verde	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	verde	verde	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	frunzuță	frunzuță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	Rhyme=ID10|Type=Paired
 6	Ca	ca	ADV	Rg	_	10	case	_	_
 7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
@@ -20204,7 +20204,7 @@
 5	nene	nene	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	Rhyme=ID10|SpaceAfter=No|Type=Paired
 6	,	,	PUNCT	COMMA	_	7	punct	_	_
 7	Făguraș	făguraș	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	_
-8	dulce	dulce	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+8	dulce	dulce	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	7	amod	_	_
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	miere	miere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	Rhyme=ID5|Type=Paired
 11	Şi	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
@@ -20214,7 +20214,7 @@
 15	mamă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 16	,	,	PUNCT	COMMA	_	17	punct	_	_
 17	Struțișor	struțișor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	appos	_	_
-18	dulce	dulce	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+18	dulce	dulce	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	17	amod	_	_
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	poamă	poamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	nmod	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 21	,	,	PUNCT	COMMA	_	23	punct	_	_
@@ -20615,7 +20615,7 @@
 21	bătut	bate	VERB	Vmp	VerbForm=Part	16	conj	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
 22	,	,	PUNCT	COMMA	_	23	punct	_	_
 23	Drumuri	drum	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	19	appos	_	_
-24	mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	23	amod	_	_
+24	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	23	amod	_	_
 25	și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	_
 26	drumuri	drum	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	23	conj	_	_
 27	mici	mic	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	26	amod	_	Rhyme=ID32|Type=Paired
@@ -20629,7 +20629,7 @@
 35	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	36	det	_	_
 36	dumneavoastră	dumneata	PRON	Pp2-po	Case=Dat,Gen|Number=Plur|Person=2|Polite=Form|PronType=Prs	37	nmod	_	_
 37	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	31	obl	_	Rhyme=ID40|Type=Paired
-38	Mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	_
+38	Mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	37	amod	_	_
 39	și	și	CCONJ	Ccssp	Polarity=Pos	40	cc	_	_
 40	luminoasă	luminos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	38	conj	_	Rhyme=ID37|SpaceAfter=No|Type=Paired
 41	.	.	PUNCT	PERIOD	_	2	punct	_	_
@@ -20804,7 +20804,7 @@
 3	,	,	PUNCT	COMMA	_	5	punct	_	_
 4	cinstiți	cinsti	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	5	amod	_	_
 5	socri	socru	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	2	vocative	_	_
-6	mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+6	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	5	punct	_	_
 8	C-	că	SCONJ	Csssp	Polarity=Pos	17	mark	_	SpaceAfter=No
 9	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	10	det	_	_
@@ -21023,7 +21023,7 @@
 2	dimineața	dimineața	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	parataxis	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
 4	socru	socru	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	vocative	_	_
-5	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	Rhyme=ID9|SpaceAfter=No|Type=Imperf
+5	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	Rhyme=ID9|SpaceAfter=No|Type=Imperf
 6	,	,	PUNCT	COMMA	_	2	punct	_	_
 7	Jupânul	jupân	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	nsubj	_	_
 8	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	9	det	_	_
@@ -21214,7 +21214,7 @@
 3	adunat	aduna	VERB	Vmp	VerbForm=Part	0	root	_	_
 4	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
 5	armată	armată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
-6	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+6	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	9	punct	_	_
 8	A	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
 9	pornit	porni	VERB	Vmp	VerbForm=Part	3	conj	_	_
@@ -21439,7 +21439,7 @@
 9	pomenit	pomeni	VERB	Vmp	VerbForm=Part	1	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	15	punct	_	_
 11	așa	așa	ADV	Rg	_	12	advmod	_	_
-12	mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
+12	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	13	amod	_	_
 13	fii	fiu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	15	nsubj	_	_
 14	să	să	PART	Qs	PartType=Sub	15	mark	_	_
 15	crească	crește	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	9	csubj	_	Rhyme=ID22|SpaceAfter=No|Type=Paired
@@ -21465,7 +21465,7 @@
 2	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	1	expl:pv	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
 4	soacră	soacră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	vocative	_	_
-5	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
+5	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
 6	,	,	PUNCT	COMMA	_	7	punct	_	_
 7	Ai	avea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
 8	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
@@ -21490,7 +21490,7 @@
 # text = Soacră mare, ieși în prag, Ți-am adus ce ți-a fost drag.
 # Rhyme= Yes
 1	Soacră	soacră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	vocative	_	_
-2	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	1	amod	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	ieși	ieși	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
@@ -21529,7 +21529,7 @@
 2	afară	afară	ADV	Rg	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
 4	soacră	soacră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	vocative	_	_
-5	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	Rhyme=ID10|SpaceAfter=No|Type=Paired
+5	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	Rhyme=ID10|SpaceAfter=No|Type=Paired
 6	,	,	PUNCT	COMMA	_	4	punct	_	_
 7	Că-	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	SpaceAfter=No
 8	ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	9	iobj	_	_
@@ -21603,7 +21603,7 @@
 5	păharul	păhar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	Rhyme=ID10|SpaceAfter=No|Type=Paired
 6	,	,	PUNCT	COMMA	_	8	punct	_	_
 7	Gura	gură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
-8	dulce	dulce	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+8	dulce	dulce	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	3	conj	_	_
 9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	10	mark	_	_
 10	zâharul	zâharul	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 11	,	,	PUNCT	COMMA	_	13	punct	_	_
@@ -21613,7 +21613,7 @@
 15	neghina	neghină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	Rhyme=ID20|SpaceAfter=No|Type=Paired
 16	,	,	PUNCT	COMMA	_	18	punct	_	_
 17	Gura	gură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	_
-18	dulce	dulce	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+18	dulce	dulce	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	3	conj	_	_
 19	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	20	mark	_	_
 20	smochina	smochină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	Rhyme=ID15|SpaceAfter=No|Type=Paired
 21	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -22368,7 +22368,7 @@
 # sent_id = dev-6650
 # text = Mare negură s-a lăsat, Şi la noi în casă a intrat Pe tăicuța l-a luat.
 # Rhyme= Yes
-1	Mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+1	Mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	2	amod	_	_
 2	negură	negură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	s-	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	SpaceAfter=No
 4	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
@@ -22449,7 +22449,7 @@
 2	stele	stea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	1	nsubj	_	_
 3	tare	tare	ADV	Rg	_	4	advmod	_	_
 4	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	2	det	_	Rhyme=ID10|Type=Paired
-5	Mari	mare	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+5	Mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	2	amod	_	_
 6	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	_
 7	mici	mic	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	conj	_	_
 8	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
@@ -22463,7 +22463,7 @@
 16	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
 17	niciuna	niciunul	PRON	Pz3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Neg	14	nsubj	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 18	,	,	PUNCT	COMMA	_	19	punct	_	_
-19	Mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+19	Mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	21	punct	_	_
 21	una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	14	appos	_	_
 22	între	între	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	23	case	_	_
@@ -22705,7 +22705,7 @@
 1	Dorul	dor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	ista	acesta	DET	Dd3msr---o	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	1	det	_	SpaceAfter=No
 3	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-4	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	câne	câne	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Rhyme=ID12|SpaceAfter=No|Type=Paired
 6	,	,	PUNCT	COMMA	_	9	punct	_	_
 7	rău	rău	ADV	Rg	_	9	advmod	_	_

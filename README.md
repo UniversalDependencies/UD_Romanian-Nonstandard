@@ -24,6 +24,7 @@ For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
 Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
+Today, 20.01.2020 we uploaded the first part of the Ion Neculce's Cronicle, 1743.
 
 
 # Contributors
@@ -43,9 +44,10 @@ Florinel Hociung (Ro) (Author of the Treebank Multiformat Annotator interface) (
 
 Valentin Roșca (Ro) Author of the converter XML-CoNLLU, including in the CoNLLU all the specific data of our treebank.
 
-Roman Untilov 
+Roman Untilov
 (Affiliation: Tehnical University of Moldova utm.md/ Chișinău, Republik of Moldova)
 Training of the UD parsers and other tools on this corpus and on the Romanian language.
+The Folklore corpus was made a separate train corpus. But a small part of them exists in the test and dev corpora.
 
 Petru Rebeja: Faculty of the Computer Science, Al. I. Cuza University, Iasi. Romania works of the conllu converter and of the POS-tagger.
 
@@ -66,6 +68,8 @@ Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House
 Ion Neculce, Chronicle, 1743
 
 Caragea Voievod's Law, printed at the typography from Cismeaua Rosie, Bucharest, 1818;
+
+Ion Neculce, Works, ”The Chronicle of the Country of Moldova”, ”A lot of words” (1743), edition by Gabriel Ștrempel, 1982
 
 # References
 
@@ -121,7 +125,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin, Roman Untilov, Petru Rebeja
+Contributors: Mărănduc, Cătălina; Perez, Cenel-Augusto; Bobicev, Victoria; Mititelu, Cătălin; Hociung, Florinel; Roșca, Valentin; Untilov, Roman; Rebeja, Petru
 Contributing: elsewhere
 Contact: catalinamaranduc@gmail.com, perez_cenel_augusto@yahoo.com, victoria.bobicev@gmail.com
 ===============================================================================

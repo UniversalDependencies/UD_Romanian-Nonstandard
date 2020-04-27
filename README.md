@@ -10,7 +10,7 @@ The Romanian Non-standard UD treebank (called UAIC-RoDia)is based on UAIC-RoDia 
 Since 2015, the UAIC Treebank has been developed by including several nonstandard language genres, Old Romanian, Chat, Folklore (Mărănduc 2015, 2016, 2017c, 2018, Perez 2016), considering that the nonstandard langage is more used than the standard one.
 The digitization of cultural heritage includes the old texts and also the folklore, wich is an oral phenomenon that is threatened with extinction (Mărănduc, 2017b).
 
-The UAIC-RoDia Treebank (ISLRN 156-635-615-024-0) has now 19,000 sentences in its basic format.
+The UAIC-RoDia Treebank (ISLRN 156-635-615-024-0) has in March 2020, 34,794 sentences in its basic format.
 
 For the first release, we transposed in the UD format a part of the New Testament from Alba Iulia (1648), 916 sentences.
 It is the first printed New Testament in Romanian, with Cyrillic letters. The text with Latin alphabet is obtained by an OCR program built at the Institut of Mathematics and Computer Science of Chișinău, Republic of Moldova, by a group of researchers led by Alexander Colesnicov and Ludmila Malahov (Colesnicov 2016, Cojocaru 2017).
@@ -26,7 +26,7 @@ For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
 Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
-Today, 20.01.2020 we uploaded the first part of the Ion Neculce's Cronicle, 1743.
+In May 2020 we add the whole book Dosoftei, ”David's Psalms translation with rhymes” (1673), and the first part of the Ion Neculce's ”Chronicle” (1743), to be continued.
 
 
 

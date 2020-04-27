@@ -2,6 +2,8 @@
 
 The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia Treebank. UAIC-RoDia = ISLRN 156-635-615-024-0
 
+
+
 # Introduction
 
 The Romanian Non-standard UD treebank (called UAIC-RoDia)is based on UAIC-RoDia Treebank (The Treebank of the Faculty of Computer Science, ”AL. I. Cuza” University, Iași, Romania). This is a balanced treebank. The Contemporary standard part of it (Perez, 2014) was included in the UD-Romanian-RRT Treebank.
@@ -25,6 +27,7 @@ Also, the contribution of the Republic of Moldova is now 1805 sentences folklore
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 Today, 20.01.2020 we uploaded the first part of the Ion Neculce's Cronicle, 1743.
+
 
 
 # Contributors
@@ -51,6 +54,8 @@ The Folklore corpus was made a separate train corpus. But a small part of them e
 
 Petru Rebeja: Faculty of the Computer Science, Al. I. Cuza University, Iasi. Romania works of the conllu converter and of the POS-tagger.
 
+
+
 # Sources
 
 (1592) Flower of gifts. [Anonymous translation]. In The Oldest Popular Books in Romanian Literature, I. (Coordinators: Ion Ghetie and Alexandru Mareş). Bucharest, Minerva Publishing House, 1996,  p. 119–182.
@@ -65,11 +70,11 @@ Folklore from the Codri parts, Academy of Sciences of the Republic of Moldova, 1
 
 Romanian folk ballads. I Anthology by Al. Amzulescu. Bucharest, Publishing House for Literature, 1964;
 
-Ion Neculce, Chronicle, 1743
-
 Caragea Voievod's Law, printed at the typography from Cismeaua Rosie, Bucharest, 1818;
 
 Ion Neculce, Works, ”The Chronicle of the Country of Moldova”, ”A lot of words” (1743), edition by Gabriel Ștrempel, 1982
+
+
 
 # References
 
@@ -104,12 +109,16 @@ Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, ”Syntactic Parser for 
 
 Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regularities in UD_Romanian-Nonstandard Parsing, In Proceedings of ConsILR, Cluj, 18-20 Nov. 2019, Iași, Al. I. Cuza University Publishing House, 2019.
 
+
+
 # Changelog
 
 * 2018-07-01 v2.2
   * More data both in the 1648 translation of the New Testament and in the Moldovan folklore.
 * 2017-11-15 v2.1
   * Initial release in Universal Dependencies.
+
+
 
 # Metadata
 

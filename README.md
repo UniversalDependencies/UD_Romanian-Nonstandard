@@ -27,6 +27,8 @@ Also, the contribution of the Republic of Moldova is now 1805 sentences folklore
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 In May 2020 we add the whole book Dosoftei, ”David's Psalms translation with rhymes” (1673), and the first part of the Ion Neculce's ”Chronicle” (1743), to be continued.
+In October 2020 we added 1000 sentences ”Romanian Ballads”. The folclore is at the beginning of the train document, but 50 sentences are at the end of the test and dev documents.
+Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (1743).
 
 
 

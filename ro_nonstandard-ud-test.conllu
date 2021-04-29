@@ -4721,7 +4721,7 @@
 # text = Derept acea, toate neamurile de la Avraam pînă la David, patrusprăzeace neamure.
 # citation-part=MATT 1.17
 1	Derept	drept	ADP	Spsd	AdpType=Prep|Case=Dat	2	case	_	ref=MATT1.17
-2	acea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	nmod	_	ref=MATT1.17|SpaceAfter=No
+2	acea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	nmod	_	ref=MATT1.17|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT1.17
 4	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	5	det	_	ref=MATT1.17
 5	neamurile	neam	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	ref=MATT1.17

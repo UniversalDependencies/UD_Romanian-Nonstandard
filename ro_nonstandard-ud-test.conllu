@@ -192,7 +192,7 @@
 12	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	ref=pred.6
 13	aleși	alege	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	acl	_	ref=pred.6
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	ref=pred.6
-15	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nmod:agent	_	ref=pred.6
+15	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	obl:agent	_	ref=pred.6
 16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	ref=pred.6
 17	chipul	chip	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	ref=pred.6
 18	Sfinției	sfinția	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs	17	nmod	_	ref=pred.6
@@ -2089,7 +2089,7 @@
 31	fost	fi	AUX	Vap	VerbForm=Part	32	aux:pass	_	ref=pred.read.5
 32	izvodite	izvodi	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	17	amod	_	ref=pred.read.5
 33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	ref=pred.read.5
-34	cărtulari	cărturar	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	32	nmod:agent	_	ref=pred.read.5
+34	cărtulari	cărturar	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	32	obl:agent	_	ref=pred.read.5
 35	și	și	CCONJ	Ccssp	Polarity=Pos	36	cc	_	ref=pred.read.5
 36	înțelegători	înțelegător	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	34	conj	_	ref=pred.read.5
 37	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	38	case	_	ref=pred.read.5
@@ -2995,7 +2995,7 @@
 20	,	,	PUNCT	COMMA	_	21	punct	_	ref=MATT.pred.6
 21	vestită	vesti	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	16	amod	_	ref=MATT.pred.6
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MATT.pred.6
-23	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	21	nmod:agent	_	ref=MATT.pred.6|SpaceAfter=No
+23	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	21	obl:agent	_	ref=MATT.pred.6|SpaceAfter=No
 24	:	:	PUNCT	COLON	_	26	punct	_	ref=MATT.pred.6
 25	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	ref=MATT.pred.6
 26	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	ref=MATT.pred.6
@@ -3025,7 +3025,7 @@
 50	"	"	PUNCT	DBLQ	_	47	punct	_	ref=MATT.pred.6
 51	și	și	CCONJ	Ccssp	Polarity=Pos	55	cc	_	ref=MATT.pred.6
 52	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	53	case	_	ref=MATT.pred.6
-53	apostolii	apostol	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	55	nmod:agent	_	ref=MATT.pred.6
+53	apostolii	apostol	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	55	obl:agent	_	ref=MATT.pred.6
 54	i-	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	55	aux:pass	_	ref=MATT.pred.6
 55	arătată	arăta	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	47	conj	_	ref=MATT.pred.6|SpaceAfter=No
 56	,	,	PUNCT	COMMA	_	57	punct	_	ref=MATT.pred.6
@@ -3148,7 +3148,7 @@
 18	demult	demult	ADV	Rg	_	25	advmod:tmod	_	ref=MATT.pred.10|SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	18	punct	_	ref=MATT.pred.10
 20	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	21	case	_	ref=MATT.pred.10
-21	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	25	nmod:agent	_	ref=MATT.pred.10
+21	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	25	obl:agent	_	ref=MATT.pred.10
 22	și	și	CCONJ	Ccssp	Polarity=Pos	24	cc	_	ref=MATT.pred.10
 23	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	24	case	_	ref=MATT.pred.10
 24	apostoli	apostol	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	21	conj	_	ref=MATT.pred.10
@@ -3217,7 +3217,7 @@
 20	Leagea	lege	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	29	obl	_	ref=MATT.pred.12
 21	noao	nou	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	ref=MATT.pred.12
 22	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	23	case	_	ref=MATT.pred.12
-23	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	29	nmod:agent	_	ref=MATT.pred.12
+23	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	29	obl:agent	_	ref=MATT.pred.12
 24	și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	ref=MATT.pred.12
 25	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	26	case	_	ref=MATT.pred.12
 26	apostoli	apostol	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	23	conj	_	ref=MATT.pred.12
@@ -3404,7 +3404,7 @@
 28	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:pass	_	ref=MATT.pred.16
 29	înluminați	lumina	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	34	advcl	_	ref=MATT.pred.16
 30	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	31	case	_	ref=MATT.pred.16
-31	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	29	nmod:agent	_	ref=MATT.pred.16
+31	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	29	obl:agent	_	ref=MATT.pred.16
 32	Sfînt	sfânt	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	ref=MATT.pred.16|SpaceAfter=No
 33	,	,	PUNCT	COMMA	_	29	punct	_	ref=MATT.pred.16
 34	scrisără	scrie	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	ref=MATT.pred.16
@@ -3940,13 +3940,13 @@
 11	scrisă	scrie	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	6	ccomp	_	ref=MATT.pred.34
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT.pred.34
 13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	12	fixed	_	ref=MATT.pred.34
-14	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nmod:agent	_	ref=MATT.pred.34|SpaceAfter=No
+14	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	obl:agent	_	ref=MATT.pred.34|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT.pred.34
 16	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	17	mark	_	ref=MATT.pred.34
 17	numai	numai	ADV	Rg	_	11	advmod	_	ref=MATT.pred.34
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	ref=MATT.pred.34
 19	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	ref=MATT.pred.34
-20	apostol	apostol	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	22	nmod:agent	_	ref=MATT.pred.34
+20	apostol	apostol	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	22	obl:agent	_	ref=MATT.pred.34
 21	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	aux:pass	_	ref=MATT.pred.34
 22	scrisă	scrisă	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	17	advcl	_	ref=MATT.pred.34
 23	greceaște	grecește	ADV	Rg	_	22	advmod	_	ref=MATT.pred.34|SpaceAfter=No
@@ -5177,7 +5177,7 @@
 12	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux:pass	_	ref=MATT2.5
 13	scris	scrie	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	7	advcl	_	ref=MATT2.5
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT2.5
-15	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod:agent	_	ref=MATT2.5|SpaceAfter=No
+15	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl:agent	_	ref=MATT2.5|SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT2.5
 
 # sent_id = test-138
@@ -5527,7 +5527,7 @@
 6	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	aux:pass	_	ref=MATT2.16
 7	batgiocurit	batjocori	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	4	ccomp	_	ref=MATT2.16
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT2.16
-9	maghi	mag	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT2.16
+9	maghi	mag	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obl:agent	_	ref=MATT2.16
 10	(	(	PUNCT	LPAR	_	11	punct	_	ref=MATT2.16|SpaceAfter=No
 11	gîcitori	ghicitor	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	9	appos	_	ref=MATT2.16|SpaceAfter=No
 12	)	)	PUNCT	RPAR	_	11	punct	_	ref=MATT2.16
@@ -5750,7 +5750,7 @@
 18	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux:pass	_	ref=MATT2.23
 19	zis	zice	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	16	csubj	_	ref=MATT2.23
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	ref=MATT2.23
-21	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	19	nmod:agent	_	ref=MATT2.23|SpaceAfter=No
+21	proroci	proroc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	19	obl:agent	_	ref=MATT2.23|SpaceAfter=No
 22	,	,	PUNCT	COMMA	_	26	punct	_	ref=MATT2.23
 23	că	că	SCONJ	Csssp	Polarity=Pos	26	mark	_	ref=MATT2.23
 24	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	26	expl:pv	_	ref=MATT2.23
@@ -5855,7 +5855,7 @@
 6	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:pass	_	ref=MATT3.3
 7	zis	zice	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT3.3
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT3.3
-9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT3.3
+9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl:agent	_	ref=MATT3.3
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT3.3
 11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT3.3|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	13	punct	_	ref=MATT3.3
@@ -6341,7 +6341,7 @@
 3	dus	duce	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT4.1
 4	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	aux:pass	_	ref=MATT4.1
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT4.1
-6	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod:agent	_	ref=MATT4.1
+6	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl:agent	_	ref=MATT4.1
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT4.1
 8	pustie	pustiu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	ref=MATT4.1|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT4.1
@@ -6349,7 +6349,7 @@
 11	Să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:pass	_	ref=MATT4.1
 12	ispitească	ispiti	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	ref=MATT4.1
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT4.1
-14	diavolul	diavol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nmod:agent	_	ref=MATT4.1|SpaceAfter=No
+14	diavolul	diavol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obl:agent	_	ref=MATT4.1|SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT4.1
 
 # sent_id = test-187
@@ -6681,7 +6681,7 @@
 6	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	ref=MATT4.14
 7	zis	zice	VERB	Vmp	VerbForm=Part	4	csubj	_	ref=MATT4.14
 8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT4.14
-9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:agent	_	ref=MATT4.14
+9	Isaiia	Isaiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl:agent	_	ref=MATT4.14
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT4.14
 11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT4.14|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT4.14
@@ -6968,7 +6968,7 @@
 17	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	18	det	_	ref=MATT4.24
 18	fealiuri	fel	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	20	nmod	_	ref=MATT4.24
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	ref=MATT4.24
-20	boale	boală	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	24	nmod:agent	_	ref=MATT4.24
+20	boale	boală	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	24	obl:agent	_	ref=MATT4.24
 21	și	și	CCONJ	Ccssp	Polarity=Pos	23	cc	_	ref=MATT4.24
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	ref=MATT4.24
 23	chinuri	chin	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	20	conj	_	ref=MATT4.24
@@ -7408,7 +7408,7 @@
 15	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT5.13
 16	călcată	călca	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	13	conj	_	ref=MATT5.13
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MATT5.13
-18	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	16	nmod:agent	_	ref=MATT5.13|SpaceAfter=No
+18	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	16	obl:agent	_	ref=MATT5.13|SpaceAfter=No
 19	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT5.13
 
 # sent_id = test-241
@@ -14522,7 +14522,7 @@
 3	Mie	eu	PRON	Pp1-sd--------s	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Strong	4	iobj	_	ref=MATT11.27
 4	date	da	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT11.27
 5	dela	dela	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	6	case	_	ref=MATT11.27
-6	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nmod:agent	_	ref=MATT11.27
+6	Tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obl:agent	_	ref=MATT11.27
 7	Mieu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	ref=MATT11.27|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT11.27
 9	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT11.27
@@ -17740,7 +17740,7 @@
 1	Apostolii	apostol	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj:pass	_	ref=MATT14.24.content
 2	învăluiți	învălui	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT14.24.content
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT14.24.content
-4	unde	undă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod:agent	_	ref=MATT14.24.content|SpaceAfter=No
+4	unde	undă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl:agent	_	ref=MATT14.24.content|SpaceAfter=No
 5	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT14.24.content
 
 # sent_id = test-734
@@ -17939,7 +17939,7 @@
 3	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT14.8
 4	învățată	învăța	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	2	amod	_	ref=MATT14.8
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT14.8
-6	mumă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod:agent	_	ref=MATT14.8|SpaceAfter=No
+6	mumă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl:agent	_	ref=MATT14.8|SpaceAfter=No
 7	-sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	ref=MATT14.8|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT14.8
 9	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT14.8|SpaceAfter=No
@@ -24502,7 +24502,7 @@
 24	stoborâtă	stoborî	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	23	amod	_	Rhyme=ID29|Type=Imperf
 25	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
 26	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	27	nummod	_	_
-27	meșteri	meșter	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	29	nmod:agent	_	_
+27	meșteri	meșter	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	29	obl:agent	_	_
 28	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	27	amod	_	_
 29	lucrată	lucra	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	23	amod	_	Rhyme=ID24|SpaceAfter=No|Type=Imperf
 30	.	.	PUNCT	PERIOD	_	1	punct	_	_

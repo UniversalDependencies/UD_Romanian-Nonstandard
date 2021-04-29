@@ -131,13 +131,13 @@
     <dep name="list">1</dep>
     <dep name="mark">27229</dep>
     <dep name="nmod">26197</dep>
-    <dep name="nmod:agent">535</dep>
     <dep name="nmod:tmod">3774</dep>
     <dep name="nsubj">32120</dep>
     <dep name="nsubj:pass">821</dep>
     <dep name="nummod">3863</dep>
     <dep name="obj">27146</dep>
     <dep name="obl">32909</dep>
+    <dep name="obl:agent">535</dep>
     <dep name="obl:pmod">8879</dep>
     <dep name="orphan">148</dep>
     <dep name="parataxis">3450</dep>

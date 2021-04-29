@@ -115,6 +115,8 @@ Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regular
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Relation nmod:pmod corrected to obl:pmod.
 * 2018-07-01 v2.2
   * More data both in the 1648 translation of the New Testament and in the Moldovan folklore.
 * 2017-11-15 v2.1

@@ -1,10 +1,10 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 7448d4918e71cb7cecdf5f51b6d4ef7937d5044e
-Merge: 947a38c 0ee5b29
+commit b8db4f61a50eb20961f92f1849e84d3e53e58aa1
+Merge: f936a5a 1f60ed2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.
@@ -19,6 +19,8 @@ Features: 466554 out of 572436 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
+Udapi:
+               TOTAL       3110
 Udapi: found 3110 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 572436 words.
 Genres: found 2 out of 17 known.

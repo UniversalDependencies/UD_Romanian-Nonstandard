@@ -70,8 +70,8 @@
     <feat name="Polarity" value="Neg" upos="ADV,AUX,CCONJ,VERB">9863</feat><!-- nu, n-, nici, nece, nice, nu-, n, neci, niceodată, neavînd -->
     <feat name="Polarity" value="Pos" upos="ADP,AUX,CCONJ,PRON,SCONJ,VERB">54994</feat><!-- și, şi, că, de, iară, ce, iar, sau, dar, zicînd -->
     <feat name="Polite" value="Form" upos="PRON">143</feat><!-- însul, svinția, măriei, înșii, Măriia, dumitale, dumneavoastră, mării, svințiile, -ți -->
-    <feat name="Position" value="Postnom" upos="DET,PRON">444</feat><!-- acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, ceia, aceaia, acealea -->
-    <feat name="Position" value="Prenom" upos="DET,PRON">1614</feat><!-- acel, această, acest, acea, acei, aceste, acestu, ceastă, acele, acelui -->
+    <feat name="Position" value="Postnom" upos="DET">442</feat><!-- acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, aceaia, acealea, ceia -->
+    <feat name="Position" value="Prenom" upos="DET">1613</feat><!-- acel, această, acest, acea, acei, aceste, acestu, ceastă, acele, acelui -->
     <feat name="Poss" value="Yes" upos="DET,PRON">3162</feat><!-- a, al, ale, ai, -a, tău, mieu, -al, ta, vostru -->
     <feat name="PronType" value="Art" upos="DET">6112</feat><!-- lui, a, al, ale, -a, ai, -lea, lu, -al, un -->
     <feat name="PronType" value="Dem" upos="DET,PRON">8975</feat><!-- aceaia, cel, aceasta, cei, cea, aceastea, cela, acesta, acel, acela -->
@@ -131,14 +131,14 @@
     <dep name="list">1</dep>
     <dep name="mark">27229</dep>
     <dep name="nmod">26197</dep>
-    <dep name="nmod:agent">535</dep>
-    <dep name="nmod:pmod">8879</dep>
     <dep name="nmod:tmod">3774</dep>
     <dep name="nsubj">32120</dep>
     <dep name="nsubj:pass">821</dep>
     <dep name="nummod">3863</dep>
     <dep name="obj">27146</dep>
     <dep name="obl">32909</dep>
+    <dep name="obl:agent">535</dep>
+    <dep name="obl:pmod">8879</dep>
     <dep name="orphan">148</dep>
     <dep name="parataxis">3450</dep>
     <dep name="punct">83975</dep>

@@ -7619,33 +7619,33 @@
 # sent_id = test-247
 # text = Că zic voao că de nu va mai întreace dereptatea voastră mai mult decît a cărtularilor și a fariseilor, nu veți întra întru Împărățiia ceriurelor.
 # citation-part=MATT 5.20
-1	Că	că	SCONJ	Csssp	Polarity=Pos	2	mark	_	ref+MATT5.20
-2	zic	zice	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref+MATT5.20
-3	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	ref+MATT5.20
-4	că	că	SCONJ	Csssp	Polarity=Pos	23	mark	_	ref+MATT5.20
-5	de	de	SCONJ	Csssp	Polarity=Pos	9	mark	_	ref+MATT5.20
-6	nu	nu	ADV	Qz	Polarity=Neg	9	advmod	_	ref+MATT5.20
-7	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	ref+MATT5.20
-8	mai	mai	ADV	Rg	_	9	advmod	_	ref+MATT5.20
-9	întreace	întrece	VERB	Vmn	VerbForm=Inf	23	advcl	_	ref+MATT5.20
-10	dereptatea	dreptate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	ref+MATT5.20
-11	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	ref+MATT5.20
-12	mai	mai	ADV	Rg	_	13	advmod	_	ref+MATT5.20
-13	mult	mult	ADV	Rg	_	9	advcl	_	ref+MATT5.20
-14	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	16	case	_	ref+MATT5.20
-15	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	16	det	_	ref+MATT5.20
-16	cărtularilor	cărturar	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	ref+MATT5.20
-17	și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	ref+MATT5.20
-18	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	19	det	_	ref+MATT5.20
-19	fariseilor	fariseu	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	ref+MATT5.20|SpaceAfter=No
-20	,	,	PUNCT	COMMA	_	9	punct	_	ref+MATT5.20
-21	nu	nu	ADV	Qz	Polarity=Neg	23	advmod	_	ref+MATT5.20
-22	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	23	aux	_	ref+MATT5.20
-23	întra	întra	VERB	Vmn	VerbForm=Inf	2	ccomp	_	ref+MATT5.20
-24	întru	întru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	25	case	_	ref+MATT5.20
-25	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	obl	_	ref+MATT5.20
-26	ceriurelor	cer	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	25	nmod	_	ref+MATT5.20|SpaceAfter=No
-27	.	.	PUNCT	PERIOD	_	2	punct	_	ref+MATT5.20
+1	Că	că	SCONJ	Csssp	Polarity=Pos	2	mark	_	Ref=MATT5.20
+2	zic	zice	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT5.20
+3	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	Ref=MATT5.20
+4	că	că	SCONJ	Csssp	Polarity=Pos	23	mark	_	Ref=MATT5.20
+5	de	de	SCONJ	Csssp	Polarity=Pos	9	mark	_	Ref=MATT5.20
+6	nu	nu	ADV	Qz	Polarity=Neg	9	advmod	_	Ref=MATT5.20
+7	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	Ref=MATT5.20
+8	mai	mai	ADV	Rg	_	9	advmod	_	Ref=MATT5.20
+9	întreace	întrece	VERB	Vmn	VerbForm=Inf	23	advcl	_	Ref=MATT5.20
+10	dereptatea	dreptate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	Ref=MATT5.20
+11	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	Ref=MATT5.20
+12	mai	mai	ADV	Rg	_	13	advmod	_	Ref=MATT5.20
+13	mult	mult	ADV	Rg	_	9	advcl	_	Ref=MATT5.20
+14	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	16	case	_	Ref=MATT5.20
+15	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	16	det	_	Ref=MATT5.20
+16	cărtularilor	cărturar	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	Ref=MATT5.20
+17	și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	Ref=MATT5.20
+18	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	19	det	_	Ref=MATT5.20
+19	fariseilor	fariseu	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	Ref=MATT5.20|SpaceAfter=No
+20	,	,	PUNCT	COMMA	_	9	punct	_	Ref=MATT5.20
+21	nu	nu	ADV	Qz	Polarity=Neg	23	advmod	_	Ref=MATT5.20
+22	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	23	aux	_	Ref=MATT5.20
+23	întra	întra	VERB	Vmn	VerbForm=Inf	2	ccomp	_	Ref=MATT5.20
+24	întru	întru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	25	case	_	Ref=MATT5.20
+25	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	obl	_	Ref=MATT5.20
+26	ceriurelor	cer	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	25	nmod	_	Ref=MATT5.20|SpaceAfter=No
+27	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT5.20
 
 # sent_id = test-248
 # text = Auzit-ați că au fost zis celor dentîi: "Să nu ucizi, că cine ucide vinovat iaste giudecății".
@@ -9766,58 +9766,58 @@
 # sent_id = test-344
 # text = Nu dareți sfînta cînilor, nece vărsareți mărgăritarele voastre înaintea porcilor să nu le calce cumva supt picioarele lor și întorcîndu-să, să nu rumpă pre voi.
 # citation-part=MATT 7.6
-1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	ref_MATT7.6
-2	dareți	da	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref_MATT7.6
-3	sfînta	sfântă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	ref_MATT7.6
-4	cînilor	câine	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	iobj	_	ref_MATT7.6|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	7	punct	_	ref_MATT7.6
-6	nece	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	7	cc	_	ref_MATT7.6
-7	vărsareți	vărsa	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	2	conj	_	ref_MATT7.6
-8	mărgăritarele	mărgăritar	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	7	obj	_	ref_MATT7.6
-9	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	8	det	_	ref_MATT7.6
-10	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	11	case	_	ref_MATT7.6
-11	porcilor	porc	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	ref_MATT7.6
-12	să	să	PART	Qs	PartType=Sub	15	mark	_	ref_MATT7.6
-13	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	ref_MATT7.6
-14	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	15	obj	_	ref_MATT7.6
-15	calce	călca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	ref_MATT7.6
-16	cumva	cumva	ADV	Rg	_	15	advmod	_	ref_MATT7.6
-17	supt	sub	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref_MATT7.6
-18	picioarele	picior	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	ref_MATT7.6
-19	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	18	nmod	_	ref_MATT7.6
-20	și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	ref_MATT7.6
-21	întorcîndu-	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	26	advcl	_	ref_MATT7.6|SpaceAfter=No
-22	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	21	expl:pv	_	ref_MATT7.6|SpaceAfter=No
-23	,	,	PUNCT	COMMA	_	21	punct	_	ref_MATT7.6
-24	să	să	PART	Qs	PartType=Sub	26	mark	_	ref_MATT7.6
-25	nu	nu	ADV	Qz	Polarity=Neg	26	advmod	_	ref_MATT7.6
-26	rumpă	rupe	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	ref_MATT7.6
-27	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	ref_MATT7.6
-28	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	26	obl:pmod	_	ref_MATT7.6|SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	2	punct	_	ref_MATT7.6
+1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	Ref=MATT7.6
+2	dareți	da	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	Ref=MATT7.6
+3	sfînta	sfântă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	Ref=MATT7.6
+4	cînilor	câine	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	iobj	_	Ref=MATT7.6|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	7	punct	_	Ref=MATT7.6
+6	nece	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	7	cc	_	Ref=MATT7.6
+7	vărsareți	vărsa	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	2	conj	_	Ref=MATT7.6
+8	mărgăritarele	mărgăritar	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	7	obj	_	Ref=MATT7.6
+9	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	8	det	_	Ref=MATT7.6
+10	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	11	case	_	Ref=MATT7.6
+11	porcilor	porc	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	Ref=MATT7.6
+12	să	să	PART	Qs	PartType=Sub	15	mark	_	Ref=MATT7.6
+13	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	Ref=MATT7.6
+14	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	15	obj	_	Ref=MATT7.6
+15	calce	călca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	Ref=MATT7.6
+16	cumva	cumva	ADV	Rg	_	15	advmod	_	Ref=MATT7.6
+17	supt	sub	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	Ref=MATT7.6
+18	picioarele	picior	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	Ref=MATT7.6
+19	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	18	nmod	_	Ref=MATT7.6
+20	și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	Ref=MATT7.6
+21	întorcîndu-	întoarce	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	26	advcl	_	Ref=MATT7.6|SpaceAfter=No
+22	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	21	expl:pv	_	Ref=MATT7.6|SpaceAfter=No
+23	,	,	PUNCT	COMMA	_	21	punct	_	Ref=MATT7.6
+24	să	să	PART	Qs	PartType=Sub	26	mark	_	Ref=MATT7.6
+25	nu	nu	ADV	Qz	Polarity=Neg	26	advmod	_	Ref=MATT7.6
+26	rumpă	rupe	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	Ref=MATT7.6
+27	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	Ref=MATT7.6
+28	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	26	obl:pmod	_	Ref=MATT7.6|SpaceAfter=No
+29	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT7.6
 
 # sent_id = test-345
 # text = Ceareți și să va da voao, căutați și veți afla, sunați și să va deșchide voao.
 # citation-part=MATT 7.7
-1	Ceareți	cere	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	ref_MATT7.7
-2	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref_MATT7.7
-3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pass	_	ref_MATT7.7
-4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref_MATT7.7
-5	da	da	VERB	Vmn	VerbForm=Inf	1	conj	_	ref_MATT7.7
-6	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	5	iobj	_	ref_MATT7.7|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	8	punct	_	ref_MATT7.7
-8	căutați	căuta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	1	conj	_	ref_MATT7.7
-9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref_MATT7.7
-10	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	11	aux	_	ref_MATT7.7
-11	afla	afla	VERB	Vmn	VerbForm=Inf	8	conj	_	ref_MATT7.7|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	13	punct	_	ref_MATT7.7
-13	sunați	suna	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	1	conj	_	ref_MATT7.7
-14	și	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	ref_MATT7.7
-15	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pass	_	ref_MATT7.7
-16	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	ref_MATT7.7
-17	deșchide	deschide	VERB	Vmn	VerbForm=Inf	13	conj	_	ref_MATT7.7
-18	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	17	iobj	_	ref_MATT7.7|SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	1	punct	_	ref_MATT7.7
+1	Ceareți	cere	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=MATT7.7
+2	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=MATT7.7
+3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pass	_	Ref=MATT7.7
+4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	Ref=MATT7.7
+5	da	da	VERB	Vmn	VerbForm=Inf	1	conj	_	Ref=MATT7.7
+6	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	5	iobj	_	Ref=MATT7.7|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	8	punct	_	Ref=MATT7.7
+8	căutați	căuta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	1	conj	_	Ref=MATT7.7
+9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT7.7
+10	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	11	aux	_	Ref=MATT7.7
+11	afla	afla	VERB	Vmn	VerbForm=Inf	8	conj	_	Ref=MATT7.7|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	13	punct	_	Ref=MATT7.7
+13	sunați	suna	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	1	conj	_	Ref=MATT7.7
+14	și	și	CCONJ	Ccssp	Polarity=Pos	17	cc	_	Ref=MATT7.7
+15	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pass	_	Ref=MATT7.7
+16	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	Ref=MATT7.7
+17	deșchide	deschide	VERB	Vmn	VerbForm=Inf	13	conj	_	Ref=MATT7.7
+18	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	17	iobj	_	Ref=MATT7.7|SpaceAfter=No
+19	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT7.7
 
 # sent_id = test-346
 # text = Că tot cine ce ceare lua-va și cine caută află; și celui ce bate i să deșchide.

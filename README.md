@@ -115,6 +115,8 @@ Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regular
 
 # Changelog
 
+* 2022-05-15 v2.10
+  * MISC ref= changed to Ref= to match other UD treebanks.
 * 2021-05-15 v2.8
   * Relation nmod:pmod corrected to obl:pmod.
   * Relation nmod:agent corrected to obl:agent.

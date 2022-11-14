@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 091d30702f62e355a9c91394a4654140451ad4d1
-Merge: 8295e63 8c7852a
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Romanian-Nonstandard:
+commit b9fd89e102b4890305f9ebbd5884a6235ce028c1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 15:13:21 2022 +0200
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,12 +29,23 @@ validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev
 validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 *** PASSED ***
 validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-train.conllu
+[Line 27009 Sent train-13022 Node 17]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [11, 19]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 29640 Sent train-13141 Node 30]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [24, 31]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 34987 Sent train-13409 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 35119 Sent train-13416 Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [13, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 37533 Sent train-13543 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 44244 Sent train-12397 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 45037 Sent train-12423 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 45324 Sent train-12431 Node 24]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [19, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 46104 Sent train-12452 Node 15]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+...suppressing further errors regarding Syntax
 [Line 333641 Sent train-14895 Node 14]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
 [Line 333642 Sent train-14895 Node 15]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
 [Line 333642 Sent train-14895 Node 15]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 333642 Sent train-14895 Node 15]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
 Morpho errors: 4
-*** FAILED *** with 4 errors
+Syntax errors: 259
+*** FAILED *** with 263 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615

@@ -22585,7 +22585,7 @@
 9	rouă	rouă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	dimineață	dimineață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	Rhyme=ID6,16|Type=Mono
-12	(	(	PUNCT	LPAR	_	15	punct	_	|SpaceAfter=No
+12	(	(	PUNCT	LPAR	_	15	punct	_	SpaceAfter=No
 13	ori	ori	CCONJ	Ccssp	Polarity=Pos	15	cc	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	iarbă	iarbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	conj	_	_

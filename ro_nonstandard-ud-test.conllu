@@ -21078,7 +21078,7 @@
 # Rhyme=Yes
 1	Murgule	murg	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	6	vocative	_	Rhyme=ID3|SpaceAfter=No|Type=Intern
 2	,	,	PUNCT	COMMA	_	1	punct	_	_
-3	Voinicule	voinic	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	6	vocative	_	Rhyme=ID1|Type=Intern|SpaceAfter=No
+3	Voinicule	voinic	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	6	vocative	_	Rhyme=ID1|SpaceAfter=No|Type=Intern
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	Mai	mai	ADV	Rg	_	6	advmod	_	_
 6	poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21530,7 +21530,7 @@
 4	,	,	PUNCT	COMMA	_	7	punct	_	_
 5	cum	cum	ADV	Rw	PronType=Int,Rel	7	advmod	_	_
 6	aș	avea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	aux	_	_
-7	drege	drege	VERB	Vmn	VerbForm=Inf	3	conj	_	Rhyme=ID14|Type=Paired|SpaceAfter=No
+7	drege	drege	VERB	Vmn	VerbForm=Inf	3	conj	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 8	,	,	PUNCT	COMMA	_	14	punct	_	_
 9	Că	că	SCONJ	Csssp	Polarity=Pos	14	mark	_	_
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
@@ -22173,7 +22173,7 @@
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	mumă	mumă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 8	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	9	obj	_	_
-9	suduia	sudui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	|Rhyme=ID4,14,19|SpaceAfter=No|Type=Mono
+9	suduia	sudui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Rhyme=ID4,14,19|SpaceAfter=No|Type=Mono
 10	,	,	PUNCT	COMMA	_	14	punct	_	_
 11	Vorbă	vorbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 12	-ndată	îndată	ADV	Rg	_	14	advmod:tmod	_	SpaceAfter=No

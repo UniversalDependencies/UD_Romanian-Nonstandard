@@ -10,13 +10,13 @@
     <dev><sentences>1052</sentences><tokens>18569</tokens><words>18569</words><fused>0</fused></dev>
     <test><sentences>1052</sentences><tokens>20986</tokens><words>20986</words><fused>0</fused></test>
   </size>
-  <lemmas unique="12288" /><!-- ,, și, ., el, de, avea, fi, să, sine, în, pe, cu, la, nu, eu -->
+  <lemmas unique="12289" /><!-- ,, și, ., el, de, avea, fi, să, sine, în, pe, cu, la, nu, eu -->
   <forms unique="31852" /><!-- ,, ., și, să, de, au, cu, şi, la, în, că, nu, ce, lui, pre -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">11663</tag><!-- mare, sfânt, bun, rău, vel, mic, drept, verde, dator, nou -->
-    <tag name="ADP">66983</tag><!-- de, în, pe, cu, la, din, ca, întru, pentru, după -->
+    <tag name="ADP">66982</tag><!-- de, în, pe, cu, la, din, ca, întru, pentru, după -->
     <tag name="ADV">34596</tag><!-- nu, și, mai, când, cum, atunci, numai, așa, tot, unde -->
     <tag name="AUX">31926</tag><!-- avea, fi, vrea, putea, trebui, ști -->
     <tag name="CCONJ">32957</tag><!-- și, iar, ci, sau, dar, nici, deci, ori, ce, însă -->
@@ -30,12 +30,12 @@
     <tag name="PUNCT">83976</tag><!-- ,, ., :, ?, ", ;, !, ), (, ” -->
     <tag name="SCONJ">11119</tag><!-- că, de, dacă, să, căci, ca, până, pentru, și, încât -->
     <tag name="VERB">75123</tag><!-- zice, face, da, fi, avea, veni, lua, vedea, merge, pune -->
-    <tag name="X">16</tag><!-- capitol, taler, Galateeni, lamma, raha, svahtani -->
+    <tag name="X">17</tag><!-- capitol, taler, Galateeni, _, lamma, raha, svahtani -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="59">
-    <feat name="AdpType" value="Prep" upos="ADP">66981</feat><!-- de, cu, la, în, pre, din, pe, ca, pentru, după -->
-    <feat name="Case" value="Acc" upos="ADP,PRON">91408</feat><!-- de, cu, la, în, pre, să, din, pe, ca, -l -->
+  <feats unique="60">
+    <feat name="AdpType" value="Prep" upos="ADP">66980</feat><!-- de, cu, la, în, pre, din, pe, ca, pentru, după -->
+    <feat name="Case" value="Acc" upos="ADP,PRON">91407</feat><!-- de, cu, la, în, pre, să, din, pe, ca, -l -->
     <feat name="Case" value="Acc,Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">156692</feat><!-- ce, a, vodă, dumnezău, un, el, carele, mare, o, toate -->
     <feat name="Case" value="Dat" upos="ADP,PRON">11572</feat><!-- -i, lor, -mi, le, mi-, lui, i-, voao, mi, -ț -->
     <feat name="Case" value="Dat,Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">15105</feat><!-- lui, lor, domnului, celor, oamenilor, tuturor, omului, celui, căruia, celora -->
@@ -88,6 +88,7 @@
     <feat name="Tense" value="Past" upos="AUX,VERB">8186</feat><!-- zise, fu, dzise, zisără, veni, răspunse, făcu, veniră, văzu, deade -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">908</feat><!-- făcusă, luasă, zisease, venise, fusese, apucasă, dedesă, rămăsesă, vinisă, începusă -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">52283</feat><!-- au, va, -i, -au, am, a, iaste, vor, e, sînt -->
+    <feat name="Typo" value="Yes" upos="ADP">1</feat><!-- pînă -->
     <feat name="Variant" value="Long" upos="AUX,VERB">189</feat><!-- fireți, teamereți, grijireți, dare, hirea, Vreare, giudecareți, grăiare, aninare, dareți -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">44475</feat><!-- zise, era, facă, are, dea, avea, ia, face, zice, făcea -->
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">5602</feat><!-- zicînd, fiind, avînd, răspunzînd, văzînd, auzind, grăind, eșind, vădzînd, luînd -->

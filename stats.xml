@@ -125,8 +125,8 @@
     <dep name="expl:pass">317</dep>
     <dep name="expl:poss">112</dep>
     <dep name="expl:pv">12207</dep>
-    <dep name="fixed">3596</dep>
-    <dep name="flat">543</dep>
+    <dep name="fixed">3593</dep>
+    <dep name="flat">546</dep>
     <dep name="goeswith">1</dep>
     <dep name="iobj">12486</dep>
     <dep name="list">1</dep>

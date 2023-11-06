@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 0d024487a741992772171d187ecddaa5dd38f87a
-Merge: 1077e8e cdbdf1d
+commit 1c72049a6d0ecf67ae30896abff43a33db5177df
+Merge: ee85582 dc468a5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.

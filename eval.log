@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 1c72049a6d0ecf67ae30896abff43a33db5177df
-Merge: ee85582 dc468a5
+commit ab343e56a4c71f9982fb13ea0eaf51e9dce8f715
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 12:56:04 2023 +0100
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -38,6 +38,7 @@ Genres: found 2 out of 17 known.
 [Line 45037 Sent train-12423 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
 [Line 45324 Sent train-12431 Node 24]: [L3 Syntax too-many-subjects] Multiple subjects [19, 20] not subtyped as ':outer'.
 [Line 46104 Sent train-12452 Node 15]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
+[Line 48956 Sent train-12562 Node 36]: [L3 Syntax too-many-subjects] Multiple subjects [35, 44] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 259
 *** FAILED *** with 259 errors

@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit ab343e56a4c71f9982fb13ea0eaf51e9dce8f715
+commit 1802cc7b882e1e8ae02769685e5f767c28fc6da9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:56:04 2023 +0100
+Date:   Sun May 5 13:20:19 2024 +0200
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -27,6 +27,9 @@ Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
+[Line 2524 Sent test-53 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:aceia:det --> 17:îmblă:acl)
+[Line 2537 Sent test-53 Node 25]: [L3 Warning leaf-det] 'det' not expected to have children (25:acealea:det --> 30:înțeleg:acl)
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-train.conllu
 [Line 27009 Sent train-13022 Node 17]: [L3 Syntax too-many-subjects] Multiple subjects [11, 19] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
@@ -40,7 +43,19 @@ Genres: found 2 out of 17 known.
 [Line 46104 Sent train-12452 Node 15]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
 [Line 48956 Sent train-12562 Node 36]: [L3 Syntax too-many-subjects] Multiple subjects [35, 44] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
+[Line 97086 Sent train-2642 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:ceia:det --> 5:auziia:acl)
+[Line 113783 Sent train-3372 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:acei:det --> 18:aceștea:appos)
+[Line 197233 Sent train-8030 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:noastră:det --> 20:apostoli:acl)
+[Line 197462 Sent train-8039 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:aceaia:det --> 11:Domnului:nmod)
+[Line 284159 Sent train-11588 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:toți:det --> 2:aceștea:nsubj)
+[Line 293851 Sent train-11943 Node 34]: [L3 Warning leaf-clf] 'clf' not expected to have children (34:giumătate:clf --> 36:vreame:nmod)
+[Line 364662 Sent train-18223 Node 37]: [L3 Warning leaf-det] 'det' not expected to have children (37:ta:det --> 42:slugă:acl)
+[Line 419820 Sent train-20421 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:ta:det --> 5:Doamne:vocative)
+[Line 436792 Sent train-21078 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:tău:det --> 6:Domnul:appos)
+[Line 546913 Sent train-22465 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:mulți:det --> 11:arme:nmod)
+...suppressing further errors regarding Warning
 Syntax errors: 259
+Warnings: 13
 *** FAILED *** with 259 errors
 Exit code: 1
 Validity: 0.01

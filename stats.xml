@@ -96,7 +96,7 @@
     <feat name="VerbForm" value="Part" upos="AUX,VERB">18017</feat><!-- făcut, fost, dat, luat, scris, pus, dus, venit, lăsat, vinit -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="49">
+  <deps unique="48">
     <dep name="acl">6520</dep>
     <dep name="advcl">16021</dep>
     <dep name="advcl:tcl">2141</dep>
@@ -106,19 +106,18 @@
     <dep name="appos">3493</dep>
     <dep name="aux">22093</dep>
     <dep name="aux:pass">1329</dep>
-    <dep name="case">59624</dep>
+    <dep name="case">59625</dep>
     <dep name="cc">32546</dep>
     <dep name="cc:preconj">172</dep>
     <dep name="ccomp">5376</dep>
     <dep name="ccomp:pmod">148</dep>
-    <dep name="clf">1</dep>
     <dep name="compound">328</dep>
-    <dep name="conj">30432</dep>
+    <dep name="conj">30433</dep>
     <dep name="cop">8196</dep>
     <dep name="csubj">2011</dep>
     <dep name="csubj:pass">63</dep>
     <dep name="dep">1</dep>
-    <dep name="det">23601</dep>
+    <dep name="det">23600</dep>
     <dep name="discourse">887</dep>
     <dep name="expl">1686</dep>
     <dep name="expl:impers">136</dep>
@@ -131,9 +130,9 @@
     <dep name="iobj">12486</dep>
     <dep name="list">1</dep>
     <dep name="mark">27229</dep>
-    <dep name="nmod">26197</dep>
+    <dep name="nmod">26198</dep>
     <dep name="nmod:tmod">3774</dep>
-    <dep name="nsubj">32120</dep>
+    <dep name="nsubj">32119</dep>
     <dep name="nsubj:pass">821</dep>
     <dep name="nummod">3863</dep>
     <dep name="obj">27146</dep>

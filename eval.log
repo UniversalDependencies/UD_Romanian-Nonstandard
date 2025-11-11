@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 84f16109ecb672b1d91ce1d86fe7c5411d05d6e2
-Merge: a510f80 89544bf
+commit 706e0930e047954e07edbd4501b98f76b3d2546b
+Merge: 8446c19 4cc29a8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ro_nonstandard'
+Language code (from CoNLL-U file name) = 'ro'
+Found the following data files: ro_nonstandard-ud-dev.conllu, ro_nonstandard-ud-test.conllu, ro_nonstandard-ud-train.conllu
 Size: counted 572436 of 572436 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.6998018775727.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,96 +23,96 @@ Features: 466553 out of 572436 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL       2667
-Udapi: found 2667 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 572436 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev.conllu
-[Line 341 Sent dev-916 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 349 Sent dev-916 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 355 Sent dev-916 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 367 Sent dev-917 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'De la' does not have the 'ExtPos' feature
-[Line 390 Sent dev-919 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 525 Sent dev-931 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'luînd samă' does not have the 'ExtPos' feature
-[Line 527 Sent dev-931 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 734 Sent dev-939 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 786 Sent dev-941 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 956 Sent dev-948 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 390 Sent dev-919]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 525 Sent dev-931]: [L3 Warning fixed-without-extpos] Fixed expression 'luînd samă' does not have the 'ExtPos' feature
+[Line 956 Sent dev-948]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 1123 Sent dev-955]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'înțeles') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1281 Sent dev-961]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
+[Line 1900 Sent dev-991]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 2115 Sent dev-1000]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 2228 Sent dev-1007]: [L3 Syntax too-many-objects] Multiple direct objects [6, 7] ('aceastia', 'le-') under the predicate 'păzit'.
+[Line 2857 Sent dev-1036]: [L3 Warning fixed-without-extpos] Fixed expression 'pînă la' does not have the 'ExtPos' feature
+[Line 3003 Sent dev-1043]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('ca')
+[Line 3719 Sent dev-1079]: [L3 Warning fixed-without-extpos] Fixed expression 'numai cît' does not have the 'ExtPos' feature
+[Line 4016 Sent dev-1091]: [L3 Syntax too-many-objects] Multiple direct objects [19, 28] ('measele', 'le') under the predicate 'răsturnă'.
+[Line 4231 Sent dev-1101]: [L3 Warning fixed-without-extpos] Fixed expression 'numai cît' does not have the 'ExtPos' feature
+[Line 4387 Sent dev-1106]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
+[Line 5804 Sent dev-1181]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-[Line 1281 Sent dev-961 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 3003 Sent dev-1043 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'ca'
-[Line 4387 Sent dev-1106 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 7290 Sent dev-1256 Node 16]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 10776 Sent dev-1428 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'după'
-[Line 19105 Sent dev-6310 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-Syntax errors: 6
-Warnings: 152
-*** FAILED *** with 6 errors
+[Line 7290 Sent dev-1256]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
+[Line 9141 Sent dev-1350]: [L3 Syntax too-many-objects] Multiple direct objects [19, 21] ('talanți', 'i-') under the predicate 'dat'.
+[Line 10776 Sent dev-1428]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('după')
+[Line 12003 Sent dev-1482]: [L3 Syntax too-many-objects] Multiple direct objects [1, 2] ('Hristos', 'Îl') under the predicate 'deaderă'.
+[Line 16996 Sent dev-1728]: [L3 Syntax too-many-objects] Multiple direct objects [1, 3] ('Omul', '-l') under the predicate 'piiarde'.
+...suppressing further errors regarding Syntax
+Syntax errors: 19
+Warnings: 44
+*** FAILED *** with 19 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
-[Line 81 Sent test-4 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 147 Sent test-6 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'De la' does not have the 'ExtPos' feature
-[Line 229 Sent test-7 Node 49]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 265 Sent test-8 Node 23]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 602 Sent test-14 Node 21]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
-[Line 841 Sent test-21 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'după ce' does not have the 'ExtPos' feature
-[Line 1375 Sent test-31 Node 61]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 1711 Sent test-37 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
-[Line 1768 Sent test-38 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
-[Line 1926 Sent test-42 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
+[Line 81 Sent test-4]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
+[Line 147 Sent test-6]: [L3 Warning fixed-without-extpos] Fixed expression 'De la' does not have the 'ExtPos' feature
+[Line 229 Sent test-7]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 265 Sent test-8]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 588 Sent test-14]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Dumnezău') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 602 Sent test-14]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 841 Sent test-21]: [L3 Warning fixed-without-extpos] Fixed expression 'după ce' does not have the 'ExtPos' feature
+[Line 889 Sent test-22]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'israilteanii') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 938 Sent test-23]: [L3 Syntax too-many-objects] Multiple direct objects [14, 16] ('lucru', 'l-') under the predicate 'făcut'.
+[Line 1375 Sent test-31]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 1711 Sent test-37]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-[Line 2524 Sent test-53 Node 13]: [L3 Syntax leaf-det] 'det' not expected to have children (13:aceia:det --> 17:îmblă:acl)
-[Line 2537 Sent test-53 Node 25]: [L3 Syntax leaf-det] 'det' not expected to have children (25:acealea:det --> 30:înțeleg:acl)
-[Line 8228 Sent test-266 Node 21]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de-'
-[Line 8682 Sent test-292 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'într-'
-[Line 8761 Sent test-295 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'întru'
-[Line 8769 Sent test-295 Node 28]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'într-'
-[Line 9083 Sent test-308 Node 24]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'într-'
-[Line 9138 Sent test-310 Node 17]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 15891 Sent test-642 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 16506 Sent test-675 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'cu'
+[Line 2277 Sent test-49]: [L3 Syntax too-many-objects] Multiple direct objects [55, 56] ('soroacele', 'le-') under the predicate 'pus'.
+[Line 2340 Sent test-50]: [L3 Syntax too-many-objects] Multiple direct objects [11, 13] ('cuvinte', 'le-') under the predicate 'izvodit'.
+[Line 2414 Sent test-50]: [L3 Syntax too-many-objects] Multiple direct objects [65, 87] ('nume', 'le-') under the predicate 'lăsat'.
+[Line 2524 Sent test-53]: [L3 Syntax leaf-det] 'det' not expected to have children (13:aceia:det --> 17:îmblă:acl)
+[Line 2537 Sent test-53]: [L3 Syntax leaf-det] 'det' not expected to have children (25:acealea:det --> 30:înțeleg:acl)
+[Line 4179 Sent test-97]: [L3 Syntax too-many-objects] Multiple direct objects [20, 22] ('rudeniia', 'o') under the predicate 'duce'.
+[Line 6940 Sent test-209]: [L3 Syntax too-many-objects] Multiple direct objects [35, 39] ('boala', 'oameni') under the predicate 'vindecînd'.
+[Line 7762 Sent test-250]: [L3 Syntax too-many-objects] Multiple direct objects [27, 30] ('jărtva', 'oltariului') under the predicate 'Lasă'.
+[Line 8228 Sent test-266]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de-')
 ...suppressing further errors regarding Syntax
-Syntax errors: 16
-Warnings: 156
-*** FAILED *** with 16 errors
+Syntax errors: 29
+Warnings: 177
+*** FAILED *** with 29 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-train.conllu
-[Line 148 Sent train-6347 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'de pe' does not have the 'ExtPos' feature
-[Line 368 Sent train-6358 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'pe la' does not have the 'ExtPos' feature
-[Line 494 Sent train-6364 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'când și când' does not have the 'ExtPos' feature
-[Line 607 Sent train-6369 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'pe la' does not have the 'ExtPos' feature
-[Line 647 Sent train-6371 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'de ce' does not have the 'ExtPos' feature
-[Line 731 Sent train-6374 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'ca ș' does not have the 'ExtPos' feature
-[Line 955 Sent train-6383 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'de ce' does not have the 'ExtPos' feature
-[Line 1008 Sent train-6385 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'De când' does not have the 'ExtPos' feature
-[Line 1008 Sent train-6385 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'De'
-[Line 1044 Sent train-6386 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
-[Line 1348 Sent train-6400 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'în sus' does not have the 'ExtPos' feature
-[Line 1348 Sent train-6400 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-...suppressing further errors regarding Warning
-[Line 2677 Sent train-6465 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 10016 Sent train-6958 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'până'
-[Line 14485 Sent train-7178 Node 16]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'cu'
-[Line 14517 Sent train-7180 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 15045 Sent train-7206 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'De'
-[Line 27009 Sent train-13022 Node 17]: [L3 Syntax too-many-subjects] Multiple subjects [11, 19] not subtyped as ':outer'.
-[Line 29640 Sent train-13141 Node 30]: [L3 Syntax too-many-subjects] Multiple subjects [24, 31] not subtyped as ':outer'.
-[Line 34987 Sent train-13409 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 6] not subtyped as ':outer'.
+[Line 72 Sent train-6343]: [L3 Syntax too-many-objects] Multiple direct objects [3, 11] ('dor', 'l-') under the predicate 'sămănat'.
+[Line 494 Sent train-6364]: [L3 Warning fixed-without-extpos] Fixed expression 'când și când' does not have the 'ExtPos' feature
+[Line 1008 Sent train-6385]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('De')
+[Line 1044 Sent train-6386]: [L3 Warning fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
+[Line 1348 Sent train-6400]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('în')
+[Line 1385 Sent train-6402]: [L3 Syntax too-many-objects] Multiple direct objects [1, 5] ('Calul', '-l') under the predicate 'lua'.
+[Line 1598 Sent train-6411]: [L3 Warning fixed-without-extpos] Fixed expression 'Ca și' does not have the 'ExtPos' feature
+[Line 1798 Sent train-6420]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 1804 Sent train-6420]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 2497 Sent train-6456]: [L3 Syntax too-many-objects] Multiple direct objects [10, 15] ('ce', 'pui') under the predicate 'vezi'.
+[Line 2628 Sent train-6463]: [L3 Warning fixed-without-extpos] Fixed expression 'am să' does not have the 'ExtPos' feature
+[Line 2635 Sent train-6463]: [L3 Warning fixed-without-extpos] Fixed expression 'am să' does not have the 'ExtPos' feature
+[Line 2677 Sent train-6465]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
+[Line 2950 Sent train-6680]: [L3 Warning fixed-without-extpos] Fixed expression 'Pe la' does not have the 'ExtPos' feature
+[Line 4302 Sent train-6737]: [L3 Syntax too-many-objects] Multiple direct objects [9, 11] ('cucoana', 'o') under the predicate 'sărut'.
+[Line 5075 Sent train-6771]: [L3 Syntax too-many-objects] Multiple direct objects [21, 24] ('Liliacul', 'l') under the predicate 'iau'.
+[Line 5094 Sent train-6772]: [L3 Syntax too-many-objects] Multiple direct objects [10, 13] ('Liliacul', '-l') under the predicate 'iei'.
+[Line 5249 Sent train-6778]: [L3 Warning fixed-without-extpos] Fixed expression 'tot așa' does not have the 'ExtPos' feature
+[Line 5862 Sent train-6800]: [L3 Syntax too-many-objects] Multiple direct objects [2, 9] ('săgetăturelile', 'le') under the predicate 'săpați'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 288
-Warnings: 3269
-*** FAILED *** with 288 errors
+[Line 6476 Sent train-6823]: [L3 Warning fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Syntax errors: 876
+Warnings: 793
+*** FAILED *** with 876 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.9192423127824) = 0.235703157123692
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.953409638806784) = 0.293356811940549
-(weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.82643336055528) * (availability=1) * (validity=0.01) = 0.0082643336055528
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.9192423127824) = 0.340460115845333
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.735135135135135) = 0.0816816816816817
+(TOTAL score=0.769999459110167) * (availability=1) * (validity=0.01) = 0.00769999459110167
 STARS = 0
-UD_Romanian-Nonstandard	0.0082643336055528	0
+UD_Romanian-Nonstandard	0.00769999459110167	0

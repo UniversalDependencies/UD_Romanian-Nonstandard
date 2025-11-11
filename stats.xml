@@ -33,7 +33,7 @@
     <tag name="X">17</tag><!-- capitol, taler, Galateeni, _, lamma, raha, svahtani -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="60">
+  <feats unique="61">
     <feat name="AdpType" value="Prep" upos="ADP">66980</feat><!-- de, cu, la, în, pre, din, pe, ca, pentru, după -->
     <feat name="Case" value="Acc" upos="ADP,PRON">91407</feat><!-- de, cu, la, în, pre, să, din, pe, ca, -l -->
     <feat name="Case" value="Acc,Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">156692</feat><!-- ce, a, vodă, dumnezău, un, el, carele, mare, o, toate -->
@@ -46,6 +46,7 @@
     <feat name="Definite" value="Def" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">56031</feat><!-- lui, carele, domnul, carii, țara, carea, omul, domnului, cuvîntul, împăratul -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM,PROPN">78856</feat><!-- vodă, dumnezău, mare, Iisus, Hristos, doamne, țară, om, oaste, lume -->
     <feat name="Degree" value="Pos" upos="ADJ,NOUN">11667</feat><!-- mare, bună, bun, mari, svinte, svînta, verde, sfînt, vel, datoriu -->
+    <feat name="ExtPos" value="ADP" upos="ADP">2904</feat><!-- de, ca, fără, pe, pînă, de-, pentru, până, di, în -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">79144</feat><!-- o, a, toate, toată, aceaia, ta, aceasta, țara, tot, le -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">101482</feat><!-- lui, el, vodă, dumnezău, -l, un, -i, carele, ei, Iisus -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">3176</feat><!-- dă, scoală, ia, scoate, vino, lasă, pasă, spune, fă, faceți -->

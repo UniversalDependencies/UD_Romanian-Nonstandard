@@ -3716,7 +3716,7 @@
 8	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	9	case	_	Ref=MATT21.2
 9	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	7	obl	_	Ref=MATT21.2
 10	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	Ref=MATT21.2
-11	numai	numai	ADV	Rg	_	14	advmod	_	Ref=MATT21.2
+11	numai	numai	ADV	Rg	ExtPos=ADV	14	advmod	_	Ref=MATT21.2
 12	cît	cât	ADV	Rw	PronType=Int,Rel	11	fixed	_	Ref=MATT21.2
 13	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	14	aux	_	Ref=MATT21.2
 14	afla	afla	VERB	Vmn	VerbForm=Inf	1	conj	_	Ref=MATT21.2
@@ -4228,7 +4228,7 @@
 7	:	:	PUNCT	COLON	_	12	punct	_	Ref=MATT21.20
 8	Cum	cum	ADV	Rw	PronType=Int,Rel	12	advmod	_	Ref=MATT21.20|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	8	punct	_	Ref=MATT21.20
-10	numai	numai	ADV	Rg	_	12	advmod:tmod	_	Ref=MATT21.20
+10	numai	numai	ADV	Rg	ExtPos=ADV	12	advmod:tmod	_	Ref=MATT21.20
 11	cît	cât	ADV	Rw	PronType=Int,Rel	10	fixed	_	Ref=MATT21.20
 12	secă	seca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	Ref=MATT21.20
 13	smochinul	smochin	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	Ref=MATT21.20|SpaceAfter=No
@@ -10773,7 +10773,7 @@
 # text = Iară după ce voiu înviia, mearge-voiu înainte-vă în Galileiu.
 # citation-part=MATT 26.32
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT26.32
-2	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	advmod:tmod	_	Ref=MATT26.32
+2	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes|ExtPos=ADV	5	advmod:tmod	_	Ref=MATT26.32
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	fixed	_	Ref=MATT26.32
 4	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	Ref=MATT26.32
 5	înviia	învia	VERB	Vmn	VerbForm=Inf	7	advcl:tcl	_	Ref=MATT26.32|SpaceAfter=No

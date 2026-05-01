@@ -47,7 +47,7 @@
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM,PROPN">78855</feat><!-- vodă, dumnezău, mare, Iisus, Hristos, doamne, țară, om, oaste, lume -->
     <feat name="Degree" value="Pos" upos="ADJ,NOUN">11667</feat><!-- mare, bună, bun, mari, svinte, svînta, verde, sfînt, vel, datoriu -->
     <feat name="ExtPos" value="ADP" upos="ADP">111</feat><!-- de, ca, de-, pe, pînă, în -->
-    <feat name="ExtPos" value="ADV" upos="ADP">5</feat><!-- de, ca -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,NOUN,SCONJ">47</feat><!-- de, numai, ca, după, pînă, într-, cu, în, așa, când -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">79143</feat><!-- o, a, toate, toată, aceaia, ta, aceasta, țara, tot, le -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">101480</feat><!-- lui, el, vodă, dumnezău, -l, un, -i, carele, ei, Iisus -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">3176</feat><!-- dă, scoală, ia, scoate, vino, lasă, pasă, spune, fă, faceți -->

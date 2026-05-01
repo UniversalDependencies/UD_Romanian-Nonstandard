@@ -1278,7 +1278,7 @@
 3	n-	nu	ADV	Qz	Polarity=Neg	5	advmod	_	Ref=MATT18.25|SpaceAfter=No
 4	are	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	Ref=MATT18.25
 5	avea	avea	VERB	Vmn	VerbForm=Inf	10	advcl	_	Ref=MATT18.25
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	advmod	_	Ref=MATT18.25
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	advmod	_	Ref=MATT18.25
 7	unde	unde	ADV	Rw	PronType=Int,Rel	6	fixed	_	Ref=MATT18.25
 8	plăti	plăti	VERB	Vmn	VerbForm=Inf	5	ccomp	_	Ref=MATT18.25|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	5	punct	_	Ref=MATT18.25
@@ -3000,7 +3000,7 @@
 12	cestui	acesta	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	iobj	_	Ref=MATT20.14
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	mark	_	Ref=MATT20.14
 14	apoi	apoi	ADV	Rg	_	12	advmod	_	Ref=MATT20.14
-15	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	advmod	_	Ref=MATT20.14
+15	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	17	advmod	_	Ref=MATT20.14
 16	și	și	ADV	Rg	_	15	fixed	_	Ref=MATT20.14
 17	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	11	iobj	_	Ref=MATT20.14|SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT20.14
@@ -4384,7 +4384,7 @@
 1	Botegiunea	botegiune	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	Ref=MATT21.25
 2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	Ref=MATT21.25
 3	Ioan	Ioan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT21.25
-4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	advmod	_	Ref=MATT21.25
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	Ref=MATT21.25
 5	unde	unde	ADV	Rw	PronType=Int,Rel	4	fixed	_	Ref=MATT21.25
 6	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Ref=MATT21.25|SpaceAfter=No
 7	?	?	PUNCT	QUEST	_	6	punct	_	Ref=MATT21.25
@@ -7287,7 +7287,7 @@
 13	cătră	către	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	14	case	_	Ref=MATT23.37
 14	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	12	nmod	_	Ref=MATT23.37|SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	6	punct	_	Ref=MATT23.37
-16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	advmod	_	Ref=MATT23.37
+16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	19	advmod	_	Ref=MATT23.37
 17	câte	cât	DET	Dw3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel	16	fixed	_	Ref=MATT23.37
 18	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	16	fixed	_	Ref=MATT23.37
 19	vruiu	vrea	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT23.37
@@ -19102,7 +19102,7 @@
 # text = Că de când te știu pe tine, Nu-mi mai trebuiește nime.
 # Rhyme=Yes
 1	Că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	advmod:tmod	_	_
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod:tmod	_	_
 3	când	când	ADV	Rw	PronType=Int,Rel	2	fixed	_	_
 4	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	5	obj	_	_
 5	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl:tcl	_	_

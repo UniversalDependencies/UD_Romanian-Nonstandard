@@ -1120,7 +1120,7 @@
 12	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	13	det	_	Ref=MATT18.19
 13	înțeles	înțeles	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	obl	_	Ref=MATT18.19
 14	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	Ref=MATT18.19
-15	pămînt	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	Ref=MATT18.19|SpaceAfter=No
+15	pămînt	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	Ref=MATT18.19|SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	13	punct	_	Ref=MATT18.19
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	Ref=MATT18.19
 18	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	19	det	_	Ref=MATT18.19
@@ -6688,7 +6688,7 @@
 40	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	26	obl	_	Ref=MATT23.15
 41	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	42	mark	_	Ref=MATT23.15
 42	cît	cât	ADV	Rw	PronType=Int,Rel	43	advmod	_	Ref=MATT23.15
-43	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	40	obl	_	Ref=MATT23.15|SpaceAfter=No
+43	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	40	nmod	_	Ref=MATT23.15|SpaceAfter=No
 44	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT23.15
 
 # sent_id = dev-1234
@@ -10277,7 +10277,7 @@
 8	propovedui	propovădui	VERB	Vmn	VerbForm=Inf	15	advcl	_	Ref=MATT26.13
 9	Evangheliia	Evanghelie	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj:pass	_	Ref=MATT26.13
 10	aceasta	acesta	DET	Dd3fsr---o	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	9	det	_	Ref=MATT26.13
-11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	obl:pmod	_	Ref=MATT26.13
+11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	nmod	_	Ref=MATT26.13
 12	totă	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	13	det	_	Ref=MATT26.13
 13	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	Ref=MATT26.13|SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	8	punct	_	Ref=MATT26.13
@@ -14796,7 +14796,7 @@
 17	apostolilor	apostol	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	Ref=MARC.pred.16
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	Ref=MARC.pred.16
 19	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	20	det	_	Ref=MARC.pred.16
-20	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	Ref=MARC.pred.16
+20	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	Ref=MARC.pred.16
 21	să	să	PART	Qs	PartType=Sub	22	mark	_	Ref=MARC.pred.16
 22	propoveduiască	propovădui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	Ref=MARC.pred.16
 23	Evangheliia	Evanghelie	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	obj	_	Ref=MARC.pred.16
@@ -19085,7 +19085,7 @@
 3	grebliță	grebliță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 5	cinci	cinci	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
-6	dințișori	dințișor	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	3	obl:pmod	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
+6	dințișori	dințișor	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nmod	_	Rhyme=ID16|SpaceAfter=No|Type=Paired
 7	,	,	PUNCT	COMMA	_	11	punct	_	_
 8	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	_
@@ -20376,7 +20376,7 @@
 26	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	_
 27	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	conj	_	_
 28	strat	strat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	conj	_	_
-29	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	30	obl:pmod	_	_
+29	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	30	nmod	_	_
 30	busuioc	busuioc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	28	nmod	_	Rhyme=ID36|SpaceAfter=No|Type=Paired
 31	,	,	PUNCT	COMMA	_	34	punct	_	_
 32	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	34	case	_	_
@@ -20704,7 +20704,7 @@
 6	tot	tot	ADV	Rg	_	7	advmod	_	_
 7	vânat	vâna	VERB	Vmp	VerbForm=Part	3	conj	_	Rhyme=ID3|Type=Paired
 8	Cerul	cer	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
-9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	obl:pmod	_	_
+9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	nmod	_	_
 10	stelele	stea	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	nmod	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 11	,	,	PUNCT	COMMA	_	12	punct	_	_
 12	Şesul	șes	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
@@ -22514,7 +22514,7 @@
 2	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
 3	niciuna	niciunul	PRON	Pz3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Neg	7	nsubj	_	_
 4	dintre	dintre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	_
-5	stele	stea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	Rhyme=ID9|Type=Paired
+5	stele	stea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	3	nmod	_	Rhyme=ID9|Type=Paired
 6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 8	mândruții	mândruță	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_

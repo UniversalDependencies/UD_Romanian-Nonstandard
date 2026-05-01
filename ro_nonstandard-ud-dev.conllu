@@ -3196,7 +3196,7 @@
 7	acești	acesta	DET	Dd3mpr---e	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Dem	9	det	_	Ref=MATT20.21
 8	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	Ref=MATT20.21
 9	feciori	fecior	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MATT20.21
-10	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	11	det	_	Ref=MATT20.21
+10	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	9	det	_	Ref=MATT20.21
 11	miei	meu	DET	Ds1mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|PronType=Prs	9	det	_	Ref=MATT20.21|SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	13	punct	_	Ref=MATT20.21
 13	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	xcomp	_	Ref=MATT20.21
@@ -4773,9 +4773,9 @@
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT21.36
 6	alte	altul	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	7	det	_	Ref=MATT21.36
 7	slugi	slugă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	3	obl:pmod	_	Ref=MATT21.36
-8	mai	mai	ADV	Rg	_	9	advmod	_	Ref=MATT21.36
+8	mai	mai	ADV	Rg	_	7	advmod	_	Ref=MATT21.36
 9	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	7	det	_	Ref=MATT21.36
-10	decît	decât	ADV	Rg	_	9	advmod	_	Ref=MATT21.36
+10	decît	decât	ADV	Rg	_	7	advmod	_	Ref=MATT21.36
 11	întîi	întâi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	Ref=MATT21.36
 12	și	și	CCONJ	Ccssp	Polarity=Pos	13	cc	_	Ref=MATT21.36
 13	feaceră	face	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	Ref=MATT21.36
@@ -11728,7 +11728,7 @@
 15	ne	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	17	iobj	_	Ref=MATT26.65
 16	mai	mai	ADV	Rg	_	17	advmod	_	Ref=MATT26.65
 17	trebuescu	trebui	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	Ref=MATT26.65
-18	mai	mai	ADV	Rg	_	19	advmod	_	Ref=MATT26.65
+18	mai	mai	ADV	Rg	_	20	advmod	_	Ref=MATT26.65
 19	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	20	det	_	Ref=MATT26.65
 20	mărturii	mărturie	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	17	nsubj	_	Ref=MATT26.65|SpaceAfter=No
 21	?	?	PUNCT	QUEST	_	17	punct	_	Ref=MATT26.65
@@ -17837,7 +17837,7 @@
 4	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	obl:pmod	_	Ref=MARC4.2
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	Ref=MARC4.2
 6	pilde	pildă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	2	obl	_	Ref=MARC4.2
-7	pre	prea	ADV	Rg	_	8	advmod	_	Ref=MARC4.2
+7	pre	prea	ADV	Rg	_	6	advmod	_	Ref=MARC4.2
 8	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	det	_	Ref=MARC4.2
 9	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=MARC4.2
 10	zicea	zice	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	Ref=MARC4.2
@@ -18722,7 +18722,7 @@
 # text = Pe-al său tată n-a ascultat, Ci trei cai și-a înșelat, Unul negru ca un harap, Altul cu steaua la cap, Al treilea este cel sur, Și face o țară singur.
 # Rhyme=Yes
 1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	SpaceAfter=No
-2	-al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	3	det	_	_
+2	-al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	4	det	_	_
 3	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	tată	tată	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obl:pmod	_	_
 5	n-	nu	ADV	Qz	Polarity=Neg	7	advmod	_	SpaceAfter=No
@@ -20807,7 +20807,7 @@
 6	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	5	punct	_	_
 8	C-	că	SCONJ	Csssp	Polarity=Pos	17	mark	_	SpaceAfter=No
-9	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	10	det	_	_
+9	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	12	det	_	_
 10	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	12	det	_	_
 11	tânăr	tânăr	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 12	împărat	împărat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nsubj	_	Rhyme=ID17,24,29|Type=Mono
@@ -20994,7 +20994,7 @@
 7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	peceție	pecete	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	Rhyme=ID6|Type=Intern
 9	C-	că	SCONJ	Csssp	Polarity=Pos	14	mark	_	SpaceAfter=No
-10	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	11	det	_	_
+10	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	12	det	_	_
 11	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	12	det	_	_
 12	răspuns	răspuns	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	_
 13	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
@@ -22447,7 +22447,7 @@
 # Rhyme= Yes
 1	Sunt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	stele	stea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	1	nsubj	_	_
-3	tare	tare	ADV	Rg	_	4	advmod	_	_
+3	tare	tare	ADV	Rg	_	2	advmod	_	_
 4	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	2	det	_	Rhyme=ID10|Type=Paired
 5	Mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	2	amod	_	_
 6	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	_

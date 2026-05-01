@@ -2286,7 +2286,7 @@
 67	,	,	PUNCT	COMMA	_	74	punct	_	Ref=pred.read.8
 68	pentru	pentru	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	74	mark	_	Ref=pred.read.8
 69	că	că	SCONJ	Csssp	Polarity=Pos	68	fixed	_	Ref=pred.read.8
-70	mai	mai	ADV	Rg	_	72	advmod	_	Ref=pred.read.8
+70	mai	mai	ADV	Rg	_	73	advmod	_	Ref=pred.read.8
 71	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	73	case	_	Ref=pred.read.8
 72	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	73	det	_	Ref=pred.read.8
 73	limbile	limbă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	74	obl	_	Ref=pred.read.8
@@ -2521,7 +2521,7 @@
 14	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	cop	_	Ref=pred.read.12
 15	buni	bun	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	advcl	_	Ref=pred.read.12
 16	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	17	nsubj	_	Ref=pred.read.12
-17	îmblă	umbla	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	Ref=pred.read.12
+17	îmblă	umbla	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	Ref=pred.read.12
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	Ref=pred.read.12
 19	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	20	det	_	Ref=pred.read.12
 20	țărîle	țară	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	Ref=pred.read.12|SpaceAfter=No
@@ -2534,7 +2534,7 @@
 27	bune	bun	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	conj	_	Ref=pred.read.12
 28	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	30	obj	_	Ref=pred.read.12
 29	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	30	expl	_	Ref=pred.read.12
-30	înțeleg	înțelege	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	Ref=pred.read.12
+30	înțeleg	înțelege	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl	_	Ref=pred.read.12
 31	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	30	nsubj	_	Ref=pred.read.12|SpaceAfter=No
 32	;	;	PUNCT	SCOLON	_	38	punct	_	Ref=pred.read.12
 33	noi	eu	PRON	Pp1-pr	Case=Nom|Number=Plur|Person=1|PronType=Prs	38	nsubj:pass	_	Ref=pred.read.12
@@ -10138,7 +10138,7 @@
 # sent_id = test-360
 # text = Nu tot cine-mi va zice Mie, Doamne, Doamne, va întra în împărățiia ceriurelor, ce cela ce va face voia Tatălui Miu, Cine iaste în ceriu.
 # citation-part=MATT 7.21
-1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	Ref=MATT7.21
+1	Nu	nu	ADV	Qz	Polarity=Neg	6	advmod	_	Ref=MATT7.21
 2	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	6	det	_	Ref=MATT7.21
 3	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	Ref=MATT7.21|SpaceAfter=No
 4	-mi	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	6	iobj	_	Ref=MATT7.21
@@ -16185,7 +16185,7 @@
 6	cătr-	către	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT13.2|SpaceAfter=No
 7	însul	dânsul	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl	_	Ref=MATT13.2|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	9	punct	_	Ref=MATT13.2
-9	atîta	atâta	ADV	Rg	_	5	advmod	_	Ref=MATT13.2
+9	atîta	atâta	ADV	Rg	_	4	advmod	_	Ref=MATT13.2
 10	cîtu-	cât	ADV	Rw	PronType=Int,Rel	12	advmod	_	Ref=MATT13.2|SpaceAfter=No
 11	i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	12	expl	_	Ref=MATT13.2
 12	fu	fi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	Ref=MATT13.2
@@ -23900,7 +23900,7 @@
 # sent_id = test-6523
 # text = A săi călușei Sunt ca niște zmei, Ai săi mânzelei Îs ca niște lei.
 # Rhyme= Yes
-1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	_
+1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	3	det	_	_
 2	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	3	det	_	_
 3	călușei	călușel	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	7	nsubj	_	Rhyme=ID7,11,15|Type=Mono
 4	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	cop	_	_
@@ -23908,7 +23908,7 @@
 6	niște	un	DET	Ti-pr	Case=Acc,Nom|Number=Plur|PronType=Ind	7	det	_	_
 7	zmei	zmeu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	Rhyme=ID3,11,15|SpaceAfter=No|Type=Mono
 8	,	,	PUNCT	COMMA	_	15	punct	_	_
-9	Ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	10	det	_	_
+9	Ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	11	det	_	_
 10	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	11	det	_	_
 11	mânzelei	mânzălău	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	15	nsubj	_	Rhyme=ID3,7,15|Type=Mono
 12	Îs	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	cop	_	_
@@ -23952,7 +23952,7 @@
 12	stele	stea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	Rhyme=ID8|SpaceAfter=No|Type=Paired
 13	,	,	PUNCT	COMMA	_	17	punct	_	_
 14	Cu-	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	SpaceAfter=No
-15	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	16	det	_	_
+15	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	17	det	_	_
 16	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	17	det	_	_
 17	feciorei	feciorel	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	conj	_	Rhyme=ID19|Type=Paired
 18	Ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -25040,7 +25040,7 @@
 4	tu	tu	PRON	Pp2-sr	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	codrii	codru	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	_
 6	Şi-	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	SpaceAfter=No
-7	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	8	det	_	_
+7	ai	al	DET	Tsmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Art	9	det	_	_
 8	tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|PronType=Prs	9	det	_	_
 9	haiduci	haiduc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 10	?	?	PUNCT	QUEST	_	3	punct	_	_

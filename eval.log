@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit 706e0930e047954e07edbd4501b98f76b3d2546b
-Merge: 8446c19 4cc29a8
+commit e84e53291395ad91e059d9b954587c58d2600df7
+Merge: fcf3acd 50dc2af
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ro_nonstandard'
@@ -19,91 +19,104 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 466553 out of 572436 total words have one or more features.
+Features: 466548 out of 572436 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev.conllu
-[Line 390 Sent dev-919]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 525 Sent dev-931]: [L3 Warning fixed-without-extpos] Fixed expression 'luînd samă' does not have the 'ExtPos' feature
-[Line 956 Sent dev-948]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 1123 Sent dev-955]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'înțeles') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1281 Sent dev-961]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 1900 Sent dev-991]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
-[Line 2115 Sent dev-1000]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 2228 Sent dev-1007]: [L3 Syntax too-many-objects] Multiple direct objects [6, 7] ('aceastia', 'le-') under the predicate 'păzit'.
-[Line 2857 Sent dev-1036]: [L3 Warning fixed-without-extpos] Fixed expression 'pînă la' does not have the 'ExtPos' feature
-[Line 3003 Sent dev-1043]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('ca')
-[Line 3719 Sent dev-1079]: [L3 Warning fixed-without-extpos] Fixed expression 'numai cît' does not have the 'ExtPos' feature
-[Line 4016 Sent dev-1091]: [L3 Syntax too-many-objects] Multiple direct objects [19, 28] ('measele', 'le') under the predicate 'răsturnă'.
-[Line 4231 Sent dev-1101]: [L3 Warning fixed-without-extpos] Fixed expression 'numai cît' does not have the 'ExtPos' feature
-[Line 4387 Sent dev-1106]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 5804 Sent dev-1181]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 7290 Sent dev-1256]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 9141 Sent dev-1350]: [L3 Syntax too-many-objects] Multiple direct objects [19, 21] ('talanți', 'i-') under the predicate 'dat'.
-[Line 10776 Sent dev-1428]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('după')
-[Line 12003 Sent dev-1482]: [L3 Syntax too-many-objects] Multiple direct objects [1, 2] ('Hristos', 'Îl') under the predicate 'deaderă'.
-[Line 16996 Sent dev-1728]: [L3 Syntax too-many-objects] Multiple direct objects [1, 3] ('Omul', '-l') under the predicate 'piiarde'.
-...suppressing further errors regarding Syntax
-Syntax errors: 19
-Warnings: 44
-*** FAILED *** with 19 errors
+[Line 390 Sent dev-919]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 525 Sent dev-931]: [L3 WARNING fixed-without-extpos] Fixed expression 'luînd samă' does not have the 'ExtPos' feature
+[Line 956 Sent dev-948]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 1900 Sent dev-991]: [L3 WARNING fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 2115 Sent dev-1000]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 2228 Sent dev-1007]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 7] ('aceastia', 'le-') under the predicate 'păzit'.
+[Line 2857 Sent dev-1036]: [L3 WARNING fixed-without-extpos] Fixed expression 'pînă la' does not have the 'ExtPos' feature
+[Line 4016 Sent dev-1091]: [L3 SYNTAX too-many-objects] Multiple direct objects [19, 28] ('measele', 'le') under the predicate 'răsturnă'.
+[Line 5804 Sent dev-1181]: [L3 WARNING fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
+[Line 7237 Sent dev-1254]: [L3 WARNING fixed-without-extpos] Fixed expression 'pînă la' does not have the 'ExtPos' feature
+[Line 7716 Sent dev-1283]: [L3 WARNING fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
+[Line 7739 Sent dev-1284]: [L3 WARNING fixed-without-extpos] Fixed expression 'pănă la' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 9141 Sent dev-1350]: [L3 SYNTAX too-many-objects] Multiple direct objects [19, 21] ('talanți', 'i-') under the predicate 'dat'.
+[Line 12003 Sent dev-1482]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 2] ('Hristos', 'Îl') under the predicate 'deaderă'.
+[Line 16996 Sent dev-1728]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('Omul', '-l') under the predicate 'piiarde'.
+[Line 17546 Sent dev-1753]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 14] ('vasele', 'le') under the predicate 'jăhuiască'.
+[Line 18320 Sent dev-1790]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 10] ('făcliia', 'o') under the predicate 'aprindu'.
+[Line 19108 Sent dev-6310]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 7] ('te', 'tine') under the predicate 'știu'.
+[Line 19280 Sent dev-6319]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 10] ('Lucrurile', 'le') under the predicate 'căutându-'.
+[Line 20670 Sent dev-6595]: [L3 SYNTAX too-many-objects] Multiple direct objects [16, 18] ('Părul', 'l-') under the predicate 'pieptănat'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 33
+SYNTAX errors: 13
+*** FAILED *** with 13 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
-[Line 81 Sent test-4]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 147 Sent test-6]: [L3 Warning fixed-without-extpos] Fixed expression 'De la' does not have the 'ExtPos' feature
-[Line 229 Sent test-7]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 265 Sent test-8]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 588 Sent test-14]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Dumnezău') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 602 Sent test-14]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
-[Line 841 Sent test-21]: [L3 Warning fixed-without-extpos] Fixed expression 'după ce' does not have the 'ExtPos' feature
-[Line 889 Sent test-22]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'israilteanii') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 938 Sent test-23]: [L3 Syntax too-many-objects] Multiple direct objects [14, 16] ('lucru', 'l-') under the predicate 'făcut'.
-[Line 1375 Sent test-31]: [L3 Warning fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
-[Line 1711 Sent test-37]: [L3 Warning fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 2277 Sent test-49]: [L3 Syntax too-many-objects] Multiple direct objects [55, 56] ('soroacele', 'le-') under the predicate 'pus'.
-[Line 2340 Sent test-50]: [L3 Syntax too-many-objects] Multiple direct objects [11, 13] ('cuvinte', 'le-') under the predicate 'izvodit'.
-[Line 2414 Sent test-50]: [L3 Syntax too-many-objects] Multiple direct objects [65, 87] ('nume', 'le-') under the predicate 'lăsat'.
-[Line 2524 Sent test-53]: [L3 Syntax leaf-det] 'det' not expected to have children (13:aceia:det --> 17:îmblă:acl)
-[Line 2537 Sent test-53]: [L3 Syntax leaf-det] 'det' not expected to have children (25:acealea:det --> 30:înțeleg:acl)
-[Line 4179 Sent test-97]: [L3 Syntax too-many-objects] Multiple direct objects [20, 22] ('rudeniia', 'o') under the predicate 'duce'.
-[Line 6940 Sent test-209]: [L3 Syntax too-many-objects] Multiple direct objects [35, 39] ('boala', 'oameni') under the predicate 'vindecînd'.
-[Line 7762 Sent test-250]: [L3 Syntax too-many-objects] Multiple direct objects [27, 30] ('jărtva', 'oltariului') under the predicate 'Lasă'.
-[Line 8228 Sent test-266]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de-')
-...suppressing further errors regarding Syntax
-Syntax errors: 29
-Warnings: 177
-*** FAILED *** with 29 errors
+[Line 81 Sent test-4]: [L3 WARNING fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
+[Line 147 Sent test-6]: [L3 WARNING fixed-without-extpos] Fixed expression 'De la' does not have the 'ExtPos' feature
+[Line 229 Sent test-7]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 265 Sent test-8]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 602 Sent test-14]: [L3 WARNING fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
+[Line 841 Sent test-21]: [L3 WARNING fixed-without-extpos] Fixed expression 'după ce' does not have the 'ExtPos' feature
+[Line 938 Sent test-23]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 16] ('lucru', 'l-') under the predicate 'făcut'.
+[Line 1375 Sent test-31]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca să' does not have the 'ExtPos' feature
+[Line 1711 Sent test-37]: [L3 WARNING fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
+[Line 1768 Sent test-38]: [L3 WARNING fixed-without-extpos] Fixed expression 'pentru că' does not have the 'ExtPos' feature
+[Line 1926 Sent test-42]: [L3 WARNING fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
+[Line 2277 Sent test-49]: [L3 SYNTAX too-many-objects] Multiple direct objects [55, 56] ('soroacele', 'le-') under the predicate 'pus'.
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 2340 Sent test-50]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 13] ('cuvinte', 'le-') under the predicate 'izvodit'.
+[Line 2414 Sent test-50]: [L3 SYNTAX too-many-objects] Multiple direct objects [65, 87] ('nume', 'le-') under the predicate 'lăsat'.
+[Line 4179 Sent test-97]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 22] ('rudeniia', 'o') under the predicate 'duce'.
+[Line 4422 Sent test-104]: [L3 WARNING pron-det-without-prontype] The word 'lui' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4515 Sent test-108]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6309 Sent test-183]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6321 Sent test-184]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6859 Sent test-207]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6940 Sent test-209]: [L3 SYNTAX too-many-objects] Multiple direct objects [35, 39] ('boala', 'oameni') under the predicate 'vindecînd'.
+[Line 7762 Sent test-250]: [L3 SYNTAX too-many-objects] Multiple direct objects [27, 30] ('jărtva', 'oltariului') under the predicate 'Lasă'.
+[Line 9318 Sent test-318]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 25, 26] ('trupurile', 'ce', 'le') under the predicate 'îmbrăca'.
+[Line 9477 Sent test-326]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 17] ('iarba', 'o') under the predicate 'îmbracă'.
+[Line 10255 Sent test-363]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 13] ('tot', '-l') under the predicate 'asamănu'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 12784 Sent test-495]: [L3 WARNING pron-det-without-prontype] The word 'ale' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 16500 Sent test-675]: [L3 WARNING pron-det-without-prontype] The word 'acestor' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19960 Sent test-852]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 21953 Sent test-6275]: [L3 WARNING pron-det-without-prontype] The word '-o' is tagged 'DET' but it lacks the 'PronType' feature
+Warnings: 151
+SYNTAX errors: 13
+*** FAILED *** with 13 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-train.conllu
-[Line 72 Sent train-6343]: [L3 Syntax too-many-objects] Multiple direct objects [3, 11] ('dor', 'l-') under the predicate 'sămănat'.
-[Line 494 Sent train-6364]: [L3 Warning fixed-without-extpos] Fixed expression 'când și când' does not have the 'ExtPos' feature
-[Line 1008 Sent train-6385]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('De')
-[Line 1044 Sent train-6386]: [L3 Warning fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
-[Line 1348 Sent train-6400]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('în')
-[Line 1385 Sent train-6402]: [L3 Syntax too-many-objects] Multiple direct objects [1, 5] ('Calul', '-l') under the predicate 'lua'.
-[Line 1598 Sent train-6411]: [L3 Warning fixed-without-extpos] Fixed expression 'Ca și' does not have the 'ExtPos' feature
-[Line 1798 Sent train-6420]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
-[Line 1804 Sent train-6420]: [L3 Warning fixed-without-extpos] Fixed expression 'fără de' does not have the 'ExtPos' feature
-[Line 2497 Sent train-6456]: [L3 Syntax too-many-objects] Multiple direct objects [10, 15] ('ce', 'pui') under the predicate 'vezi'.
-[Line 2628 Sent train-6463]: [L3 Warning fixed-without-extpos] Fixed expression 'am să' does not have the 'ExtPos' feature
-[Line 2635 Sent train-6463]: [L3 Warning fixed-without-extpos] Fixed expression 'am să' does not have the 'ExtPos' feature
-[Line 2677 Sent train-6465]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 2950 Sent train-6680]: [L3 Warning fixed-without-extpos] Fixed expression 'Pe la' does not have the 'ExtPos' feature
-[Line 4302 Sent train-6737]: [L3 Syntax too-many-objects] Multiple direct objects [9, 11] ('cucoana', 'o') under the predicate 'sărut'.
-[Line 5075 Sent train-6771]: [L3 Syntax too-many-objects] Multiple direct objects [21, 24] ('Liliacul', 'l') under the predicate 'iau'.
-[Line 5094 Sent train-6772]: [L3 Syntax too-many-objects] Multiple direct objects [10, 13] ('Liliacul', '-l') under the predicate 'iei'.
-[Line 5249 Sent train-6778]: [L3 Warning fixed-without-extpos] Fixed expression 'tot așa' does not have the 'ExtPos' feature
-[Line 5862 Sent train-6800]: [L3 Syntax too-many-objects] Multiple direct objects [2, 9] ('săgetăturelile', 'le') under the predicate 'săpați'.
-...suppressing further errors regarding Syntax
-[Line 6476 Sent train-6823]: [L3 Warning fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Syntax errors: 876
-Warnings: 793
-*** FAILED *** with 876 errors
+[Line 72 Sent train-6343]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 11] ('dor', 'l-') under the predicate 'sămănat'.
+[Line 148 Sent train-6347]: [L3 WARNING fixed-without-extpos] Fixed expression 'de pe' does not have the 'ExtPos' feature
+[Line 368 Sent train-6358]: [L3 WARNING fixed-without-extpos] Fixed expression 'pe la' does not have the 'ExtPos' feature
+[Line 607 Sent train-6369]: [L3 WARNING fixed-without-extpos] Fixed expression 'pe la' does not have the 'ExtPos' feature
+[Line 647 Sent train-6371]: [L3 WARNING fixed-without-extpos] Fixed expression 'de ce' does not have the 'ExtPos' feature
+[Line 731 Sent train-6374]: [L3 WARNING fixed-without-extpos] Fixed expression 'ca ș' does not have the 'ExtPos' feature
+[Line 955 Sent train-6383]: [L3 WARNING fixed-without-extpos] Fixed expression 'de ce' does not have the 'ExtPos' feature
+[Line 1044 Sent train-6386]: [L3 WARNING fixed-without-extpos] Fixed expression 'până la' does not have the 'ExtPos' feature
+[Line 1352 Sent train-6400]: [L3 WARNING fixed-without-extpos] Fixed expression 'în mijlocul' does not have the 'ExtPos' feature
+[Line 1385 Sent train-6402]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 5] ('Calul', '-l') under the predicate 'lua'.
+[Line 1416 Sent train-6404]: [L3 WARNING fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
+[Line 1424 Sent train-6404]: [L3 WARNING fixed-without-extpos] Fixed expression 'de pe' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 2497 Sent train-6456]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 15] ('ce', 'pui') under the predicate 'vezi'.
+[Line 4302 Sent train-6737]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 11] ('cucoana', 'o') under the predicate 'sărut'.
+[Line 5075 Sent train-6771]: [L3 SYNTAX too-many-objects] Multiple direct objects [21, 24] ('Liliacul', 'l') under the predicate 'iau'.
+[Line 5094 Sent train-6772]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 13] ('Liliacul', '-l') under the predicate 'iei'.
+[Line 5862 Sent train-6800]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 9] ('săgetăturelile', 'le') under the predicate 'săpați'.
+[Line 6227 Sent train-6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 13] ('Fața', '-i') under the predicate 'îngălbenesc'.
+[Line 6243 Sent train-6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [26, 29] ('inima', '-o') under the predicate 'rup'.
+[Line 6248 Sent train-6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [32, 34] ('sângele', '-i') under the predicate 'beau'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 14863 Sent train-7195]: [L3 WARNING pron-det-without-prontype] The word 'tăi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 14870 Sent train-7195]: [L3 WARNING pron-det-without-prontype] The word 'tăi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 14928 Sent train-7197]: [L3 WARNING pron-det-without-prontype] The word 'mea' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 124963 Sent train-3870]: [L3 WARNING pron-det-without-prontype] The word 'ce' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 3248
+SYNTAX errors: 792
+*** FAILED *** with 792 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889

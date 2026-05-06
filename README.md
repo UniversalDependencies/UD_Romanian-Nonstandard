@@ -115,6 +115,8 @@ Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regular
 
 # Changelog
 
+* 2026-04-08 v2.10
+  * train changed due to multiple errors.
 * 2022-05-15 v2.10
   * MISC ref= changed to Ref= to match other UD treebanks.
 * 2021-05-15 v2.8

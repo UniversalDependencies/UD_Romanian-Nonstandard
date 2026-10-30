@@ -77985,7 +77985,7 @@
 12	împăraţii	împărat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	13	nsubj	_	_
 13	striga	striga	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 14	Că	că	SCONJ	Csssp	Polarity=Pos	19	mark	_	_
-15	fetiţa	fetiță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	dobj	_	_
+15	fetiţa	fetiță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	obj	_	_
 16	să	să	PART	Qs	PartType=Sub	19	mark	_	_
 17	i-	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	19	iobj	_	SpaceAfter=No
 18	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	19	obj	_	_
@@ -315305,7 +315305,7 @@
 24	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	csubj	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
 26	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	25	fixed	_	_
-27	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	pmod	_	_
+27	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obl	_	_
 28	răul	rău	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	_
 29	acela	acela	DET	Dd3msr---o	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	28	det	_	SpaceAfter=No
 30	.	.	PUNCT	PERIOD	_	6	punct	_	_
@@ -317705,7 +317705,7 @@
 # text = A cincea easte cînd nu se teame omul de nimeni.
 # citation-part=No
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	_
-2	cincea	cinci	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	7	nsubj	_	_
+2	cincea	cinci	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	3	nsubj	_	_
 3	easte	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	cînd	când	ADV	Rw	PronType=Int,Rel	7	advmod:tmod	_	_
 5	nu	nu	ADV	Qz	Polarity=Neg	7	advmod	_	_
@@ -319515,7 +319515,7 @@
 23	nu	nu	ADV	Qz	Polarity=Neg	26	advmod	_	_
 24	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	26	expl:pv	_	_
 25	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	_
-26	schimba	schimba	VERB	Vmn	VerbForm=Inf	13	csubj	_	_
+26	schimba	schimba	VERB	Vmn	VerbForm=Inf	20	csubj	_	_
 27	omul	om	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	26	nsubj	_	_
 28	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	29	mark	_	_
 29	cumu	cum	ADV	Rw	PronType=Int,Rel	30	advmod	_	_
@@ -328644,10 +328644,10 @@
 15	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	16	det	_	Ref=PART_II_CAP_1.5b
 16	nostru	nostru	PRON	Ps1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	13	obl	_	Ref=PART_II_CAP_1.5b|SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	4	punct	_	Ref=PART_II_CAP_1.5b
-18	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	21	nsubj	_	Ref=PART_II_CAP_1.5b
-19	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	Ref=PART_II_CAP_1.5b
+18	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	Ref=PART_II_CAP_1.5b
+19	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Ref=PART_II_CAP_1.5b
 20	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	21	det	_	Ref=PART_II_CAP_1.5b
-21	cui	cine	PRON	Pw3-so	Case=Dat,Gen|Number=Sing|Person=3|PronType=Int,Rel	0	root	_	Ref=PART_II_CAP_1.5b
+21	cui	cine	PRON	Pw3-so	Case=Dat,Gen|Number=Sing|Person=3|PronType=Int,Rel	19	xcomp	_	Ref=PART_II_CAP_1.5b
 22	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	aux	_	Ref=PART_II_CAP_1.5b
 23	fost	fi	AUX	Vap	VerbForm=Part	21	cop	_	Ref=PART_II_CAP_1.5b
 24	pămîntul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	nsubj	_	Ref=PART_II_CAP_1.5b
@@ -328657,7 +328657,7 @@
 28	s	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	30	expl:pv	_	Ref=PART_II_CAP_1.5b|SpaceAfter=No
 29	-au	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	30	aux	_	Ref=PART_II_CAP_1.5b
 30	rupt	rupe	VERB	Vmp	VerbForm=Part	24	acl	_	Ref=PART_II_CAP_1.5b|SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	21	punct	_	Ref=PART_II_CAP_1.5b
+31	.	.	PUNCT	PERIOD	_	19	punct	_	Ref=PART_II_CAP_1.5b
 
 # sent_id = train-14738
 # text = Cînd gîrla să află între doi, sau mai mulți stăpîni, atunci fieșcare dintre dînșii, stăpînește partea gîrlii cît ține de la mal pînă în mijlocul ei.
@@ -334376,13 +334376,13 @@
 32	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	29	obj	_	Ref=PART_III_CAP_5.1|SpaceAfter=No
 33	,	,	PUNCT	COMMA	_	46	punct	_	Ref=PART_III_CAP_5.1
 34	și	și	CCONJ	Ccssp	Polarity=Pos	46	cc	_	Ref=PART_III_CAP_5.1
-35	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	41	nsubj	_	Ref=PART_III_CAP_5.1
+35	cel	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	46	nsubj	_	Ref=PART_III_CAP_5.1
 36	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	41	nsubj	_	Ref=PART_III_CAP_5.1
 37	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	39	case	_	Ref=PART_III_CAP_5.1
 38	arătatul	arătat	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	Ref=PART_III_CAP_5.1
 39	mijloc	mijloc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	41	obl	_	Ref=PART_III_CAP_5.1|SpaceAfter=No
 40	,	,	PUNCT	COMMA	_	39	punct	_	Ref=PART_III_CAP_5.1
-41	ia	lua	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	csubj	_	Ref=PART_III_CAP_5.1
+41	ia	lua	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	acl	_	Ref=PART_III_CAP_5.1
 42	pămîntul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	41	obj	_	Ref=PART_III_CAP_5.1
 43	nostru	nostru	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	42	det	_	Ref=PART_III_CAP_5.1|SpaceAfter=No
 44	,	,	PUNCT	COMMA	_	41	punct	_	Ref=PART_III_CAP_5.1
@@ -339559,10 +339559,10 @@
 21	,	,	PUNCT	COMMA	_	34	punct	_	Ref=PART_III_CAP_14.16
 22	și	și	CCONJ	Ccssp	Polarity=Pos	34	cc	_	Ref=PART_III_CAP_14.16
 23	cîtă	cât	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	24	det	_	Ref=PART_III_CAP_14.16
-24	pagubă	pagubă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	nsubj	_	Ref=PART_III_CAP_14.16
+24	pagubă	pagubă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	obj	_	Ref=PART_III_CAP_14.16
 25	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	27	expl:pv	_	Ref=PART_III_CAP_14.16
 26	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	aux	_	Ref=PART_III_CAP_14.16
-27	întîmpla	întâmpla	VERB	Vmn	VerbForm=Inf	34	xcomp	_	Ref=PART_III_CAP_14.16
+27	întîmpla	întâmpla	VERB	Vmn	VerbForm=Inf	37	ccomp	_	Ref=PART_III_CAP_14.16
 28	să	să	PART	Qs	PartType=Sub	29	mark	_	Ref=PART_III_CAP_14.16
 29	cerce	încerca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	27	csubj	_	Ref=PART_III_CAP_14.16|SpaceAfter=No
 30	,	,	PUNCT	COMMA	_	27	punct	_	Ref=PART_III_CAP_14.16

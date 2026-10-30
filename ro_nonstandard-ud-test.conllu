@@ -6318,7 +6318,7 @@
 2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	Ref=MATT4.21.content
 3	Iacov	Iacov	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT4.21.content
 4	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT4.21.content
-5	a	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	7	det	_	Ref=MATT4.21.content
+5	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	Ref=MATT4.21.content
 6	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	Ref=MATT4.21.content
 7	Ioan	Ioan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	Ref=MATT4.21.content|SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT4.21.content

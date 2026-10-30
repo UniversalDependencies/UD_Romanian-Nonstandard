@@ -318958,7 +318958,7 @@
 4	:	:	PUNCT	COLON	_	11	punct	_	_
 5	cumu	cum	ADV	Rw	PronType=Int,Rel	11	advcl	_	_
 6	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-7	omul	om	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+7	omul	om	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	5	punct	_	_
 9	așa	așa	ADV	Rg	_	11	advmod	_	_
 10	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	11	expl:pv	_	_
@@ -545944,7 +545944,7 @@
 5	fost	fi	AUX	Vap	VerbForm=Part	0	root	_	_
 6	c-	că	SCONJ	Csssp	Polarity=Pos	8	mark	_	SpaceAfter=No
 7	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	_
-8	mărturisit	mărturisi	VERB	Vmp	VerbForm=Part	5	csubj	_	_
+8	mărturisit	mărturisi	VERB	Vmp	VerbForm=Part	5	xcomp	_	_
 9	caimacamul	caimacam	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 10	cătră	către	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	împăratul	împărat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl:pmod	_	_

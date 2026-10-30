@@ -4419,7 +4419,7 @@
 17	și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	Ref=MATT1.2
 18	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	Ref=MATT1.2
 19	frații	frate	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	Ref=MATT1.2
-20	lui	el	PRON	Pp3mso	_	19	nmod	_	Ref=MATT1.2|SpaceAfter=No
+20	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Ref=MATT1.2|SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT1.2
 
 # sent_id = test-105
@@ -4512,7 +4512,7 @@
 16	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	20	nsubj	_	Ref=MATT1.6
 17	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	20	aux	_	Ref=MATT1.6
 18	fost	fi	AUX	Vap	VerbForm=Part	20	cop	_	Ref=MATT1.6
-19	a	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	20	det	_	Ref=MATT1.6
+19	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	Ref=MATT1.6
 20	Uriei	Uria	PROPN	Npmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	15	acl	_	Ref=MATT1.6|SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT1.6
 
@@ -6306,7 +6306,7 @@
 2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	Ref=MATT4.18.content
 3	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT4.18.content
 4	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT4.18.content
-5	a	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	7	det	_	Ref=MATT4.18.content
+5	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	Ref=MATT4.18.content
 6	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	Ref=MATT4.18.content
 7	Andreiu	Andrei	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	Ref=MATT4.18.content|SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT4.18.content
@@ -6856,7 +6856,7 @@
 10	:	:	PUNCT	COLON	_	12	punct	_	Ref=MATT4.21
 11	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	Ref=MATT4.21
 12	Iacov	Iacob	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	appos	_	Ref=MATT4.21
-13	a	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	15	det	_	Ref=MATT4.21
+13	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	Ref=MATT4.21
 14	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	15	det	_	Ref=MATT4.21
 15	Zevedeiu	Zevedeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	Ref=MATT4.21
 16	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	Ref=MATT4.21
@@ -12781,7 +12781,7 @@
 6	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	7	case	_	Ref=MATT10.6
 7	oile	oaie	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl:pmod	_	Ref=MATT10.6
 8	perite	pieri	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	7	amod	_	Ref=MATT10.6
-9	ale	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	10	det	_	Ref=MATT10.6
+9	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det	_	Ref=MATT10.6
 10	casei	casă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	Ref=MATT10.6
 11	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	12	det	_	Ref=MATT10.6
 12	Izrail	Israel	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	Ref=MATT10.6|SpaceAfter=No
@@ -16497,7 +16497,7 @@
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=MATT13.15
 4	îngroșat	îngroșa	VERB	Vmp	VerbForm=Part	0	root	_	Ref=MATT13.15
 5	inima	inimă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MATT13.15
-6	acestor	acesta	DET	Dd3-po---e	_	7	det	_	Ref=MATT13.15
+6	acestor	acesta	DET	Dd3-po---e	Case=Dat,Gen|Number=Plur|Person=3|Position=Prenom|PronType=Dem	7	det	_	Ref=MATT13.15
 7	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	nmod	_	Ref=MATT13.15
 8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT13.15
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=MATT13.15
@@ -19957,7 +19957,7 @@
 11	aluatul	aluat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obl:pmod	_	Ref=MATT16.6
 12	fariseilor	fariseu	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	Ref=MATT16.6
 13	și	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	Ref=MATT16.6
-14	a	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes	15	det	_	Ref=MATT16.6
+14	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	Ref=MATT16.6
 15	saducheilor	saducheu	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	12	conj	_	Ref=MATT16.6|SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	3	punct	_	Ref=MATT16.6
 
@@ -21950,7 +21950,7 @@
 10	,	,	PUNCT	COMMA	_	9	punct	_	_
 11	ai	avea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	aux	_	_
 12	face	face	VERB	Vmn	VerbForm=Inf	0	root	_	SpaceAfter=No
-13	-o	un	DET	Tifsr	_	14	det	_	_
+13	-o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	țară	țară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	Rhyme=ID5|SpaceAfter=No|Type=Paired
 15	!	!	PUNCT	EXCL	_	12	punct	_	_
 

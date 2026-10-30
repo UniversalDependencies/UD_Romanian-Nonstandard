@@ -14860,14 +14860,14 @@
 8	mure	mură	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
 9	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	cop	_	_
 10	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
-11	tăi	tău	DET	Ds2mp-s	_	10	det	_	Rhyme=ID4,18|SpaceAfter=No|Type=Mono
+11	tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	10	det	_	Rhyme=ID4,18|SpaceAfter=No|Type=Mono
 12	,	,	PUNCT	COMMA	_	17	punct	_	_
 13	Sloi	sloi	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nsubj	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	ghiață	ghiață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	cop	_	_
 17	dinții	dinte	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	10	conj	_	_
-18	tăi	tău	DET	Ds2mp-s	_	17	det	_	Rhyme=ID4,11|SpaceAfter=No|Type=Mono
+18	tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	Rhyme=ID4,11|SpaceAfter=No|Type=Mono
 19	,	,	PUNCT	COMMA	_	24	punct	_	_
 20	Strug	strug	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	24	nsubj	_	_
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
@@ -14925,7 +14925,7 @@
 # text = Boala mea s-a vindicat, Că-i boală de măritat.
 # Rhyme=Yes
 1	Boala	boală	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-2	mea	meu	DET	Ds1fsrs	_	1	det	_	_
+2	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	1	det	_	_
 3	s-	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	SpaceAfter=No
 4	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
 5	vindicat	vindeca	VERB	Vmp	VerbForm=Part	0	root	_	Rhyme=ID11|SpaceAfter=No|Type=Paired
@@ -124960,7 +124960,7 @@
 6	,	,	PUNCT	COMMA	_	5	punct	_	Ref=LUCA22.60
 7	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	Ref=LUCA22.60
 8	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	Ref=LUCA22.60
-9	ce	ce	PRON	Pw3--r	Polarity=Pos	10	obj	_	Ref=LUCA22.60
+9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	obj	_	Ref=LUCA22.60
 10	zici	zice	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	ccomp	_	Ref=LUCA22.60|SpaceAfter=No
 11	.	.	PUNCT	PERIOD	_	3	punct	_	Ref=LUCA22.60
 

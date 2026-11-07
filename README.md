@@ -137,7 +137,7 @@ Cătălina Mărănduc, Victoria Bobicev, Roman Untilov, Morpho-Syntactic Regular
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: bible
 Genre: bible poetry
 Lemmas: converted from manual
 UPOS: converted from manual

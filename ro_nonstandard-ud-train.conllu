@@ -188680,7 +188680,7 @@
 # sent_id = train-7643
 # text = Iacov, sluga lui Dumnezău și a Domnului Iisus Hristos, a 12 semențe rășchirate, închinăciune.
 # citation-part=IACOB_1.1
-# parallel_id = bible/iacob-1-1
+# parallel_id = bible/jas-1-1
 1	Iacov	Iacob	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nsubj	_	Ref=IACOB_1.1|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=IACOB_1.1
 3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	Ref=IACOB_1.1
@@ -188731,7 +188731,7 @@
 # sent_id = train-7645
 # text = Iară răbdarea să aibă lucru desăvîrșit, ca să fiți desăvîrșiți și întregi, întru nemică.
 # citation-part=IACOB_1.4
-# parallel_id = bible/iacob-1-4
+# parallel_id = bible/jas-1-4
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_1.4
 2	răbdarea	răbdare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	Ref=IACOB_1.4
 3	să	să	PART	Qs	PartType=Sub	4	mark	_	Ref=IACOB_1.4
@@ -188753,7 +188753,7 @@
 # sent_id = train-7646
 # text = Iară să iaste cineva lipsit de înțelepciune să o ceară de la Dumnezău, carele o dă tuturora den destul, fără înfruntare, și da-i-să-va lui.
 # citation-part=IACOB_1.5
-# parallel_id = bible/iacob-1-5
+# parallel_id = bible/jas-1-5
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=IACOB_1.5
 2	să	să	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_1.5
 3	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	Ref=IACOB_1.5
@@ -188789,7 +188789,7 @@
 # sent_id = train-7647
 # text = Ce să cearăcu credință, neîndoindu-să nemică, că cine să îndoiaște asamănă-să valului măriei, carele să clăteaște și să aruncă de vînturi.
 # citation-part=IACOB_1.6
-# parallel_id = bible/iacob-1-6
+# parallel_id = bible/jas-1-6
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_1.6
 2	să	să	PART	Qs	PartType=Sub	3	mark	_	Ref=IACOB_1.6
 3	ceară	cere	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_1.6|SpaceAfter=No
@@ -188822,7 +188822,7 @@
 # sent_id = train-7648
 # text = Să nu gîndească omul acela că va luoa ceva de la Domnul.
 # citation-part=IACOB_1.7
-# parallel_id = bible/iacob-1-7
+# parallel_id = bible/jas-1-7
 1	Să	să	PART	Qs	PartType=Sub	3	mark	_	Ref=IACOB_1.7
 2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	Ref=IACOB_1.7
 3	gîndească	gândi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_1.7
@@ -188840,7 +188840,7 @@
 # sent_id = train-7649
 # text = Că bărbatul cu inimă îndoită neașezatu e întru toate căile sale.
 # citation-part=IACOB_1.8
-# parallel_id = bible/iacob-1-8
+# parallel_id = bible/jas-1-8
 1	Că	că	SCONJ	Csssp	Polarity=Pos	6	mark	_	Ref=IACOB_1.8
 2	bărbatul	bărbat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	Ref=IACOB_1.8
 3	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=IACOB_1.8
@@ -188857,7 +188857,7 @@
 # sent_id = train-7650
 # text = Iară fratele smearit să să laude întru mărirea sa.
 # citation-part=IACOB_1.9
-# parallel_id = bible/iacob-1-9
+# parallel_id = bible/jas-1-9
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	Ref=IACOB_1.9
 2	fratele	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	Ref=IACOB_1.9
 3	smearit	smeri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	amod	_	Ref=IACOB_1.9
@@ -188872,7 +188872,7 @@
 # sent_id = train-7651
 # text = Iară bogatul întru smereniia sa; că va treace ca floarea erbiei.
 # citation-part=IACOB_1.10
-# parallel_id = bible/iacob-1-10
+# parallel_id = bible/jas-1-10
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	2	cc	_	Ref=IACOB_1.10
 2	bogatul	bogat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_1.10
 3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=IACOB_1.10
@@ -188890,7 +188890,7 @@
 # sent_id = train-7652
 # text = Că răsărind soarele cu căldură, uscă iarba și-i cade floarea și-i piiare frîmseața; așia și bogatul întru căile sale să veștejeaște.
 # citation-part=IACOB_1.11
-# parallel_id = bible/iacob-1-11
+# parallel_id = bible/jas-1-11
 1	Că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	Ref=IACOB_1.11
 2	răsărind	răsări	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	Ref=IACOB_1.11
 3	soarele	soare	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	Ref=IACOB_1.11
@@ -188921,7 +188921,7 @@
 # sent_id = train-7653
 # text = Ferice de bărbatul ce rabdă ispită; că fiind ispitit, luoa-va corona vieții, carea au făgăduit Domnul celora ce-l iubăscu pre El.
 # citation-part=IACOB_1.12
-# parallel_id = bible/iacob-1-12
+# parallel_id = bible/jas-1-12
 1	Ferice	ferice	ADV	Rg	_	0	root	_	Ref=IACOB_1.12
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IACOB_1.12
 3	bărbatul	bărbat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl:pmod	_	Ref=IACOB_1.12
@@ -188953,7 +188953,7 @@
 # sent_id = train-7654
 # text = Nime, cînd are ispită, să nu zică că-l ispiteaște Dumnezău, că Dumnezău nu-i ispititoriu spre rău, și El pre nime nu ispitiaște.
 # citation-part=IACOB_1.13
-# parallel_id = bible/iacob-1-13
+# parallel_id = bible/jas-1-13
 1	Nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	9	nsubj	_	Ref=IACOB_1.13|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_1.13
 3	cînd	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	Ref=IACOB_1.13
@@ -188987,7 +188987,7 @@
 # sent_id = train-7655
 # text = Iară fiecine să ispiteaște cîndu-l trage pofta sa, și să otrăveaște.
 # citation-part=IACOB_1.14
-# parallel_id = bible/iacob-1-14
+# parallel_id = bible/jas-1-14
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_1.14
 2	fiecine	fiecine	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	Ref=IACOB_1.14
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	4	expl:pv	_	Ref=IACOB_1.14
@@ -189006,7 +189006,7 @@
 # sent_id = train-7656
 # text = După aceaia pofta dacă zămisleaște, naște păcat, iară păcatul săvîrșindu-să naște moarte.
 # citation-part=IACOB_1.15
-# parallel_id = bible/iacob-1-15
+# parallel_id = bible/jas-1-15
 1	După	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	Ref=IACOB_1.15
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nmod:tmod	_	Ref=IACOB_1.15
 3	pofta	poftă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	Ref=IACOB_1.15
@@ -189027,7 +189027,7 @@
 # sent_id = train-7657
 # text = Nu rătăcireți, frații miei iubiți.
 # citation-part=IACOB_1.16
-# parallel_id = bible/iacob-1-16
+# parallel_id = bible/jas-1-16
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	Ref=IACOB_1.16
 2	rătăcireți	rătăci	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	Ref=IACOB_1.16|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_1.16
@@ -189039,7 +189039,7 @@
 # sent_id = train-7658
 # text = Toată darea bună și tot darul desăvîrșit de sus iaste, carele pogoară de la Părintele luminării, la carele nu iaste schimbare, sau umbrirea schimbăriei.
 # citation-part=IACOB_1.17
-# parallel_id = bible/iacob-1-17
+# parallel_id = bible/jas-1-17
 1	Toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	2	det	_	Ref=IACOB_1.17
 2	darea	dare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	Ref=IACOB_1.17
 3	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	Ref=IACOB_1.17
@@ -189072,7 +189072,7 @@
 # sent_id = train-7659
 # text = Carele din voia Lui născu pre noi, cu cuvîntul adevărăriei, ca să fim pîrga faptelor Lui.
 # citation-part=IACOB_1.18
-# parallel_id = bible/iacob-1-18
+# parallel_id = bible/jas-1-18
 1	Carele	care	PRON	Pw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	5	nsubj	_	Ref=IACOB_1.18
 2	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	3	case	_	Ref=IACOB_1.18
 3	voia	voie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	Ref=IACOB_1.18
@@ -189096,7 +189096,7 @@
 # sent_id = train-7660
 # text = Derept aceaia, frații miei iubiți, tot omul să fie ager întru ascultare și pestit a grăi, pestit spre mînie.
 # citation-part=IACOB_1.19
-# parallel_id = bible/iacob-1-19
+# parallel_id = bible/jas-1-19
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_1.19
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	12	obl	_	Ref=IACOB_1.19|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_1.19
@@ -189124,7 +189124,7 @@
 # sent_id = train-7661
 # text = Că mîniia bărbatului nu lucrează dereptatia lui Dumnezău.
 # citation-part=IACOB_1.20
-# parallel_id = bible/iacob-1-20
+# parallel_id = bible/jas-1-20
 1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_1.20
 2	mîniia	mânie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	Ref=IACOB_1.20
 3	bărbatului	bărbat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	Ref=IACOB_1.20
@@ -189138,7 +189138,7 @@
 # sent_id = train-7662
 # text = Derept aceaia, lepădînd toată spurcăciunea și rămășițele răotăției, cu blîndeața priimiți cuvîntul cel oltoit, carele poate spăsi sufletele voastre.
 # citation-part=IACOB_1.21
-# parallel_id = bible/iacob-1-21
+# parallel_id = bible/jas-1-21
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_1.21
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	obl	_	Ref=IACOB_1.21|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_1.21
@@ -189166,7 +189166,7 @@
 # sent_id = train-7663
 # text = Iară fiți făcătorii cuvîntului, și nu numai ascultători, ca să nu vă înșelați.
 # citation-part=IACOB_1.22
-# parallel_id = bible/iacob-1-22
+# parallel_id = bible/jas-1-22
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_1.22
 2	fiți	fi	AUX	Vam-2p	Mood=Imp|Number=Plur|Person=2	3	cop	_	Ref=IACOB_1.22
 3	făcătorii	făcător	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	Ref=IACOB_1.22
@@ -189187,7 +189187,7 @@
 # sent_id = train-7664
 # text = Că cine-i ascultătoriu cuvîntului și nu-i făcătoriu, acela să asamănă bărbatului ce-și veade firea vieții sale în oglindă.
 # citation-part=IACOB_1.23
-# parallel_id = bible/iacob-1-23
+# parallel_id = bible/jas-1-23
 1	Că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	Ref=IACOB_1.23
 2	cine	cine	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	Ref=IACOB_1.23|SpaceAfter=No
 3	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	Ref=IACOB_1.23
@@ -189215,7 +189215,7 @@
 # sent_id = train-7665
 # text = Că văzîndu-să pre sine, și să duce, și numaidecît s-au uitat cum au fost.
 # citation-part=IACOB_1.24
-# parallel_id = bible/iacob-1-24
+# parallel_id = bible/jas-1-24
 1	Că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	Ref=IACOB_1.24
 2	văzîndu-	vedea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl:tcl	_	Ref=IACOB_1.24|SpaceAfter=No
 3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	2	expl:pv	_	Ref=IACOB_1.24
@@ -189239,7 +189239,7 @@
 # sent_id = train-7666
 # text = Iară cine caută în leagea desăvîrșit a slobozireei, și va rămînea întru ia, pentru că nu-i ascultătoriu uitătoriu, ce-i făcătoriu lucrului, acela e fericit în lucrul său.
 # citation-part=IACOB_1.25
-# parallel_id = bible/iacob-1-25
+# parallel_id = bible/jas-1-25
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	30	cc	_	Ref=IACOB_1.25
 2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	Ref=IACOB_1.25
 3	caută	căuta	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl	_	Ref=IACOB_1.25
@@ -189278,7 +189278,7 @@
 # sent_id = train-7667
 # text = Iară de i se pare cuiva între voi că e credincios, neînfrînîndu-și limba sa, ce amăgindu-și inima sa, acestuia deșartă-i credința lui.
 # citation-part=IACOB_1.26
-# parallel_id = bible/iacob-1-26
+# parallel_id = bible/jas-1-26
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	25	cc	_	Ref=IACOB_1.26
 2	de	de	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_1.26
 3	i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	5	expl	_	Ref=IACOB_1.26
@@ -189312,7 +189312,7 @@
 # sent_id = train-7668
 # text = Credința curată și lămurită înaintea lui Dumnezău și înaintea Părintelui, aceasta e, a socoti săracii și văduole în scîrba lor, și a să ținea curat de lume.
 # citation-part=IACOB_1.27
-# parallel_id = bible/iacob-1-27
+# parallel_id = bible/jas-1-27
 1	Credința	credință	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	Ref=IACOB_1.27
 2	curată	curat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	Ref=IACOB_1.27
 3	și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_1.27
@@ -189391,7 +189391,7 @@
 # sent_id = train-7672
 # text = Frații miei, să n-aveți cu fățărnicie credința Domnului nostru Iisus Hristos cel slăvit.
 # citation-part=IACOB_2.1
-# parallel_id = bible/iacob-2-1
+# parallel_id = bible/jas-2-1
 1	Frații	frate	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	6	vocative	_	Ref=IACOB_2.1
 2	miei	meu	DET	Ds1mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|PronType=Prs	1	det	_	Ref=IACOB_2.1|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IACOB_2.1
@@ -189412,7 +189412,7 @@
 # sent_id = train-7673
 # text = Că să va întra cineva în soborul vostru, avînd inel de aur și îmbrăcat în haine luminoase și va întra și sirumanul în veșmînt prost.
 # citation-part=IACOB_2.2
-# parallel_id = bible/iacob-2-2
+# parallel_id = bible/jas-2-2
 1	Că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	Ref=IACOB_2.2
 2	să	să	SCONJ	Csssp	Polarity=Pos	4	mark	_	Ref=IACOB_2.2
 3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_2.2
@@ -189444,7 +189444,7 @@
 # sent_id = train-7674
 # text = Şi să veți căuta pre cela ce poartă veșmînt luminat și veți zice lui: Şezi tu cicea bine; iară surumanului veți zice: Stă tu colea sau: Şezi cicea sub răzimarea picioarelor meale.
 # citation-part=IACOB_2.3
-# parallel_id = bible/iacob-2-3
+# parallel_id = bible/jas-2-3
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_2.3
 2	să	să	SCONJ	Csssp	Polarity=Pos	4	mark	_	Ref=IACOB_2.3
 3	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	Ref=IACOB_2.3
@@ -189486,7 +189486,7 @@
 # sent_id = train-7675
 # text = Au n-ați făcut usebitură între voiși și sînteți făcuți giudecători cugetelor strîmbe?
 # citation-part=IACOB_2.4
-# parallel_id = bible/iacob-2-4
+# parallel_id = bible/jas-2-4
 1	Au	au	INTJ	I	_	4	discourse	_	Ref=IACOB_2.4
 2	n-	nu	ADV	Qz	Polarity=Neg	4	advmod	_	Ref=IACOB_2.4|SpaceAfter=No
 3	ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	Ref=IACOB_2.4
@@ -189505,7 +189505,7 @@
 # sent_id = train-7676
 # text = Ascultați, frații miei iubiți, au n-au ales Dumnezău surumanii ceștii lumi să fie bogați în credință și moșteani Împărății carea e făgăduită celora ce-l iubescu pre El?
 # citation-part=IACOB_2.5
-# parallel_id = bible/iacob-2-5
+# parallel_id = bible/jas-2-5
 1	Ascultați	asculta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_2.5|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=IACOB_2.5
 3	frații	frate	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	vocative	_	Ref=IACOB_2.5
@@ -189542,7 +189542,7 @@
 # sent_id = train-7677
 # text = Ce voi micșurați pre surumani.
 # citation-part=IACOB_2.6
-# parallel_id = bible/iacob-2-6/part1
+# parallel_id = bible/jas-2-6/part1
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_2.6
 2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Ref=IACOB_2.6
 3	micșurați	micșora	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.6
@@ -189553,7 +189553,7 @@
 # sent_id = train-7678
 # text = Au nu bogații cu putearea lor vă nădușesc pre voi și vă trag pre voi la leage?
 # citation-part=IACOB_2.6
-# parallel_id = bible/iacob-2-6/part2
+# parallel_id = bible/jas-2-6/part2
 1	Au	au	INTJ	I	_	8	discourse	_	Ref=IACOB_2.6
 2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	Ref=IACOB_2.6
 3	bogații	bogat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	Ref=IACOB_2.6
@@ -189576,7 +189576,7 @@
 # sent_id = train-7679
 # text = Au nu hulescu pre cel nume bun despre carele-i chemat spre voi?
 # citation-part=IACOB_2.7
-# parallel_id = bible/iacob-2-7
+# parallel_id = bible/jas-2-7
 1	Au	sau	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_2.7
 2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	Ref=IACOB_2.7
 3	hulescu	huli	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.7
@@ -189595,7 +189595,7 @@
 # sent_id = train-7680
 # text = Şi să țineți leage crăiască după Scriptură "iubeaște priiatenul tău ca însuți pre tine", bine faceți.
 # citation-part=IACOB_2.8
-# parallel_id = bible/iacob-2-8
+# parallel_id = bible/jas-2-8
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	Ref=IACOB_2.8
 2	să	să	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=IACOB_2.8
 3	țineți	ține	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	19	advcl	_	Ref=IACOB_2.8
@@ -189620,7 +189620,7 @@
 # sent_id = train-7681
 # text = Şi iarăși să veți căuta în fățărie, păcat faceți și veți fi certați de leage, ca și călcătorii ei.
 # citation-part=IACOB_2.9
-# parallel_id = bible/iacob-2-9
+# parallel_id = bible/jas-2-9
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=IACOB_2.9
 2	iarăși	iarăși	ADV	Rg	_	10	advmod	_	Ref=IACOB_2.9
 3	să	să	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_2.9
@@ -189647,7 +189647,7 @@
 # sent_id = train-7682
 # text = Că varecine va ținea toată leagea, și într-una să va poticni, în toate-i vinovat.
 # citation-part=IACOB_2.10
-# parallel_id = bible/iacob-2-10
+# parallel_id = bible/jas-2-10
 1	Că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	Ref=IACOB_2.10
 2	varecine	oarecine	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	Ref=IACOB_2.10
 3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_2.10
@@ -189671,7 +189671,7 @@
 # sent_id = train-7683
 # text = Că cine au zis "nu curvi", aceala încă au zis "nu omorî"; că să nu veri curvi, ce vei omorî, făcutu-te-ai călcătoriu legiei.
 # citation-part=IACOB_2.11
-# parallel_id = bible/iacob-2-11
+# parallel_id = bible/jas-2-11
 1	Că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	Ref=IACOB_2.11
 2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	Ref=IACOB_2.11
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_2.11
@@ -189710,7 +189710,7 @@
 # sent_id = train-7684
 # text = Așia grăiți și așia faceți, ca și c-ați fi, prin leagea sloboziei, giudecați.
 # citation-part=IACOB_2.12
-# parallel_id = bible/iacob-2-12
+# parallel_id = bible/jas-2-12
 1	Așia	așa	ADV	Rg	_	2	advmod	_	Ref=IACOB_2.12
 2	grăiți	grăi	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_2.12
 3	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=IACOB_2.12
@@ -189733,7 +189733,7 @@
 # sent_id = train-7685
 # text = Că giudecată fără milă va fi celuia ce nu face milă; și să laudă mila împrotiva giudecăției.
 # citation-part=IACOB_2.13
-# parallel_id = bible/iacob-2-13
+# parallel_id = bible/jas-2-13
 1	Că	că	SCONJ	Csssp	Polarity=Pos	6	mark	_	Ref=IACOB_2.13
 2	giudecată	judecată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	Ref=IACOB_2.13
 3	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=IACOB_2.13
@@ -189757,7 +189757,7 @@
 # sent_id = train-7686
 # text = Că ce folosu-i, frații miei, de va zice cineva că are credință, iară fapte n-are?
 # citation-part=IACOB_2.14
-# parallel_id = bible/iacob-2-14/part1
+# parallel_id = bible/jas-2-14/part1
 1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=IACOB_2.14
 2	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	det	_	Ref=IACOB_2.14
 3	folosu	folos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_2.14|SpaceAfter=No
@@ -189783,7 +189783,7 @@
 # sent_id = train-7687
 # text = Au poate-l credința spăsi pre el?
 # citation-part=IACOB_2.14
-# parallel_id = bible/iacob-2-14/part2
+# parallel_id = bible/jas-2-14/part2
 1	Au	au	INTJ	I	_	5	discourse	_	Ref=IACOB_2.14
 2	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	Ref=IACOB_2.14|SpaceAfter=No
 3	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	5	obj	_	Ref=IACOB_2.14
@@ -189796,7 +189796,7 @@
 # sent_id = train-7688
 # text = Iară de vor fi fratele sau sora goli, și în toate zile vor fi lipsiți de hrană.
 # citation-part=IACOB_2.15
-# parallel_id = bible/iacob-2-15
+# parallel_id = bible/jas-2-15
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	Ref=IACOB_2.15
 2	de	de	SCONJ	Csssp	Polarity=Pos	8	mark	_	Ref=IACOB_2.15
 3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	Ref=IACOB_2.15
@@ -189820,7 +189820,7 @@
 # sent_id = train-7689
 # text = Şi le va zice cineva dintru voi: Pasă în pace, încălzeaște-te și te satură, și nu le va da lor de carele le lipsescu trupului, ce folos va fi?
 # citation-part=IACOB_2.16
-# parallel_id = bible/iacob-2-16
+# parallel_id = bible/jas-2-16
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_2.16
 2	le	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	iobj	_	Ref=IACOB_2.16
 3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_2.16
@@ -189860,7 +189860,7 @@
 # sent_id = train-7690
 # text = Așia și credința, să nu va avea fapte, moartă-i întru iași.
 # citation-part=IACOB_2.17
-# parallel_id = bible/iacob-2-17
+# parallel_id = bible/jas-2-17
 1	Așia	așa	ADV	Rg	_	3	advmod	_	Ref=IACOB_2.17
 2	și	și	ADV	Rg	_	3	advmod	_	Ref=IACOB_2.17
 3	credința	credință	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	Ref=IACOB_2.17|SpaceAfter=No
@@ -189880,7 +189880,7 @@
 # sent_id = train-7691
 # text = Ce poate zice cineva: Tu ai credință, și eu am fapte; arată-mi credința ta fără faptele tale, și eu încă-ți voiu arăta, din faptele meale, credința mea.
 # citation-part=IACOB_2.18
-# parallel_id = bible/iacob-2-18
+# parallel_id = bible/jas-2-18
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_2.18
 2	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	Ref=IACOB_2.18
 3	zice	zice	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=IACOB_2.18
@@ -189921,7 +189921,7 @@
 # sent_id = train-7692
 # text = Tu crezi că-i unul Dumnezău.
 # citation-part=IACOB_2.19
-# parallel_id = bible/iacob-2-19/part1
+# parallel_id = bible/jas-2-19/part1
 1	Tu	tu	PRON	Pp2-sr	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Ref=IACOB_2.19
 2	crezi	crede	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.19
 3	că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_2.19|SpaceAfter=No
@@ -189933,7 +189933,7 @@
 # sent_id = train-7693
 # text = Bine faci.
 # citation-part=IACOB_2.19
-# parallel_id = bible/iacob-2-19/part2
+# parallel_id = bible/jas-2-19/part2
 1	Bine	bine	ADV	Rg	_	2	advmod	_	Ref=IACOB_2.19
 2	faci	face	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.19|SpaceAfter=No
 3	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=IACOB_2.19
@@ -189941,7 +189941,7 @@
 # sent_id = train-7694
 # text = Dracii încă credu și să cutremură.
 # citation-part=IACOB_2.19
-# parallel_id = bible/iacob-2-19/part3
+# parallel_id = bible/jas-2-19/part3
 1	Dracii	drac	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	Ref=IACOB_2.19
 2	încă	încă	ADV	Rg	_	3	advmod	_	Ref=IACOB_2.19
 3	credu	crede	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.19
@@ -189953,7 +189953,7 @@
 # sent_id = train-7695
 # text = Iară au vei să știi, o oame deșiarte, că credința fără fapte moartă iaste.
 # citation-part=IACOB_2.20
-# parallel_id = bible/iacob-2-20
+# parallel_id = bible/jas-2-20
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_2.20
 2	au	au	INTJ	I	_	3	discourse	_	Ref=IACOB_2.20
 3	vei	vrea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_2.20
@@ -189975,7 +189975,7 @@
 # sent_id = train-7696
 # text = Avraam, părintele nostru, au nu s-au îndereptat din fapte, cîndu rădică pre Isaac, fiiul său spre oltariu?
 # citation-part=IACOB_2.21
-# parallel_id = bible/iacob-2-21
+# parallel_id = bible/jas-2-21
 1	Avraam	Avraam	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	Ref=IACOB_2.21|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=IACOB_2.21
 3	părintele	părinte	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	Ref=IACOB_2.21
@@ -190003,7 +190003,7 @@
 # sent_id = train-7697
 # text = Vezi că credința arată faptele lui, și din fapte, credința s-au săvîrșit.
 # citation-part=IACOB_2.22
-# parallel_id = bible/iacob-2-22
+# parallel_id = bible/jas-2-22
 1	Vezi	vedea	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	Ref=IACOB_2.22
 2	că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	Ref=IACOB_2.22
 3	credința	credință	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	Ref=IACOB_2.22
@@ -190024,7 +190024,7 @@
 # sent_id = train-7698
 # text = Şi s-au împlut Scriptura zicînd: "crezut-au Avraam lui Dumnezău, și s-au menit Lui în dereptate, și s-au numit priiatin lui Dumnezău".
 # citation-part=IACOB_2.23
-# parallel_id = bible/iacob-2-23
+# parallel_id = bible/jas-2-23
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_2.23
 2	s	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	4	expl:pv	_	Ref=IACOB_2.23|SpaceAfter=No
 3	-au	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_2.23
@@ -190060,7 +190060,7 @@
 # sent_id = train-7699
 # text = Vedeți derept aceaia, că din fapte să îndereptă omul, și nu din credință numai.
 # citation-part=IACOB_2.24
-# parallel_id = bible/iacob-2-24
+# parallel_id = bible/jas-2-24
 1	Vedeți	vedea	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_2.24
 2	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IACOB_2.24
 3	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	obl	_	Ref=IACOB_2.24|SpaceAfter=No
@@ -190082,7 +190082,7 @@
 # sent_id = train-7700
 # text = Așijdere și Rahava curvarea, au nu din fapte-i îndereptată, priimind iscoadele și pre altă cale îndereptîndu-i?
 # citation-part=IACOB_2.25
-# parallel_id = bible/iacob-2-25
+# parallel_id = bible/jas-2-25
 1	Așijdere	așijderea	ADV	Rg	_	3	advmod	_	Ref=IACOB_2.25
 2	și	și	ADV	Rg	_	3	advmod	_	Ref=IACOB_2.25
 3	Rahava	Rahav	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	Ref=IACOB_2.25
@@ -190108,7 +190108,7 @@
 # sent_id = train-7701
 # text = Că cumu-i trupul, fără suflet, mort, așia și credința, fără fapte, moartă iaste.
 # citation-part=IACOB_2.26
-# parallel_id = bible/iacob-2-26
+# parallel_id = bible/jas-2-26
 1	Că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	Ref=IACOB_2.26
 2	cumu	cum	ADV	Rw	PronType=Int,Rel	9	advmod	_	Ref=IACOB_2.26|SpaceAfter=No
 3	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	Ref=IACOB_2.26
@@ -190187,7 +190187,7 @@
 # sent_id = train-7706
 # text = Nu fireți mulți dascali, frații miei, știind că mai grea judecată veți lua.
 # citation-part=IACOB_3.1
-# parallel_id = bible/iacob-3-1
+# parallel_id = bible/jas-3-1
 1	Nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	Ref=IACOB_3.1
 2	fireți	fi	AUX	Vam-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	4	cop	_	Ref=IACOB_3.1
 3	mulți	mult	DET	Di3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=IACOB_3.1
@@ -190208,7 +190208,7 @@
 # sent_id = train-7707
 # text = Că întru multe ne poticnim toți, ce carele în cuvînt nu să sminteaște acela e bărbat deplin, putînd cu frîul a-și înderepta tot trupul.
 # citation-part=IACOB_3.2
-# parallel_id = bible/iacob-3-2
+# parallel_id = bible/jas-3-2
 1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=IACOB_3.2
 2	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IACOB_3.2
 3	multe	mult	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	5	obl	_	Ref=IACOB_3.2
@@ -190241,7 +190241,7 @@
 # sent_id = train-7708
 # text = Iată, cailor le punem zăbală în gură, să ne îngăduiască noao, și tot trupul lor (înturnăm încătruo ni-i voia).
 # citation-part=IACOB_3.3
-# parallel_id = bible/iacob-3-3
+# parallel_id = bible/jas-3-3
 1	Iată	iată	INTJ	I	_	5	discourse	_	Ref=IACOB_3.3|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IACOB_3.3
 3	cailor	cal	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	5	iobj	_	Ref=IACOB_3.3
@@ -190272,7 +190272,7 @@
 # sent_id = train-7709
 # text = Şi iată, corabiile cîtu-s de mari, și de vînturi tari să învăluesc, ce încă cu o cîrmă mică, cârmaciul le întoarce încătruo i-i voia.
 # citation-part=IACOB_3.4
-# parallel_id = bible/iacob-3-4
+# parallel_id = bible/jas-3-4
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	15	cc	_	Ref=IACOB_3.4
 2	iată	iată	INTJ	I	_	15	discourse	_	Ref=IACOB_3.4|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_3.4
@@ -190308,7 +190308,7 @@
 # sent_id = train-7710
 # text = Așia și limba, mic mădulariu-i, și cu mari să făleaște; iată puținel foc, mare pădure aprinde.
 # citation-part=IACOB_3.5
-# parallel_id = bible/iacob-3-5
+# parallel_id = bible/jas-3-5
 1	Așia	așa	ADV	Rg	_	3	advmod	_	Ref=IACOB_3.5
 2	și	și	ADV	Rg	_	3	advmod	_	Ref=IACOB_3.5
 3	limba	limbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	Ref=IACOB_3.5|SpaceAfter=No
@@ -190335,7 +190335,7 @@
 # sent_id = train-7711
 # text = Limba focu e, și-i lumea nedereptăției.
 # citation-part=IACOB_3.6
-# parallel_id = bible/iacob-3-6/part1
+# parallel_id = bible/jas-3-6/part1
 1	Limba	limbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	Ref=IACOB_3.6
 2	focu	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_3.6
 3	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	Ref=IACOB_3.6|SpaceAfter=No
@@ -190349,7 +190349,7 @@
 # sent_id = train-7712
 # text = Așia e tocmită limba între mădulările noastre, carea spurcă tot trupul și, aprinsă de Gheenna, tot împregiurul nașterei noastre aprinde-l.
 # citation-part=IACOB_3.6
-# parallel_id = bible/iacob-3-6/part2
+# parallel_id = bible/jas-3-6/part2
 1	Așia	așa	ADV	Rg	_	3	advmod	_	Ref=IACOB_3.6
 2	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux:pass	_	Ref=IACOB_3.6
 3	tocmită	tocmi	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	Ref=IACOB_3.6
@@ -190379,7 +190379,7 @@
 # sent_id = train-7713
 # text = Că toată firea fierilor și păsărilor și jivinelor și celor din mare să îmblînzăsc și să biruesc de firea omului.
 # citation-part=IACOB_3.7
-# parallel_id = bible/iacob-3-7
+# parallel_id = bible/jas-3-7
 1	Că	că	SCONJ	Csssp	Polarity=Pos	14	mark	_	Ref=IACOB_3.7
 2	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	3	det	_	Ref=IACOB_3.7
 3	firea	fire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	nsubj	_	Ref=IACOB_3.7
@@ -190405,7 +190405,7 @@
 # sent_id = train-7714
 # text = Iară pre limbă, nece un om nu o poate potoli: răul ce nu-l poți ogoi, plinu-i de veninul morției.
 # citation-part=IACOB_3.8
-# parallel_id = bible/iacob-3-8
+# parallel_id = bible/jas-3-8
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=IACOB_3.8
 2	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IACOB_3.8
 3	limbă	limbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl:pmod	_	Ref=IACOB_3.8|SpaceAfter=No
@@ -190435,7 +190435,7 @@
 # sent_id = train-7715
 # text = Cu aceaia, lăudăm pre Părintele Dumnezău, și cu aceaia blăstămăm pre oameni, carii-s făcuți pre chipul lui.
 # citation-part=IACOB_3.9
-# parallel_id = bible/iacob-3-9
+# parallel_id = bible/jas-3-9
 1	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_3.9
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obl	_	Ref=IACOB_3.9|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_3.9
@@ -190462,7 +190462,7 @@
 # sent_id = train-7716
 # text = Din același rost iase blagoslovenie și blăstăm.
 # citation-part=IACOB_3.10
-# parallel_id = bible/iacob-3-10/part1
+# parallel_id = bible/jas-3-10/part1
 1	Din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	3	case	_	Ref=IACOB_3.10
 2	același	același	DET	Dd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	det	_	Ref=IACOB_3.10
 3	rost	rost	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	Ref=IACOB_3.10
@@ -190475,7 +190475,7 @@
 # sent_id = train-7717
 # text = Nu să cade, frații miei, așia să fie.
 # citation-part=IACOB_3.10
-# parallel_id = bible/iacob-3-10/part2
+# parallel_id = bible/jas-3-10/part2
 1	Nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	Ref=IACOB_3.10
 2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	Ref=IACOB_3.10
 3	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_3.10|SpaceAfter=No
@@ -190491,7 +190491,7 @@
 # sent_id = train-7718
 # text = Au poate izvorul izvorî dinn aceaiași fîntînă apă dulce și amară?
 # citation-part=IACOB_3.11
-# parallel_id = bible/iacob-3-11
+# parallel_id = bible/jas-3-11
 1	Au	au	INTJ	I	_	4	discourse	_	Ref=IACOB_3.11
 2	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_3.11
 3	izvorul	izvor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	Ref=IACOB_3.11
@@ -190508,7 +190508,7 @@
 # sent_id = train-7719
 # text = Au poate, frații miei, smochinul face masline sau vița smochine?
 # citation-part=IACOB_3.12
-# parallel_id = bible/iacob-3-12/part1
+# parallel_id = bible/jas-3-12/part1
 1	Au	au	INTJ	I	_	8	discourse	_	Ref=IACOB_3.12
 2	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	Ref=IACOB_3.12|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_3.12
@@ -190526,7 +190526,7 @@
 # sent_id = train-7720
 # text = Așia nice un izvor nu poate da apă sălcie și dulce.
 # citation-part=IACOB_3.12
-# parallel_id = bible/iacob-3-12/part2
+# parallel_id = bible/jas-3-12/part2
 1	Așia	așa	ADV	Rg	_	7	advmod	_	Ref=IACOB_3.12
 2	nice	nici	ADV	Rz	Polarity=Neg	4	advmod	_	Ref=IACOB_3.12
 3	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	Ref=IACOB_3.12
@@ -190543,7 +190543,7 @@
 # sent_id = train-7721
 # text = Carele-i înțelept și știutoriu între voi?
 # citation-part=IACOB_3.13
-# parallel_id = bible/iacob-3-13/part1
+# parallel_id = bible/jas-3-13/part1
 1	Carele	care	PRON	Pw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	3	nsubj	_	Ref=IACOB_3.13|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	Ref=IACOB_3.13
 3	înțelept	înțelept	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_3.13
@@ -190556,7 +190556,7 @@
 # sent_id = train-7722
 # text = Arate-și din bună viiața lui faptele sale, cu blînziia înțelepciuneei.
 # citation-part=IACOB_3.13
-# parallel_id = bible/iacob-3-13/part2
+# parallel_id = bible/jas-3-13/part2
 1	Arate	arăta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_3.13|SpaceAfter=No
 2	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_3.13
 3	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	Ref=IACOB_3.13
@@ -190574,7 +190574,7 @@
 # sent_id = train-7723
 # text = Să aveți pizmă amară și zavistie întru inimile voastre, nu vă lăudareți, nece fireți minciunoși împrotiva adevărului.
 # citation-part=IACOB_3.14
-# parallel_id = bible/iacob-3-14
+# parallel_id = bible/jas-3-14
 1	Să	să	SCONJ	Csssp	Polarity=Pos	2	mark	_	Ref=IACOB_3.14
 2	aveți	avea	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	advcl	_	Ref=IACOB_3.14
 3	pizmă	pizmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	Ref=IACOB_3.14
@@ -190599,7 +190599,7 @@
 # sent_id = train-7724
 # text = Că această înțelepciune nu e pogorîtă de sus, ce e pămîntească și trupească și drăcească.
 # citation-part=IACOB_3.15
-# parallel_id = bible/iacob-3-15
+# parallel_id = bible/jas-3-15
 1	Că	că	SCONJ	Csssp	Polarity=Pos	6	mark	_	Ref=IACOB_3.15
 2	această	acesta	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	Ref=IACOB_3.15
 3	înțelepciune	înțelepciune	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj:pass	_	Ref=IACOB_3.15
@@ -190621,7 +190621,7 @@
 # sent_id = train-7725
 # text = Că unde-i pizma și mîniia, acolea-i netocmire și tot lucrul rău.
 # citation-part=IACOB_3.16
-# parallel_id = bible/iacob-3-16
+# parallel_id = bible/jas-3-16
 1	Că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	Ref=IACOB_3.16
 2	unde	unde	ADV	Rw	PronType=Int,Rel	3	advmod	_	Ref=IACOB_3.16|SpaceAfter=No
 3	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	Ref=IACOB_3.16
@@ -190641,7 +190641,7 @@
 # sent_id = train-7726
 # text = Iară care înțelepciune iaste de sus, întîi-i curată,după aceasta-i împăcătoare și blîndă, îngăduitoare și plină de milostivnicie și de rodure bune, fără osîndire și fățărie.
 # citation-part=IACOB_3.17
-# parallel_id = bible/iacob-3-17
+# parallel_id = bible/jas-3-17
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=IACOB_3.17
 2	care	care	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	det	_	Ref=IACOB_3.17
 3	înțelepciune	înțelepciune	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	Ref=IACOB_3.17
@@ -190679,7 +190679,7 @@
 # sent_id = train-7727
 # text = Iară rodul dereptăției samănă-să în pace, celora ce fac pace.
 # citation-part=IACOB_3.18
-# parallel_id = bible/iacob-3-18
+# parallel_id = bible/jas-3-18
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_3.18
 2	rodul	rod	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	Ref=IACOB_3.18
 3	dereptăției	dreptate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	Ref=IACOB_3.18
@@ -190746,7 +190746,7 @@
 # sent_id = train-7733
 # text = De unde războae și răzmiriți între voi?
 # citation-part=IACOB_4.1
-# parallel_id = bible/iacob-4-1/part1
+# parallel_id = bible/jas-4-1/part1
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	mark	_	Ref=IACOB_4.1
 2	unde	unde	ADV	Rw	PronType=Int,Rel	3	advmod	_	Ref=IACOB_4.1
 3	războae	război	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	Ref=IACOB_4.1
@@ -190759,7 +190759,7 @@
 # sent_id = train-7734
 # text = Au nu de-aicea din poftele voastre, carele să luptă întru mădularile voastre?
 # citation-part=IACOB_4.1
-# parallel_id = bible/iacob-4-1/part2
+# parallel_id = bible/jas-4-1/part2
 1	Au	au	INTJ	I	_	4	discourse	_	Ref=IACOB_4.1
 2	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	Ref=IACOB_4.1
 3	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	Ref=IACOB_4.1|SpaceAfter=No
@@ -190779,7 +190779,7 @@
 # sent_id = train-7735
 # text = Poftiți și nu veți avea, rîvniți și pizmiți și nu veți putea dobîndi; luptați și oștiți și nu veți izbîndi, pentru că nu ceareți (de la Dumnezău).
 # citation-part=IACOB_4.2
-# parallel_id = bible/iacob-4-2
+# parallel_id = bible/jas-4-2
 1	Poftiți	pofti	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.2
 2	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=IACOB_4.2
 3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	Ref=IACOB_4.2
@@ -190817,7 +190817,7 @@
 # sent_id = train-7736
 # text = Ciareți și nu veți luoa, pentru că ciareți rău, să le amistuiți pre poftele voastre.
 # citation-part=IACOB_4.3
-# parallel_id = bible/iacob-4-3
+# parallel_id = bible/jas-4-3
 1	Ciareți	cere	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.3
 2	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=IACOB_4.3
 3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	Ref=IACOB_4.3
@@ -190840,7 +190840,7 @@
 # sent_id = train-7737
 # text = Curvarii și curvarele, au nu știți că prieteniia ceștii lumi iaste vrajbă lui Dumnezău.
 # citation-part=IACOB_4.4
-# parallel_id = bible/iacob-4-4/part1
+# parallel_id = bible/jas-4-4/part1
 1	Curvarii	curvar	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	vocative	_	Ref=IACOB_4.4
 2	și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_4.4
 3	curvarele	curvară	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	1	conj	_	Ref=IACOB_4.4|SpaceAfter=No
@@ -190861,7 +190861,7 @@
 # sent_id = train-7738
 # text = Derept aceaia varecine va vrea să fie priiatin lumiei, pizmaș va fi lui Dumnezău.
 # citation-part=IACOB_4.4
-# parallel_id = bible/iacob-4-4/part2
+# parallel_id = bible/jas-4-4/part2
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_4.4
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obl	_	Ref=IACOB_4.4
 3	varecine	oarecine	PRON	Pi3--r	Case=Acc,Nom|Person=3|PronType=Ind	5	nsubj	_	Ref=IACOB_4.4
@@ -190882,7 +190882,7 @@
 # sent_id = train-7739
 # text = Au pare-vă-să că în deșărt grăiaște Scriptura, spre urgie să pleacă duhul ce viiază întru noi?
 # citation-part=IACOB_4.5
-# parallel_id = bible/iacob-4-5
+# parallel_id = bible/jas-4-5
 1	Au	au	INTJ	I	_	2	discourse	_	Ref=IACOB_4.5
 2	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_4.5|SpaceAfter=No
 3	-vă	tu	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	2	iobj	_	Ref=IACOB_4.5|SpaceAfter=No
@@ -190907,7 +190907,7 @@
 # sent_id = train-7740
 # text = Ce mai mare milă făgăduiaște, că zice (Scriptura) "Dumnezău, făloșilor le stă împrotivă, iară smeriților le dă mila Sa".
 # citation-part=IACOB_4.6
-# parallel_id = bible/iacob-4-6
+# parallel_id = bible/jas-4-6
 1	Ce	ci	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=IACOB_4.6
 2	mai	mai	ADV	Rg	_	3	advmod	_	Ref=IACOB_4.6
 3	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	Ref=IACOB_4.6
@@ -190939,7 +190939,7 @@
 # sent_id = train-7741
 # text = Plecați-vă lui Dumnezău și stați împrotivă diavolului și va fugi de la voi.
 # citation-part=IACOB_4.7
-# parallel_id = bible/iacob-4-7
+# parallel_id = bible/jas-4-7
 1	Plecați	pleca	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.7|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_4.7
 3	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	Ref=IACOB_4.7
@@ -190959,7 +190959,7 @@
 # sent_id = train-7742
 # text = Apropiiați-vă cătră Dumnezău și Să va apropiia cătră voi; curățiți-vă inimile, îndoiților cu inima.
 # citation-part=IACOB_4.8
-# parallel_id = bible/iacob-4-8
+# parallel_id = bible/jas-4-8
 1	Apropiiați	apropia	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.8|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_4.8
 3	cătră	către	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	4	case	_	Ref=IACOB_4.8
@@ -190983,7 +190983,7 @@
 # sent_id = train-7743
 # text = Milcuiți-vă și jeliți și plîngeți, că rîsul vostru să va întoarce întru jale, și bucuriia voastră, întru amărăciune.
 # citation-part=IACOB_4.9
-# parallel_id = bible/iacob-4-9
+# parallel_id = bible/jas-4-9
 1	Milcuiți	milcui	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.9|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_4.9
 3	și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_4.9
@@ -191011,7 +191011,7 @@
 # sent_id = train-7744
 # text = Smeriți-vă lui Dumnezău și vă va înălța pre voi.
 # citation-part=IACOB_4.10
-# parallel_id = bible/iacob-4-10
+# parallel_id = bible/jas-4-10
 1	Smeriți	smeri	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_4.10|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_4.10
 3	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	Ref=IACOB_4.10
@@ -191027,7 +191027,7 @@
 # sent_id = train-7745
 # text = Nu clevetireți, fraților, unul pre alalt, că cine-și clevetiaște fratele sau giudecă pre fratele său, leagea clevetiaște și leagea huleaște, iară să veri cleveti leagia, nu ești țiitoriu legiei, ce-i ești giudecătoriu.
 # citation-part=IACOB_4.11
-# parallel_id = bible/iacob-4-11
+# parallel_id = bible/jas-4-11
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	Ref=IACOB_4.11
 2	clevetireți	cleveti	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	Ref=IACOB_4.11|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_4.11
@@ -191074,7 +191074,7 @@
 # sent_id = train-7746
 # text = Unulu-i dătătoriul legeei, carele poate piiarde și poate izbăvi; iară tu cine ești, de giudeci pre altul?
 # citation-part=IACOB_4.12
-# parallel_id = bible/iacob-4-12
+# parallel_id = bible/jas-4-12
 1	Unulu	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	Ref=IACOB_4.12|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	Ref=IACOB_4.12
 3	dătătoriul	dătător	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_4.12
@@ -191101,7 +191101,7 @@
 # sent_id = train-7747
 # text = Ni acum carii ziceți: Astăzi au mîne vom mearge în cel oraș și vom petreace acolo un an, și vom tîrgui și vom dobîndi.
 # citation-part=IACOB_4.13
-# parallel_id = bible/iacob-4-13
+# parallel_id = bible/jas-4-13
 1	Ni	ni	INTJ	I	_	4	discourse	_	Ref=IACOB_4.13
 2	acum	acum	ADV	Rg	_	4	advmod:tmod	_	Ref=IACOB_4.13
 3	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	4	nsubj	_	Ref=IACOB_4.13
@@ -191133,7 +191133,7 @@
 # sent_id = train-7748
 # text = Carii nu știți ce vă să va întîmpla a doaoa zi.
 # citation-part=IACOB_4.14
-# parallel_id = bible/iacob-4-14/part1
+# parallel_id = bible/jas-4-14/part1
 1	Carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	3	nsubj	_	Ref=IACOB_4.14
 2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	Ref=IACOB_4.14
 3	știți	ști	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_4.14
@@ -191150,7 +191150,7 @@
 # sent_id = train-7749
 # text = Că ce-i viiața voastră?
 # citation-part=IACOB_4.14
-# parallel_id = bible/iacob-4-14/part2
+# parallel_id = bible/jas-4-14/part2
 1	Că	că	SCONJ	Csssp	Polarity=Pos	2	mark	_	Ref=IACOB_4.14
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	0	root	_	Ref=IACOB_4.14|SpaceAfter=No
 3	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	Ref=IACOB_4.14
@@ -191161,7 +191161,7 @@
 # sent_id = train-7750
 # text = Aburu-i carele să arată neșchit și apoi piiare.
 # citation-part=IACOB_4.14
-# parallel_id = bible/iacob-4-14/part3
+# parallel_id = bible/jas-4-14/part3
 1	Aburu	abur	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	Ref=IACOB_4.14|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	Ref=IACOB_4.14
 3	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	1	appos	_	Ref=IACOB_4.14
@@ -191176,7 +191176,7 @@
 # sent_id = train-7751
 # text = Pentru c-au vrut trebui să ziceți: să va vrea Dumnezău și să vom fi vii, face-vom ceasta sau ceaia.
 # citation-part=IACOB_4.15
-# parallel_id = bible/iacob-4-15
+# parallel_id = bible/jas-4-15
 1	Pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	mark	_	Ref=IACOB_4.15
 2	c-	că	SCONJ	Csssp	Polarity=Pos	1	fixed	_	Ref=IACOB_4.15|SpaceAfter=No
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	Ref=IACOB_4.15
@@ -191205,7 +191205,7 @@
 # sent_id = train-7752
 # text = Iară acmu vă lăudați întru făliile voastre, toată fala aceasta, rea iaste.
 # citation-part=IACOB_4.16
-# parallel_id = bible/iacob-4-16
+# parallel_id = bible/jas-4-16
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_4.16
 2	acmu	acum	ADV	Rg	_	4	advmod:tmod	_	Ref=IACOB_4.16
 3	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	4	expl:pv	_	Ref=IACOB_4.16
@@ -191225,7 +191225,7 @@
 # sent_id = train-7753
 # text = Derept aceaia, cine are ști face bine și nu face, păcatu-i.
 # citation-part=IACOB_4.17
-# parallel_id = bible/iacob-4-17
+# parallel_id = bible/jas-4-17
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_4.17
 2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	obl	_	Ref=IACOB_4.17|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_4.17
@@ -191304,7 +191304,7 @@
 # sent_id = train-7759
 # text = Ni, acmu, bogaților plîngeți văetîndu-vă de scîrbele ce-s venitoare spre voi.
 # citation-part=IACOB_5.1
-# parallel_id = bible/iacob-5-1
+# parallel_id = bible/jas-5-1
 1	Ni	ni	INTJ	I	_	6	discourse	_	Ref=IACOB_5.1|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IACOB_5.1
 3	acmu	acum	ADV	Rg	_	6	advmod:tmod	_	Ref=IACOB_5.1|SpaceAfter=No
@@ -191325,7 +191325,7 @@
 # sent_id = train-7760
 # text = Bogățiile voastre au putrezit, veșmintele voastre le-au mîncat moliile.
 # citation-part=IACOB_5.2
-# parallel_id = bible/iacob-5-2
+# parallel_id = bible/jas-5-2
 1	Bogățiile	bogăție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	_	Ref=IACOB_5.2
 2	voastre	vostru	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|PronType=Prs	1	det	_	Ref=IACOB_5.2
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=IACOB_5.2
@@ -191342,7 +191342,7 @@
 # sent_id = train-7761
 # text = Aurul și argintul vostru s-au rugenit, și rugina lui va mărturisi împrotiva voastră, și va topi trupurile voastre, ca focul; strîns-ați comoară în zilele de apoi.
 # citation-part=IACOB_5.3
-# parallel_id = bible/iacob-5-3
+# parallel_id = bible/jas-5-3
 1	Aurul	aur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	Ref=IACOB_5.3
 2	și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_5.3
 3	argintul	argint	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	Ref=IACOB_5.3
@@ -191380,7 +191380,7 @@
 # sent_id = train-7762
 # text = Iată plata lucrătorilor carii au săcerat ținuturile voastre, ținută-i de voi, strigă: și strigarea celora ce au săcerat întrat-au în urechile Domnului Savaot.
 # citation-part=IACOB_5.4
-# parallel_id = bible/iacob-5-4
+# parallel_id = bible/jas-5-4
 1	Iată	iată	INTJ	I	_	10	discourse	_	Ref=IACOB_5.4
 2	plata	plată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	Ref=IACOB_5.4
 3	lucrătorilor	lucrător	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	Ref=IACOB_5.4
@@ -191414,7 +191414,7 @@
 # sent_id = train-7763
 # text = În dezmierdăciune ați trăit pre pămînt și v-ați desvătat, hrănit-ați inimile voastre, ca într-o zi de uspăț.
 # citation-part=IACOB_5.5
-# parallel_id = bible/iacob-5-5
+# parallel_id = bible/jas-5-5
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IACOB_5.5
 2	dezmierdăciune	dezmierdăciune	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	Ref=IACOB_5.5
 3	ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	Ref=IACOB_5.5
@@ -191442,7 +191442,7 @@
 # sent_id = train-7764
 # text = Dosădit-ați, omorît-ați dereptul, nestîndu-vă împrotivă.
 # citation-part=IACOB_5.6
-# parallel_id = bible/iacob-5-6
+# parallel_id = bible/jas-5-6
 1	Dosădit	dosădi	VERB	Vmp	VerbForm=Part	0	root	_	Ref=IACOB_5.6|SpaceAfter=No
 2	-ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	aux	_	Ref=IACOB_5.6|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_5.6
@@ -191458,7 +191458,7 @@
 # sent_id = train-7765
 # text = Derept acea, fraților, fiți răbdători pînă la venirea Domnului; iată plugariul aștiaptă bun rod al pămîntului, cu răbdare așteptîndu-l, pînă va priimi ploae timpurie și tărzie.
 # citation-part=IACOB_5.7
-# parallel_id = bible/iacob-5-7
+# parallel_id = bible/jas-5-7
 1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Dat	2	case	_	Ref=IACOB_5.7
 2	acea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	obl	_	Ref=IACOB_5.7|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	Ref=IACOB_5.7
@@ -191496,7 +191496,7 @@
 # sent_id = train-7766
 # text = Fiți și voi răbdători și întăriți inimile voastre, că să apropie venirea Domnului.
 # citation-part=IACOB_5.8
-# parallel_id = bible/iacob-5-8
+# parallel_id = bible/jas-5-8
 1	Fiți	fi	AUX	Vam-2p	Mood=Imp|Number=Plur|Person=2	4	cop	_	Ref=IACOB_5.8
 2	și	și	ADV	Rg	_	3	advmod	_	Ref=IACOB_5.8
 3	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Ref=IACOB_5.8
@@ -191516,7 +191516,7 @@
 # sent_id = train-7767
 # text = Nu suspinareți unul pre alalt, să nu fiți osîndiți; iată giudețul înaintea ușii vă stă.
 # citation-part=IACOB_5.9
-# parallel_id = bible/iacob-5-9
+# parallel_id = bible/jas-5-9
 1	Nu	nu	ADV	Qz	Polarity=Neg	2	advmod	_	Ref=IACOB_5.9
 2	suspinareți	suspinareți	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	Ref=IACOB_5.9
 3	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	Ref=IACOB_5.9
@@ -191539,7 +191539,7 @@
 # sent_id = train-7768
 # text = Luați pildă, frații miei, scîrba și răbdarea prorocilor carii au grăit în numele Domnului.
 # citation-part=IACOB_5.10
-# parallel_id = bible/iacob-5-10
+# parallel_id = bible/jas-5-10
 1	Luați	lua	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_5.10
 2	pildă	pildă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	Ref=IACOB_5.10|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IACOB_5.10
@@ -191561,7 +191561,7 @@
 # sent_id = train-7769
 # text = Iată, zicem că-s fericiți răbdătorii; răbdarea lui Iov auzit-ați, și la săvîrșeniia ce i-au dat Domnul, că milostiv Domnul și miluitoriu.
 # citation-part=IACOB_5.11
-# parallel_id = bible/iacob-5-11
+# parallel_id = bible/jas-5-11
 1	Iată	iată	INTJ	I	_	3	discourse	_	Ref=IACOB_5.11|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IACOB_5.11
 3	zicem	zice	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_5.11
@@ -191595,7 +191595,7 @@
 # sent_id = train-7770
 # text = Iară mainte de toate, frații miei, nu giurareți nece pre cer, nece pre pămînt, nece cu alt giurămîntu, iară cuvîntul vostru fie așia: "ce e i, ce nu e nu-i", ca să nu cădeți în giudecată.
 # citation-part=IACOB_5.12
-# parallel_id = bible/iacob-5-12
+# parallel_id = bible/jas-5-12
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=IACOB_5.12
 2	mainte	înainte	ADV	Rg	_	10	advmod:tmod	_	Ref=IACOB_5.12
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=IACOB_5.12
@@ -191648,7 +191648,7 @@
 # sent_id = train-7771
 # text = Mîhnitu-i cineva între voi?
 # citation-part=IACOB_5.13
-# parallel_id = bible/iacob-5-13/part1
+# parallel_id = bible/jas-5-13/part1
 1	Mîhnitu	mâhni	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	Ref=IACOB_5.13|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	Ref=IACOB_5.13
 3	cineva	cineva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	1	nsubj	_	Ref=IACOB_5.13
@@ -191659,7 +191659,7 @@
 # sent_id = train-7772
 # text = Roage-să.
 # citation-part=IACOB_5.13
-# parallel_id = bible/iacob-5-13/part2
+# parallel_id = bible/jas-5-13/part2
 1	Roage	ruga	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_5.13|SpaceAfter=No
 2	-să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	1	expl:pv	_	Ref=IACOB_5.13|SpaceAfter=No
 3	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=IACOB_5.13
@@ -191667,7 +191667,7 @@
 # sent_id = train-7773
 # text = Veaselu-i cineva?
 # citation-part=IACOB_5.13
-# parallel_id = bible/iacob-5-13/part3
+# parallel_id = bible/jas-5-13/part3
 1	Veaselu	vesel	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_5.13|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	Ref=IACOB_5.13
 3	cineva	cineva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	1	nsubj	_	Ref=IACOB_5.13|SpaceAfter=No
@@ -191676,14 +191676,14 @@
 # sent_id = train-7774
 # text = Cînte.
 # citation-part=IACOB_5.13
-# parallel_id = bible/iacob-5-13/part4
+# parallel_id = bible/jas-5-13/part4
 1	Cînte	cânta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_5.13|SpaceAfter=No
 2	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=IACOB_5.13
 
 # sent_id = train-7775
 # text = Bolnavu-i cineva întru voi?
 # citation-part=IACOB_5.14
-# parallel_id = bible/iacob-5-14/part1
+# parallel_id = bible/jas-5-14/part1
 1	Bolnavu	bolnav	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=IACOB_5.14|SpaceAfter=No
 2	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	Ref=IACOB_5.14
 3	cineva	cineva	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	1	nsubj	_	Ref=IACOB_5.14
@@ -191694,7 +191694,7 @@
 # sent_id = train-7776
 # text = Cheame preoții besearecii și să roage pentru el, ungîndu-l cu oloiu, în numele Domnului.
 # citation-part=IACOB_5.14
-# parallel_id = bible/iacob-5-14/part2
+# parallel_id = bible/jas-5-14/part2
 1	Cheame	chema	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_5.14
 2	preoții	preot	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	Ref=IACOB_5.14
 3	besearecii	biserică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	Ref=IACOB_5.14
@@ -191717,7 +191717,7 @@
 # sent_id = train-7777
 # text = Şi rugăciunea credinței mîntui-va bolnavul și-l va rădica pre el Domnul, și să va fi făcut păcate, erta-i-să-vor.
 # citation-part=IACOB_5.15
-# parallel_id = bible/iacob-5-15
+# parallel_id = bible/jas-5-15
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IACOB_5.15
 2	rugăciunea	rugăciune	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	Ref=IACOB_5.15
 3	credinței	credință	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	Ref=IACOB_5.15
@@ -191748,7 +191748,7 @@
 # sent_id = train-7778
 # text = Ispovediți-vă păcatele voastre, unul cătră alaltu și vă rugați unul pentr-altu, ca să vă vendecați, că mult foloseaște rugăciunea străbătătoare dereptului.
 # citation-part=IACOB_5.16
-# parallel_id = bible/iacob-5-16
+# parallel_id = bible/jas-5-16
 1	Ispovediți	spovedi	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=IACOB_5.16|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	expl:poss	_	Ref=IACOB_5.16
 3	păcatele	păcat	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	1	obj	_	Ref=IACOB_5.16
@@ -191780,7 +191780,7 @@
 # sent_id = train-7779
 # text = Ilie era om supt patime, ca și noi, și ceru cu rugăciune să nu ploao spre pămînt, și nu ploo în 3 ani și 6 luni.
 # citation-part=IACOB_5.17
-# parallel_id = bible/iacob-5-17
+# parallel_id = bible/jas-5-17
 1	Ilie	Ilie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	Ref=IACOB_5.17
 2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	3	cop	_	Ref=IACOB_5.17
 3	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_5.17
@@ -191815,7 +191815,7 @@
 # sent_id = train-7780
 # text = Şi iară rugă, și cerul deade ploae, și pămîntul deade rodul său.
 # citation-part=IACOB_5.18
-# parallel_id = bible/iacob-5-18
+# parallel_id = bible/jas-5-18
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	Ref=IACOB_5.18
 2	iară	iar	ADV	Rg	_	3	advmod	_	Ref=IACOB_5.18
 3	rugă	ruga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=IACOB_5.18|SpaceAfter=No
@@ -191835,7 +191835,7 @@
 # sent_id = train-7781
 # text = Frații miei, să au rătăcit cineva dintru voi de la adevăr și-l va înturna pre el cineva.
 # citation-part=IACOB_5.19
-# parallel_id = bible/iacob-5-19
+# parallel_id = bible/jas-5-19
 1	Frații	frate	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	6	vocative	_	Ref=IACOB_5.19
 2	miei	meu	DET	Ds1mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|PronType=Prs	1	det	_	Ref=IACOB_5.19|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IACOB_5.19
@@ -191860,7 +191860,7 @@
 # sent_id = train-7782
 # text = Să știe că cine l-au înturnat pre păcătos din calea rătăciturii lui, mîntui-va sufletul lui de moarte și-i va acoperi mulțimea păcatelor.
 # citation-part=IACOB_5.20
-# parallel_id = bible/iacob-5-20
+# parallel_id = bible/jas-5-20
 1	Să	să	PART	Qs	PartType=Sub	2	mark	_	Ref=IACOB_5.20
 2	știe	ști	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IACOB_5.20
 3	că	că	SCONJ	Csssp	Polarity=Pos	15	mark	_	Ref=IACOB_5.20
@@ -191892,7 +191892,7 @@
 # sent_id = train-7783
 # text = Sfîrșitul cărții Sfîntului Iacov.
 # citation-part=IACOB_5.21
-# parallel_id = bible/iacob-5-21
+# parallel_id = bible/jas-5-21
 1	Sfîrșitul	sfârșit	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=IACOB_5.21
 2	cărții	carte	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	Ref=IACOB_5.21
 3	Sfîntului	sfânt	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	Ref=IACOB_5.21
@@ -206689,7 +206689,7 @@
 # sent_id = train-8323
 # text = Iuda, sluga lui Iisus Hristos și frate lui Iacov, chemaților de la Părintele Dumnezău, sfințiților și ținuților de Iisus Hristos.
 # citation-part=IUDA_1.1
-# parallel_id = bible/iuda-1-1
+# parallel_id = bible/jude-1-1
 1	Iuda	Iuda	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=IUDA_1.1|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=IUDA_1.1
 3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	Ref=IUDA_1.1
@@ -206718,7 +206718,7 @@
 # sent_id = train-8324
 # text = Milostivnicie voao și pace și dragoste să vă mulțească.
 # citation-part=IUDA_1.2
-# parallel_id = bible/iuda-1-2
+# parallel_id = bible/jude-1-2
 1	Milostivnicie	milostivnicie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	Ref=IUDA_1.2
 2	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	1	nmod	_	Ref=IUDA_1.2
 3	și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IUDA_1.2
@@ -206733,7 +206733,7 @@
 # sent_id = train-8325
 # text = Iubiților, cu toată nevoința am silit a scrie voao, despre spăsenia voastră depreună.
 # citation-part=IUDA_1.3
-# parallel_id = bible/iuda-1-3/part1
+# parallel_id = bible/jude-1-3/part1
 1	Iubiților	iubit	NOUN	Ncmpvy	Case=Voc|Definite=Def|Gender=Masc|Number=Plur	7	vocative	_	Ref=IUDA_1.3|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	Ref=IUDA_1.3
 3	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	Ref=IUDA_1.3
@@ -206754,7 +206754,7 @@
 # sent_id = train-8326
 # text = Lipsă mi-au fost scrie voao să vă îndemnu să vă luptați pentru credința ce e dată deodată sfinților.
 # citation-part=IUDA_1.3
-# parallel_id = bible/iuda-1-3/part2
+# parallel_id = bible/jude-1-3/part2
 1	Lipsă	lipsă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	xcomp	_	Ref=IUDA_1.3
 2	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	iobj	_	Ref=IUDA_1.3|SpaceAfter=No
 3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=IUDA_1.3
@@ -206779,7 +206779,7 @@
 # sent_id = train-8327
 # text = C-au întrat unii din oameni pre supt cumpăt, carii era de demult scriși spre ceastă păgubitură, necredincioșii, carii mila Dumnezăului nostru o întorcu spre desfătare și pre cel Dumnezău, singur moștenitoriu și Domnul nostru Iisus Hristos tăgăduescu-L.
 # citation-part=IUDA_1.4
-# parallel_id = bible/iuda-1-4
+# parallel_id = bible/jude-1-4
 1	C-	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=IUDA_1.4|SpaceAfter=No
 2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	Ref=IUDA_1.4
 3	întrat	intra	VERB	Vmp	VerbForm=Part	0	root	_	Ref=IUDA_1.4
@@ -206828,7 +206828,7 @@
 # sent_id = train-8328
 # text = Iară voia mi-e să vă dojenescu pre voi, pentru că știți o dată aceasta, că Domnul cîndu au izbăvit oamenii săi din Eghipet, iară îi pierdu pre ceia ce nu crezură.
 # citation-part=IUDA_1.5
-# parallel_id = bible/iuda-1-5
+# parallel_id = bible/jude-1-5
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=IUDA_1.5
 2	voia	voie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	Ref=IUDA_1.5
 3	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	7	iobj	_	Ref=IUDA_1.5|SpaceAfter=No
@@ -206869,7 +206869,7 @@
 # sent_id = train-8329
 # text = Şi pre îngeri carii nu ținură destoiniciia sa, ce-și lăsară locul său, spre giudecata ceii zile mari, cu legăturile de vecie, să țin întru întunearec.
 # citation-part=IUDA_1.6
-# parallel_id = bible/iuda-1-6
+# parallel_id = bible/jude-1-6
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	28	cc	_	Ref=IUDA_1.6
 2	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IUDA_1.6
 3	îngeri	înger	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	28	nsubj	_	Ref=IUDA_1.6
@@ -206905,7 +206905,7 @@
 # sent_id = train-8330
 # text = Ca Sodomul și Gomorul și orașele ce-s în vecinătate acelora, depreună cu acialea curvind și îmblîndu trupește, puse fără pildă, să reabde osînda focului de vecie.
 # citation-part=IUDA_1.7
-# parallel_id = bible/iuda-1-7
+# parallel_id = bible/jude-1-7
 1	Ca	ca	ADV	Rg	_	2	case	_	Ref=IUDA_1.7
 2	Sodomul	Sodoma	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	Ref=IUDA_1.7
 3	și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=IUDA_1.7
@@ -206941,7 +206941,7 @@
 # sent_id = train-8331
 # text = Așijdere și aceștiia adormiți trupulu-și spurcă, domniia liapădă-o și destoiniciia hulesc.
 # citation-part=IUDA_1.8
-# parallel_id = bible/iuda-1-8
+# parallel_id = bible/jude-1-8
 1	Așijdere	așijderea	ADV	Rg	_	7	advmod	_	Ref=IUDA_1.8
 2	și	și	ADV	Rg	_	3	advmod	_	Ref=IUDA_1.8
 3	aceștiia	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	nsubj	_	Ref=IUDA_1.8
@@ -206961,7 +206961,7 @@
 # sent_id = train-8332
 # text = Iară arhanghel Mihail, luptîndu-să cu Satana și pricindu-să despre trupul lui Moisi, nu îndrăzni a-l blăstăma pre el, ce-i zise: Certe-te pre tine Domnul.
 # citation-part=IUDA_1.9
-# parallel_id = bible/iuda-1-9
+# parallel_id = bible/jude-1-9
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	18	cc	_	Ref=IUDA_1.9
 2	arhanghel	arhanghel	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	18	nsubj	_	Ref=IUDA_1.9
 3	Mihail	Mihail	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	Ref=IUDA_1.9|SpaceAfter=No
@@ -207000,7 +207000,7 @@
 # sent_id = train-8333
 # text = Iară aceștea carele nu știa acialea, hulescu, iară pre carele din fire le știu, ca dobitoacele mute, într-acealia putrezescu.
 # citation-part=IUDA_1.10
-# parallel_id = bible/iuda-1-10
+# parallel_id = bible/jude-1-10
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	Ref=IUDA_1.10
 2	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	8	nsubj	_	Ref=IUDA_1.10
 3	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	5	nsubj	_	Ref=IUDA_1.10
@@ -207030,7 +207030,7 @@
 # sent_id = train-8334
 # text = Vai acelora, c-au întrat în calea lui Cain, și cu rătăcirea platei cu carea au fost amăgit Valaam s-au despărțit și periră în sfadă, ca și Corie.
 # citation-part=IUDA_1.11
-# parallel_id = bible/iuda-1-11
+# parallel_id = bible/jude-1-11
 1	Vai	vai	INTJ	I	_	0	root	_	Ref=IUDA_1.11
 2	acelora	acela	PRON	Pd3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Dem	1	iobj	_	Ref=IUDA_1.11|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	6	punct	_	Ref=IUDA_1.11
@@ -207068,7 +207068,7 @@
 # sent_id = train-8335
 # text = Şi aceștea, în ospeațele voastre, sintu ca nește zgaibe, ospătîndu-să cu voi, îngrășîndu-să fără de frică, nuori fără de apă, învăluiți de vîntu, arburi veșteziți fără de rod, de doao ori morți, dezrădăcinați.
 # citation-part=IUDA_1.12
-# parallel_id = bible/iuda-1-12
+# parallel_id = bible/jude-1-12
 1	Şi	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=IUDA_1.12
 2	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	11	nsubj	_	Ref=IUDA_1.12|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	5	punct	_	Ref=IUDA_1.12
@@ -207118,7 +207118,7 @@
 # sent_id = train-8336
 # text = Valurile măriei groaznici, aspumîndu-și necurățiile lor, steale rătăcitoare, cărora le ține ceața întunearecelor în veac.
 # citation-part=IUDA_1.13
-# parallel_id = bible/iuda-1-13
+# parallel_id = bible/jude-1-13
 1	Valurile	val	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	Ref=IUDA_1.13
 2	măriei	mare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	Ref=IUDA_1.13
 3	groaznici	groaznic	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	Ref=IUDA_1.13|SpaceAfter=No
@@ -207143,7 +207143,7 @@
 # sent_id = train-8337
 # text = Iară de aceștea au prorocit și Enoh, al 7-lea de Adam, zicînd: Iată vine Domnul cu multe mii de sfinți ai Lui.
 # citation-part=IUDA_1.14
-# parallel_id = bible/iuda-1-14
+# parallel_id = bible/jude-1-14
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=IUDA_1.14
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IUDA_1.14
 3	aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	5	obl	_	Ref=IUDA_1.14
@@ -207175,7 +207175,7 @@
 # sent_id = train-8338
 # text = Ca să facă giudecată spre toți și să-i cearte pre toți carii-s nederepți, pentru faptele nedereptăției lor ci-au făcut fără dereptate, și de toate cuvintele ci-au grăit cei păcătoși strîmbi împrotiva lui.
 # citation-part=IUDA_1.15
-# parallel_id = bible/iuda-1-15
+# parallel_id = bible/jude-1-15
 1	Ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	3	mark	_	Ref=IUDA_1.15
 2	să	să	PART	Qs	PartType=Sub	1	fixed	_	Ref=IUDA_1.15
 3	facă	face	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=IUDA_1.15
@@ -207219,7 +207219,7 @@
 # sent_id = train-8339
 # text = Aceștea-s ocarnici mustrători, îmblînd în poftele lor, și rostul lor grăiaște fălie, cinstind pre oameni pentru dobînda.
 # citation-part=IUDA_1.16
-# parallel_id = bible/iuda-1-16
+# parallel_id = bible/jude-1-16
 1	Aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	nsubj	_	Ref=IUDA_1.16|SpaceAfter=No
 2	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	cop	_	Ref=IUDA_1.16
 3	ocarnici	ocarnic	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	Ref=IUDA_1.16
@@ -207246,7 +207246,7 @@
 # sent_id = train-8340
 # text = Iară voi, dragilor, aduceți-vă aminte de cuvintele ce v-au grăit voao întîiu apostolii Domnului nostru Iisus Hristos.
 # citation-part=IUDA_1.17
-# parallel_id = bible/iuda-1-17
+# parallel_id = bible/jude-1-17
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	Ref=IUDA_1.17
 2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Ref=IUDA_1.17|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IUDA_1.17
@@ -207273,7 +207273,7 @@
 # sent_id = train-8341
 # text = Carii zicea voao că în vreamia de apoi vor veni batgiocoritori, îmblînd în poftele necurăției lor.
 # citation-part=IUDA_1.18
-# parallel_id = bible/iuda-1-18
+# parallel_id = bible/jude-1-18
 1	Carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	2	nsubj	_	Ref=IUDA_1.18
 2	zicea	zice	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Ref=IUDA_1.18
 3	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	Ref=IUDA_1.18
@@ -207296,7 +207296,7 @@
 # sent_id = train-8342
 # text = Aceștea-s carii s-au despărțit (De la săborul credincioșilor) trupeaște, neavînd duh.
 # citation-part=IUDA_1.19
-# parallel_id = bible/iuda-1-19
+# parallel_id = bible/jude-1-19
 1	Aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	nsubj	_	Ref=IUDA_1.19|SpaceAfter=No
 2	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	cop	_	Ref=IUDA_1.19
 3	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	6	nsubj	_	Ref=IUDA_1.19
@@ -207318,7 +207318,7 @@
 # sent_id = train-8343
 # text = Iară voi, dragilor, întrămîndu-vă spre credința voastră cea sfîntă, rugîndu-vă prin Duhul Sfînt.
 # citation-part=IUDA_1.20
-# parallel_id = bible/iuda-1-20
+# parallel_id = bible/jude-1-20
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	Ref=IUDA_1.20
 2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Ref=IUDA_1.20|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IUDA_1.20
@@ -207342,7 +207342,7 @@
 # sent_id = train-8344
 # text = Ţiindu-vă pre voi în dragostea lui Dumnezău, așteptînd mila Domnului nostru Iisus Hristos, spre viiața de vecie.
 # citation-part=IUDA_1.21
-# parallel_id = bible/iuda-1-21
+# parallel_id = bible/jude-1-21
 1	Ţiindu	ține	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	Ref=IUDA_1.21|SpaceAfter=No
 2	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	1	obj	_	Ref=IUDA_1.21
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=IUDA_1.21
@@ -207368,7 +207368,7 @@
 # sent_id = train-8345
 # text = De unii, alegîndu-i, fie-vă milă.
 # citation-part=IUDA_1.22
-# parallel_id = bible/iuda-1-22
+# parallel_id = bible/jude-1-22
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	Ref=IUDA_1.22
 2	unii	unul	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	7	obl:pmod	_	Ref=IUDA_1.22|SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	Ref=IUDA_1.22
@@ -207383,7 +207383,7 @@
 # sent_id = train-8346
 # text = Iară pre alții, cu certare țineți-i, răpindu-i din văpaia focului, urîndu încă și veșmîntul carele s-au spurcat de atingerea trupului lor.
 # citation-part=IUDA_1.23
-# parallel_id = bible/iuda-1-23
+# parallel_id = bible/jude-1-23
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=IUDA_1.23
 2	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	Ref=IUDA_1.23
 3	alții	altul	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	7	obl:pmod	_	Ref=IUDA_1.23|SpaceAfter=No
@@ -207416,7 +207416,7 @@
 # sent_id = train-8347
 # text = Iară Cela ce vă poate ținea pre voi fără păcat și nevinovați, și Cela ce vă poate pune pre voi înaintea slavei Lui întru veselie.
 # citation-part=IUDA_1.24
-# parallel_id = bible/iuda-1-24
+# parallel_id = bible/jude-1-24
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	2	cc	_	Ref=IUDA_1.24
 2	Cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	Ref=IUDA_1.24
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	Ref=IUDA_1.24
@@ -207448,7 +207448,7 @@
 # sent_id = train-8348
 # text = Singur înțeleptului Dumnezău, Mîntuitoriului nostru slavă și mărire, tărie și puteare, acmu și întru toți veacii, amin.
 # citation-part=IUDA_1.25
-# parallel_id = bible/iuda-1-25
+# parallel_id = bible/jude-1-25
 1	Singur	singur	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Ref=IUDA_1.25
 2	înțeleptului	înțelept	ADJ	Afpmsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Ref=IUDA_1.25
 3	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	iobj	_	Ref=IUDA_1.25|SpaceAfter=No
@@ -207475,7 +207475,7 @@
 # sent_id = train-8349
 # text = Sfîrșitul cărții Iiudei Apostol.
 # citation-part=IUDA_1.26
-# parallel_id = bible/iuda-1-26
+# parallel_id = bible/jude-1-26
 1	Sfîrșitul	sfârșit	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=IUDA_1.26
 2	cărții	carte	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	Ref=IUDA_1.26
 3	Iiudei	Iuda	PROPN	Npmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	Ref=IUDA_1.26
@@ -350191,7 +350191,6 @@
 # sent_id = train-15403
 # text = Al 4-lea strămoș, strămoașă.
 # citation-part=FIGURA_3.1
-# parallel_id = bible/figura-3-1
 1	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	4	det	_	Ref=FIGURA_3.1
 2	4	4	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.1|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.1
@@ -350203,7 +350202,6 @@
 # sent_id = train-15404
 # text = Al 3-lea strămoș, strămoașă.
 # citation-part=FIGURA_3.2
-# parallel_id = bible/figura-3-2
 1	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	4	det	_	Ref=FIGURA_3.2
 2	3	3	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.2|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.2
@@ -350215,7 +350213,6 @@
 # sent_id = train-15405
 # text = Al 3-lea unchiu mare, Al 2-lea strămoș, strămoașă, Al 3-lea mătușă mare.
 # citation-part=FIGURA_3.3
-# parallel_id = bible/figura-3-3
 1	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	4	det	_	Ref=FIGURA_3.3
 2	3	3	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.3|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.3
@@ -350239,7 +350236,6 @@
 # sent_id = train-15406
 # text = Al 2-lea unchiu mare, strămoș, strămoașă, Al 2-lea mătușă mare.
 # citation-part=FIGURA_3.4
-# parallel_id = bible/figura-3-4
 1	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	2	det	_	Ref=FIGURA_3.4
 2	2	2	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.4|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.4
@@ -350260,7 +350256,6 @@
 # sent_id = train-15407
 # text = Fiu, fiică de al 2-lea Unchiu mare, unchiu mare, Moș, moașă, Mătușă mare, Fiu, fiică de al 2-lea mătușă mare.
 # citation-part=FIGURA_3.5
-# parallel_id = bible/figura-3-5
 1	Fiu	fi	AUX	Vasp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres	0	root	_	Ref=FIGURA_3.5|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.5
 3	fiică	fiică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.5
@@ -350295,7 +350290,6 @@
 # sent_id = train-15408
 # text = Fiu, fiică de Unchiu mare, unchiu despre Tată sau despre mumă, tată, mumă, Mătușă despre tată sau despre mumă, Fiu, fiică de mătușă mare.
 # citation-part=FIGURA_3.6
-# parallel_id = bible/figura-3-6
 1	Fiu	fi	AUX	Vasp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres	0	root	_	Ref=FIGURA_3.6|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.6
 3	fiică	fiică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.6
@@ -350332,7 +350326,6 @@
 # sent_id = train-15409
 # text = Nepot, nepoată de unchiu mare, Fiu, fiică de unchiu, Frate z Soru, Fiu, fiică de mătușă, Nepot, nepoată de mătușă mare.
 # citation-part=FIGURA_3.7
-# parallel_id = bible/figura-3-7
 1	Nepot	nepot	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=FIGURA_3.7|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.7
 3	nepoată	nepoată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.7
@@ -350367,7 +350360,6 @@
 # sent_id = train-15410
 # text = Nepot, nepoată de unchiu, Fiu, fiică de frate, Fiu, fiică, Fiu, fiică de soru, Nepot, nepoată de mătușă.
 # citation-part=FIGURA_3.8
-# parallel_id = bible/figura-3-8
 1	Nepot	nepot	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=FIGURA_3.8|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.8
 3	nepoată	nepoată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.8
@@ -350400,7 +350392,6 @@
 # sent_id = train-15411
 # text = Strănepot, strănepoată de unchiu, Nepot, nepoată de frate, Nepot, nepoată, Nepot, nepoată de soru, Strănepot, strănepoată de mătușă.
 # citation-part=FIGURA_3.9
-# parallel_id = bible/figura-3-9
 1	Strănepot	strănepot	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=FIGURA_3.9|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.9
 3	strănepoată	strănepoată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.9
@@ -350433,7 +350424,6 @@
 # sent_id = train-15412
 # text = Strănepot, strănepoată de frate, Strănepot, strănepoată, Strănepot, strănepoată de soru.
 # citation-part=FIGURA_3.10
-# parallel_id = bible/figura-3-10
 1	Strănepot	strănepot	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=FIGURA_3.10|SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=FIGURA_3.10
 3	strănepoată	strănepoată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	Ref=FIGURA_3.10
@@ -350454,7 +350444,6 @@
 # sent_id = train-15413
 # text = A 2-lea strănepot, strănepoată de frate, A 2-lea strănepot, strănepoată, A 2-lea strănepot, strănepoată de soru.
 # citation-part=FIGURA_3.11
-# parallel_id = bible/figura-3-11
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	Ref=FIGURA_3.11
 2	2	2	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.11|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.11
@@ -350484,7 +350473,6 @@
 # sent_id = train-15414
 # text = A 3-lea strănepot, strănepoată.
 # citation-part=FIGURA_3.12
-# parallel_id = bible/figura-3-12
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	Ref=FIGURA_3.12
 2	3	3	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.12|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.12
@@ -350496,7 +350484,6 @@
 # sent_id = train-15415
 # text = A 4-lea strănepot, strănepoată.
 # citation-part=FIGURA_3.13
-# parallel_id = bible/figura-3-13
 1	A	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	2	det	_	Ref=FIGURA_3.13
 2	4	4	NUM	M	NumForm=Digit	4	nummod	_	Ref=FIGURA_3.13|SpaceAfter=No
 3	-lea	-ul	DET	Tfmsr	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Ref=FIGURA_3.13

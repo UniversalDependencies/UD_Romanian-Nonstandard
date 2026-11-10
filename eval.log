@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Romanian-Nonstandard:
-commit e84e53291395ad91e059d9b954587c58d2600df7
-Merge: fcf3acd 50dc2af
+commit 0c82a03f8d0d5afc6200bac480724e7135848ff4
+Merge: 47720ba 00390e1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ro_nonstandard'
@@ -19,9 +19,9 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 466548 out of 572436 total words have one or more features.
+Features: 466551 out of 572436 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 34 out of 37 found in the corpus.
+Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-Nonstandard/ro_nonstandard-ud-dev.conllu
@@ -68,22 +68,13 @@ Exit code: 1
 [Line 2340 Sent test-50]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 13] ('cuvinte', 'le-') under the predicate 'izvodit'.
 [Line 2414 Sent test-50]: [L3 SYNTAX too-many-objects] Multiple direct objects [65, 87] ('nume', 'le-') under the predicate 'lăsat'.
 [Line 4179 Sent test-97]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 22] ('rudeniia', 'o') under the predicate 'duce'.
-[Line 4422 Sent test-104]: [L3 WARNING pron-det-without-prontype] The word 'lui' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 4515 Sent test-108]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 6309 Sent test-183]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 6321 Sent test-184]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 6859 Sent test-207]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 6940 Sent test-209]: [L3 SYNTAX too-many-objects] Multiple direct objects [35, 39] ('boala', 'oameni') under the predicate 'vindecînd'.
 [Line 7762 Sent test-250]: [L3 SYNTAX too-many-objects] Multiple direct objects [27, 30] ('jărtva', 'oltariului') under the predicate 'Lasă'.
 [Line 9318 Sent test-318]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 25, 26] ('trupurile', 'ce', 'le') under the predicate 'îmbrăca'.
 [Line 9477 Sent test-326]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 17] ('iarba', 'o') under the predicate 'îmbracă'.
 [Line 10255 Sent test-363]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 13] ('tot', '-l') under the predicate 'asamănu'.
 ...suppressing further messages regarding ERROR/SYNTAX
-[Line 12784 Sent test-495]: [L3 WARNING pron-det-without-prontype] The word 'ale' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 16500 Sent test-675]: [L3 WARNING pron-det-without-prontype] The word 'acestor' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 19960 Sent test-852]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 21953 Sent test-6275]: [L3 WARNING pron-det-without-prontype] The word '-o' is tagged 'DET' but it lacks the 'PronType' feature
-Warnings: 151
+Warnings: 142
 SYNTAX errors: 13
 *** FAILED *** with 13 errors
 Exit code: 1
@@ -110,13 +101,9 @@ Exit code: 1
 [Line 6243 Sent train-6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [26, 29] ('inima', '-o') under the predicate 'rup'.
 [Line 6248 Sent train-6814]: [L3 SYNTAX too-many-objects] Multiple direct objects [32, 34] ('sângele', '-i') under the predicate 'beau'.
 ...suppressing further messages regarding ERROR/SYNTAX
-[Line 14863 Sent train-7195]: [L3 WARNING pron-det-without-prontype] The word 'tăi' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 14870 Sent train-7195]: [L3 WARNING pron-det-without-prontype] The word 'tăi' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 14928 Sent train-7197]: [L3 WARNING pron-det-without-prontype] The word 'mea' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 124963 Sent train-3870]: [L3 WARNING pron-det-without-prontype] The word 'ce' is tagged 'PRON' but it lacks the 'PronType' feature
-Warnings: 3248
-SYNTAX errors: 792
-*** FAILED *** with 792 errors
+Warnings: 3244
+SYNTAX errors: 599
+*** FAILED *** with 599 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
@@ -125,7 +112,7 @@ Validity: 0.01
 (weight=0.37037037037037) * (score{size}=0.9192423127824) = 0.340460115845333
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
-(weight=0.111111111111111) * (score{udeprels}=0.735135135135135) = 0.0816816816816817
-(TOTAL score=0.769999459110167) * (availability=1) * (validity=0.01) = 0.00769999459110167
+(weight=0.111111111111111) * (score{udeprels}=0.756756756756757) = 0.0840840840840841
+(TOTAL score=0.772401861512569) * (availability=1) * (validity=0.01) = 0.00772401861512569
 STARS = 0
-UD_Romanian-Nonstandard	0.00769999459110167	0
+UD_Romanian-Nonstandard	0.00772401861512569	0
